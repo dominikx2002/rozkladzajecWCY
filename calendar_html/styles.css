@@ -1,7 +1,26 @@
-body {
+html, body {
     background-color: #282828; 
     color: #ffffff;
     font-family: 'Poppins', Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+#calendar {
+    max-width: 1100px;
+    margin: 40px auto;
+}
+
+.calendar-title {
+    text-align: center; /* Wyśrodkowanie tekstu */
+    font-size: 30px;
+    font-weight: bold;
+    color: #ffffff;
+    margin-top: 20px;
+    margin-bottom: 20px; /* Odstęp od kalendarza */
+    text-transform: uppercase;
 }
 
 .fc-toolbar {
@@ -90,7 +109,7 @@ body {
 }
 
 .fc-today-button {
-    background: linear-gradient(135deg, #00C853, #008F4E) !important;
+    background: linear-gradient(135deg, #444, #555) !important;
     color: white !important;
     font-weight: bold;
 }
@@ -121,4 +140,34 @@ body {
     .fc {
         min-height: 500px;
     }
+}
+
+.event-info-box {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    width: 300px;
+    padding: 15px;
+    background: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    font-family: Arial, sans-serif;
+    display: none;
+    pointer-events: none;
+    white-space: normal;
+    overflow: visible;
+    min-width: auto;
+    z-index: 9999; /* Upewnia się, że tooltip jest na wierzchu */
+}
+
+.event-info-box h2 {
+    margin: 0;
+    font-size: 18px;
+    color: #333;
+}
+
+.event-info-box p {
+    margin: 5px 0 0;
+    font-size: 14px;
+    color: #666;
 }
