@@ -1,22 +1,18 @@
 from ics import Calendar
 import json
 
-# Wczytaj plik ICS
-with open("WCY22KC2S0.ics", "r", encoding="utf-8") as file:
-    calendar = Calendar(file.read())
+# Wczytaj plik JSON
+with open("WCY22KC2S0.json", "r", encoding="utf-8") as file:
+    events = json.load(file)
 
-# Konwersja do listy wydarzeń JSON
-events = []
-for event in calendar.events:
-    events.append({
-        "title": event.name,
-        "start": event.begin.isoformat(),
-        "end": event.end.isoformat() if event.end else event.begin.isoformat(),
-        "description": event.description
-    })
+# Popraw format daty i dodaj brakujące pola
+for event in events:
+    event["allDay"] = False  # Wymusza wydarzenia na konkretne godziny
+    event["start"] = event["start"].split("+")[0]  # Usuwa strefę czasową
+    event["end"] = event["end"].split("+")[0]  # Usuwa strefę czasową
 
-# Zapisz jako plik JSON
-with open("WCY22KC2S0.json", "w", encoding="utf-8") as json_file:
-    json.dump(events, json_file, indent=4, ensure_ascii=False)
+# Zapisz poprawiony JSON
+with open("WCY22KC2S0_fixed.json", "w", encoding="utf-8") as file:
+    json.dump(events, file, indent=4, ensure_ascii=False)
 
-print("Konwersja zakończona! Plik kalendarz.json utworzony.")
+print("Plik JSON został poprawiony i zapisany jako WCY22KC2S0_fixed.json")
