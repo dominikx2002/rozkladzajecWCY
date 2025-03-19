@@ -1,32 +1,72 @@
+/* Ustawienie ciemnego tła i jasnego tekstu */
 body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-    margin: 0;
-    background-color: #f8f8f8;
+    background-color: #1e1e1e; /* Ciemne tło */
+    color: #ffffff; /* Jasny tekst */
+    font-family: Arial, sans-serif;
 }
 
-.header {
-    text-align: center;
-    padding: 15px;
-    background-color: white;
-    font-size: 24px;
-    font-weight: bold;
-    border-bottom: 1px solid #ddd;
+/* Stylowanie nagłówków */
+h1, h2, h3 {
+    color: #ffffff;
 }
 
-#calendar {
-    max-width: 100%;
-    margin: auto;
-    background: white;
-    padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+/* Stylowanie tabeli kalendarza */
+.fc {
+    background-color: #2b2b2b; /* Ciemne tło dla kalendarza */
+    color: #ffffff;
 }
 
-/* iPhone-style event styling */
-.fc-daygrid-event {
-    background: #007aff !important; /* Apple Blue */
-    border: none !important;
-    color: white !important;
-    border-radius: 10px;
-    padding: 5px 10px;
+/* Stylowanie paska narzędzi FullCalendar */
+.fc-toolbar {
+    background-color: #333333; /* Pasek nawigacyjny */
+    color: #ffffff;
+    border-bottom: 1px solid #444;
+}
+
+/* Stylowanie dni */
+.fc-daygrid-day {
+    background-color: #2b2b2b;
+    border: 1px solid #444;
+}
+
+/* Stylowanie wydarzeń */
+.fc-event {
+    border: none;
+    opacity: 0.9;
+}
+
+/* Stylowanie przycisków FullCalendar */
+.fc-button {
+    background-color: #444;
+    color: #ffffff;
+    border: none;
+}
+
+.fc-button:hover {
+    background-color: #666;
+}
+
+/* Stylowanie aktywnego przycisku */
+.fc-button-active {
+    background-color: #555 !important;
+    color: #ffffff;
+}
+
+/* Stylowanie siatki godzin w widoku tygodniowym */
+.fc-timegrid-slot {
+    background-color: #252525;
+    border-top: 1px solid #333;
+}
+
+/* Ulepszona widoczność siatki godzin */
+.fc-timegrid-axis {
+    background-color: #1e1e1e;
+    color: #bbb;
+}
+
+/* Poprawki dla responsywności */
+@media (max-width: 768px) {
+    .fc-toolbar {
+        font-size: 12px;
+    }
 }
