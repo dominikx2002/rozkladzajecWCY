@@ -1,72 +1,124 @@
-/* Ustawienie ciemnego tła i jasnego tekstu */
 body {
-    background-color: #1e1e1e; /* Ciemne tło */
-    color: #ffffff; /* Jasny tekst */
-    font-family: Arial, sans-serif;
-}
-
-/* Stylowanie nagłówków */
-h1, h2, h3 {
+    background-color: #282828; 
     color: #ffffff;
+    font-family: 'Poppins', Arial, Helvetica, sans-serif;
 }
 
-/* Stylowanie tabeli kalendarza */
-.fc {
-    background-color: #2b2b2b; /* Ciemne tło dla kalendarza */
-    color: #ffffff;
-}
-
-/* Stylowanie paska narzędzi FullCalendar */
 .fc-toolbar {
-    background-color: #333333; /* Pasek nawigacyjny */
-    color: #ffffff;
-    border-bottom: 1px solid #444;
+    background: linear-gradient(135deg, #1f1f1f, #2a2a2a); 
+    padding: 10px;
+    border-radius: 12px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.4);
 }
 
-/* Stylowanie dni */
+.fc-toolbar h2 {
+    text-shadow: 2px 2px 10px rgba(255, 255, 255, 0.2);
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.fc {
+    background: rgba(43, 43, 43, 0.85);
+    border-radius: 12px;
+    padding: 10px;
+    backdrop-filter: blur(10px);
+    box-shadow: 0px 8px 20px rgba(255, 255, 255, 0.1);
+}
+
+.fc-col-header-cell {
+    background: linear-gradient(135deg, #2a2a2a, #3a3a3a);
+    color: #ffff;
+    font-weight: bold;
+    text-transform: uppercase;
+    border-bottom: 2px solid #4444;
+}
+
+/* blok dnia */
 .fc-daygrid-day {
-    background-color: #2b2b2b;
-    border: 1px solid #444;
+    background: linear-gradient(145deg, #1e1e1e, #292929);
+    border: 1px solid #080707;
+    color: #ffff;
+    transition: background 0.3s ease-in-out, transform 0.2s;
 }
 
-/* Stylowanie wydarzeń */
+.fc-daygrid-day:hover {
+    background: linear-gradient(145deg, #292929, #323232);
+    transform: scale(1.02);
+}
+
+.fc-day-today {
+    background: rgba(132, 235, 182, 0.4) !important;
+    border-radius: 6px;
+    box-shadow: inset 0px 0px 10px rgba(184, 233, 210, 0.5);
+}
+
 .fc-event {
     border: none;
-    opacity: 0.9;
+    border-radius: 6px;
+    padding: 5px;
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+    font-weight: bold;
 }
 
-/* Stylowanie przycisków FullCalendar */
+/* animacja najezdzania na dany blok w dniu */
+.fc-event:hover {
+    transform: scale(1.05);
+    box-shadow: 0px 0px 12px rgba(255, 255, 255, 0.3);
+    filter: brightness(1.2);
+}
+
 .fc-button {
-    background-color: #444;
+    background: linear-gradient(135deg, #444, #555);
     color: #ffffff;
-    border: none;
+    border-radius: 8px;
+    padding: 10px 14px;
+    transition: background 0.3s ease-in-out, transform 0.2s, box-shadow 0.2s;
+    font-weight: bold;
 }
 
 .fc-button:hover {
-    background-color: #666;
+    background: linear-gradient(135deg, #666, #777);
+    transform: scale(1.1);
+    box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.3);
 }
 
-/* Stylowanie aktywnego przycisku */
 .fc-button-active {
-    background-color: #555 !important;
-    color: #ffffff;
+    background: linear-gradient(135deg, #00C853, #008F4E) !important;
+    color: white !important;
+    box-shadow: 0px 0px 10px rgba(71, 229, 150, 0.7);
 }
 
-/* Stylowanie siatki godzin w widoku tygodniowym */
-.fc-timegrid-slot {
-    background-color: #252525;
-    border-top: 1px solid #333;
+.fc-today-button {
+    background: linear-gradient(135deg, #00C853, #008F4E) !important;
+    color: white !important;
+    font-weight: bold;
 }
 
-/* Ulepszona widoczność siatki godzin */
-.fc-timegrid-axis {
-    background-color: #1e1e1e;
-    color: #bbb;
-}
-
-/* Poprawki dla responsywności */
 @media (max-width: 768px) {
     .fc-toolbar {
         font-size: 12px;
+    }
+}
+
+#calendar {
+    max-width: 1100px;
+    margin: 20px auto;
+    padding: 10px;
+}
+
+.fc-view-harness {
+    min-height: auto !important; 
+    height: auto !important;
+    overflow: visible !important; 
+}
+
+@media (max-width: 768px) {
+    #calendar {
+        width: 95%;
+        margin: 20px auto;
+    }
+    .fc {
+        min-height: 500px;
     }
 }

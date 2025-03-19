@@ -4,9 +4,14 @@
     <meta charset="utf-8">
     <title>Kalendarz WCY22KC2S0</title>
 
-    <link rel="stylesheet" href="styles.css">
+    <!-- Dodanie biblioteki Tippy.js do obsługi tooltipów -->
+    <link rel="stylesheet" href="https://unpkg.com/tippy.js@6/dist/tippy.css">
+    <script src="https://unpkg.com/popper.js@1"></script>
+    <script src="https://unpkg.com/tippy.js@6"></script>
+
 
     <!-- FullCalendar CSS -->
+    <link rel="stylesheet" href="styles.css">
     <link href="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.15/main.min.css" rel="stylesheet">
 
     <!-- FullCalendar JS -->
@@ -20,15 +25,23 @@
             font-family: Arial, Helvetica, sans-serif;
             font-size: 14px;
         }
-
         #calendar {
             max-width: 1100px;
             margin: 40px auto;
         }
+        .calendar-title {
+            text-align: center; /* Wyśrodkowanie tekstu */
+            font-size: 30px;
+            font-weight: bold;
+            color: #ffffff;
+            margin-top: 20px;
+            margin-bottom: 20px; /* Odstęp od kalendarza */
+            text-transform: uppercase;
+        }
     </style>
 </head>
 <body>
-
+    <h1 class="calendar-title">WCY22KC2S0</h1>
     <div id="calendar"></div>
 
     <script>
@@ -39,12 +52,52 @@
                 initialView: 'dayGridMonth',
                 locale: 'pl',
                 timeZone: 'local',
+                height: 'auto',
+                expandRows: true,
                 headerToolbar: {
                     left: 'prev,next today',
                     center: 'title',
                     right: 'dayGridMonth,timeGridWeek,timeGridDay'
                 },
-                events: 'WCY22KC2S0.json' // Wczytuje wydarzenia z JSON
+                events: 'WCY22KC2S0.json', 
+                eventTimeFormat: {
+                    hour: '2-digit',
+                    minute: '2-digit',
+                    meridiem: false 
+                },
+                dateClick: function(info) {
+                    calendar.changeView('timeGridDay', info.dateStr);
+                },
+                datesSet: function(view) {
+                    var title = document.querySelector('.fc-toolbar-title');
+                    if(title) {
+                        title.style.cursor = 'pointer';
+                        title.oneclick = function() {
+                            if(view.view.type !== 'dayGridMonth') {
+                                calendar.changeView('dayGridMonth')
+                            }
+                        };
+                    }
+                },
+                eventMouseEnter: function(info) {
+                    var tooltip = document.createElement("div");
+                    tooltip.className = "event-tooltip";
+                    tooltip.innerText = info.event.extendedProps.description || "Brak opisu";
+                    
+                    document.body.appendChild(tooltip);
+
+                    tooltip.style.left = info.jsEvent.pageX + 10 + "px";
+                    tooltip.style.top = info.jsEvent.pageY + 10 + "px";
+
+                    info.el.addEventListener("mousemove", function(e) {
+                        tooltip.style.left = e.pageX + 10 + "px";
+                        tooltip.style.top = e.pageY + 10 + "px";
+                    });
+
+                    info.el.addEventListener("mouseleave", function() {
+                        tooltip.remove();
+                    });
+                }
             });
 
             calendar.render();
