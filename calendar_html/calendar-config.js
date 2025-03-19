@@ -39,12 +39,22 @@ document.addEventListener('DOMContentLoaded', function() {
         expandRows: true,
 
         headerToolbar: {
-            left: 'prev,next today',
+            left: 'prev,next today download',
             center: 'title',
             right: 'dayGridMonth,timeGridWeek,timeGridDay'
         },
 
+        customButtons: {
+            download: {
+                text: '',
+                click: function() {
+                    window.location.href = "data/calendars/calendar_ics/WCY22KC2S0.ics"
+                }
+            }
+        },
+
         events: "data/calendars/calendar_json/WCY22KC2S0.json", 
+        
         eventTimeFormat: {
             hour: '2-digit',
             minute: '2-digit',
@@ -54,6 +64,7 @@ document.addEventListener('DOMContentLoaded', function() {
         allDaySlot: false,
         slotMinTime: "07:00:00",
         slotMaxTime: "22:00:00",
+
         dateClick: function(info) {
             calendar.changeView('timeGridDay', info.dateStr);
         },
@@ -103,5 +114,26 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     });
 
+    setTimeout(() => {
+        const downloadBtn = document.querySelector('.fc-download-button');
+        if (downloadBtn) {
+            downloadBtn.innerHTML = `<img src="data/png/icons/download_icon.png" alt="Pobierz kalendarz " width="20" height="20" style="vertical-align: middle;">`;
+        }
+    }, 100);
+    
+    function insertDownloadText() {
+        setTimeout(() => {
+            const toolbar = document.querySelector('.fc-toolbar-chunk:first-child'); // Pobranie paska narzędzi
+            if (toolbar) {
+                let textSpan = document.createElement('span');
+                textSpan.innerText = "Pobierz kalendarz na telefon:";
+                textSpan.style.color = "#fff"; // Kolor tekstu
+                textSpan.style.fontSize = "14px"; // Rozmiar czcionki
+                toolbar.insertBefore(textSpan, toolbar.querySelector('.fc-download-button'));
+            }
+        }, 100);
+    }
+
     calendar.render();
+    insertDownloadText();
 });
