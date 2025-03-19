@@ -1,14 +1,17 @@
 document.addEventListener('DOMContentLoaded', function () {
     var calendarEl = document.getElementById('calendar');
 
-    fetch('WCY22KC2S0.json') // Upewnij się, że plik ma poprawną nazwę
+    fetch('kalendarz.json') // Pobiera statyczny JSON
         .then(response => response.json())
         .then(events => {
-            console.log("Załadowane wydarzenia:", events); // Debugowanie w konsoli
-
             var calendar = new FullCalendar.Calendar(calendarEl, {
-                initialView: 'dayGridMonth',
+                initialView: 'listWeek', // Styl listy podobny do iPhone Calendar
                 locale: 'pl',
+                headerToolbar: {
+                    left: 'prev,next today',
+                    center: 'title',
+                    right: 'dayGridMonth,listWeek'
+                },
                 events: events,
                 eventClick: function(info) { 
                     alert("Wydarzenie: " + info.event.title + "\nOpis: " + info.event.extendedProps.description);
@@ -17,5 +20,5 @@ document.addEventListener('DOMContentLoaded', function () {
 
             calendar.render();
         })
-        .catch(error => console.error("Błąd wczytywania JSON:", error));
+        .catch(error => console.error("Błąd:", error));
 });

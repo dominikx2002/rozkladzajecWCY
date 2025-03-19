@@ -3,18 +3,22 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kalendarz ICS</title>
+    <title>Kalendarz iPhone</title>
+    
+    <!-- FullCalendar -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/5.11.3/main.min.css" rel="stylesheet">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/5.11.3/main.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/5.11.3/locales-all.min.js"></script>
-    <style>
-        body { font-family: Arial, sans-serif; margin: 20px; }
-        #calendar { max-width: 900px; margin: auto; }
-    </style>
+
+    <!-- Styl iPhone Calendar -->
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
-    <h2>Statyczny kalendarz ICS na GitHub Pages</h2>
+    <div class="header">
+        <h1>Kalendarz</h1>
+    </div>
+
     <div id="calendar"></div>
 
     <script src="script.js"></script>
