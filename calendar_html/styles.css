@@ -17,10 +17,13 @@ html, body {
     text-align: center; 
     font-size: 30px;
     font-weight: bold;
-    color: #ffffff;
+    color: #1f1f1f;
+    font-family: Arial, Helvetica, sans-serif;
     margin-top: 20px;
     margin-bottom: 20px; 
     text-transform: uppercase;
+    background-color: white;
+    padding: 15px 0;
 }
 
 .fc-toolbar {
