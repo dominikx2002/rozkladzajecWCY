@@ -3,6 +3,7 @@ document.addEventListener('DOMContentLoaded', function() {
     var eventInfoBox = document.getElementById('event-info');
     var eventTitle = document.getElementById('event-title');
     var eventDescription = document.getElementById('event-description');
+    var groupSelect = document.getElementById("group-select");
 
     async function loadGroups() {
         try {
@@ -68,7 +69,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     var calendar = new FullCalendar.Calendar(calendarEl, {
-        initialView: 'dayGridMonth',
+        initialView: 'timeGridWeek',
         locale: 'pl',
         timeZone: 'local',
         height: 'auto',
@@ -84,12 +85,12 @@ document.addEventListener('DOMContentLoaded', function() {
             download: {
                 text: '',
                 click: function() {
-                    window.location.href = "data/calendars/calendar_ics/WCY22KC2S0.ics"
+                    alert("Najpierw wybierz grupę!");
                 }
             }
         },
 
-        events: "data/calendars/calendar_json/WCY22KC2S0.json", 
+        events: [],
         
         eventTimeFormat: {
             hour: '2-digit',
@@ -172,4 +173,85 @@ document.addEventListener('DOMContentLoaded', function() {
 
     calendar.render();
     insertDownloadText();
+
+    async function loadGroups() {
+        try {
+            const response = await fetch("data/calendars/WCY/groups.txt");
+            const text = await response.text();
+            const groups = text.split("\n").map(g => g.trim()).filter(g => g !== "");
+
+            let select = document.getElementById("group-select");
+
+            let defaultOption = document.createElement("option");
+            defaultOption.value = "";
+            defaultOption.disabled = true;
+            defaultOption.selected = true;
+            select.appendChild(defaultOption);
+
+            groups.forEach(group => {
+                let option = document.createElement("option");
+                option.value = group;
+                option.textContent = group;
+                groupSelect.appendChild(option);
+            });
+
+        } catch (error) {
+            console.error("Błąd ładowania grup:", error);
+        }
+    }
+
+    // 🔄 **Funkcja aktualizująca kalendarz po zmianie grupy**
+    function updateCalendar(selectedGroup) {
+        if (!selectedGroup) return;
+
+        let fixedGroupName = selectedGroup.replace(/\*/g, "_");
+        console.log(`📅 Aktualizacja kalendarza dla: ${fixedGroupName}`);
+
+        let calendarTitle = document.querySelector(".calendar-title");
+        calendarTitle.innerText = fixedGroupName;
+        calendarTitle.style.display = "block";
+
+        document.querySelector(".calendar-title").innerText = fixedGroupName;
+
+        // 🛠 **Usunięcie starych eventów**
+        calendar.removeAllEventSources();
+
+        // 📂 **Dodanie nowego źródła eventów**
+        let jsonPath = `data/calendars/WCY/calendar_json/${encodeURIComponent(fixedGroupName)}.json`;
+        console.log(`📂 Ładowanie: ${jsonPath}`);
+        calendar.addEventSource(jsonPath);
+
+        // 🛠 **Aktualizacja przycisku pobierania**
+        calendar.setOption('customButtons', {
+            download: {
+                text: '',
+                click: function() {
+                    const icsPath = `data/calendars/WCY/calendar_ics/${encodeURIComponent(fixedGroupName)}.ics`;
+                    console.log("⬇ Pobieranie:", icsPath);
+                    window.location.href = icsPath;
+                }
+            }
+        });
+
+        // 📌 **Zapamiętaj wybór grupy**
+        localStorage.setItem("selectedGroup", selectedGroup);
+
+        // 🔄 **Naprawa ikony pobierania**
+        setTimeout(() => {
+            const downloadBtn = document.querySelector('.fc-download-button');
+            if (downloadBtn) {
+                downloadBtn.innerHTML = `<img src="data/png/icons/download_icon.png" alt="Pobierz kalendarz" width="20" height="20" style="vertical-align: middle;">`;
+            }
+        }, 100);
+    }
+
+    // 🔄 **Obsługa zmiany grupy**
+    groupSelect.addEventListener("change", function() {
+        let selectedGroup = this.value;
+        updateCalendar(selectedGroup);
+    });
+
+    loadGroups();
+
 });
+

@@ -1,0 +1,354 @@
+[
+    {
+        "title": "IRz (P)",
+        "start": "2024-03-27T09:50:00",
+        "end": "2024-03-27T11:25:00",
+        "description": "Technologie Internetu Rzeczy\nRodzaj zajęć: Projekt\nNr zajęć: 2/7\nProwadzący:  Zbigniew Zielinski",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Soc (w)",
+        "start": "2024-03-27T11:40:00",
+        "end": "2024-03-27T13:15:00",
+        "description": "Socjologia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#7C47B2"
+    },
+    {
+        "title": "Wcy (L)",
+        "start": "2024-04-08T16:00:00",
+        "end": "2024-04-08T17:35:00",
+        "description": "Walka w cyberprzestrzeni\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: dr inż. Adam Patkowski",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "TP (Inne)",
+        "start": "2024-04-17T11:40:00",
+        "end": "2024-04-17T13:15:00",
+        "description": "Targi pracy WAT\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Wcy (w)",
+        "start": "2024-04-08T13:30:00",
+        "end": "2024-04-08T15:05:00",
+        "description": "Walka w cyberprzestrzeni\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Adam Patkowski",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "IRz (w)",
+        "start": "2024-04-08T11:40:00",
+        "end": "2024-04-08T13:15:00",
+        "description": "Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący:  Zbigniew Zielinski",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Wcy (w)",
+        "start": "2024-03-18T13:30:00",
+        "end": "2024-03-18T15:05:00",
+        "description": "Walka w cyberprzestrzeni\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr inż. Adam Patkowski",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "Soc (w)",
+        "start": "2024-02-28T11:40:00",
+        "end": "2024-02-28T13:15:00",
+        "description": "Socjologia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#7C47B2"
+    },
+    {
+        "title": "Soc (ć)",
+        "start": "2024-03-20T13:30:00",
+        "end": "2024-03-20T15:05:00",
+        "description": "Socjologia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/3\nProwadzący: -",
+        "allDay": false,
+        "color": "#7C47B2"
+    },
+    {
+        "title": "Soc (ć)",
+        "start": "2024-04-24T09:50:00",
+        "end": "2024-04-24T11:25:00",
+        "description": "Socjologia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/3\nProwadzący: -",
+        "allDay": false,
+        "color": "#7C47B2"
+    },
+    {
+        "title": "IRz (w)",
+        "start": "2024-03-04T11:40:00",
+        "end": "2024-03-04T13:15:00",
+        "description": "Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący:  Zbigniew Zielinski",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "IRz (w)",
+        "start": "2024-03-25T11:40:00",
+        "end": "2024-03-25T13:15:00",
+        "description": "Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący:  Zbigniew Zielinski",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Wcy (E)",
+        "start": "2024-04-24T11:40:00",
+        "end": "2024-04-24T13:15:00",
+        "description": "Walka w cyberprzestrzeni\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Adam Patkowski",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "IRz (w)",
+        "start": "2024-04-22T11:40:00",
+        "end": "2024-04-22T13:15:00",
+        "description": "Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący:  Zbigniew Zielinski",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Soc (w)",
+        "start": "2024-03-20T11:40:00",
+        "end": "2024-03-20T13:15:00",
+        "description": "Socjologia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#7C47B2"
+    },
+    {
+        "title": "IRz (w)",
+        "start": "2024-03-11T11:40:00",
+        "end": "2024-03-11T13:15:00",
+        "description": "Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący:  Zbigniew Zielinski",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Wcy (Inne)",
+        "start": "2024-05-08T09:50:00",
+        "end": "2024-05-08T11:25:00",
+        "description": "Walka w cyberprzestrzeni\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Adam Patkowski",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "Soc (w)",
+        "start": "2024-04-03T11:40:00",
+        "end": "2024-04-03T13:15:00",
+        "description": "Socjologia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#7C47B2"
+    },
+    {
+        "title": "Wcy (L)",
+        "start": "2024-03-25T13:30:00",
+        "end": "2024-03-25T15:05:00",
+        "description": "Walka w cyberprzestrzeni\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: dr inż. Adam Patkowski",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "IRz (P)",
+        "start": "2024-04-10T11:40:00",
+        "end": "2024-04-10T13:15:00",
+        "description": "Technologie Internetu Rzeczy\nRodzaj zajęć: Projekt\nNr zajęć: 4/7\nProwadzący:  Zbigniew Zielinski",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "IRz (P)",
+        "start": "2024-04-29T11:40:00",
+        "end": "2024-04-29T13:15:00",
+        "description": "Technologie Internetu Rzeczy\nRodzaj zajęć: Projekt\nNr zajęć: 7/7\nProwadzący:  Zbigniew Zielinski",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "IRz (P)",
+        "start": "2024-04-22T09:50:00",
+        "end": "2024-04-22T11:25:00",
+        "description": "Technologie Internetu Rzeczy\nRodzaj zajęć: Projekt\nNr zajęć: 6/7\nProwadzący:  Zbigniew Zielinski",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Wcy (L)",
+        "start": "2024-04-29T13:30:00",
+        "end": "2024-04-29T15:05:00",
+        "description": "Walka w cyberprzestrzeni\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: dr inż. Adam Patkowski",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "TP (Inne)",
+        "start": "2024-04-18T11:40:00",
+        "end": "2024-04-18T13:15:00",
+        "description": "Targi pracy WAT\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Wcy (L)",
+        "start": "2024-04-15T16:00:00",
+        "end": "2024-04-15T17:35:00",
+        "description": "Walka w cyberprzestrzeni\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: dr inż. Adam Patkowski",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "Wcy (L)",
+        "start": "2024-03-25T16:00:00",
+        "end": "2024-03-25T17:35:00",
+        "description": "Walka w cyberprzestrzeni\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: dr inż. Adam Patkowski",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "IRz (P)",
+        "start": "2024-03-11T13:30:00",
+        "end": "2024-03-11T15:05:00",
+        "description": "Technologie Internetu Rzeczy\nRodzaj zajęć: Projekt\nNr zajęć: 1/7\nProwadzący:  Zbigniew Zielinski",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "IRz (w)",
+        "start": "2024-03-18T11:40:00",
+        "end": "2024-03-18T13:15:00",
+        "description": "Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący:  Zbigniew Zielinski",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "IRz (P)",
+        "start": "2024-04-17T13:30:00",
+        "end": "2024-04-17T15:05:00",
+        "description": "Technologie Internetu Rzeczy\nRodzaj zajęć: Projekt\nNr zajęć: 5/7\nProwadzący:  Zbigniew Zielinski",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Soc (w)",
+        "start": "2024-03-13T11:40:00",
+        "end": "2024-03-13T13:15:00",
+        "description": "Socjologia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#7C47B2"
+    },
+    {
+        "title": "Soc (w)",
+        "start": "2024-04-10T09:50:00",
+        "end": "2024-04-10T11:25:00",
+        "description": "Socjologia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#7C47B2"
+    },
+    {
+        "title": "IRz (P)",
+        "start": "2024-04-03T09:50:00",
+        "end": "2024-04-03T11:25:00",
+        "description": "Technologie Internetu Rzeczy\nRodzaj zajęć: Projekt\nNr zajęć: 3/7\nProwadzący:  Zbigniew Zielinski",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Soc (ć)",
+        "start": "2024-04-10T13:30:00",
+        "end": "2024-04-10T15:05:00",
+        "description": "Socjologia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/3\nProwadzący: -",
+        "allDay": false,
+        "color": "#7C47B2"
+    },
+    {
+        "title": "Wcy (L)",
+        "start": "2024-04-22T13:30:00",
+        "end": "2024-04-22T15:05:00",
+        "description": "Walka w cyberprzestrzeni\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: dr inż. Adam Patkowski",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "Wcy (w)",
+        "start": "2024-02-26T13:30:00",
+        "end": "2024-02-26T15:05:00",
+        "description": "Walka w cyberprzestrzeni\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr inż. Adam Patkowski",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "Wcy (L)",
+        "start": "2024-04-08T17:50:00",
+        "end": "2024-04-08T19:25:00",
+        "description": "Walka w cyberprzestrzeni\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: dr inż. Adam Patkowski",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "IRz (w)",
+        "start": "2024-04-15T11:40:00",
+        "end": "2024-04-15T13:15:00",
+        "description": "Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący:  Zbigniew Zielinski",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Wcy (L)",
+        "start": "2024-04-15T13:30:00",
+        "end": "2024-04-15T15:05:00",
+        "description": "Walka w cyberprzestrzeni\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: dr inż. Adam Patkowski",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "Wcy (w)",
+        "start": "2024-03-18T16:00:00",
+        "end": "2024-03-18T17:35:00",
+        "description": "Walka w cyberprzestrzeni\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr inż. Adam Patkowski",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "Soc (w)",
+        "start": "2024-03-06T11:40:00",
+        "end": "2024-03-06T13:15:00",
+        "description": "Socjologia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#7C47B2"
+    },
+    {
+        "title": "IRz (w)",
+        "start": "2024-02-26T11:40:00",
+        "end": "2024-02-26T13:15:00",
+        "description": "Technologie Internetu Rzeczy\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący:  Zbigniew Zielinski",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Wcy (w)",
+        "start": "2024-03-04T13:30:00",
+        "end": "2024-03-04T15:05:00",
+        "description": "Walka w cyberprzestrzeni\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Adam Patkowski",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "Wcy (L)",
+        "start": "2024-04-22T16:00:00",
+        "end": "2024-04-22T17:35:00",
+        "description": "Walka w cyberprzestrzeni\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: dr inż. Adam Patkowski",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "Wcy (L)",
+        "start": "2024-03-18T17:50:00",
+        "end": "2024-03-18T19:25:00",
+        "description": "Walka w cyberprzestrzeni\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: dr inż. Adam Patkowski",
+        "allDay": false,
+        "color": "#7CB247"
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "title": "WdP (w)",
+        "start": "2024-04-20T09:50:00",
+        "end": "2024-04-20T11:25:00",
+        "description": "Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: mgr inż. Tadeusz Kowiorski",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "WdP (L)",
+        "start": "2024-04-13T09:50:00",
+        "end": "2024-04-13T11:25:00",
+        "description": "Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: mgr inż. Tadeusz Kowiorski",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "WdP (L)",
+        "start": "2024-03-23T11:40:00",
+        "end": "2024-03-23T13:15:00",
+        "description": "Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: mgr inż. Tadeusz Kowiorski",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "WdP (Inne)",
+        "start": "2024-07-06T13:30:00",
+        "end": "2024-07-06T15:05:00",
+        "description": "Wprowadzenie do programowania\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: mgr inż. Tadeusz Kowiorski",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "WdP (L)",
+        "start": "2024-05-25T09:50:00",
+        "end": "2024-05-25T11:25:00",
+        "description": "Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: mgr inż. Tadeusz Kowiorski",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "WdP (L)",
+        "start": "2024-06-15T09:50:00",
+        "end": "2024-06-15T11:25:00",
+        "description": "Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: mgr inż. Tadeusz Kowiorski",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "WdP (L)",
+        "start": "2024-04-27T09:50:00",
+        "end": "2024-04-27T11:25:00",
+        "description": "Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: mgr inż. Tadeusz Kowiorski",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "WdP (L)",
+        "start": "2024-05-11T09:50:00",
+        "end": "2024-05-11T11:25:00",
+        "description": "Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: mgr inż. Tadeusz Kowiorski",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "WdP (Inne)",
+        "start": "2024-09-21T13:30:00",
+        "end": "2024-09-21T15:05:00",
+        "description": "Wprowadzenie do programowania\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: mgr inż. Tadeusz Kowiorski",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "WdP (L)",
+        "start": "2024-04-06T11:40:00",
+        "end": "2024-04-06T13:15:00",
+        "description": "Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: mgr inż. Tadeusz Kowiorski",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "WdP (L)",
+        "start": "2024-04-20T11:40:00",
+        "end": "2024-04-20T13:15:00",
+        "description": "Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: mgr inż. Tadeusz Kowiorski",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "WdP (w)",
+        "start": "2024-03-23T09:50:00",
+        "end": "2024-03-23T11:25:00",
+        "description": "Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: mgr inż. Tadeusz Kowiorski",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "WdP (w)",
+        "start": "2024-03-16T09:50:00",
+        "end": "2024-03-16T11:25:00",
+        "description": "Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: mgr inż. Tadeusz Kowiorski",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "WdP (w)",
+        "start": "2024-04-13T08:00:00",
+        "end": "2024-04-13T09:35:00",
+        "description": "Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: mgr inż. Tadeusz Kowiorski",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "WdP (L)",
+        "start": "2024-06-08T09:50:00",
+        "end": "2024-06-08T11:25:00",
+        "description": "Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: mgr inż. Tadeusz Kowiorski",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "WdP (L)",
+        "start": "2024-05-18T09:50:00",
+        "end": "2024-05-18T11:25:00",
+        "description": "Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: mgr inż. Tadeusz Kowiorski",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "WdP (w)",
+        "start": "2024-04-06T09:50:00",
+        "end": "2024-04-06T11:25:00",
+        "description": "Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: mgr inż. Tadeusz Kowiorski",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "WdP (E)",
+        "start": "2024-06-22T09:50:00",
+        "end": "2024-06-22T11:25:00",
+        "description": "Wprowadzenie do programowania\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr inż. Tadeusz Kowiorski",
+        "allDay": false,
+        "color": "#B24747"
+    }
+]

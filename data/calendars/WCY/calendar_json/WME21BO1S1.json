@@ -1,0 +1,2650 @@
+[
+    {
+        "title": "MrT (w)",
+        "start": "2024-05-09T09:50:00",
+        "end": "2024-05-09T11:25:00",
+        "description": "Medycyna regeneracyjna i inżynieria tkankowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24787"
+    },
+    {
+        "title": "Dtlm (w)",
+        "start": "2024-02-28T09:50:00",
+        "end": "2024-02-28T11:25:00",
+        "description": "Diagnostyka i terapia laserowa w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24767"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-06-04T08:00:00",
+        "end": "2024-06-04T09:35:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 49/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "Cpd (ć)",
+        "start": "2024-05-16T09:50:00",
+        "end": "2024-05-16T11:25:00",
+        "description": "Cyfrowe przetwarzanie danych pomiarowych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "OPS (ć)",
+        "start": "2024-04-25T09:50:00",
+        "end": "2024-04-25T11:25:00",
+        "description": "Optyka stosowana - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#9D47B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-18T16:00:00",
+        "end": "2024-12-18T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 19/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-03-26T11:40:00",
+        "end": "2024-03-26T13:15:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 19/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-19T16:00:00",
+        "end": "2024-12-19T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 24/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "OPS (ć)",
+        "start": "2024-04-30T08:00:00",
+        "end": "2024-04-30T09:35:00",
+        "description": "Optyka stosowana - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#9D47B2"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-05-28T16:00:00",
+        "end": "2024-05-28T17:35:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 48/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-05-14T13:30:00",
+        "end": "2024-05-14T15:05:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 42/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-11-12T13:30:00",
+        "end": "2024-11-12T15:05:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 74/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "ZRwIB (w)",
+        "start": "2024-10-16T13:30:00",
+        "end": "2024-10-16T15:05:00",
+        "description": "Zastosowanie wirtualnej i rozszerzonej rzeczywistości w inżynierii biomedycznej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2A747"
+    },
+    {
+        "title": "OPS (ć)",
+        "start": "2024-03-14T11:40:00",
+        "end": "2024-03-14T13:15:00",
+        "description": "Optyka stosowana - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#9D47B2"
+    },
+    {
+        "title": "ZbM (w)",
+        "start": "2024-02-28T08:00:00",
+        "end": "2024-02-28T09:35:00",
+        "description": "Zastosowania biomateriałów w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B272"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-11-27T11:40:00",
+        "end": "2024-11-27T13:15:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 82/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "DSp (Inne)",
+        "start": "2024-04-26T11:40:00",
+        "end": "2024-04-26T13:15:00",
+        "description": "Dzień sportu\nRodzaj zajęć:  - \nNr zajęć: 3/4\nProwadzący: -",
+        "allDay": false,
+        "color": "#B26747"
+    },
+    {
+        "title": "MrT (w)",
+        "start": "2024-05-28T11:40:00",
+        "end": "2024-05-28T13:15:00",
+        "description": "Medycyna regeneracyjna i inżynieria tkankowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24787"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-02-27T08:00:00",
+        "end": "2024-02-27T09:35:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "BMS (Inne)",
+        "start": "2024-11-06T13:30:00",
+        "end": "2024-11-06T15:05:00",
+        "description": "BIOPHOTONICS IN MEDICAL SCIENCES - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 4/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#9DB247"
+    },
+    {
+        "title": "SBio (w)",
+        "start": "2024-12-11T11:40:00",
+        "end": "2024-12-11T13:15:00",
+        "description": "20 years of Space Biology - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#7C47B2"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-03-05T09:50:00",
+        "end": "2024-03-05T11:25:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "SsO (w)",
+        "start": "2024-04-04T13:30:00",
+        "end": "2024-04-04T15:05:00",
+        "description": "Sensory i systemy optoelektroniczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#B28747"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-03-22T09:50:00",
+        "end": "2024-03-22T11:25:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 16/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-11-05T13:30:00",
+        "end": "2024-11-05T15:05:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 70/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-10-30T11:40:00",
+        "end": "2024-10-30T13:15:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 67/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "BMS (Inne)",
+        "start": "2024-11-26T09:50:00",
+        "end": "2024-11-26T11:25:00",
+        "description": "BIOPHOTONICS IN MEDICAL SCIENCES - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 7/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#9DB247"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-06-14T13:30:00",
+        "end": "2024-06-14T15:05:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 60/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "OPS (w)",
+        "start": "2024-02-29T09:50:00",
+        "end": "2024-02-29T11:25:00",
+        "description": "Optyka stosowana - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#9D47B2"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-02-27T09:50:00",
+        "end": "2024-02-27T11:25:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-06-14T11:40:00",
+        "end": "2024-06-14T13:15:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 59/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-13T08:00:00",
+        "end": "2025-01-13T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 56/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "Fv (ć)",
+        "start": "2024-04-10T11:40:00",
+        "end": "2024-04-10T13:15:00",
+        "description": "Fotowoltaika - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B247A7"
+    },
+    {
+        "title": "Dtlm (ć)",
+        "start": "2024-04-10T09:50:00",
+        "end": "2024-04-10T11:25:00",
+        "description": "Diagnostyka i terapia laserowa w medycynie - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24767"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-05-10T13:30:00",
+        "end": "2024-05-10T15:05:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 38/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "Fv (w)",
+        "start": "2024-03-18T09:50:00",
+        "end": "2024-03-18T11:25:00",
+        "description": "Fotowoltaika - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#B247A7"
+    },
+    {
+        "title": "OPS (w)",
+        "start": "2024-04-18T09:50:00",
+        "end": "2024-04-18T11:25:00",
+        "description": "Optyka stosowana - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#9D47B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-07T16:00:00",
+        "end": "2025-01-07T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 34/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "MrT (w)",
+        "start": "2024-06-06T09:50:00",
+        "end": "2024-06-06T11:25:00",
+        "description": "Medycyna regeneracyjna i inżynieria tkankowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 10/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24787"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-10-30T13:30:00",
+        "end": "2024-10-30T15:05:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 68/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-10T08:00:00",
+        "end": "2025-01-10T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 51/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "OPS (Inne)",
+        "start": "2024-09-17T09:50:00",
+        "end": "2024-09-17T11:25:00",
+        "description": "Optyka stosowana - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#9D47B2"
+    },
+    {
+        "title": "S.OP (Inne)",
+        "start": "2024-03-14T16:00:00",
+        "end": "2024-03-14T17:35:00",
+        "description": "Spotkanie z opiekunami praktyk - (Inne) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#5C47B2"
+    },
+    {
+        "title": "MrT (w)",
+        "start": "2024-05-21T09:50:00",
+        "end": "2024-05-21T11:25:00",
+        "description": "Medycyna regeneracyjna i inżynieria tkankowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24787"
+    },
+    {
+        "title": "BMS (w)",
+        "start": "2024-10-08T13:30:00",
+        "end": "2024-10-08T15:05:00",
+        "description": "BIOPHOTONICS IN MEDICAL SCIENCES - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#9DB247"
+    },
+    {
+        "title": "Fv (ć)",
+        "start": "2024-03-07T09:50:00",
+        "end": "2024-03-07T11:25:00",
+        "description": "Fotowoltaika - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B247A7"
+    },
+    {
+        "title": "Fv (ć)",
+        "start": "2024-03-07T11:40:00",
+        "end": "2024-03-07T13:15:00",
+        "description": "Fotowoltaika - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B247A7"
+    },
+    {
+        "title": "XMass (E)",
+        "start": "2024-12-20T11:40:00",
+        "end": "2024-12-20T13:15:00",
+        "description": "XMetody analizy i syntezy sygnałów\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: prof. dr hab. inż. Andrzej Walczak",
+        "allDay": false,
+        "color": "#5CB247"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-06-11T08:00:00",
+        "end": "2024-06-11T09:35:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 55/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-17T13:30:00",
+        "end": "2024-12-17T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 11/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "PRo (w)",
+        "start": "2024-03-28T11:40:00",
+        "end": "2024-03-28T13:15:00",
+        "description": "Podstawy rejestracji i przetwarzania obrazów w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "PRo (w)",
+        "start": "2024-04-18T11:40:00",
+        "end": "2024-04-18T13:15:00",
+        "description": "Podstawy rejestracji i przetwarzania obrazów w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-04-15T08:00:00",
+        "end": "2024-04-15T09:35:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 21/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-16T08:00:00",
+        "end": "2024-12-16T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "SsO (w)",
+        "start": "2024-03-28T13:30:00",
+        "end": "2024-03-28T15:05:00",
+        "description": "Sensory i systemy optoelektroniczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#B28747"
+    },
+    {
+        "title": "ZbM (Inne)",
+        "start": "2024-07-05T09:50:00",
+        "end": "2024-07-05T11:25:00",
+        "description": "Zastosowania biomateriałów w medycynie - (Zaliczenie poprawkowe.) -\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B272"
+    },
+    {
+        "title": "Dtlm (ć)",
+        "start": "2024-05-29T09:50:00",
+        "end": "2024-05-29T11:25:00",
+        "description": "Diagnostyka i terapia laserowa w medycynie - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24767"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-03-26T08:00:00",
+        "end": "2024-03-26T09:35:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 17/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-17T17:50:00",
+        "end": "2024-12-17T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 13/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-20T16:00:00",
+        "end": "2024-12-20T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 27/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "XMass (L)",
+        "start": "2024-12-04T17:50:00",
+        "end": "2024-12-04T19:25:00",
+        "description": "XMetody analizy i syntezy sygnałów\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący: mgr inż. Piotr Bączyk",
+        "allDay": false,
+        "color": "#5CB247"
+    },
+    {
+        "title": "Dtlm (w)",
+        "start": "2024-03-14T13:30:00",
+        "end": "2024-03-14T15:05:00",
+        "description": "Diagnostyka i terapia laserowa w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24767"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-16T11:40:00",
+        "end": "2024-12-16T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 3/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-13T17:50:00",
+        "end": "2025-01-13T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 61/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "Cpd (w)",
+        "start": "2024-02-28T11:40:00",
+        "end": "2024-02-28T13:15:00",
+        "description": "Cyfrowe przetwarzanie danych pomiarowych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-06-04T09:50:00",
+        "end": "2024-06-04T11:25:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 50/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-16T19:40:00",
+        "end": "2024-12-16T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 7/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "OPS (ć)",
+        "start": "2024-03-21T08:00:00",
+        "end": "2024-03-21T09:35:00",
+        "description": "Optyka stosowana - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#9D47B2"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-04-15T09:50:00",
+        "end": "2024-04-15T11:25:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 22/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-17T09:50:00",
+        "end": "2024-12-17T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 9/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "ZbM (w)",
+        "start": "2024-03-11T08:00:00",
+        "end": "2024-03-11T09:35:00",
+        "description": "Zastosowania biomateriałów w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B272"
+    },
+    {
+        "title": "MrT (w)",
+        "start": "2024-06-07T09:50:00",
+        "end": "2024-06-07T11:25:00",
+        "description": "Medycyna regeneracyjna i inżynieria tkankowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 11/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24787"
+    },
+    {
+        "title": "ZbM (w)",
+        "start": "2024-02-26T09:50:00",
+        "end": "2024-02-26T11:25:00",
+        "description": "Zastosowania biomateriałów w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B272"
+    },
+    {
+        "title": "Cpd (w)",
+        "start": "2024-03-20T13:30:00",
+        "end": "2024-03-20T15:05:00",
+        "description": "Cyfrowe przetwarzanie danych pomiarowych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "XMass (w)",
+        "start": "2024-10-25T11:40:00",
+        "end": "2024-10-25T13:15:00",
+        "description": "XMetody analizy i syntezy sygnałów\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: prof. dr hab. inż. Andrzej Walczak",
+        "allDay": false,
+        "color": "#5CB247"
+    },
+    {
+        "title": "Cpd (L)",
+        "start": "2024-06-18T13:30:00",
+        "end": "2024-06-18T15:05:00",
+        "description": "Cyfrowe przetwarzanie danych pomiarowych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "Cpd (L)",
+        "start": "2024-05-29T11:40:00",
+        "end": "2024-05-29T13:15:00",
+        "description": "Cyfrowe przetwarzanie danych pomiarowych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-03-01T09:50:00",
+        "end": "2024-03-01T11:25:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "Fv (ć)",
+        "start": "2024-04-23T09:50:00",
+        "end": "2024-04-23T11:25:00",
+        "description": "Fotowoltaika - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B247A7"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-11-19T13:30:00",
+        "end": "2024-11-19T15:05:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 78/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "Cpd (ć)",
+        "start": "2024-05-21T08:00:00",
+        "end": "2024-05-21T09:35:00",
+        "description": "Cyfrowe przetwarzanie danych pomiarowych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-03-01T08:00:00",
+        "end": "2024-03-01T09:35:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-18T19:40:00",
+        "end": "2024-12-18T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 20/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-05-10T11:40:00",
+        "end": "2024-05-10T13:15:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 37/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "Dtlm (w)",
+        "start": "2024-03-11T13:30:00",
+        "end": "2024-03-11T15:05:00",
+        "description": "Diagnostyka i terapia laserowa w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24767"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-20T08:00:00",
+        "end": "2024-12-20T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 25/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-16T09:50:00",
+        "end": "2024-12-16T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-13T19:40:00",
+        "end": "2025-01-13T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 62/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-06-07T11:40:00",
+        "end": "2024-06-07T13:15:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 53/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "OPS (E)",
+        "start": "2024-06-26T09:50:00",
+        "end": "2024-06-26T11:25:00",
+        "description": "Optyka stosowana - (Egzamin) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#9D47B2"
+    },
+    {
+        "title": "ZbM (w)",
+        "start": "2024-03-06T08:00:00",
+        "end": "2024-03-06T09:35:00",
+        "description": "Zastosowania biomateriałów w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B272"
+    },
+    {
+        "title": "ZRwIB (w)",
+        "start": "2024-10-15T09:50:00",
+        "end": "2024-10-15T11:25:00",
+        "description": "Zastosowanie wirtualnej i rozszerzonej rzeczywistości w inżynierii biomedycznej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2A747"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-09T09:50:00",
+        "end": "2025-01-09T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 45/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-07T08:00:00",
+        "end": "2025-01-07T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 30/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "SsO (ć)",
+        "start": "2024-03-18T13:30:00",
+        "end": "2024-03-18T15:05:00",
+        "description": "Sensory i systemy optoelektroniczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B28747"
+    },
+    {
+        "title": "SsO (w)",
+        "start": "2024-06-03T08:00:00",
+        "end": "2024-06-03T09:35:00",
+        "description": "Sensory i systemy optoelektroniczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#B28747"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-09T19:40:00",
+        "end": "2025-01-09T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 50/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "MrT (Inne)",
+        "start": "2024-09-16T09:50:00",
+        "end": "2024-09-16T11:25:00",
+        "description": "Medycyna regeneracyjna i inżynieria tkankowa - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24787"
+    },
+    {
+        "title": "SwSP (Inne)",
+        "start": "2024-03-07T13:30:00",
+        "end": "2024-03-07T15:05:00",
+        "description": "Obowiązkowe spotkanie w sprawie praktyk - (Inne) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "OPS (ć)",
+        "start": "2024-05-17T08:00:00",
+        "end": "2024-05-17T09:35:00",
+        "description": "Optyka stosowana - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#9D47B2"
+    },
+    {
+        "title": "MrT (w)",
+        "start": "2024-05-28T09:50:00",
+        "end": "2024-05-28T11:25:00",
+        "description": "Medycyna regeneracyjna i inżynieria tkankowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24787"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-10T19:40:00",
+        "end": "2025-01-10T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 55/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "Fv (w)",
+        "start": "2024-05-09T08:00:00",
+        "end": "2024-05-09T09:35:00",
+        "description": "Fotowoltaika - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#B247A7"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-18T08:00:00",
+        "end": "2024-12-18T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 15/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "ZbM (w)",
+        "start": "2024-03-14T08:00:00",
+        "end": "2024-03-14T09:35:00",
+        "description": "Zastosowania biomateriałów w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B272"
+    },
+    {
+        "title": "Wts (w)",
+        "start": "2024-10-22T08:00:00",
+        "end": "2024-10-22T09:35:00",
+        "description": "Wybrane zagadnienia techniki światłowodowej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#4752B2"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-04-15T13:30:00",
+        "end": "2024-04-15T15:05:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 24/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-11-19T08:00:00",
+        "end": "2024-11-19T09:35:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 75/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "Sd. (Inne)",
+        "start": "2024-11-27T13:30:00",
+        "end": "2024-11-27T15:05:00",
+        "description": "Seminarium dyplomowe - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 9/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B292"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-03-15T09:50:00",
+        "end": "2024-03-15T11:25:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "Wts (w)",
+        "start": "2024-10-15T08:00:00",
+        "end": "2024-10-15T09:35:00",
+        "description": "Wybrane zagadnienia techniki światłowodowej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#4752B2"
+    },
+    {
+        "title": "SsO (ć)",
+        "start": "2024-04-09T13:30:00",
+        "end": "2024-04-09T15:05:00",
+        "description": "Sensory i systemy optoelektroniczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B28747"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-17T16:00:00",
+        "end": "2024-12-17T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 12/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "Sd. (Inne)",
+        "start": "2024-10-29T13:30:00",
+        "end": "2024-10-29T15:05:00",
+        "description": "Seminarium dyplomowe - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 6/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B292"
+    },
+    {
+        "title": "Cpd (w)",
+        "start": "2024-03-13T11:40:00",
+        "end": "2024-03-13T13:15:00",
+        "description": "Cyfrowe przetwarzanie danych pomiarowych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "Sd. (Inne)",
+        "start": "2024-10-29T11:40:00",
+        "end": "2024-10-29T13:15:00",
+        "description": "Seminarium dyplomowe - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 5/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B292"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-05-07T09:50:00",
+        "end": "2024-05-07T11:25:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 32/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "Sd. (Inne)",
+        "start": "2024-10-22T09:50:00",
+        "end": "2024-10-22T11:25:00",
+        "description": "Seminarium dyplomowe - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 3/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B292"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-11-27T09:50:00",
+        "end": "2024-11-27T11:25:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 81/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-20T17:50:00",
+        "end": "2024-12-20T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 28/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "PRo (w)",
+        "start": "2024-03-21T11:40:00",
+        "end": "2024-03-21T13:15:00",
+        "description": "Podstawy rejestracji i przetwarzania obrazów w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "MrT (w)",
+        "start": "2024-04-25T11:40:00",
+        "end": "2024-04-25T13:15:00",
+        "description": "Medycyna regeneracyjna i inżynieria tkankowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24787"
+    },
+    {
+        "title": "Wts (w)",
+        "start": "2024-10-29T08:00:00",
+        "end": "2024-10-29T09:35:00",
+        "description": "Wybrane zagadnienia techniki światłowodowej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#4752B2"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-03-19T09:50:00",
+        "end": "2024-03-19T11:25:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-09T11:40:00",
+        "end": "2025-01-09T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 46/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "MrT (w)",
+        "start": "2024-06-05T11:40:00",
+        "end": "2024-06-05T13:15:00",
+        "description": "Medycyna regeneracyjna i inżynieria tkankowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 9/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24787"
+    },
+    {
+        "title": "XMass (Inne)",
+        "start": "2024-12-19T19:40:00",
+        "end": "2024-12-19T21:15:00",
+        "description": "XMetody analizy i syntezy sygnałów\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr inż. Piotr Bączyk",
+        "allDay": false,
+        "color": "#5CB247"
+    },
+    {
+        "title": "Cpd (ć)",
+        "start": "2024-05-28T08:00:00",
+        "end": "2024-05-28T09:35:00",
+        "description": "Cyfrowe przetwarzanie danych pomiarowych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "Sd. (Inne)",
+        "start": "2024-10-15T13:30:00",
+        "end": "2024-10-15T15:05:00",
+        "description": "Seminarium dyplomowe - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 2/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B292"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-08T17:50:00",
+        "end": "2025-01-08T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 42/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "Sd. (Inne)",
+        "start": "2024-10-08T11:40:00",
+        "end": "2024-10-08T13:15:00",
+        "description": "Seminarium dyplomowe - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 1/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B292"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-07T11:40:00",
+        "end": "2025-01-07T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 32/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-10T13:30:00",
+        "end": "2025-01-10T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 52/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-19T13:30:00",
+        "end": "2024-12-19T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 23/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "XMass (w)",
+        "start": "2024-11-22T09:50:00",
+        "end": "2024-11-22T11:25:00",
+        "description": "XMetody analizy i syntezy sygnałów\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: prof. dr hab. inż. Andrzej Walczak",
+        "allDay": false,
+        "color": "#5CB247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-07T19:40:00",
+        "end": "2025-01-07T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 36/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-11-19T09:50:00",
+        "end": "2024-11-19T11:25:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 76/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "Fv (w)",
+        "start": "2024-03-11T09:50:00",
+        "end": "2024-03-11T11:25:00",
+        "description": "Fotowoltaika - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#B247A7"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-07T17:50:00",
+        "end": "2025-01-07T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 35/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "BMS (w)",
+        "start": "2024-11-26T08:00:00",
+        "end": "2024-11-26T09:35:00",
+        "description": "BIOPHOTONICS IN MEDICAL SCIENCES - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#9DB247"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-05-07T08:00:00",
+        "end": "2024-05-07T09:35:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 31/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "SsO (ć)",
+        "start": "2024-06-13T08:00:00",
+        "end": "2024-06-13T09:35:00",
+        "description": "Sensory i systemy optoelektroniczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B28747"
+    },
+    {
+        "title": "OPS (w)",
+        "start": "2024-04-04T09:50:00",
+        "end": "2024-04-04T11:25:00",
+        "description": "Optyka stosowana - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#9D47B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-20T19:40:00",
+        "end": "2024-12-20T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 29/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "Dtlm (w)",
+        "start": "2024-04-10T08:00:00",
+        "end": "2024-04-10T09:35:00",
+        "description": "Diagnostyka i terapia laserowa w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24767"
+    },
+    {
+        "title": "BMS (Inne)",
+        "start": "2024-11-13T11:40:00",
+        "end": "2024-11-13T13:15:00",
+        "description": "BIOPHOTONICS IN MEDICAL SCIENCES - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 5/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#9DB247"
+    },
+    {
+        "title": "BMS (w)",
+        "start": "2024-10-09T13:30:00",
+        "end": "2024-10-09T15:05:00",
+        "description": "BIOPHOTONICS IN MEDICAL SCIENCES - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#9DB247"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-05-07T13:30:00",
+        "end": "2024-05-07T15:05:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 34/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "Cpd (w)",
+        "start": "2024-03-27T13:30:00",
+        "end": "2024-03-27T15:05:00",
+        "description": "Cyfrowe przetwarzanie danych pomiarowych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-18T09:50:00",
+        "end": "2024-12-18T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 16/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-09T17:50:00",
+        "end": "2025-01-09T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 49/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "BMS (Inne)",
+        "start": "2024-11-20T13:30:00",
+        "end": "2024-11-20T15:05:00",
+        "description": "BIOPHOTONICS IN MEDICAL SCIENCES - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 6/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#9DB247"
+    },
+    {
+        "title": "XMass (w)",
+        "start": "2024-11-15T11:40:00",
+        "end": "2024-11-15T13:15:00",
+        "description": "XMetody analizy i syntezy sygnałów\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: prof. dr hab. inż. Andrzej Walczak",
+        "allDay": false,
+        "color": "#5CB247"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-06-19T11:40:00",
+        "end": "2024-06-19T13:15:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 65/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-04-16T09:50:00",
+        "end": "2024-04-16T11:25:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 26/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-11-12T08:00:00",
+        "end": "2024-11-12T09:35:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 71/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-13T11:40:00",
+        "end": "2025-01-13T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 58/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "Fv (w)",
+        "start": "2024-02-26T11:40:00",
+        "end": "2024-02-26T13:15:00",
+        "description": "Fotowoltaika - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#B247A7"
+    },
+    {
+        "title": "SsO (w)",
+        "start": "2024-02-29T13:30:00",
+        "end": "2024-02-29T15:05:00",
+        "description": "Sensory i systemy optoelektroniczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#B28747"
+    },
+    {
+        "title": "SsO (w)",
+        "start": "2024-04-18T13:30:00",
+        "end": "2024-04-18T15:05:00",
+        "description": "Sensory i systemy optoelektroniczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#B28747"
+    },
+    {
+        "title": "PRo (w)",
+        "start": "2024-04-11T11:40:00",
+        "end": "2024-04-11T13:15:00",
+        "description": "Podstawy rejestracji i przetwarzania obrazów w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-08T19:40:00",
+        "end": "2025-01-08T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 43/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "SsO (w)",
+        "start": "2024-04-11T13:30:00",
+        "end": "2024-04-11T15:05:00",
+        "description": "Sensory i systemy optoelektroniczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#B28747"
+    },
+    {
+        "title": "SsO (w)",
+        "start": "2024-03-21T13:30:00",
+        "end": "2024-03-21T15:05:00",
+        "description": "Sensory i systemy optoelektroniczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#B28747"
+    },
+    {
+        "title": "Wts (Inne)",
+        "start": "2024-12-19T08:00:00",
+        "end": "2024-12-19T09:35:00",
+        "description": "Wybrane zagadnienia techniki światłowodowej - (Zaliczenie) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4752B2"
+    },
+    {
+        "title": "Wts (ć)",
+        "start": "2024-10-29T09:50:00",
+        "end": "2024-10-29T11:25:00",
+        "description": "Wybrane zagadnienia techniki światłowodowej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący: -",
+        "allDay": false,
+        "color": "#4752B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-08T11:40:00",
+        "end": "2025-01-08T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 39/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-05-09T11:40:00",
+        "end": "2024-05-09T13:15:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 35/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-03-19T08:00:00",
+        "end": "2024-03-19T09:35:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "XMass (L)",
+        "start": "2024-11-27T19:40:00",
+        "end": "2024-11-27T21:15:00",
+        "description": "XMetody analizy i syntezy sygnałów\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący: mgr inż. Piotr Bączyk",
+        "allDay": false,
+        "color": "#5CB247"
+    },
+    {
+        "title": "Cpd (w)",
+        "start": "2024-03-04T11:40:00",
+        "end": "2024-03-04T13:15:00",
+        "description": "Cyfrowe przetwarzanie danych pomiarowych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "Cpd (ć)",
+        "start": "2024-04-11T08:00:00",
+        "end": "2024-04-11T09:35:00",
+        "description": "Cyfrowe przetwarzanie danych pomiarowych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "OPS (w)",
+        "start": "2024-03-07T08:00:00",
+        "end": "2024-03-07T09:35:00",
+        "description": "Optyka stosowana - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#9D47B2"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-06-19T09:50:00",
+        "end": "2024-06-19T11:25:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 64/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "Wts (w)",
+        "start": "2024-10-08T09:50:00",
+        "end": "2024-10-08T11:25:00",
+        "description": "Wybrane zagadnienia techniki światłowodowej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#4752B2"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-06-06T13:30:00",
+        "end": "2024-06-06T15:05:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 52/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "ZRwIB (w)",
+        "start": "2024-10-09T08:00:00",
+        "end": "2024-10-09T09:35:00",
+        "description": "Zastosowanie wirtualnej i rozszerzonej rzeczywistości w inżynierii biomedycznej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2A747"
+    },
+    {
+        "title": "Dtlm (w)",
+        "start": "2024-04-09T11:40:00",
+        "end": "2024-04-09T13:15:00",
+        "description": "Diagnostyka i terapia laserowa w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24767"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-06-11T09:50:00",
+        "end": "2024-06-11T11:25:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 56/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-08T13:30:00",
+        "end": "2025-01-08T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 40/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "SsO (ć)",
+        "start": "2024-06-06T08:00:00",
+        "end": "2024-06-06T09:35:00",
+        "description": "Sensory i systemy optoelektroniczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B28747"
+    },
+    {
+        "title": "XMass (w)",
+        "start": "2024-11-22T11:40:00",
+        "end": "2024-11-22T13:15:00",
+        "description": "XMetody analizy i syntezy sygnałów\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: prof. dr hab. inż. Andrzej Walczak",
+        "allDay": false,
+        "color": "#5CB247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-08T08:00:00",
+        "end": "2025-01-08T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 37/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "ZbM (w)",
+        "start": "2024-03-04T08:00:00",
+        "end": "2024-03-04T09:35:00",
+        "description": "Zastosowania biomateriałów w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B272"
+    },
+    {
+        "title": "PRo (w)",
+        "start": "2024-02-29T11:40:00",
+        "end": "2024-02-29T13:15:00",
+        "description": "Podstawy rejestracji i przetwarzania obrazów w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-05-16T11:40:00",
+        "end": "2024-05-16T13:15:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 43/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "XMass (w)",
+        "start": "2024-11-08T11:40:00",
+        "end": "2024-11-08T13:15:00",
+        "description": "XMetody analizy i syntezy sygnałów\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: prof. dr hab. inż. Andrzej Walczak",
+        "allDay": false,
+        "color": "#5CB247"
+    },
+    {
+        "title": "ZbM (w)",
+        "start": "2024-03-18T08:00:00",
+        "end": "2024-03-18T09:35:00",
+        "description": "Zastosowania biomateriałów w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B272"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-12-04T09:50:00",
+        "end": "2024-12-04T11:25:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 84/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "Fv (w)",
+        "start": "2024-03-04T09:50:00",
+        "end": "2024-03-04T11:25:00",
+        "description": "Fotowoltaika - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#B247A7"
+    },
+    {
+        "title": "Fv (ć)",
+        "start": "2024-04-10T13:30:00",
+        "end": "2024-04-10T15:05:00",
+        "description": "Fotowoltaika - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B247A7"
+    },
+    {
+        "title": "XMass (L)",
+        "start": "2024-12-04T19:40:00",
+        "end": "2024-12-04T21:15:00",
+        "description": "XMetody analizy i syntezy sygnałów\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: mgr inż. Piotr Bączyk",
+        "allDay": false,
+        "color": "#5CB247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-19T11:40:00",
+        "end": "2024-12-19T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 22/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "SsO (Inne)",
+        "start": "2024-09-18T09:50:00",
+        "end": "2024-09-18T11:25:00",
+        "description": "Sensory i systemy optoelektroniczne - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B28747"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-07T09:50:00",
+        "end": "2025-01-07T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 31/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-03-15T08:00:00",
+        "end": "2024-03-15T09:35:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-03-08T08:00:00",
+        "end": "2024-03-08T09:35:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-18T11:40:00",
+        "end": "2024-12-18T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 17/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "Fv (Inne)",
+        "start": "2024-06-21T08:00:00",
+        "end": "2024-06-21T09:35:00",
+        "description": "Fotowoltaika - (Zaliczenie) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B247A7"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-06-19T08:00:00",
+        "end": "2024-06-19T09:35:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 63/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-04-19T13:30:00",
+        "end": "2024-04-19T15:05:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 30/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "Fv (w)",
+        "start": "2024-04-09T08:00:00",
+        "end": "2024-04-09T09:35:00",
+        "description": "Fotowoltaika - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#B247A7"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-08T16:00:00",
+        "end": "2025-01-08T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 41/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "OPS (w)",
+        "start": "2024-03-14T09:50:00",
+        "end": "2024-03-14T11:25:00",
+        "description": "Optyka stosowana - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#9D47B2"
+    },
+    {
+        "title": "Dtlm (ć)",
+        "start": "2024-03-27T11:40:00",
+        "end": "2024-03-27T13:15:00",
+        "description": "Diagnostyka i terapia laserowa w medycynie - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24767"
+    },
+    {
+        "title": "XMass (L)",
+        "start": "2024-11-27T17:50:00",
+        "end": "2024-11-27T19:25:00",
+        "description": "XMetody analizy i syntezy sygnałów\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący: mgr inż. Piotr Bączyk",
+        "allDay": false,
+        "color": "#5CB247"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-05-09T13:30:00",
+        "end": "2024-05-09T15:05:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 36/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "ZbM (w)",
+        "start": "2024-02-26T08:00:00",
+        "end": "2024-02-26T09:35:00",
+        "description": "Zastosowania biomateriałów w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B272"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-06-06T11:40:00",
+        "end": "2024-06-06T13:15:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 51/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "XMass (L)",
+        "start": "2024-11-20T19:40:00",
+        "end": "2024-11-20T21:15:00",
+        "description": "XMetody analizy i syntezy sygnałów\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący: mgr inż. Piotr Bączyk",
+        "allDay": false,
+        "color": "#5CB247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-09T13:30:00",
+        "end": "2025-01-09T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 47/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-08T09:50:00",
+        "end": "2025-01-08T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 38/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "TP (Inne)",
+        "start": "2024-04-17T11:40:00",
+        "end": "2024-04-17T13:15:00",
+        "description": "Targi pracy WAT\nRodzaj zajęć:  - \nNr zajęć: 2/3\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-20T13:30:00",
+        "end": "2024-12-20T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 26/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "Dtlm (ć)",
+        "start": "2024-03-20T11:40:00",
+        "end": "2024-03-20T13:15:00",
+        "description": "Diagnostyka i terapia laserowa w medycynie - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24767"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-13T09:50:00",
+        "end": "2025-01-13T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 57/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-17T11:40:00",
+        "end": "2024-12-17T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 10/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "Cpd (L)",
+        "start": "2024-06-05T09:50:00",
+        "end": "2024-06-05T11:25:00",
+        "description": "Cyfrowe przetwarzanie danych pomiarowych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-04-16T13:30:00",
+        "end": "2024-04-16T15:05:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 28/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "ZRwIB (ć)",
+        "start": "2024-11-06T09:50:00",
+        "end": "2024-11-06T11:25:00",
+        "description": "Zastosowanie wirtualnej i rozszerzonej rzeczywistości w inżynierii biomedycznej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/4\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2A747"
+    },
+    {
+        "title": "MrT (w)",
+        "start": "2024-06-13T09:50:00",
+        "end": "2024-06-13T11:25:00",
+        "description": "Medycyna regeneracyjna i inżynieria tkankowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 12/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24787"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-07T13:30:00",
+        "end": "2025-01-07T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 33/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-05-16T13:30:00",
+        "end": "2024-05-16T15:05:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 44/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "Wts (w)",
+        "start": "2024-10-08T08:00:00",
+        "end": "2024-10-08T09:35:00",
+        "description": "Wybrane zagadnienia techniki światłowodowej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#4752B2"
+    },
+    {
+        "title": "Dtlm (w)",
+        "start": "2024-03-20T09:50:00",
+        "end": "2024-03-20T11:25:00",
+        "description": "Diagnostyka i terapia laserowa w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24767"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-17T19:40:00",
+        "end": "2024-12-17T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 14/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-09T08:00:00",
+        "end": "2025-01-09T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 44/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "SsO (w)",
+        "start": "2024-03-18T11:40:00",
+        "end": "2024-03-18T13:15:00",
+        "description": "Sensory i systemy optoelektroniczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#B28747"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-10T17:50:00",
+        "end": "2025-01-10T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 54/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "BMS (w)",
+        "start": "2024-10-09T11:40:00",
+        "end": "2024-10-09T13:15:00",
+        "description": "BIOPHOTONICS IN MEDICAL SCIENCES - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#9DB247"
+    },
+    {
+        "title": "ZRwIB (ć)",
+        "start": "2024-10-22T13:30:00",
+        "end": "2024-10-22T15:05:00",
+        "description": "Zastosowanie wirtualnej i rozszerzonej rzeczywistości w inżynierii biomedycznej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/4\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2A747"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-03-08T09:50:00",
+        "end": "2024-03-08T11:25:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "BMS (w)",
+        "start": "2024-11-13T09:50:00",
+        "end": "2024-11-13T11:25:00",
+        "description": "BIOPHOTONICS IN MEDICAL SCIENCES - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#9DB247"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-06-18T08:00:00",
+        "end": "2024-06-18T09:35:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 61/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "Sd. (Inne)",
+        "start": "2024-11-27T16:00:00",
+        "end": "2024-11-27T17:35:00",
+        "description": "Seminarium dyplomowe - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 10/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B292"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-03-22T08:00:00",
+        "end": "2024-03-22T09:35:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 15/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "MrT (w)",
+        "start": "2024-05-10T09:50:00",
+        "end": "2024-05-10T11:25:00",
+        "description": "Medycyna regeneracyjna i inżynieria tkankowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24787"
+    },
+    {
+        "title": "Cpd (w)",
+        "start": "2024-04-09T09:50:00",
+        "end": "2024-04-09T11:25:00",
+        "description": "Cyfrowe przetwarzanie danych pomiarowych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "OPS (w)",
+        "start": "2024-03-28T09:50:00",
+        "end": "2024-03-28T11:25:00",
+        "description": "Optyka stosowana - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#9D47B2"
+    },
+    {
+        "title": "Dtlm (ć)",
+        "start": "2024-04-03T11:40:00",
+        "end": "2024-04-03T13:15:00",
+        "description": "Diagnostyka i terapia laserowa w medycynie - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24767"
+    },
+    {
+        "title": "Dtlm (w)",
+        "start": "2024-03-27T09:50:00",
+        "end": "2024-03-27T11:25:00",
+        "description": "Diagnostyka i terapia laserowa w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24767"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-06-13T13:30:00",
+        "end": "2024-06-13T15:05:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 58/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-04-16T08:00:00",
+        "end": "2024-04-16T09:35:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 25/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-03-26T09:50:00",
+        "end": "2024-03-26T11:25:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 18/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "Cpd (w)",
+        "start": "2024-04-03T13:30:00",
+        "end": "2024-04-03T15:05:00",
+        "description": "Cyfrowe przetwarzanie danych pomiarowych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "Fv (w)",
+        "start": "2024-04-03T08:00:00",
+        "end": "2024-04-03T09:35:00",
+        "description": "Fotowoltaika - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#B247A7"
+    },
+    {
+        "title": "DSp (Inne)",
+        "start": "2024-04-26T13:30:00",
+        "end": "2024-04-26T15:05:00",
+        "description": "Dzień sportu\nRodzaj zajęć:  - \nNr zajęć: 4/4\nProwadzący: -",
+        "allDay": false,
+        "color": "#B26747"
+    },
+    {
+        "title": "Dtlm (w)",
+        "start": "2024-03-06T09:50:00",
+        "end": "2024-03-06T11:25:00",
+        "description": "Diagnostyka i terapia laserowa w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24767"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-13T13:30:00",
+        "end": "2025-01-13T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 59/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "ZbM (w)",
+        "start": "2024-03-20T08:00:00",
+        "end": "2024-03-20T09:35:00",
+        "description": "Zastosowania biomateriałów w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B272"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-06-19T13:30:00",
+        "end": "2024-06-19T15:05:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 66/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "Dtlm (w)",
+        "start": "2024-04-03T09:50:00",
+        "end": "2024-04-03T11:25:00",
+        "description": "Diagnostyka i terapia laserowa w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24767"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-03-26T13:30:00",
+        "end": "2024-03-26T15:05:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 20/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "BMS (w)",
+        "start": "2024-11-06T11:40:00",
+        "end": "2024-11-06T13:15:00",
+        "description": "BIOPHOTONICS IN MEDICAL SCIENCES - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#9DB247"
+    },
+    {
+        "title": "Wts (w)",
+        "start": "2024-11-13T08:00:00",
+        "end": "2024-11-13T09:35:00",
+        "description": "Wybrane zagadnienia techniki światłowodowej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#4752B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-16T16:00:00",
+        "end": "2024-12-16T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 5/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-05-28T13:30:00",
+        "end": "2024-05-28T15:05:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 47/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "TP (Inne)",
+        "start": "2024-04-17T13:30:00",
+        "end": "2024-04-17T15:05:00",
+        "description": "Targi pracy WAT\nRodzaj zajęć:  - \nNr zajęć: 3/3\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "ZRwIB (w)",
+        "start": "2024-10-15T11:40:00",
+        "end": "2024-10-15T13:15:00",
+        "description": "Zastosowanie wirtualnej i rozszerzonej rzeczywistości w inżynierii biomedycznej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2A747"
+    },
+    {
+        "title": "Dtlm (ć)",
+        "start": "2024-04-30T09:50:00",
+        "end": "2024-04-30T11:25:00",
+        "description": "Diagnostyka i terapia laserowa w medycynie - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24767"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-16T17:50:00",
+        "end": "2024-12-16T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 6/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-19T09:50:00",
+        "end": "2024-12-19T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 21/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-05-14T08:00:00",
+        "end": "2024-05-14T09:35:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 39/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-18T13:30:00",
+        "end": "2024-12-18T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 18/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-05-21T11:40:00",
+        "end": "2024-05-21T13:15:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 45/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "MrT (w)",
+        "start": "2024-04-30T11:40:00",
+        "end": "2024-04-30T13:15:00",
+        "description": "Medycyna regeneracyjna i inżynieria tkankowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24787"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-04-19T11:40:00",
+        "end": "2024-04-19T13:15:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 29/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "BMS (Inne)",
+        "start": "2024-10-16T11:40:00",
+        "end": "2024-10-16T13:15:00",
+        "description": "BIOPHOTONICS IN MEDICAL SCIENCES - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 2/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#9DB247"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-11-12T11:40:00",
+        "end": "2024-11-12T13:15:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 73/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-11-26T13:30:00",
+        "end": "2024-11-26T15:05:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 80/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "XMass (L)",
+        "start": "2024-11-20T17:50:00",
+        "end": "2024-11-20T19:25:00",
+        "description": "XMetody analizy i syntezy sygnałów\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący: mgr inż. Piotr Bączyk",
+        "allDay": false,
+        "color": "#5CB247"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-03-12T08:00:00",
+        "end": "2024-03-12T09:35:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-13T16:00:00",
+        "end": "2025-01-13T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 60/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "BMS (w)",
+        "start": "2024-11-20T11:40:00",
+        "end": "2024-11-20T13:15:00",
+        "description": "BIOPHOTONICS IN MEDICAL SCIENCES - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#9DB247"
+    },
+    {
+        "title": "Wts (ć)",
+        "start": "2024-11-05T09:50:00",
+        "end": "2024-11-05T11:25:00",
+        "description": "Wybrane zagadnienia techniki światłowodowej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący: -",
+        "allDay": false,
+        "color": "#4752B2"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-06-13T11:40:00",
+        "end": "2024-06-13T13:15:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 57/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "Cpd (ć)",
+        "start": "2024-04-23T13:30:00",
+        "end": "2024-04-23T15:05:00",
+        "description": "Cyfrowe przetwarzanie danych pomiarowych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-05-07T11:40:00",
+        "end": "2024-05-07T13:15:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 33/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-17T08:00:00",
+        "end": "2024-12-17T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 8/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-09T16:00:00",
+        "end": "2025-01-09T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 48/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "ZbM (Inne)",
+        "start": "2024-07-05T08:00:00",
+        "end": "2024-07-05T09:35:00",
+        "description": "Zastosowania biomateriałów w medycynie - (zaliczenie poprawkowe lab.) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B272"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-05-14T11:40:00",
+        "end": "2024-05-14T13:15:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 41/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-03-12T09:50:00",
+        "end": "2024-03-12T11:25:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "OPS (w)",
+        "start": "2024-03-21T09:50:00",
+        "end": "2024-03-21T11:25:00",
+        "description": "Optyka stosowana - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#9D47B2"
+    },
+    {
+        "title": "PRo (w)",
+        "start": "2024-04-04T11:40:00",
+        "end": "2024-04-04T13:15:00",
+        "description": "Podstawy rejestracji i przetwarzania obrazów w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-11-12T09:50:00",
+        "end": "2024-11-12T11:25:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 72/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "XMass (Inne)",
+        "start": "2025-01-10T11:40:00",
+        "end": "2025-01-10T13:15:00",
+        "description": "XMetody analizy i syntezy sygnałów\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: prof. dr hab. inż. Andrzej Walczak",
+        "allDay": false,
+        "color": "#5CB247"
+    },
+    {
+        "title": "MrT (E)",
+        "start": "2024-06-24T09:50:00",
+        "end": "2024-06-24T11:25:00",
+        "description": "Medycyna regeneracyjna i inżynieria tkankowa - (Egzamin) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24787"
+    },
+    {
+        "title": "Dtlm (w)",
+        "start": "2024-05-29T08:00:00",
+        "end": "2024-05-29T09:35:00",
+        "description": "Diagnostyka i terapia laserowa w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24767"
+    },
+    {
+        "title": "Cpd (w)",
+        "start": "2024-03-11T11:40:00",
+        "end": "2024-03-11T13:15:00",
+        "description": "Cyfrowe przetwarzanie danych pomiarowych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-16T13:30:00",
+        "end": "2024-12-16T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 4/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-11-26T11:40:00",
+        "end": "2024-11-26T13:15:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 79/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-05-21T13:30:00",
+        "end": "2024-05-21T15:05:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 46/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "Sd. (Inne)",
+        "start": "2024-10-22T11:40:00",
+        "end": "2024-10-22T13:15:00",
+        "description": "Seminarium dyplomowe - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 4/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B292"
+    },
+    {
+        "title": "ZRwIB (w)",
+        "start": "2024-10-09T09:50:00",
+        "end": "2024-10-09T11:25:00",
+        "description": "Zastosowanie wirtualnej i rozszerzonej rzeczywistości w inżynierii biomedycznej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2A747"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-12-04T08:00:00",
+        "end": "2024-12-04T09:35:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 83/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "Fv (ć)",
+        "start": "2024-04-23T08:00:00",
+        "end": "2024-04-23T09:35:00",
+        "description": "Fotowoltaika - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B247A7"
+    },
+    {
+        "title": "Wts (w)",
+        "start": "2024-11-05T08:00:00",
+        "end": "2024-11-05T09:35:00",
+        "description": "Wybrane zagadnienia techniki światłowodowej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#4752B2"
+    },
+    {
+        "title": "MrT (w)",
+        "start": "2024-06-14T09:50:00",
+        "end": "2024-06-14T11:25:00",
+        "description": "Medycyna regeneracyjna i inżynieria tkankowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 13/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24787"
+    },
+    {
+        "title": "PRo (w)",
+        "start": "2024-04-25T08:00:00",
+        "end": "2024-04-25T09:35:00",
+        "description": "Podstawy rejestracji i przetwarzania obrazów w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-03-05T08:00:00",
+        "end": "2024-03-05T09:35:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "ZbM (w)",
+        "start": "2024-03-13T09:50:00",
+        "end": "2024-03-13T11:25:00",
+        "description": "Zastosowania biomateriałów w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B272"
+    },
+    {
+        "title": "Cpd (L)",
+        "start": "2024-05-29T13:30:00",
+        "end": "2024-05-29T15:05:00",
+        "description": "Cyfrowe przetwarzanie danych pomiarowych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "BMS (Inne)",
+        "start": "2024-10-16T09:50:00",
+        "end": "2024-10-16T11:25:00",
+        "description": "BIOPHOTONICS IN MEDICAL SCIENCES - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 1/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#9DB247"
+    },
+    {
+        "title": "BMS (Inne)",
+        "start": "2024-10-30T09:50:00",
+        "end": "2024-10-30T11:25:00",
+        "description": "BIOPHOTONICS IN MEDICAL SCIENCES - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 3/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#9DB247"
+    },
+    {
+        "title": "Sd. (Inne)",
+        "start": "2024-11-13T13:30:00",
+        "end": "2024-11-13T15:05:00",
+        "description": "Seminarium dyplomowe - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 7/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B292"
+    },
+    {
+        "title": "SsO (E)",
+        "start": "2024-06-28T09:50:00",
+        "end": "2024-06-28T11:25:00",
+        "description": "Sensory i systemy optoelektroniczne - (Egzamin) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B28747"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-11-19T11:40:00",
+        "end": "2024-11-19T13:15:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 77/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "Cpd (L)",
+        "start": "2024-06-05T08:00:00",
+        "end": "2024-06-05T09:35:00",
+        "description": "Cyfrowe przetwarzanie danych pomiarowych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-10T16:00:00",
+        "end": "2025-01-10T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 53/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B252"
+    },
+    {
+        "title": "DSp (Inne)",
+        "start": "2024-04-26T09:50:00",
+        "end": "2024-04-26T11:25:00",
+        "description": "Dzień sportu\nRodzaj zajęć:  - \nNr zajęć: 2/4\nProwadzący: -",
+        "allDay": false,
+        "color": "#B26747"
+    },
+    {
+        "title": "DSp (Inne)",
+        "start": "2024-04-26T08:00:00",
+        "end": "2024-04-26T09:35:00",
+        "description": "Dzień sportu\nRodzaj zajęć:  - \nNr zajęć: 1/4\nProwadzący: -",
+        "allDay": false,
+        "color": "#B26747"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-04-16T11:40:00",
+        "end": "2024-04-16T13:15:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 27/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "Fv (w)",
+        "start": "2024-03-06T11:40:00",
+        "end": "2024-03-06T13:15:00",
+        "description": "Fotowoltaika - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#B247A7"
+    },
+    {
+        "title": "Cpd (ć)",
+        "start": "2024-04-30T13:30:00",
+        "end": "2024-04-30T15:05:00",
+        "description": "Cyfrowe przetwarzanie danych pomiarowych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "BMS (w)",
+        "start": "2024-10-30T08:00:00",
+        "end": "2024-10-30T09:35:00",
+        "description": "BIOPHOTONICS IN MEDICAL SCIENCES - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#9DB247"
+    },
+    {
+        "title": "Cpd (L)",
+        "start": "2024-06-18T11:40:00",
+        "end": "2024-06-18T13:15:00",
+        "description": "Cyfrowe przetwarzanie danych pomiarowych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "MrT (w)",
+        "start": "2024-04-23T11:40:00",
+        "end": "2024-04-23T13:15:00",
+        "description": "Medycyna regeneracyjna i inżynieria tkankowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24787"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-05-14T09:50:00",
+        "end": "2024-05-14T11:25:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 40/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-06-07T13:30:00",
+        "end": "2024-06-07T15:05:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 54/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "TP (Inne)",
+        "start": "2024-04-17T09:50:00",
+        "end": "2024-04-17T11:25:00",
+        "description": "Targi pracy WAT\nRodzaj zajęć:  - \nNr zajęć: 1/3\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "ZRwIB (ć)",
+        "start": "2024-11-20T09:50:00",
+        "end": "2024-11-20T11:25:00",
+        "description": "Zastosowanie wirtualnej i rozszerzonej rzeczywistości w inżynierii biomedycznej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/4\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2A747"
+    },
+    {
+        "title": "ZRwIB (ć)",
+        "start": "2024-11-27T08:00:00",
+        "end": "2024-11-27T09:35:00",
+        "description": "Zastosowanie wirtualnej i rozszerzonej rzeczywistości w inżynierii biomedycznej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2A747"
+    },
+    {
+        "title": "SsO (ć)",
+        "start": "2024-05-10T08:00:00",
+        "end": "2024-05-10T09:35:00",
+        "description": "Sensory i systemy optoelektroniczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B28747"
+    },
+    {
+        "title": "SsO (ć)",
+        "start": "2024-03-28T08:00:00",
+        "end": "2024-03-28T09:35:00",
+        "description": "Sensory i systemy optoelektroniczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B28747"
+    },
+    {
+        "title": "OPS (w)",
+        "start": "2024-04-04T08:00:00",
+        "end": "2024-04-04T09:35:00",
+        "description": "Optyka stosowana - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#9D47B2"
+    },
+    {
+        "title": "OPS (ć)",
+        "start": "2024-04-11T09:50:00",
+        "end": "2024-04-11T11:25:00",
+        "description": "Optyka stosowana - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#9D47B2"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-04-15T11:40:00",
+        "end": "2024-04-15T13:15:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 23/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-06-18T09:50:00",
+        "end": "2024-06-18T11:25:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 62/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "L4g. (L)",
+        "start": "2024-11-05T11:40:00",
+        "end": "2024-11-05T13:15:00",
+        "description": "Laboratorium-4g. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 69/84\nProwadzący: -",
+        "allDay": false,
+        "color": "#4792B2"
+    },
+    {
+        "title": "Sd. (Inne)",
+        "start": "2024-11-13T16:00:00",
+        "end": "2024-11-13T17:35:00",
+        "description": "Seminarium dyplomowe - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 8/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B292"
+    }
+]

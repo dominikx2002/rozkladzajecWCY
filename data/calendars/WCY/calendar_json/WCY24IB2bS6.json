@@ -1,0 +1,498 @@
+[
+    {
+        "title": "Psk (w)",
+        "start": "2024-04-08T11:40:00",
+        "end": "2024-04-08T13:15:00",
+        "description": "Podstawy sieci komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: mgr inż. Dagmara Mazur",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "bis (L)",
+        "start": "2024-04-25T08:00:00",
+        "end": "2024-04-25T09:35:00",
+        "description": "Bezpieczeństwo infrastruktury sieciowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący:  Sebastian Łeska",
+        "allDay": false,
+        "color": "#B2B247"
+    },
+    {
+        "title": "BsW (w)",
+        "start": "2024-04-03T09:50:00",
+        "end": "2024-04-03T11:25:00",
+        "description": "Bezpieczeństwo sieciowe w środowisku Windows\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: mgr inż. Łukasz Laszko",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "BsW (L)",
+        "start": "2024-04-26T08:00:00",
+        "end": "2024-04-26T09:35:00",
+        "description": "Bezpieczeństwo sieciowe w środowisku Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: mgr inż. Łukasz Laszko",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "Psk (L)",
+        "start": "2024-04-03T13:30:00",
+        "end": "2024-04-03T15:05:00",
+        "description": "Podstawy sieci komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Paweł Głębocki",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "bis (w)",
+        "start": "2024-04-16T11:40:00",
+        "end": "2024-04-16T13:15:00",
+        "description": "Bezpieczeństwo infrastruktury sieciowej\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący:  Zbigniew Świerczynski",
+        "allDay": false,
+        "color": "#B2B247"
+    },
+    {
+        "title": "BsW (L)",
+        "start": "2024-03-27T11:40:00",
+        "end": "2024-03-27T13:15:00",
+        "description": "Bezpieczeństwo sieciowe w środowisku Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: mgr inż. Łukasz Laszko",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "Sws (Inne)",
+        "start": "2024-03-18T08:00:00",
+        "end": "2024-03-18T09:35:00",
+        "description": "Spotkanie organizacyjne\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "bis (L)",
+        "start": "2024-04-05T08:00:00",
+        "end": "2024-04-05T09:35:00",
+        "description": "Bezpieczeństwo infrastruktury sieciowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący:  Sebastian Łeska",
+        "allDay": false,
+        "color": "#B2B247"
+    },
+    {
+        "title": "Espr (E)",
+        "start": "2024-04-26T11:40:00",
+        "end": "2024-04-26T13:15:00",
+        "description": "Egzamin sprawdzający\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Leszek Grad",
+        "allDay": false,
+        "color": "#B247B2"
+    },
+    {
+        "title": "Zbi (w)",
+        "start": "2024-04-09T08:00:00",
+        "end": "2024-04-09T09:35:00",
+        "description": "Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący: dr hab. Maciej Marczyk",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Zbi (w)",
+        "start": "2024-03-28T08:00:00",
+        "end": "2024-03-28T09:35:00",
+        "description": "Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący: dr hab. Maciej Marczyk",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Psk (L)",
+        "start": "2024-04-10T11:40:00",
+        "end": "2024-04-10T13:15:00",
+        "description": "Podstawy sieci komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Paweł Głębocki",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Zbi (L)",
+        "start": "2024-04-08T08:00:00",
+        "end": "2024-04-08T09:35:00",
+        "description": "Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący: mgr inż. Leszek Kalman",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Zbi (w)",
+        "start": "2024-04-04T11:40:00",
+        "end": "2024-04-04T13:15:00",
+        "description": "Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący: dr hab. Maciej Marczyk",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "BsW (L)",
+        "start": "2024-04-24T11:40:00",
+        "end": "2024-04-24T13:15:00",
+        "description": "Bezpieczeństwo sieciowe w środowisku Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: mgr inż. Łukasz Laszko",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "bis (w)",
+        "start": "2024-04-09T11:40:00",
+        "end": "2024-04-09T13:15:00",
+        "description": "Bezpieczeństwo infrastruktury sieciowej\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący:  Zbigniew Świerczynski",
+        "allDay": false,
+        "color": "#B2B247"
+    },
+    {
+        "title": "bis (L)",
+        "start": "2024-04-25T09:50:00",
+        "end": "2024-04-25T11:25:00",
+        "description": "Bezpieczeństwo infrastruktury sieciowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący:  Sebastian Łeska",
+        "allDay": false,
+        "color": "#B2B247"
+    },
+    {
+        "title": "Psk (L)",
+        "start": "2024-04-24T08:00:00",
+        "end": "2024-04-24T09:35:00",
+        "description": "Podstawy sieci komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Paweł Głębocki",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Zbi (L)",
+        "start": "2024-04-23T11:40:00",
+        "end": "2024-04-23T13:15:00",
+        "description": "Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: mgr inż. Leszek Kalman",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "BsW (L)",
+        "start": "2024-04-19T08:00:00",
+        "end": "2024-04-19T09:35:00",
+        "description": "Bezpieczeństwo sieciowe w środowisku Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: mgr inż. Łukasz Laszko",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "Zbi (w)",
+        "start": "2024-04-16T08:00:00",
+        "end": "2024-04-16T09:35:00",
+        "description": "Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący: dr hab. Maciej Marczyk",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "bis (L)",
+        "start": "2024-04-05T11:40:00",
+        "end": "2024-04-05T13:15:00",
+        "description": "Bezpieczeństwo infrastruktury sieciowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący:  Sebastian Łeska",
+        "allDay": false,
+        "color": "#B2B247"
+    },
+    {
+        "title": "Zbi (w)",
+        "start": "2024-03-28T09:50:00",
+        "end": "2024-03-28T11:25:00",
+        "description": "Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący: dr hab. Maciej Marczyk",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "BsW (w)",
+        "start": "2024-03-19T11:40:00",
+        "end": "2024-03-19T13:15:00",
+        "description": "Bezpieczeństwo sieciowe w środowisku Windows\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: mgr inż. Łukasz Laszko",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "Psk (L)",
+        "start": "2024-04-10T13:30:00",
+        "end": "2024-04-10T15:05:00",
+        "description": "Podstawy sieci komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Paweł Głębocki",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Psk (w)",
+        "start": "2024-03-18T11:40:00",
+        "end": "2024-03-18T13:15:00",
+        "description": "Podstawy sieci komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: mgr inż. Dagmara Mazur",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Psk (L)",
+        "start": "2024-04-15T08:00:00",
+        "end": "2024-04-15T09:35:00",
+        "description": "Podstawy sieci komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Paweł Głębocki",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "bis (L)",
+        "start": "2024-04-05T09:50:00",
+        "end": "2024-04-05T11:25:00",
+        "description": "Bezpieczeństwo infrastruktury sieciowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący:  Sebastian Łeska",
+        "allDay": false,
+        "color": "#B2B247"
+    },
+    {
+        "title": "Psk (w)",
+        "start": "2024-04-18T11:40:00",
+        "end": "2024-04-18T13:15:00",
+        "description": "Podstawy sieci komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: mgr inż. Dagmara Mazur",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Zbi (w)",
+        "start": "2024-04-12T13:30:00",
+        "end": "2024-04-12T15:05:00",
+        "description": "Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący: dr hab. Maciej Marczyk",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Psk (L)",
+        "start": "2024-04-03T11:40:00",
+        "end": "2024-04-03T13:15:00",
+        "description": "Podstawy sieci komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Paweł Głębocki",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "bis (w)",
+        "start": "2024-03-25T09:50:00",
+        "end": "2024-03-25T11:25:00",
+        "description": "Bezpieczeństwo infrastruktury sieciowej\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący:  Zbigniew Świerczynski",
+        "allDay": false,
+        "color": "#B2B247"
+    },
+    {
+        "title": "BsW (w)",
+        "start": "2024-03-19T13:30:00",
+        "end": "2024-03-19T15:05:00",
+        "description": "Bezpieczeństwo sieciowe w środowisku Windows\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: mgr inż. Łukasz Laszko",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "Psk (w)",
+        "start": "2024-04-11T11:40:00",
+        "end": "2024-04-11T13:15:00",
+        "description": "Podstawy sieci komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: mgr inż. Dagmara Mazur",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "bis (L)",
+        "start": "2024-04-12T08:00:00",
+        "end": "2024-04-12T09:35:00",
+        "description": "Bezpieczeństwo infrastruktury sieciowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący:  Sebastian Łeska",
+        "allDay": false,
+        "color": "#B2B247"
+    },
+    {
+        "title": "bis (L)",
+        "start": "2024-03-21T09:50:00",
+        "end": "2024-03-21T11:25:00",
+        "description": "Bezpieczeństwo infrastruktury sieciowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący:  Sebastian Łeska",
+        "allDay": false,
+        "color": "#B2B247"
+    },
+    {
+        "title": "bis (L)",
+        "start": "2024-04-05T13:30:00",
+        "end": "2024-04-05T15:05:00",
+        "description": "Bezpieczeństwo infrastruktury sieciowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący:  Sebastian Łeska",
+        "allDay": false,
+        "color": "#B2B247"
+    },
+    {
+        "title": "bis (L)",
+        "start": "2024-04-12T09:50:00",
+        "end": "2024-04-12T11:25:00",
+        "description": "Bezpieczeństwo infrastruktury sieciowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący:  Sebastian Łeska",
+        "allDay": false,
+        "color": "#B2B247"
+    },
+    {
+        "title": "Psk (w)",
+        "start": "2024-03-27T08:00:00",
+        "end": "2024-03-27T09:35:00",
+        "description": "Podstawy sieci komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: mgr inż. Dagmara Mazur",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "BsW (w)",
+        "start": "2024-03-27T09:50:00",
+        "end": "2024-03-27T11:25:00",
+        "description": "Bezpieczeństwo sieciowe w środowisku Windows\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: mgr inż. Łukasz Laszko",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "BsW (w)",
+        "start": "2024-03-22T09:50:00",
+        "end": "2024-03-22T11:25:00",
+        "description": "Bezpieczeństwo sieciowe w środowisku Windows\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: mgr inż. Łukasz Laszko",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "Zbi (w)",
+        "start": "2024-04-15T13:30:00",
+        "end": "2024-04-15T15:05:00",
+        "description": "Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: dr hab. Maciej Marczyk",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "bis (w)",
+        "start": "2024-03-25T08:00:00",
+        "end": "2024-03-25T09:35:00",
+        "description": "Bezpieczeństwo infrastruktury sieciowej\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Zbigniew Świerczynski",
+        "allDay": false,
+        "color": "#B2B247"
+    },
+    {
+        "title": "Zbi (L)",
+        "start": "2024-04-22T08:00:00",
+        "end": "2024-04-22T09:35:00",
+        "description": "Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący: mgr inż. Leszek Kalman",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Zbi (w)",
+        "start": "2024-04-16T09:50:00",
+        "end": "2024-04-16T11:25:00",
+        "description": "Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: dr hab. Maciej Marczyk",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Zbi (L)",
+        "start": "2024-04-22T09:50:00",
+        "end": "2024-04-22T11:25:00",
+        "description": "Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący: mgr inż. Leszek Kalman",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "BsW (L)",
+        "start": "2024-04-24T13:30:00",
+        "end": "2024-04-24T15:05:00",
+        "description": "Bezpieczeństwo sieciowe w środowisku Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: mgr inż. Łukasz Laszko",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "Zbi (w)",
+        "start": "2024-04-09T09:50:00",
+        "end": "2024-04-09T11:25:00",
+        "description": "Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący: dr hab. Maciej Marczyk",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Psk (L)",
+        "start": "2024-04-15T09:50:00",
+        "end": "2024-04-15T11:25:00",
+        "description": "Podstawy sieci komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Paweł Głębocki",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "BsW (L)",
+        "start": "2024-04-11T13:30:00",
+        "end": "2024-04-11T15:05:00",
+        "description": "Bezpieczeństwo sieciowe w środowisku Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: mgr inż. Łukasz Laszko",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "BsW (L)",
+        "start": "2024-04-26T09:50:00",
+        "end": "2024-04-26T11:25:00",
+        "description": "Bezpieczeństwo sieciowe w środowisku Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: mgr inż. Łukasz Laszko",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "Psk (w)",
+        "start": "2024-04-17T08:00:00",
+        "end": "2024-04-17T09:35:00",
+        "description": "Podstawy sieci komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: mgr inż. Dagmara Mazur",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "BsW (L)",
+        "start": "2024-04-11T16:00:00",
+        "end": "2024-04-11T17:35:00",
+        "description": "Bezpieczeństwo sieciowe w środowisku Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: mgr inż. Łukasz Laszko",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "Zbi (L)",
+        "start": "2024-04-08T09:50:00",
+        "end": "2024-04-08T11:25:00",
+        "description": "Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: mgr inż. Leszek Kalman",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "BsW (L)",
+        "start": "2024-03-27T13:30:00",
+        "end": "2024-03-27T15:05:00",
+        "description": "Bezpieczeństwo sieciowe w środowisku Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: mgr inż. Łukasz Laszko",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "Zbi (w)",
+        "start": "2024-04-04T13:30:00",
+        "end": "2024-04-04T15:05:00",
+        "description": "Zarządzanie bezpieczeństwem informacji\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: dr hab. Maciej Marczyk",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "bis (w)",
+        "start": "2024-03-26T17:50:00",
+        "end": "2024-03-26T19:25:00",
+        "description": "Bezpieczeństwo infrastruktury sieciowej\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący:  Zbigniew Świerczynski",
+        "allDay": false,
+        "color": "#B2B247"
+    },
+    {
+        "title": "Psk (L)",
+        "start": "2024-04-24T09:50:00",
+        "end": "2024-04-24T11:25:00",
+        "description": "Podstawy sieci komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Paweł Głębocki",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "bis (L)",
+        "start": "2024-03-21T08:00:00",
+        "end": "2024-03-21T09:35:00",
+        "description": "Bezpieczeństwo infrastruktury sieciowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący:  Sebastian Łeska",
+        "allDay": false,
+        "color": "#B2B247"
+    },
+    {
+        "title": "BsW (L)",
+        "start": "2024-04-19T09:50:00",
+        "end": "2024-04-19T11:25:00",
+        "description": "Bezpieczeństwo sieciowe w środowisku Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: mgr inż. Łukasz Laszko",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "Psk (w)",
+        "start": "2024-04-15T11:40:00",
+        "end": "2024-04-15T13:15:00",
+        "description": "Podstawy sieci komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: mgr inż. Dagmara Mazur",
+        "allDay": false,
+        "color": "#B24747"
+    }
+]

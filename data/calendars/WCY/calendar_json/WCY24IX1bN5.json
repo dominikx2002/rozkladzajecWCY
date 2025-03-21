@@ -1,0 +1,1434 @@
+[
+    {
+        "title": "Eko (E)",
+        "start": "2025-06-23T13:30:00",
+        "end": "2025-06-23T15:05:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 15/12\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "Ots (w)",
+        "start": "2025-04-05T11:40:00",
+        "end": "2025-04-05T13:15:00",
+        "description": "Ochrona transakcyjnych i statystycznych baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: dr hab. inż. Bolesław Szafrański",
+        "allDay": false,
+        "color": "#9D47B2"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2025-06-25T13:30:00",
+        "end": "2025-06-25T15:05:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 46/12\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "Zkc (w)",
+        "start": "2024-10-13T08:00:00",
+        "end": "2024-10-13T09:35:00",
+        "description": "Zarządzanie kryzysowe w cyberbezpieczeństwie\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący:  Bogusław Hajdasz",
+        "allDay": false,
+        "color": "#47B29D"
+    },
+    {
+        "title": "ksc (ć)",
+        "start": "2025-05-17T11:40:00",
+        "end": "2025-05-17T13:15:00",
+        "description": "Krajowy system cyberbezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/5\nProwadzący:  Filip Marczewski",
+        "allDay": false,
+        "color": "#72B247"
+    },
+    {
+        "title": "Zkc (w)",
+        "start": "2024-10-12T13:30:00",
+        "end": "2024-10-12T15:05:00",
+        "description": "Zarządzanie kryzysowe w cyberbezpieczeństwie\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący:  Bogusław Hajdasz",
+        "allDay": false,
+        "color": "#47B29D"
+    },
+    {
+        "title": "Cse (L)",
+        "start": "2025-02-22T09:50:00",
+        "end": "2025-02-22T11:25:00",
+        "description": "Cyber security systems\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący:  Alessandro Armando",
+        "allDay": false,
+        "color": "#B29D47"
+    },
+    {
+        "title": "ksc (ć)",
+        "start": "2025-03-16T13:30:00",
+        "end": "2025-03-16T15:05:00",
+        "description": "Krajowy system cyberbezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/5\nProwadzący:  Filip Marczewski",
+        "allDay": false,
+        "color": "#72B247"
+    },
+    {
+        "title": "CP (w)",
+        "start": "2024-10-26T13:30:00",
+        "end": "2024-10-26T15:05:00",
+        "description": "Cyberprzestępczość\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący:  Agnieszka Gryszczyńska",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2025-06-24T09:50:00",
+        "end": "2025-06-24T11:25:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 23/12\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "Dme (L)",
+        "start": "2025-01-11T13:30:00",
+        "end": "2025-01-11T15:05:00",
+        "description": "Decyzje menedżerskie\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/4\nProwadzący: dr hab. inż. Zbigniew Tarapata",
+        "allDay": false,
+        "color": "#B2479D"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2025-06-24T11:40:00",
+        "end": "2025-06-24T13:15:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 27/12\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "Cse (w)",
+        "start": "2025-02-15T13:30:00",
+        "end": "2025-02-15T15:05:00",
+        "description": "Cyber security systems\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący:  Alessandro Armando",
+        "allDay": false,
+        "color": "#B29D47"
+    },
+    {
+        "title": "ksc (w)",
+        "start": "2025-06-07T09:50:00",
+        "end": "2025-06-07T11:25:00",
+        "description": "Krajowy system cyberbezpieczeństwa\nRodzaj zajęć: Wykład\nNr zajęć: 5/4\nProwadzący:  Krzysztof Dyki",
+        "allDay": false,
+        "color": "#72B247"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2025-06-25T08:00:00",
+        "end": "2025-06-25T09:35:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 33/12\nProwadzący: dr inż. Grzegorz Bliźniuk",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "ZIT (w)",
+        "start": "2024-11-24T08:00:00",
+        "end": "2024-11-24T09:35:00",
+        "description": "Zarządzanie usługami IT\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr inż. Wiesław Barcikowski",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "CP (ć)",
+        "start": "2025-01-12T11:40:00",
+        "end": "2025-01-12T13:15:00",
+        "description": "Cyberprzestępczość\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/4\nProwadzący:  Agnieszka Gryszczyńska",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Dme (w)",
+        "start": "2024-10-12T11:40:00",
+        "end": "2024-10-12T13:15:00",
+        "description": "Decyzje menedżerskie\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: dr hab. inż. Zbigniew Tarapata",
+        "allDay": false,
+        "color": "#B2479D"
+    },
+    {
+        "title": "PNc (P)",
+        "start": "2025-05-25T09:50:00",
+        "end": "2025-05-25T11:25:00",
+        "description": "Polityka NATO w zakresie cyberbezpieczeństwa - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 4/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "Crm (L)",
+        "start": "2025-04-26T09:50:00",
+        "end": "2025-04-26T11:25:00",
+        "description": "Cyberkonflikty w relacjach międzynarodowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/3\nProwadzący:  Piotr Kępski",
+        "allDay": false,
+        "color": "#9DB247"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2025-06-24T08:00:00",
+        "end": "2025-06-24T09:35:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 17/12\nProwadzący: dr inż. Grzegorz Bliźniuk",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "PNc (P)",
+        "start": "2025-05-25T08:00:00",
+        "end": "2025-05-25T09:35:00",
+        "description": "Polityka NATO w zakresie cyberbezpieczeństwa - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 3/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2025-06-23T13:30:00",
+        "end": "2025-06-23T15:05:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 16/12\nProwadzący: dr hab. inż. Bolesław Szafrański",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "Crm (w)",
+        "start": "2025-04-27T11:40:00",
+        "end": "2025-04-27T13:15:00",
+        "description": "Cyberkonflikty w relacjach międzynarodowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący:  Mirosław Maj",
+        "allDay": false,
+        "color": "#9DB247"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2025-06-25T08:00:00",
+        "end": "2025-06-25T09:35:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 34/12\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2025-06-24T08:00:00",
+        "end": "2025-06-24T09:35:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 19/12\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2025-06-25T11:40:00",
+        "end": "2025-06-25T13:15:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 41/12\nProwadzący: dr inż. Grzegorz Bliźniuk",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "Sd. (Inne)",
+        "start": "2025-05-11T16:00:00",
+        "end": "2025-05-11T17:35:00",
+        "description": "Seminarium dyplomowe\nRodzaj zajęć:  - \nNr zajęć: 5/6\nProwadzący: dr inż. Wiesław Barcikowski",
+        "allDay": false,
+        "color": "#47B272"
+    },
+    {
+        "title": "ZIT (w)",
+        "start": "2024-12-14T08:00:00",
+        "end": "2024-12-14T09:35:00",
+        "description": "Zarządzanie usługami IT\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Wiesław Barcikowski",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "ZIT (w)",
+        "start": "2024-11-24T09:50:00",
+        "end": "2024-11-24T11:25:00",
+        "description": "Zarządzanie usługami IT\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Wiesław Barcikowski",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "Zpc (w)",
+        "start": "2024-10-27T13:30:00",
+        "end": "2024-10-27T15:05:00",
+        "description": "Zarządzanie projektami i inżynieria systemów w cyberbezpieczeństwie\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: dr inż. Mariusz Chmielewski",
+        "allDay": false,
+        "color": "#479DB2"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2025-06-24T13:30:00",
+        "end": "2025-06-24T15:05:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 30/12\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "ksc (ć)",
+        "start": "2025-05-18T13:30:00",
+        "end": "2025-05-18T15:05:00",
+        "description": "Krajowy system cyberbezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/5\nProwadzący:  Filip Marczewski",
+        "allDay": false,
+        "color": "#72B247"
+    },
+    {
+        "title": "Ots (w)",
+        "start": "2025-03-01T11:40:00",
+        "end": "2025-03-01T13:15:00",
+        "description": "Ochrona transakcyjnych i statystycznych baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: dr hab. inż. Bolesław Szafrański",
+        "allDay": false,
+        "color": "#9D47B2"
+    },
+    {
+        "title": "ZIT (Inne)",
+        "start": "2025-01-26T11:40:00",
+        "end": "2025-01-26T13:15:00",
+        "description": "Zarządzanie usługami IT\nRodzaj zajęć:  - \nNr zajęć: 2/3\nProwadzący: dr inż. Wiesław Barcikowski",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "PNc (w)",
+        "start": "2025-05-24T09:50:00",
+        "end": "2025-05-24T11:25:00",
+        "description": "Polityka NATO w zakresie cyberbezpieczeństwa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "Sd. (Inne)",
+        "start": "2025-05-11T09:50:00",
+        "end": "2025-05-11T11:25:00",
+        "description": "Seminarium dyplomowe\nRodzaj zajęć:  - \nNr zajęć: 2/6\nProwadzący: dr inż. Wiesław Barcikowski",
+        "allDay": false,
+        "color": "#47B272"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2025-06-23T11:40:00",
+        "end": "2025-06-23T13:15:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 11/12\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2025-06-23T09:50:00",
+        "end": "2025-06-23T11:25:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 6/12\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "CP (w)",
+        "start": "2024-10-26T08:00:00",
+        "end": "2024-10-26T09:35:00",
+        "description": "Cyberprzestępczość\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący:  Agnieszka Gryszczyńska",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Cse (w)",
+        "start": "2025-02-16T08:00:00",
+        "end": "2025-02-16T09:35:00",
+        "description": "Cyber security systems\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący:  Alessandro Armando",
+        "allDay": false,
+        "color": "#B29D47"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2025-06-23T13:30:00",
+        "end": "2025-06-23T15:05:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 14/12\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "Zpc (L)",
+        "start": "2025-01-12T08:00:00",
+        "end": "2025-01-12T09:35:00",
+        "description": "Zarządzanie projektami i inżynieria systemów w cyberbezpieczeństwie\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/4\nProwadzący: dr inż. Mariusz Chmielewski",
+        "allDay": false,
+        "color": "#479DB2"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2025-06-24T11:40:00",
+        "end": "2025-06-24T13:15:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 26/12\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "Sd. (w)",
+        "start": "2025-03-16T09:50:00",
+        "end": "2025-03-16T11:25:00",
+        "description": "Seminarium dyplomowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/2\nProwadzący: dr inż. Wiesław Barcikowski",
+        "allDay": false,
+        "color": "#47B272"
+    },
+    {
+        "title": "Dme (w)",
+        "start": "2024-11-23T08:00:00",
+        "end": "2024-11-23T09:35:00",
+        "description": "Decyzje menedżerskie\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr hab. inż. Zbigniew Tarapata",
+        "allDay": false,
+        "color": "#B2479D"
+    },
+    {
+        "title": "Zkc (w)",
+        "start": "2024-11-09T11:40:00",
+        "end": "2024-11-09T13:15:00",
+        "description": "Zarządzanie kryzysowe w cyberbezpieczeństwie\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący:  Bogusław Hajdasz",
+        "allDay": false,
+        "color": "#47B29D"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2025-06-23T08:00:00",
+        "end": "2025-06-23T09:35:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 2/12\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "Crm (w)",
+        "start": "2025-04-27T08:00:00",
+        "end": "2025-04-27T09:35:00",
+        "description": "Cyberkonflikty w relacjach międzynarodowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący:  Mirosław Maj",
+        "allDay": false,
+        "color": "#9DB247"
+    },
+    {
+        "title": "Ots (ć)",
+        "start": "2025-06-07T11:40:00",
+        "end": "2025-06-07T13:15:00",
+        "description": "Ochrona transakcyjnych i statystycznych baz danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/4\nProwadzący: dr hab. inż. Bolesław Szafrański",
+        "allDay": false,
+        "color": "#9D47B2"
+    },
+    {
+        "title": "Dme (w)",
+        "start": "2024-11-23T09:50:00",
+        "end": "2024-11-23T11:25:00",
+        "description": "Decyzje menedżerskie\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: dr hab. inż. Zbigniew Tarapata",
+        "allDay": false,
+        "color": "#B2479D"
+    },
+    {
+        "title": "Ots (ć)",
+        "start": "2025-06-07T13:30:00",
+        "end": "2025-06-07T15:05:00",
+        "description": "Ochrona transakcyjnych i statystycznych baz danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący: dr hab. inż. Bolesław Szafrański",
+        "allDay": false,
+        "color": "#9D47B2"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2025-06-24T13:30:00",
+        "end": "2025-06-24T15:05:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 32/12\nProwadzący: dr hab. inż. Bolesław Szafrański",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "PNc (P)",
+        "start": "2025-05-24T11:40:00",
+        "end": "2025-05-24T13:15:00",
+        "description": "Polityka NATO w zakresie cyberbezpieczeństwa - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 1/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2025-06-24T09:50:00",
+        "end": "2025-06-24T11:25:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 24/12\nProwadzący: dr hab. inż. Bolesław Szafrański",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "Zrc (w)",
+        "start": "2024-11-10T13:30:00",
+        "end": "2024-11-10T15:05:00",
+        "description": "Zarządzanie ryzykiem w cyberbezpieczeństwie\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#B24772"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2025-06-24T11:40:00",
+        "end": "2025-06-24T13:15:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 25/12\nProwadzący: dr inż. Grzegorz Bliźniuk",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "ksc (ć)",
+        "start": "2025-05-18T11:40:00",
+        "end": "2025-05-18T13:15:00",
+        "description": "Krajowy system cyberbezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/5\nProwadzący:  Filip Marczewski",
+        "allDay": false,
+        "color": "#72B247"
+    },
+    {
+        "title": "Zrc (w)",
+        "start": "2024-11-23T13:30:00",
+        "end": "2024-11-23T15:05:00",
+        "description": "Zarządzanie ryzykiem w cyberbezpieczeństwie\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#B24772"
+    },
+    {
+        "title": "Zkc (L)",
+        "start": "2024-11-10T11:40:00",
+        "end": "2024-11-10T13:15:00",
+        "description": "Zarządzanie kryzysowe w cyberbezpieczeństwie\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/4\nProwadzący:  Bogusław Hajdasz",
+        "allDay": false,
+        "color": "#47B29D"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2025-06-23T08:00:00",
+        "end": "2025-06-23T09:35:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 1/12\nProwadzący: dr inż. Grzegorz Bliźniuk",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "Crm (w)",
+        "start": "2025-04-27T13:30:00",
+        "end": "2025-04-27T15:05:00",
+        "description": "Cyberkonflikty w relacjach międzynarodowych\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący:  Mirosław Maj",
+        "allDay": false,
+        "color": "#9DB247"
+    },
+    {
+        "title": "Sd. (Inne)",
+        "start": "2025-05-11T11:40:00",
+        "end": "2025-05-11T13:15:00",
+        "description": "Seminarium dyplomowe\nRodzaj zajęć:  - \nNr zajęć: 3/6\nProwadzący: dr inż. Wiesław Barcikowski",
+        "allDay": false,
+        "color": "#47B272"
+    },
+    {
+        "title": "Zpc (w)",
+        "start": "2024-10-27T08:00:00",
+        "end": "2024-10-27T09:35:00",
+        "description": "Zarządzanie projektami i inżynieria systemów w cyberbezpieczeństwie\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: dr inż. Mariusz Chmielewski",
+        "allDay": false,
+        "color": "#479DB2"
+    },
+    {
+        "title": "PNc (w)",
+        "start": "2025-05-10T16:00:00",
+        "end": "2025-05-10T17:35:00",
+        "description": "Polityka NATO w zakresie cyberbezpieczeństwa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "ZIT (w)",
+        "start": "2024-11-24T13:30:00",
+        "end": "2024-11-24T15:05:00",
+        "description": "Zarządzanie usługami IT\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr inż. Wiesław Barcikowski",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "Zrc (L)",
+        "start": "2025-02-23T11:40:00",
+        "end": "2025-02-23T13:15:00",
+        "description": "Zarządzanie ryzykiem w cyberbezpieczeństwie\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/3\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#B24772"
+    },
+    {
+        "title": "Zpc (w)",
+        "start": "2024-10-27T09:50:00",
+        "end": "2024-10-27T11:25:00",
+        "description": "Zarządzanie projektami i inżynieria systemów w cyberbezpieczeństwie\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: dr inż. Mariusz Chmielewski",
+        "allDay": false,
+        "color": "#479DB2"
+    },
+    {
+        "title": "Cse (w)",
+        "start": "2025-02-15T11:40:00",
+        "end": "2025-02-15T13:15:00",
+        "description": "Cyber security systems\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący:  Alessandro Armando",
+        "allDay": false,
+        "color": "#B29D47"
+    },
+    {
+        "title": "ksc (w)",
+        "start": "2025-03-02T13:30:00",
+        "end": "2025-03-02T15:05:00",
+        "description": "Krajowy system cyberbezpieczeństwa\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący:  Krzysztof Silicki",
+        "allDay": false,
+        "color": "#72B247"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2025-06-25T13:30:00",
+        "end": "2025-06-25T15:05:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 45/12\nProwadzący: dr inż. Grzegorz Bliźniuk",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "Cse (L)",
+        "start": "2025-02-22T13:30:00",
+        "end": "2025-02-22T15:05:00",
+        "description": "Cyber security systems\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący:  Alessandro Armando",
+        "allDay": false,
+        "color": "#B29D47"
+    },
+    {
+        "title": "Sd. (w)",
+        "start": "2025-03-16T08:00:00",
+        "end": "2025-03-16T09:35:00",
+        "description": "Seminarium dyplomowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/2\nProwadzący: dr inż. Wiesław Barcikowski",
+        "allDay": false,
+        "color": "#47B272"
+    },
+    {
+        "title": "PNc (P)",
+        "start": "2025-05-25T11:40:00",
+        "end": "2025-05-25T13:15:00",
+        "description": "Polityka NATO w zakresie cyberbezpieczeństwa - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 5/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "ZIT (w)",
+        "start": "2025-01-26T08:00:00",
+        "end": "2025-01-26T09:35:00",
+        "description": "Zarządzanie usługami IT\nRodzaj zajęć: Wykład\nNr zajęć: 6/5\nProwadzący:  Robert Kośla",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "Cse (L)",
+        "start": "2025-02-16T11:40:00",
+        "end": "2025-02-16T13:15:00",
+        "description": "Cyber security systems\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący:  Alessandro Armando",
+        "allDay": false,
+        "color": "#B29D47"
+    },
+    {
+        "title": "Dme (w)",
+        "start": "2024-11-09T08:00:00",
+        "end": "2024-11-09T09:35:00",
+        "description": "Decyzje menedżerskie\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: dr hab. inż. Zbigniew Tarapata",
+        "allDay": false,
+        "color": "#B2479D"
+    },
+    {
+        "title": "Twinf (L)",
+        "start": "2025-05-18T08:00:00",
+        "end": "2025-05-18T09:35:00",
+        "description": "Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#7247B2"
+    },
+    {
+        "title": "Sd. (Inne)",
+        "start": "2025-05-11T17:50:00",
+        "end": "2025-05-11T19:25:00",
+        "description": "Seminarium dyplomowe\nRodzaj zajęć:  - \nNr zajęć: 6/6\nProwadzący: dr inż. Wiesław Barcikowski",
+        "allDay": false,
+        "color": "#47B272"
+    },
+    {
+        "title": "Zkc (w)",
+        "start": "2024-11-10T08:00:00",
+        "end": "2024-11-10T09:35:00",
+        "description": "Zarządzanie kryzysowe w cyberbezpieczeństwie\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący:  Bogusław Hajdasz",
+        "allDay": false,
+        "color": "#47B29D"
+    },
+    {
+        "title": "Twinf (w)",
+        "start": "2025-04-05T08:00:00",
+        "end": "2025-04-05T09:35:00",
+        "description": "Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#7247B2"
+    },
+    {
+        "title": "Crm (w)",
+        "start": "2025-04-26T08:00:00",
+        "end": "2025-04-26T09:35:00",
+        "description": "Cyberkonflikty w relacjach międzynarodowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Mirosław Maj",
+        "allDay": false,
+        "color": "#9DB247"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2025-06-23T09:50:00",
+        "end": "2025-06-23T11:25:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 7/12\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2025-06-25T09:50:00",
+        "end": "2025-06-25T11:25:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 38/12\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "ZIT (Inne)",
+        "start": "2024-12-14T09:50:00",
+        "end": "2024-12-14T11:25:00",
+        "description": "Zarządzanie usługami IT\nRodzaj zajęć:  - \nNr zajęć: 1/3\nProwadzący: dr inż. Wiesław Barcikowski",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2025-06-25T11:40:00",
+        "end": "2025-06-25T13:15:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 42/12\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2025-06-23T13:30:00",
+        "end": "2025-06-23T15:05:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 13/12\nProwadzący: dr inż. Grzegorz Bliźniuk",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "ksc (ć)",
+        "start": "2025-05-17T13:30:00",
+        "end": "2025-05-17T15:05:00",
+        "description": "Krajowy system cyberbezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/5\nProwadzący:  Filip Marczewski",
+        "allDay": false,
+        "color": "#72B247"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2025-06-25T09:50:00",
+        "end": "2025-06-25T11:25:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 39/12\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "Dme (w)",
+        "start": "2024-10-12T09:50:00",
+        "end": "2024-10-12T11:25:00",
+        "description": "Decyzje menedżerskie\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: dr hab. inż. Zbigniew Tarapata",
+        "allDay": false,
+        "color": "#B2479D"
+    },
+    {
+        "title": "Crm (L)",
+        "start": "2025-04-26T11:40:00",
+        "end": "2025-04-26T13:15:00",
+        "description": "Cyberkonflikty w relacjach międzynarodowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/3\nProwadzący:  Piotr Kępski",
+        "allDay": false,
+        "color": "#9DB247"
+    },
+    {
+        "title": "Dme (L)",
+        "start": "2025-01-25T13:30:00",
+        "end": "2025-01-25T15:05:00",
+        "description": "Decyzje menedżerskie\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/4\nProwadzący: dr hab. inż. Zbigniew Tarapata",
+        "allDay": false,
+        "color": "#B2479D"
+    },
+    {
+        "title": "PNc (w)",
+        "start": "2025-05-24T08:00:00",
+        "end": "2025-05-24T09:35:00",
+        "description": "Polityka NATO w zakresie cyberbezpieczeństwa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "CP (ć)",
+        "start": "2024-12-15T11:40:00",
+        "end": "2024-12-15T13:15:00",
+        "description": "Cyberprzestępczość\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/4\nProwadzący:  Agnieszka Gryszczyńska",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Dme (w)",
+        "start": "2024-11-09T09:50:00",
+        "end": "2024-11-09T11:25:00",
+        "description": "Decyzje menedżerskie\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr hab. inż. Zbigniew Tarapata",
+        "allDay": false,
+        "color": "#B2479D"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2025-06-24T09:50:00",
+        "end": "2025-06-24T11:25:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 21/12\nProwadzący: dr inż. Grzegorz Bliźniuk",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "Zrc (L)",
+        "start": "2025-02-23T09:50:00",
+        "end": "2025-02-23T11:25:00",
+        "description": "Zarządzanie ryzykiem w cyberbezpieczeństwie\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/3\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#B24772"
+    },
+    {
+        "title": "Ots (ć)",
+        "start": "2025-04-06T13:30:00",
+        "end": "2025-04-06T15:05:00",
+        "description": "Ochrona transakcyjnych i statystycznych baz danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/4\nProwadzący: dr hab. inż. Bolesław Szafrański",
+        "allDay": false,
+        "color": "#9D47B2"
+    },
+    {
+        "title": "PNc (w)",
+        "start": "2025-05-10T17:50:00",
+        "end": "2025-05-10T19:25:00",
+        "description": "Polityka NATO w zakresie cyberbezpieczeństwa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2025-06-23T11:40:00",
+        "end": "2025-06-23T13:15:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 9/12\nProwadzący: dr inż. Grzegorz Bliźniuk",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2025-06-23T11:40:00",
+        "end": "2025-06-23T13:15:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 12/12\nProwadzący: dr hab. inż. Bolesław Szafrański",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "Ots (ć)",
+        "start": "2025-04-05T13:30:00",
+        "end": "2025-04-05T15:05:00",
+        "description": "Ochrona transakcyjnych i statystycznych baz danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/4\nProwadzący: dr hab. inż. Bolesław Szafrański",
+        "allDay": false,
+        "color": "#9D47B2"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2025-06-24T08:00:00",
+        "end": "2025-06-24T09:35:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 20/12\nProwadzący: dr hab. inż. Bolesław Szafrański",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "Twinf (L)",
+        "start": "2025-05-17T08:00:00",
+        "end": "2025-05-17T09:35:00",
+        "description": "Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#7247B2"
+    },
+    {
+        "title": "CP (w)",
+        "start": "2024-10-26T11:40:00",
+        "end": "2024-10-26T13:15:00",
+        "description": "Cyberprzestępczość\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący:  Agnieszka Gryszczyńska",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Zkc (L)",
+        "start": "2024-11-10T09:50:00",
+        "end": "2024-11-10T11:25:00",
+        "description": "Zarządzanie kryzysowe w cyberbezpieczeństwie\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/4\nProwadzący:  Bogusław Hajdasz",
+        "allDay": false,
+        "color": "#47B29D"
+    },
+    {
+        "title": "Zpc (L)",
+        "start": "2024-12-15T09:50:00",
+        "end": "2024-12-15T11:25:00",
+        "description": "Zarządzanie projektami i inżynieria systemów w cyberbezpieczeństwie\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/4\nProwadzący: dr inż. Mariusz Chmielewski",
+        "allDay": false,
+        "color": "#479DB2"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2025-06-24T13:30:00",
+        "end": "2025-06-24T15:05:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 31/12\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "Crm (w)",
+        "start": "2025-04-27T09:50:00",
+        "end": "2025-04-27T11:25:00",
+        "description": "Cyberkonflikty w relacjach międzynarodowych\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący:  Mirosław Maj",
+        "allDay": false,
+        "color": "#9DB247"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2025-06-24T09:50:00",
+        "end": "2025-06-24T11:25:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 22/12\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "Twinf (L)",
+        "start": "2025-04-06T08:00:00",
+        "end": "2025-04-06T09:35:00",
+        "description": "Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#7247B2"
+    },
+    {
+        "title": "ksc (w)",
+        "start": "2025-03-16T11:40:00",
+        "end": "2025-03-16T13:15:00",
+        "description": "Krajowy system cyberbezpieczeństwa\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący:  Krzysztof Silicki",
+        "allDay": false,
+        "color": "#72B247"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2025-06-25T08:00:00",
+        "end": "2025-06-25T09:35:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 35/12\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "Twinf (w)",
+        "start": "2025-03-02T08:00:00",
+        "end": "2025-03-02T09:35:00",
+        "description": "Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#7247B2"
+    },
+    {
+        "title": "wi (w)",
+        "start": "2024-10-12T08:00:00",
+        "end": "2024-10-12T09:35:00",
+        "description": "Wykład inauguracyjny\nRodzaj zajęć: Wykład\nNr zajęć: 1/1\nProwadzący: dr inż. Mariusz Chmielewski",
+        "allDay": false,
+        "color": "#B27247"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2025-06-25T09:50:00",
+        "end": "2025-06-25T11:25:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 40/12\nProwadzący: dr hab. inż. Bolesław Szafrański",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "Zrc (w)",
+        "start": "2024-11-23T11:40:00",
+        "end": "2024-11-23T13:15:00",
+        "description": "Zarządzanie ryzykiem w cyberbezpieczeństwie\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#B24772"
+    },
+    {
+        "title": "Zrc (ć)",
+        "start": "2025-01-11T08:00:00",
+        "end": "2025-01-11T09:35:00",
+        "description": "Zarządzanie ryzykiem w cyberbezpieczeństwie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#B24772"
+    },
+    {
+        "title": "Ots (w)",
+        "start": "2025-04-06T11:40:00",
+        "end": "2025-04-06T13:15:00",
+        "description": "Ochrona transakcyjnych i statystycznych baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: dr hab. inż. Bolesław Szafrański",
+        "allDay": false,
+        "color": "#9D47B2"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2025-06-25T09:50:00",
+        "end": "2025-06-25T11:25:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 37/12\nProwadzący: dr inż. Grzegorz Bliźniuk",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "Ots (w)",
+        "start": "2025-03-15T11:40:00",
+        "end": "2025-03-15T13:15:00",
+        "description": "Ochrona transakcyjnych i statystycznych baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: dr hab. inż. Bolesław Szafrański",
+        "allDay": false,
+        "color": "#9D47B2"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2025-06-25T08:00:00",
+        "end": "2025-06-25T09:35:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 36/12\nProwadzący: dr hab. inż. Bolesław Szafrański",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "Twinf (w)",
+        "start": "2025-03-01T09:50:00",
+        "end": "2025-03-01T11:25:00",
+        "description": "Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#7247B2"
+    },
+    {
+        "title": "CP (ć)",
+        "start": "2025-01-12T13:30:00",
+        "end": "2025-01-12T15:05:00",
+        "description": "Cyberprzestępczość\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący:  Agnieszka Gryszczyńska",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "CP (ć)",
+        "start": "2024-12-15T13:30:00",
+        "end": "2024-12-15T15:05:00",
+        "description": "Cyberprzestępczość\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/4\nProwadzący:  Agnieszka Gryszczyńska",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Zrc (L)",
+        "start": "2025-02-23T08:00:00",
+        "end": "2025-02-23T09:35:00",
+        "description": "Zarządzanie ryzykiem w cyberbezpieczeństwie\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/3\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#B24772"
+    },
+    {
+        "title": "Twinf (w)",
+        "start": "2025-03-01T08:00:00",
+        "end": "2025-03-01T09:35:00",
+        "description": "Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#7247B2"
+    },
+    {
+        "title": "Dme (w)",
+        "start": "2025-01-25T09:50:00",
+        "end": "2025-01-25T11:25:00",
+        "description": "Decyzje menedżerskie\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr hab. inż. Zbigniew Tarapata",
+        "allDay": false,
+        "color": "#B2479D"
+    },
+    {
+        "title": "Twinf (L)",
+        "start": "2025-05-18T09:50:00",
+        "end": "2025-05-18T11:25:00",
+        "description": "Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#7247B2"
+    },
+    {
+        "title": "Zpc (L)",
+        "start": "2025-01-12T09:50:00",
+        "end": "2025-01-12T11:25:00",
+        "description": "Zarządzanie projektami i inżynieria systemów w cyberbezpieczeństwie\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/4\nProwadzący: dr inż. Mariusz Chmielewski",
+        "allDay": false,
+        "color": "#479DB2"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2025-06-24T08:00:00",
+        "end": "2025-06-24T09:35:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 18/12\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "Zrc (w)",
+        "start": "2024-12-14T13:30:00",
+        "end": "2024-12-14T15:05:00",
+        "description": "Zarządzanie ryzykiem w cyberbezpieczeństwie\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#B24772"
+    },
+    {
+        "title": "Dme (w)",
+        "start": "2025-01-25T08:00:00",
+        "end": "2025-01-25T09:35:00",
+        "description": "Decyzje menedżerskie\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: dr hab. inż. Zbigniew Tarapata",
+        "allDay": false,
+        "color": "#B2479D"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2025-06-25T11:40:00",
+        "end": "2025-06-25T13:15:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 44/12\nProwadzący: dr hab. inż. Bolesław Szafrański",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "Twinf (w)",
+        "start": "2025-03-02T09:50:00",
+        "end": "2025-03-02T11:25:00",
+        "description": "Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#7247B2"
+    },
+    {
+        "title": "Cse (L)",
+        "start": "2025-02-22T11:40:00",
+        "end": "2025-02-22T13:15:00",
+        "description": "Cyber security systems\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący:  Alessandro Armando",
+        "allDay": false,
+        "color": "#B29D47"
+    },
+    {
+        "title": "Zpc (L)",
+        "start": "2024-12-15T08:00:00",
+        "end": "2024-12-15T09:35:00",
+        "description": "Zarządzanie projektami i inżynieria systemów w cyberbezpieczeństwie\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/4\nProwadzący: dr inż. Mariusz Chmielewski",
+        "allDay": false,
+        "color": "#479DB2"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2025-06-24T13:30:00",
+        "end": "2025-06-24T15:05:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 29/12\nProwadzący: dr inż. Grzegorz Bliźniuk",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "ZIT (w)",
+        "start": "2025-01-26T09:50:00",
+        "end": "2025-01-26T11:25:00",
+        "description": "Zarządzanie usługami IT\nRodzaj zajęć: Wykład\nNr zajęć: 7/5\nProwadzący:  Robert Kośla",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "Cse (w)",
+        "start": "2025-02-15T08:00:00",
+        "end": "2025-02-15T09:35:00",
+        "description": "Cyber security systems\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący:  Alessandro Armando",
+        "allDay": false,
+        "color": "#B29D47"
+    },
+    {
+        "title": "Twinf (w)",
+        "start": "2025-04-05T09:50:00",
+        "end": "2025-04-05T11:25:00",
+        "description": "Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#7247B2"
+    },
+    {
+        "title": "Dme (L)",
+        "start": "2025-01-25T11:40:00",
+        "end": "2025-01-25T13:15:00",
+        "description": "Decyzje menedżerskie\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/4\nProwadzący: dr hab. inż. Zbigniew Tarapata",
+        "allDay": false,
+        "color": "#B2479D"
+    },
+    {
+        "title": "PNc (w)",
+        "start": "2025-03-15T08:00:00",
+        "end": "2025-03-15T09:35:00",
+        "description": "Polityka NATO w zakresie cyberbezpieczeństwa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "Twinf (L)",
+        "start": "2025-04-06T09:50:00",
+        "end": "2025-04-06T11:25:00",
+        "description": "Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#7247B2"
+    },
+    {
+        "title": "Cse (w)",
+        "start": "2025-02-15T09:50:00",
+        "end": "2025-02-15T11:25:00",
+        "description": "Cyber security systems\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący:  Alessandro Armando",
+        "allDay": false,
+        "color": "#B29D47"
+    },
+    {
+        "title": "Zpc (w)",
+        "start": "2024-10-27T11:40:00",
+        "end": "2024-10-27T13:15:00",
+        "description": "Zarządzanie projektami i inżynieria systemów w cyberbezpieczeństwie\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: dr inż. Mariusz Chmielewski",
+        "allDay": false,
+        "color": "#479DB2"
+    },
+    {
+        "title": "CP (w)",
+        "start": "2024-10-26T09:50:00",
+        "end": "2024-10-26T11:25:00",
+        "description": "Cyberprzestępczość\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący:  Agnieszka Gryszczyńska",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2025-06-25T13:30:00",
+        "end": "2025-06-25T15:05:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 47/12\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "ksc (w)",
+        "start": "2025-03-02T11:40:00",
+        "end": "2025-03-02T13:15:00",
+        "description": "Krajowy system cyberbezpieczeństwa\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący:  Krzysztof Silicki",
+        "allDay": false,
+        "color": "#72B247"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2025-06-25T13:30:00",
+        "end": "2025-06-25T15:05:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 48/12\nProwadzący: dr hab. inż. Bolesław Szafrański",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "Sd. (Inne)",
+        "start": "2025-05-11T13:30:00",
+        "end": "2025-05-11T15:05:00",
+        "description": "Seminarium dyplomowe\nRodzaj zajęć:  - \nNr zajęć: 4/6\nProwadzący: dr inż. Wiesław Barcikowski",
+        "allDay": false,
+        "color": "#47B272"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2025-06-25T11:40:00",
+        "end": "2025-06-25T13:15:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 43/12\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2025-06-23T09:50:00",
+        "end": "2025-06-23T11:25:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 5/12\nProwadzący: dr inż. Grzegorz Bliźniuk",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "Zkc (w)",
+        "start": "2024-11-09T13:30:00",
+        "end": "2024-11-09T15:05:00",
+        "description": "Zarządzanie kryzysowe w cyberbezpieczeństwie\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący:  Bogusław Hajdasz",
+        "allDay": false,
+        "color": "#47B29D"
+    },
+    {
+        "title": "PNc (P)",
+        "start": "2025-05-24T13:30:00",
+        "end": "2025-05-24T15:05:00",
+        "description": "Polityka NATO w zakresie cyberbezpieczeństwa - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 2/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "Zkc (w)",
+        "start": "2024-10-13T09:50:00",
+        "end": "2024-10-13T11:25:00",
+        "description": "Zarządzanie kryzysowe w cyberbezpieczeństwie\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący:  Bogusław Hajdasz",
+        "allDay": false,
+        "color": "#47B29D"
+    },
+    {
+        "title": "Cse (w)",
+        "start": "2025-02-16T09:50:00",
+        "end": "2025-02-16T11:25:00",
+        "description": "Cyber security systems\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący:  Alessandro Armando",
+        "allDay": false,
+        "color": "#B29D47"
+    },
+    {
+        "title": "ZIT (Inne)",
+        "start": "2025-01-26T13:30:00",
+        "end": "2025-01-26T15:05:00",
+        "description": "Zarządzanie usługami IT\nRodzaj zajęć:  - \nNr zajęć: 3/3\nProwadzący: dr inż. Wiesław Barcikowski",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "Zrc (ć)",
+        "start": "2025-01-11T09:50:00",
+        "end": "2025-01-11T11:25:00",
+        "description": "Zarządzanie ryzykiem w cyberbezpieczeństwie\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#B24772"
+    },
+    {
+        "title": "Ots (w)",
+        "start": "2025-03-15T13:30:00",
+        "end": "2025-03-15T15:05:00",
+        "description": "Ochrona transakcyjnych i statystycznych baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: dr hab. inż. Bolesław Szafrański",
+        "allDay": false,
+        "color": "#9D47B2"
+    },
+    {
+        "title": "PNc (w)",
+        "start": "2025-03-15T09:50:00",
+        "end": "2025-03-15T11:25:00",
+        "description": "Polityka NATO w zakresie cyberbezpieczeństwa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "Cse (L)",
+        "start": "2025-02-16T13:30:00",
+        "end": "2025-02-16T15:05:00",
+        "description": "Cyber security systems\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący:  Alessandro Armando",
+        "allDay": false,
+        "color": "#B29D47"
+    },
+    {
+        "title": "Zrc (w)",
+        "start": "2024-12-14T11:40:00",
+        "end": "2024-12-14T13:15:00",
+        "description": "Zarządzanie ryzykiem w cyberbezpieczeństwie\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#B24772"
+    },
+    {
+        "title": "Twinf (L)",
+        "start": "2025-05-17T09:50:00",
+        "end": "2025-05-17T11:25:00",
+        "description": "Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#7247B2"
+    },
+    {
+        "title": "Ots (w)",
+        "start": "2025-03-01T13:30:00",
+        "end": "2025-03-01T15:05:00",
+        "description": "Ochrona transakcyjnych i statystycznych baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: dr hab. inż. Bolesław Szafrański",
+        "allDay": false,
+        "color": "#9D47B2"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2025-06-24T11:40:00",
+        "end": "2025-06-24T13:15:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 28/12\nProwadzący: dr hab. inż. Bolesław Szafrański",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2025-06-23T08:00:00",
+        "end": "2025-06-23T09:35:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 4/12\nProwadzący: dr hab. inż. Bolesław Szafrański",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2025-06-23T11:40:00",
+        "end": "2025-06-23T13:15:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 10/12\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "Zkc (L)",
+        "start": "2024-10-13T13:30:00",
+        "end": "2024-10-13T15:05:00",
+        "description": "Zarządzanie kryzysowe w cyberbezpieczeństwie\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/4\nProwadzący:  Bogusław Hajdasz",
+        "allDay": false,
+        "color": "#47B29D"
+    },
+    {
+        "title": "Sd. (Inne)",
+        "start": "2025-05-11T08:00:00",
+        "end": "2025-05-11T09:35:00",
+        "description": "Seminarium dyplomowe\nRodzaj zajęć:  - \nNr zajęć: 1/6\nProwadzący: dr inż. Wiesław Barcikowski",
+        "allDay": false,
+        "color": "#47B272"
+    },
+    {
+        "title": "Crm (L)",
+        "start": "2025-04-26T13:30:00",
+        "end": "2025-04-26T15:05:00",
+        "description": "Cyberkonflikty w relacjach międzynarodowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/3\nProwadzący:  Piotr Kępski",
+        "allDay": false,
+        "color": "#9DB247"
+    },
+    {
+        "title": "PNc (P)",
+        "start": "2025-05-25T13:30:00",
+        "end": "2025-05-25T15:05:00",
+        "description": "Polityka NATO w zakresie cyberbezpieczeństwa - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 6/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "ZIT (w)",
+        "start": "2024-11-24T11:40:00",
+        "end": "2024-11-24T13:15:00",
+        "description": "Zarządzanie usługami IT\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr inż. Wiesław Barcikowski",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2025-06-23T08:00:00",
+        "end": "2025-06-23T09:35:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 3/12\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "Cse (L)",
+        "start": "2025-02-22T08:00:00",
+        "end": "2025-02-22T09:35:00",
+        "description": "Cyber security systems\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący:  Alessandro Armando",
+        "allDay": false,
+        "color": "#B29D47"
+    },
+    {
+        "title": "Dme (L)",
+        "start": "2025-01-11T11:40:00",
+        "end": "2025-01-11T13:15:00",
+        "description": "Decyzje menedżerskie\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/4\nProwadzący: dr hab. inż. Zbigniew Tarapata",
+        "allDay": false,
+        "color": "#B2479D"
+    },
+    {
+        "title": "ksc (w)",
+        "start": "2025-06-07T08:00:00",
+        "end": "2025-06-07T09:35:00",
+        "description": "Krajowy system cyberbezpieczeństwa\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący:  Krzysztof Silicki",
+        "allDay": false,
+        "color": "#72B247"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2025-06-23T09:50:00",
+        "end": "2025-06-23T11:25:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 8/12\nProwadzący: dr hab. inż. Bolesław Szafrański",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "Zkc (L)",
+        "start": "2024-10-13T11:40:00",
+        "end": "2024-10-13T13:15:00",
+        "description": "Zarządzanie kryzysowe w cyberbezpieczeństwie\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/4\nProwadzący:  Bogusław Hajdasz",
+        "allDay": false,
+        "color": "#47B29D"
+    }
+]

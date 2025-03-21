@@ -1,0 +1,74 @@
+[
+    {
+        "title": "JEE (w)",
+        "start": "2025-03-29T16:00:00",
+        "end": "2025-03-29T17:35:00",
+        "description": "XTechnologie JavaEE\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: mgr inż. Łukasz Laszko",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "JEE (L)",
+        "start": "2025-06-07T13:30:00",
+        "end": "2025-06-07T15:05:00",
+        "description": "XTechnologie JavaEE\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/4\nProwadzący:  Piotr Targowski",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "JEE (w)",
+        "start": "2025-04-12T08:00:00",
+        "end": "2025-04-12T09:35:00",
+        "description": "XTechnologie JavaEE\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: mgr inż. Łukasz Laszko",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "JEE (w)",
+        "start": "2025-03-29T13:30:00",
+        "end": "2025-03-29T15:05:00",
+        "description": "XTechnologie JavaEE\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: mgr inż. Łukasz Laszko",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "JEE (w)",
+        "start": "2025-04-06T09:50:00",
+        "end": "2025-04-06T11:25:00",
+        "description": "XTechnologie JavaEE\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: mgr inż. Łukasz Laszko",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "JEE (L)",
+        "start": "2025-04-27T13:30:00",
+        "end": "2025-04-27T15:05:00",
+        "description": "XTechnologie JavaEE\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/4\nProwadzący:  Piotr Targowski",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "JEE (L)",
+        "start": "2025-04-27T11:40:00",
+        "end": "2025-04-27T13:15:00",
+        "description": "XTechnologie JavaEE\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/4\nProwadzący:  Piotr Targowski",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "JEE (L)",
+        "start": "2025-06-07T11:40:00",
+        "end": "2025-06-07T13:15:00",
+        "description": "XTechnologie JavaEE\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/4\nProwadzący:  Piotr Targowski",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "JEE (w)",
+        "start": "2025-04-06T08:00:00",
+        "end": "2025-04-06T09:35:00",
+        "description": "XTechnologie JavaEE\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: mgr inż. Łukasz Laszko",
+        "allDay": false,
+        "color": "#B24747"
+    }
+]

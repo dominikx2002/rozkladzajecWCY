@@ -1,0 +1,2474 @@
+[
+    {
+        "title": "Stc (L)",
+        "start": "2025-06-12T08:00:00",
+        "end": "2025-06-12T09:35:00",
+        "description": "Statistics\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/15\nProwadzący: dr Ewa Łakoma",
+        "allDay": false,
+        "color": "#B24797"
+    },
+    {
+        "title": "NLP (w)",
+        "start": "2025-03-20T11:40:00",
+        "end": "2025-03-20T13:15:00",
+        "description": "Natural Language Processing\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#7C47B2"
+    },
+    {
+        "title": "ISP (w)",
+        "start": "2024-11-28T09:50:00",
+        "end": "2024-11-28T11:25:00",
+        "description": "Introduction to Stochastic Processes\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: dr inż. Romuald Hoffmann",
+        "allDay": false,
+        "color": "#A5B247"
+    },
+    {
+        "title": "dip (w)",
+        "start": "2025-04-10T16:00:00",
+        "end": "2025-04-10T17:35:00",
+        "description": "Digital Image Processing\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#4762B2"
+    },
+    {
+        "title": "Stc (L)",
+        "start": "2025-03-26T11:40:00",
+        "end": "2025-03-26T13:15:00",
+        "description": "Statistics\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/15\nProwadzący: dr Ewa Łakoma",
+        "allDay": false,
+        "color": "#B24797"
+    },
+    {
+        "title": "dip (w)",
+        "start": "2025-05-13T17:50:00",
+        "end": "2025-05-13T19:25:00",
+        "description": "Digital Image Processing\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#4762B2"
+    },
+    {
+        "title": "Rcv (L)",
+        "start": "2025-05-07T16:00:00",
+        "end": "2025-05-07T17:35:00",
+        "description": "Robotics and Comp. Vision Systems\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "BN (w)",
+        "start": "2024-10-31T11:40:00",
+        "end": "2024-10-31T13:15:00",
+        "description": "Basics of Numerical Analysis and Technical Computations\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: dr hab. Marek Kojdecki",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "JEt (w)",
+        "start": "2024-12-12T09:50:00",
+        "end": "2024-12-12T11:25:00",
+        "description": "JavaEE Technologies\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: mgr inż. Łukasz Laszko",
+        "allDay": false,
+        "color": "#B2476F"
+    },
+    {
+        "title": "SQS (w)",
+        "start": "2024-11-28T08:00:00",
+        "end": "2024-11-28T09:35:00",
+        "description": "Software Quality Standards\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr inż. Romuald Hoffmann",
+        "allDay": false,
+        "color": "#54B247"
+    },
+    {
+        "title": "CAO (E)",
+        "start": "2024-12-17T19:40:00",
+        "end": "2024-12-17T21:15:00",
+        "description": "Computer Architecture and Operating Systems\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#478AB2"
+    },
+    {
+        "title": "InC (w)",
+        "start": "2024-10-21T11:40:00",
+        "end": "2024-10-21T13:15:00",
+        "description": "Introduction to the Cryptography\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: dr inż. Michał Misztal",
+        "allDay": false,
+        "color": "#47B28A"
+    },
+    {
+        "title": "Crp (P)",
+        "start": "2025-06-16T09:50:00",
+        "end": "2025-06-16T11:25:00",
+        "description": "Project - Cryptography\nRodzaj zajęć: Projekt\nNr zajęć: 10/10\nProwadzący: mgr inż. Łukasz Dzieł",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "NLP (L)",
+        "start": "2025-06-06T09:50:00",
+        "end": "2025-06-06T11:25:00",
+        "description": "Natural Language Processing\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#7C47B2"
+    },
+    {
+        "title": "Icn (P)",
+        "start": "2024-12-04T16:00:00",
+        "end": "2024-12-04T17:35:00",
+        "description": "Introduction to Computer Networking\nRodzaj zajęć: Projekt\nNr zajęć: 5/10\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#A547B2"
+    },
+    {
+        "title": "BCE (L)",
+        "start": "2024-12-18T13:30:00",
+        "end": "2024-12-18T15:05:00",
+        "description": "Basics of Computer Engineering\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/12\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#B26F47"
+    },
+    {
+        "title": "MLe (L)",
+        "start": "2025-05-29T17:50:00",
+        "end": "2025-05-29T19:25:00",
+        "description": "Machine Learning\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#B29747"
+    },
+    {
+        "title": "Rcv (w)",
+        "start": "2025-04-15T08:00:00",
+        "end": "2025-04-15T09:35:00",
+        "description": "Robotics and Comp. Vision Systems\nRodzaj zajęć: Wykład\nNr zajęć: 5/14\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "Rcv (w)",
+        "start": "2025-05-16T09:50:00",
+        "end": "2025-05-16T11:25:00",
+        "description": "Robotics and Comp. Vision Systems\nRodzaj zajęć: Wykład\nNr zajęć: 12/14\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "BCE (L)",
+        "start": "2024-12-16T16:00:00",
+        "end": "2024-12-16T17:35:00",
+        "description": "Basics of Computer Engineering\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/12\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#B26F47"
+    },
+    {
+        "title": "Icn (P)",
+        "start": "2024-11-13T16:00:00",
+        "end": "2024-11-13T17:35:00",
+        "description": "Introduction to Computer Networking\nRodzaj zajęć: Projekt\nNr zajęć: 1/10\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#A547B2"
+    },
+    {
+        "title": "Icn (P)",
+        "start": "2024-12-19T17:50:00",
+        "end": "2024-12-19T19:25:00",
+        "description": "Introduction to Computer Networking\nRodzaj zajęć: Projekt\nNr zajęć: 10/10\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#A547B2"
+    },
+    {
+        "title": "SQS (Inne)",
+        "start": "2025-01-22T13:30:00",
+        "end": "2025-01-22T15:05:00",
+        "description": "Software Quality Standards\nRodzaj zajęć:  - \nNr zajęć: 5/5\nProwadzący: dr inż. Romuald Hoffmann",
+        "allDay": false,
+        "color": "#54B247"
+    },
+    {
+        "title": "Stc (w)",
+        "start": "2025-05-15T08:00:00",
+        "end": "2025-05-15T09:35:00",
+        "description": "Statistics\nRodzaj zajęć: Wykład\nNr zajęć: 14/15\nProwadzący: dr Ewa Łakoma",
+        "allDay": false,
+        "color": "#B24797"
+    },
+    {
+        "title": "Icn (w)",
+        "start": "2024-11-13T11:40:00",
+        "end": "2024-11-13T13:15:00",
+        "description": "Introduction to Computer Networking\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#A547B2"
+    },
+    {
+        "title": "Rcv (w)",
+        "start": "2025-04-11T11:40:00",
+        "end": "2025-04-11T13:15:00",
+        "description": "Robotics and Comp. Vision Systems\nRodzaj zajęć: Wykład\nNr zajęć: 4/14\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "ISP (L)",
+        "start": "2025-01-23T09:50:00",
+        "end": "2025-01-23T11:25:00",
+        "description": "Introduction to Stochastic Processes\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: dr inż. Romuald Hoffmann",
+        "allDay": false,
+        "color": "#A5B247"
+    },
+    {
+        "title": "BCE (ć)",
+        "start": "2024-10-18T11:40:00",
+        "end": "2024-10-18T13:15:00",
+        "description": "Basics of Computer Engineering\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/4\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#B26F47"
+    },
+    {
+        "title": "BCE (w)",
+        "start": "2024-12-17T09:50:00",
+        "end": "2024-12-17T11:25:00",
+        "description": "Basics of Computer Engineering\nRodzaj zajęć: Wykład\nNr zajęć: 14/14\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#B26F47"
+    },
+    {
+        "title": "ISP (w)",
+        "start": "2024-11-07T09:50:00",
+        "end": "2024-11-07T11:25:00",
+        "description": "Introduction to Stochastic Processes\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: dr inż. Romuald Hoffmann",
+        "allDay": false,
+        "color": "#A5B247"
+    },
+    {
+        "title": "Icn (L)",
+        "start": "2024-12-09T16:00:00",
+        "end": "2024-12-09T17:35:00",
+        "description": "Introduction to Computer Networking\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Sebastian Łeska",
+        "allDay": false,
+        "color": "#A547B2"
+    },
+    {
+        "title": "MLe (L)",
+        "start": "2025-06-05T16:00:00",
+        "end": "2025-06-05T17:35:00",
+        "description": "Machine Learning\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#B29747"
+    },
+    {
+        "title": "CAO (w)",
+        "start": "2024-10-22T16:00:00",
+        "end": "2024-10-22T17:35:00",
+        "description": "Computer Architecture and Operating Systems\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#478AB2"
+    },
+    {
+        "title": "Icn (w)",
+        "start": "2024-12-16T13:30:00",
+        "end": "2024-12-16T15:05:00",
+        "description": "Introduction to Computer Networking\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#A547B2"
+    },
+    {
+        "title": "dip (ć)",
+        "start": "2025-04-08T16:00:00",
+        "end": "2025-04-08T17:35:00",
+        "description": "Digital Image Processing\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/4\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#4762B2"
+    },
+    {
+        "title": "dip (w)",
+        "start": "2025-03-28T08:00:00",
+        "end": "2025-03-28T09:35:00",
+        "description": "Digital Image Processing\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#4762B2"
+    },
+    {
+        "title": "Stc (w)",
+        "start": "2025-04-10T11:40:00",
+        "end": "2025-04-10T13:15:00",
+        "description": "Statistics\nRodzaj zajęć: Wykład\nNr zajęć: 10/15\nProwadzący: dr Ewa Łakoma",
+        "allDay": false,
+        "color": "#B24797"
+    },
+    {
+        "title": "ISP (L)",
+        "start": "2024-12-09T08:00:00",
+        "end": "2024-12-09T09:35:00",
+        "description": "Introduction to Stochastic Processes\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: dr inż. Romuald Hoffmann",
+        "allDay": false,
+        "color": "#A5B247"
+    },
+    {
+        "title": "Ec (w)",
+        "start": "2025-03-31T11:40:00",
+        "end": "2025-03-31T13:15:00",
+        "description": "Elliptic Curve and its Application in Cryptography\nRodzaj zajęć: Wykład\nNr zajęć: 2/9\nProwadzący: mgr inż. Tomasz Kijko",
+        "allDay": false,
+        "color": "#5447B2"
+    },
+    {
+        "title": "TCT (w)",
+        "start": "2025-05-08T09:50:00",
+        "end": "2025-05-08T11:25:00",
+        "description": "Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#47B262"
+    },
+    {
+        "title": "SQS (Inne)",
+        "start": "2025-01-13T11:40:00",
+        "end": "2025-01-13T13:15:00",
+        "description": "Software Quality Standards\nRodzaj zajęć:  - \nNr zajęć: 2/5\nProwadzący: dr inż. Romuald Hoffmann",
+        "allDay": false,
+        "color": "#54B247"
+    },
+    {
+        "title": "Rcv (L)",
+        "start": "2025-05-07T17:50:00",
+        "end": "2025-05-07T19:25:00",
+        "description": "Robotics and Comp. Vision Systems\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "TCT (w)",
+        "start": "2025-03-28T16:00:00",
+        "end": "2025-03-28T17:35:00",
+        "description": "Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#47B262"
+    },
+    {
+        "title": "Ec (w)",
+        "start": "2025-03-24T11:40:00",
+        "end": "2025-03-24T13:15:00",
+        "description": "Elliptic Curve and its Application in Cryptography\nRodzaj zajęć: Wykład\nNr zajęć: 1/9\nProwadzący: mgr inż. Tomasz Kijko",
+        "allDay": false,
+        "color": "#5447B2"
+    },
+    {
+        "title": "BCE (ć)",
+        "start": "2024-10-25T11:40:00",
+        "end": "2024-10-25T13:15:00",
+        "description": "Basics of Computer Engineering\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/4\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#B26F47"
+    },
+    {
+        "title": "Ec (L)",
+        "start": "2025-05-20T09:50:00",
+        "end": "2025-05-20T11:25:00",
+        "description": "Elliptic Curve and its Application in Cryptography\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/7\nProwadzący: mgr inż. Tomasz Kijko",
+        "allDay": false,
+        "color": "#5447B2"
+    },
+    {
+        "title": "JEt (w)",
+        "start": "2024-11-14T16:00:00",
+        "end": "2024-11-14T17:35:00",
+        "description": "JavaEE Technologies\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: mgr inż. Łukasz Laszko",
+        "allDay": false,
+        "color": "#B2476F"
+    },
+    {
+        "title": "CAO (ć)",
+        "start": "2024-11-12T16:00:00",
+        "end": "2024-11-12T17:35:00",
+        "description": "Computer Architecture and Operating Systems\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/4\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#478AB2"
+    },
+    {
+        "title": "ISP (w)",
+        "start": "2024-11-25T13:30:00",
+        "end": "2024-11-25T15:05:00",
+        "description": "Introduction to Stochastic Processes\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr inż. Romuald Hoffmann",
+        "allDay": false,
+        "color": "#A5B247"
+    },
+    {
+        "title": "NLP (L)",
+        "start": "2025-05-30T08:00:00",
+        "end": "2025-05-30T09:35:00",
+        "description": "Natural Language Processing\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#7C47B2"
+    },
+    {
+        "title": "MLe (w)",
+        "start": "2025-03-27T13:30:00",
+        "end": "2025-03-27T15:05:00",
+        "description": "Machine Learning\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#B29747"
+    },
+    {
+        "title": "BCE (w)",
+        "start": "2024-11-26T09:50:00",
+        "end": "2024-11-26T11:25:00",
+        "description": "Basics of Computer Engineering\nRodzaj zajęć: Wykład\nNr zajęć: 12/14\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#B26F47"
+    },
+    {
+        "title": "JEt (L)",
+        "start": "2025-01-07T16:00:00",
+        "end": "2025-01-07T17:35:00",
+        "description": "JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: mgr inż. Łukasz Laszko",
+        "allDay": false,
+        "color": "#B2476F"
+    },
+    {
+        "title": "Stc (L)",
+        "start": "2025-05-29T08:00:00",
+        "end": "2025-05-29T09:35:00",
+        "description": "Statistics\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/15\nProwadzący: dr Ewa Łakoma",
+        "allDay": false,
+        "color": "#B24797"
+    },
+    {
+        "title": "Icn (P)",
+        "start": "2024-12-18T16:00:00",
+        "end": "2024-12-18T17:35:00",
+        "description": "Introduction to Computer Networking\nRodzaj zajęć: Projekt\nNr zajęć: 7/10\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#A547B2"
+    },
+    {
+        "title": "ISP (w)",
+        "start": "2024-12-02T13:30:00",
+        "end": "2024-12-02T15:05:00",
+        "description": "Introduction to Stochastic Processes\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: dr inż. Romuald Hoffmann",
+        "allDay": false,
+        "color": "#A5B247"
+    },
+    {
+        "title": "Rcv (L)",
+        "start": "2025-05-27T17:50:00",
+        "end": "2025-05-27T19:25:00",
+        "description": "Robotics and Comp. Vision Systems\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "Stc (w)",
+        "start": "2025-04-23T08:00:00",
+        "end": "2025-04-23T09:35:00",
+        "description": "Statistics\nRodzaj zajęć: Wykład\nNr zajęć: 11/15\nProwadzący: dr Ewa Łakoma",
+        "allDay": false,
+        "color": "#B24797"
+    },
+    {
+        "title": "dip (L)",
+        "start": "2025-04-08T13:30:00",
+        "end": "2025-04-08T15:05:00",
+        "description": "Digital Image Processing\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#4762B2"
+    },
+    {
+        "title": "Stc (L)",
+        "start": "2025-06-12T09:50:00",
+        "end": "2025-06-12T11:25:00",
+        "description": "Statistics\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/15\nProwadzący: dr Ewa Łakoma",
+        "allDay": false,
+        "color": "#B24797"
+    },
+    {
+        "title": "JEt (L)",
+        "start": "2024-12-03T17:50:00",
+        "end": "2024-12-03T19:25:00",
+        "description": "JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: mgr inż. Łukasz Laszko",
+        "allDay": false,
+        "color": "#B2476F"
+    },
+    {
+        "title": "ISP (L)",
+        "start": "2025-01-07T09:50:00",
+        "end": "2025-01-07T11:25:00",
+        "description": "Introduction to Stochastic Processes\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: dr inż. Romuald Hoffmann",
+        "allDay": false,
+        "color": "#A5B247"
+    },
+    {
+        "title": "CAO (L)",
+        "start": "2024-12-17T16:00:00",
+        "end": "2024-12-17T17:35:00",
+        "description": "Computer Architecture and Operating Systems\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#478AB2"
+    },
+    {
+        "title": "Rcv (L)",
+        "start": "2025-05-12T17:50:00",
+        "end": "2025-05-12T19:25:00",
+        "description": "Robotics and Comp. Vision Systems\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "Rcv (w)",
+        "start": "2025-05-16T08:00:00",
+        "end": "2025-05-16T09:35:00",
+        "description": "Robotics and Comp. Vision Systems\nRodzaj zajęć: Wykład\nNr zajęć: 11/14\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "Rcv (w)",
+        "start": "2025-05-27T08:00:00",
+        "end": "2025-05-27T09:35:00",
+        "description": "Robotics and Comp. Vision Systems\nRodzaj zajęć: Wykład\nNr zajęć: 13/14\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "Icn (L)",
+        "start": "2024-11-07T17:50:00",
+        "end": "2024-11-07T19:25:00",
+        "description": "Introduction to Computer Networking\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Sebastian Łeska",
+        "allDay": false,
+        "color": "#A547B2"
+    },
+    {
+        "title": "MLe (w)",
+        "start": "2025-04-17T13:30:00",
+        "end": "2025-04-17T15:05:00",
+        "description": "Machine Learning\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#B29747"
+    },
+    {
+        "title": "CAO (L)",
+        "start": "2024-11-25T17:50:00",
+        "end": "2024-11-25T19:25:00",
+        "description": "Computer Architecture and Operating Systems\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#478AB2"
+    },
+    {
+        "title": "SQS (w)",
+        "start": "2024-12-19T08:00:00",
+        "end": "2024-12-19T09:35:00",
+        "description": "Software Quality Standards\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Romuald Hoffmann",
+        "allDay": false,
+        "color": "#54B247"
+    },
+    {
+        "title": "JEt (L)",
+        "start": "2024-12-03T16:00:00",
+        "end": "2024-12-03T17:35:00",
+        "description": "JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: mgr inż. Łukasz Laszko",
+        "allDay": false,
+        "color": "#B2476F"
+    },
+    {
+        "title": "Stc (w)",
+        "start": "2025-03-27T08:00:00",
+        "end": "2025-03-27T09:35:00",
+        "description": "Statistics\nRodzaj zajęć: Wykład\nNr zajęć: 3/15\nProwadzący: dr Ewa Łakoma",
+        "allDay": false,
+        "color": "#B24797"
+    },
+    {
+        "title": "TCT (L)",
+        "start": "2025-05-09T13:30:00",
+        "end": "2025-05-09T15:05:00",
+        "description": "Trends in Computer Technology\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#47B262"
+    },
+    {
+        "title": "Stc (w)",
+        "start": "2025-05-15T09:50:00",
+        "end": "2025-05-15T11:25:00",
+        "description": "Statistics\nRodzaj zajęć: Wykład\nNr zajęć: 15/15\nProwadzący: dr Ewa Łakoma",
+        "allDay": false,
+        "color": "#B24797"
+    },
+    {
+        "title": "dip (L)",
+        "start": "2025-04-15T11:40:00",
+        "end": "2025-04-15T13:15:00",
+        "description": "Digital Image Processing\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#4762B2"
+    },
+    {
+        "title": "TCT (L)",
+        "start": "2025-04-17T17:50:00",
+        "end": "2025-04-17T19:25:00",
+        "description": "Trends in Computer Technology\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#47B262"
+    },
+    {
+        "title": "dip (w)",
+        "start": "2025-03-28T09:50:00",
+        "end": "2025-03-28T11:25:00",
+        "description": "Digital Image Processing\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#4762B2"
+    },
+    {
+        "title": "BN (L)",
+        "start": "2025-01-23T11:40:00",
+        "end": "2025-01-23T13:15:00",
+        "description": "Basics of Numerical Analysis and Technical Computations\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/7\nProwadzący: dr hab. Marek Kojdecki",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Ec (L)",
+        "start": "2025-05-06T11:40:00",
+        "end": "2025-05-06T13:15:00",
+        "description": "Elliptic Curve and its Application in Cryptography\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/7\nProwadzący: mgr inż. Tomasz Kijko",
+        "allDay": false,
+        "color": "#5447B2"
+    },
+    {
+        "title": "Stc (w)",
+        "start": "2025-04-23T11:40:00",
+        "end": "2025-04-23T13:15:00",
+        "description": "Statistics\nRodzaj zajęć: Wykład\nNr zajęć: 13/15\nProwadzący: dr Ewa Łakoma",
+        "allDay": false,
+        "color": "#B24797"
+    },
+    {
+        "title": "ISP (w)",
+        "start": "2024-10-31T09:50:00",
+        "end": "2024-10-31T11:25:00",
+        "description": "Introduction to Stochastic Processes\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: dr inż. Romuald Hoffmann",
+        "allDay": false,
+        "color": "#A5B247"
+    },
+    {
+        "title": "TCT (w)",
+        "start": "2025-04-17T08:00:00",
+        "end": "2025-04-17T09:35:00",
+        "description": "Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#47B262"
+    },
+    {
+        "title": "BCE (w)",
+        "start": "2024-11-26T08:00:00",
+        "end": "2024-11-26T09:35:00",
+        "description": "Basics of Computer Engineering\nRodzaj zajęć: Wykład\nNr zajęć: 11/14\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#B26F47"
+    },
+    {
+        "title": "InC (w)",
+        "start": "2024-12-02T11:40:00",
+        "end": "2024-12-02T13:15:00",
+        "description": "Introduction to the Cryptography\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: dr inż. Michał Misztal",
+        "allDay": false,
+        "color": "#47B28A"
+    },
+    {
+        "title": "Icn (L)",
+        "start": "2024-11-07T16:00:00",
+        "end": "2024-11-07T17:35:00",
+        "description": "Introduction to Computer Networking\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Sebastian Łeska",
+        "allDay": false,
+        "color": "#A547B2"
+    },
+    {
+        "title": "NLP (w)",
+        "start": "2025-04-24T16:00:00",
+        "end": "2025-04-24T17:35:00",
+        "description": "Natural Language Processing\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#7C47B2"
+    },
+    {
+        "title": "BN (w)",
+        "start": "2024-11-07T11:40:00",
+        "end": "2024-11-07T13:15:00",
+        "description": "Basics of Numerical Analysis and Technical Computations\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr hab. Marek Kojdecki",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Stc (w)",
+        "start": "2025-04-03T11:40:00",
+        "end": "2025-04-03T13:15:00",
+        "description": "Statistics\nRodzaj zajęć: Wykład\nNr zajęć: 7/15\nProwadzący: dr Ewa Łakoma",
+        "allDay": false,
+        "color": "#B24797"
+    },
+    {
+        "title": "Crp (P)",
+        "start": "2025-03-31T13:30:00",
+        "end": "2025-03-31T15:05:00",
+        "description": "Project - Cryptography\nRodzaj zajęć: Projekt\nNr zajęć: 2/10\nProwadzący: mgr inż. Łukasz Dzieł",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "ISP (L)",
+        "start": "2025-01-14T09:50:00",
+        "end": "2025-01-14T11:25:00",
+        "description": "Introduction to Stochastic Processes\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: dr inż. Romuald Hoffmann",
+        "allDay": false,
+        "color": "#A5B247"
+    },
+    {
+        "title": "BN (w)",
+        "start": "2024-10-24T11:40:00",
+        "end": "2024-10-24T13:15:00",
+        "description": "Basics of Numerical Analysis and Technical Computations\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: dr hab. Marek Kojdecki",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Icn (ć)",
+        "start": "2024-11-06T16:00:00",
+        "end": "2024-11-06T17:35:00",
+        "description": "Introduction to Computer Networking\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/4\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#A547B2"
+    },
+    {
+        "title": "Rcv (w)",
+        "start": "2025-05-13T09:50:00",
+        "end": "2025-05-13T11:25:00",
+        "description": "Robotics and Comp. Vision Systems\nRodzaj zajęć: Wykład\nNr zajęć: 10/14\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "JEt (L)",
+        "start": "2025-01-14T17:50:00",
+        "end": "2025-01-14T19:25:00",
+        "description": "JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: mgr inż. Łukasz Laszko",
+        "allDay": false,
+        "color": "#B2476F"
+    },
+    {
+        "title": "Crp (P)",
+        "start": "2025-03-24T13:30:00",
+        "end": "2025-03-24T15:05:00",
+        "description": "Project - Cryptography\nRodzaj zajęć: Projekt\nNr zajęć: 1/10\nProwadzący: mgr inż. Łukasz Dzieł",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Icn (P)",
+        "start": "2024-11-27T17:50:00",
+        "end": "2024-11-27T19:25:00",
+        "description": "Introduction to Computer Networking\nRodzaj zajęć: Projekt\nNr zajęć: 4/10\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#A547B2"
+    },
+    {
+        "title": "BN (L)",
+        "start": "2025-01-30T11:40:00",
+        "end": "2025-01-30T13:15:00",
+        "description": "Basics of Numerical Analysis and Technical Computations\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/7\nProwadzący: dr hab. Marek Kojdecki",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "CAO (L)",
+        "start": "2024-12-02T16:00:00",
+        "end": "2024-12-02T17:35:00",
+        "description": "Computer Architecture and Operating Systems\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#478AB2"
+    },
+    {
+        "title": "JEt (L)",
+        "start": "2025-01-28T17:50:00",
+        "end": "2025-01-28T19:25:00",
+        "description": "JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: mgr inż. Łukasz Laszko",
+        "allDay": false,
+        "color": "#B2476F"
+    },
+    {
+        "title": "InC (w)",
+        "start": "2024-11-18T11:40:00",
+        "end": "2024-11-18T13:15:00",
+        "description": "Introduction to the Cryptography\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr inż. Michał Misztal",
+        "allDay": false,
+        "color": "#47B28A"
+    },
+    {
+        "title": "Icn (E)",
+        "start": "2024-12-19T19:40:00",
+        "end": "2024-12-19T21:15:00",
+        "description": "Introduction to Computer Networking\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#A547B2"
+    },
+    {
+        "title": "Stc (E)",
+        "start": "2025-06-26T08:00:00",
+        "end": "2025-06-26T09:35:00",
+        "description": "Statistics\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr Ewa Łakoma",
+        "allDay": false,
+        "color": "#B24797"
+    },
+    {
+        "title": "TCT (w)",
+        "start": "2025-04-16T16:00:00",
+        "end": "2025-04-16T17:35:00",
+        "description": "Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#47B262"
+    },
+    {
+        "title": "TCT (w)",
+        "start": "2025-04-16T17:50:00",
+        "end": "2025-04-16T19:25:00",
+        "description": "Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#47B262"
+    },
+    {
+        "title": "ISP (L)",
+        "start": "2024-12-02T08:00:00",
+        "end": "2024-12-02T09:35:00",
+        "description": "Introduction to Stochastic Processes\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: dr inż. Romuald Hoffmann",
+        "allDay": false,
+        "color": "#A5B247"
+    },
+    {
+        "title": "Stc (w)",
+        "start": "2025-03-20T08:00:00",
+        "end": "2025-03-20T09:35:00",
+        "description": "Statistics\nRodzaj zajęć: Wykład\nNr zajęć: 1/15\nProwadzący: dr Ewa Łakoma",
+        "allDay": false,
+        "color": "#B24797"
+    },
+    {
+        "title": "BN (L)",
+        "start": "2025-01-09T11:40:00",
+        "end": "2025-01-09T13:15:00",
+        "description": "Basics of Numerical Analysis and Technical Computations\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/7\nProwadzący: dr hab. Marek Kojdecki",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Ec (w)",
+        "start": "2025-05-12T11:40:00",
+        "end": "2025-05-12T13:15:00",
+        "description": "Elliptic Curve and its Application in Cryptography\nRodzaj zajęć: Wykład\nNr zajęć: 7/9\nProwadzący: mgr inż. Tomasz Kijko",
+        "allDay": false,
+        "color": "#5447B2"
+    },
+    {
+        "title": "TCT (w)",
+        "start": "2025-03-28T13:30:00",
+        "end": "2025-03-28T15:05:00",
+        "description": "Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#47B262"
+    },
+    {
+        "title": "ISP (w)",
+        "start": "2024-11-18T13:30:00",
+        "end": "2024-11-18T15:05:00",
+        "description": "Introduction to Stochastic Processes\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr inż. Romuald Hoffmann",
+        "allDay": false,
+        "color": "#A5B247"
+    },
+    {
+        "title": "CAO (w)",
+        "start": "2024-10-21T16:00:00",
+        "end": "2024-10-21T17:35:00",
+        "description": "Computer Architecture and Operating Systems\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#478AB2"
+    },
+    {
+        "title": "SQS (w)",
+        "start": "2024-12-16T09:50:00",
+        "end": "2024-12-16T11:25:00",
+        "description": "Software Quality Standards\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr inż. Romuald Hoffmann",
+        "allDay": false,
+        "color": "#54B247"
+    },
+    {
+        "title": "BCE (w)",
+        "start": "2024-11-15T09:50:00",
+        "end": "2024-11-15T11:25:00",
+        "description": "Basics of Computer Engineering\nRodzaj zajęć: Wykład\nNr zajęć: 10/14\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#B26F47"
+    },
+    {
+        "title": "Stc (w)",
+        "start": "2025-04-10T09:50:00",
+        "end": "2025-04-10T11:25:00",
+        "description": "Statistics\nRodzaj zajęć: Wykład\nNr zajęć: 9/15\nProwadzący: dr Ewa Łakoma",
+        "allDay": false,
+        "color": "#B24797"
+    },
+    {
+        "title": "Icn (L)",
+        "start": "2024-11-21T17:50:00",
+        "end": "2024-11-21T19:25:00",
+        "description": "Introduction to Computer Networking\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Sebastian Łeska",
+        "allDay": false,
+        "color": "#A547B2"
+    },
+    {
+        "title": "MLe (ć)",
+        "start": "2025-05-23T09:50:00",
+        "end": "2025-05-23T11:25:00",
+        "description": "Machine Learning\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#B29747"
+    },
+    {
+        "title": "Rcv (w)",
+        "start": "2025-05-13T08:00:00",
+        "end": "2025-05-13T09:35:00",
+        "description": "Robotics and Comp. Vision Systems\nRodzaj zajęć: Wykład\nNr zajęć: 9/14\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "Icn (P)",
+        "start": "2024-12-18T17:50:00",
+        "end": "2024-12-18T19:25:00",
+        "description": "Introduction to Computer Networking\nRodzaj zajęć: Projekt\nNr zajęć: 8/10\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#A547B2"
+    },
+    {
+        "title": "CAO (L)",
+        "start": "2024-12-17T17:50:00",
+        "end": "2024-12-17T19:25:00",
+        "description": "Computer Architecture and Operating Systems\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#478AB2"
+    },
+    {
+        "title": "NLP (L)",
+        "start": "2025-06-06T08:00:00",
+        "end": "2025-06-06T09:35:00",
+        "description": "Natural Language Processing\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#7C47B2"
+    },
+    {
+        "title": "SQS (Inne)",
+        "start": "2025-01-22T11:40:00",
+        "end": "2025-01-22T13:15:00",
+        "description": "Software Quality Standards\nRodzaj zajęć:  - \nNr zajęć: 4/5\nProwadzący: dr inż. Romuald Hoffmann",
+        "allDay": false,
+        "color": "#54B247"
+    },
+    {
+        "title": "BCE (L)",
+        "start": "2024-11-05T11:40:00",
+        "end": "2024-11-05T13:15:00",
+        "description": "Basics of Computer Engineering\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/12\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#B26F47"
+    },
+    {
+        "title": "CAO (L)",
+        "start": "2024-11-25T16:00:00",
+        "end": "2024-11-25T17:35:00",
+        "description": "Computer Architecture and Operating Systems\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#478AB2"
+    },
+    {
+        "title": "Icn (P)",
+        "start": "2024-12-04T17:50:00",
+        "end": "2024-12-04T19:25:00",
+        "description": "Introduction to Computer Networking\nRodzaj zajęć: Projekt\nNr zajęć: 6/10\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#A547B2"
+    },
+    {
+        "title": "Ec (L)",
+        "start": "2025-05-06T13:30:00",
+        "end": "2025-05-06T15:05:00",
+        "description": "Elliptic Curve and its Application in Cryptography\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/7\nProwadzący: mgr inż. Tomasz Kijko",
+        "allDay": false,
+        "color": "#5447B2"
+    },
+    {
+        "title": "MLe (ć)",
+        "start": "2025-04-11T09:50:00",
+        "end": "2025-04-11T11:25:00",
+        "description": "Machine Learning\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#B29747"
+    },
+    {
+        "title": "dip (ć)",
+        "start": "2025-04-15T16:00:00",
+        "end": "2025-04-15T17:35:00",
+        "description": "Digital Image Processing\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#4762B2"
+    },
+    {
+        "title": "CAO (ć)",
+        "start": "2024-11-12T17:50:00",
+        "end": "2024-11-12T19:25:00",
+        "description": "Computer Architecture and Operating Systems\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/4\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#478AB2"
+    },
+    {
+        "title": "BCE (w)",
+        "start": "2024-10-18T09:50:00",
+        "end": "2024-10-18T11:25:00",
+        "description": "Basics of Computer Engineering\nRodzaj zajęć: Wykład\nNr zajęć: 2/14\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#B26F47"
+    },
+    {
+        "title": "Stc (w)",
+        "start": "2025-03-27T09:50:00",
+        "end": "2025-03-27T11:25:00",
+        "description": "Statistics\nRodzaj zajęć: Wykład\nNr zajęć: 4/15\nProwadzący: dr Ewa Łakoma",
+        "allDay": false,
+        "color": "#B24797"
+    },
+    {
+        "title": "CAO (w)",
+        "start": "2024-11-05T17:50:00",
+        "end": "2024-11-05T19:25:00",
+        "description": "Computer Architecture and Operating Systems\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#478AB2"
+    },
+    {
+        "title": "Stc (L)",
+        "start": "2025-06-05T08:00:00",
+        "end": "2025-06-05T09:35:00",
+        "description": "Statistics\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/15\nProwadzący: dr Ewa Łakoma",
+        "allDay": false,
+        "color": "#B24797"
+    },
+    {
+        "title": "BN (L)",
+        "start": "2024-12-12T13:30:00",
+        "end": "2024-12-12T15:05:00",
+        "description": "Basics of Numerical Analysis and Technical Computations\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/7\nProwadzący: dr hab. Marek Kojdecki",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Icn (w)",
+        "start": "2024-11-13T13:30:00",
+        "end": "2024-11-13T15:05:00",
+        "description": "Introduction to Computer Networking\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#A547B2"
+    },
+    {
+        "title": "TCT (w)",
+        "start": "2025-04-17T09:50:00",
+        "end": "2025-04-17T11:25:00",
+        "description": "Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#47B262"
+    },
+    {
+        "title": "CAO (ć)",
+        "start": "2024-11-26T17:50:00",
+        "end": "2024-11-26T19:25:00",
+        "description": "Computer Architecture and Operating Systems\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#478AB2"
+    },
+    {
+        "title": "BCE (ć)",
+        "start": "2024-11-15T11:40:00",
+        "end": "2024-11-15T13:15:00",
+        "description": "Basics of Computer Engineering\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#B26F47"
+    },
+    {
+        "title": "BCE (w)",
+        "start": "2024-10-25T09:50:00",
+        "end": "2024-10-25T11:25:00",
+        "description": "Basics of Computer Engineering\nRodzaj zajęć: Wykład\nNr zajęć: 4/14\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#B26F47"
+    },
+    {
+        "title": "NLP (w)",
+        "start": "2025-04-10T13:30:00",
+        "end": "2025-04-10T15:05:00",
+        "description": "Natural Language Processing\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#7C47B2"
+    },
+    {
+        "title": "TCT (L)",
+        "start": "2025-04-17T16:00:00",
+        "end": "2025-04-17T17:35:00",
+        "description": "Trends in Computer Technology\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#47B262"
+    },
+    {
+        "title": "Ec (L)",
+        "start": "2025-04-29T11:40:00",
+        "end": "2025-04-29T13:15:00",
+        "description": "Elliptic Curve and its Application in Cryptography\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/7\nProwadzący: mgr inż. Tomasz Kijko",
+        "allDay": false,
+        "color": "#5447B2"
+    },
+    {
+        "title": "MLe (L)",
+        "start": "2025-05-29T16:00:00",
+        "end": "2025-05-29T17:35:00",
+        "description": "Machine Learning\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#B29747"
+    },
+    {
+        "title": "BCE (L)",
+        "start": "2024-11-05T13:30:00",
+        "end": "2024-11-05T15:05:00",
+        "description": "Basics of Computer Engineering\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/12\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#B26F47"
+    },
+    {
+        "title": "Stc (L)",
+        "start": "2025-03-26T09:50:00",
+        "end": "2025-03-26T11:25:00",
+        "description": "Statistics\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/15\nProwadzący: dr Ewa Łakoma",
+        "allDay": false,
+        "color": "#B24797"
+    },
+    {
+        "title": "Rcv (w)",
+        "start": "2025-04-15T09:50:00",
+        "end": "2025-04-15T11:25:00",
+        "description": "Robotics and Comp. Vision Systems\nRodzaj zajęć: Wykład\nNr zajęć: 6/14\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "JEt (L)",
+        "start": "2025-01-14T16:00:00",
+        "end": "2025-01-14T17:35:00",
+        "description": "JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: mgr inż. Łukasz Laszko",
+        "allDay": false,
+        "color": "#B2476F"
+    },
+    {
+        "title": "SQS (w)",
+        "start": "2024-12-03T13:30:00",
+        "end": "2024-12-03T15:05:00",
+        "description": "Software Quality Standards\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Romuald Hoffmann",
+        "allDay": false,
+        "color": "#54B247"
+    },
+    {
+        "title": "Ec (L)",
+        "start": "2025-06-09T11:40:00",
+        "end": "2025-06-09T13:15:00",
+        "description": "Elliptic Curve and its Application in Cryptography\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/7\nProwadzący: mgr inż. Tomasz Kijko",
+        "allDay": false,
+        "color": "#5447B2"
+    },
+    {
+        "title": "Rcv (L)",
+        "start": "2025-05-27T16:00:00",
+        "end": "2025-05-27T17:35:00",
+        "description": "Robotics and Comp. Vision Systems\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "TCT (L)",
+        "start": "2025-05-09T16:00:00",
+        "end": "2025-05-09T17:35:00",
+        "description": "Trends in Computer Technology\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#47B262"
+    },
+    {
+        "title": "Icn (ć)",
+        "start": "2024-10-23T17:50:00",
+        "end": "2024-10-23T19:25:00",
+        "description": "Introduction to Computer Networking\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/4\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#A547B2"
+    },
+    {
+        "title": "JEt (w)",
+        "start": "2024-12-03T11:40:00",
+        "end": "2024-12-03T13:15:00",
+        "description": "JavaEE Technologies\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: mgr inż. Łukasz Laszko",
+        "allDay": false,
+        "color": "#B2476F"
+    },
+    {
+        "title": "Stc (L)",
+        "start": "2025-03-26T08:00:00",
+        "end": "2025-03-26T09:35:00",
+        "description": "Statistics\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/15\nProwadzący: dr Ewa Łakoma",
+        "allDay": false,
+        "color": "#B24797"
+    },
+    {
+        "title": "SQS (Inne)",
+        "start": "2025-01-09T09:50:00",
+        "end": "2025-01-09T11:25:00",
+        "description": "Software Quality Standards\nRodzaj zajęć:  - \nNr zajęć: 1/5\nProwadzący: dr inż. Romuald Hoffmann",
+        "allDay": false,
+        "color": "#54B247"
+    },
+    {
+        "title": "MLe (L)",
+        "start": "2025-05-15T17:50:00",
+        "end": "2025-05-15T19:25:00",
+        "description": "Machine Learning\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#B29747"
+    },
+    {
+        "title": "Rcv (w)",
+        "start": "2025-05-06T09:50:00",
+        "end": "2025-05-06T11:25:00",
+        "description": "Robotics and Comp. Vision Systems\nRodzaj zajęć: Wykład\nNr zajęć: 8/14\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "Rcv (ć)",
+        "start": "2025-05-27T13:30:00",
+        "end": "2025-05-27T15:05:00",
+        "description": "Robotics and Comp. Vision Systems\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/8\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "Stc (w)",
+        "start": "2025-04-03T08:00:00",
+        "end": "2025-04-03T09:35:00",
+        "description": "Statistics\nRodzaj zajęć: Wykład\nNr zajęć: 5/15\nProwadzący: dr Ewa Łakoma",
+        "allDay": false,
+        "color": "#B24797"
+    },
+    {
+        "title": "BCE (E)",
+        "start": "2024-12-18T19:40:00",
+        "end": "2024-12-18T21:15:00",
+        "description": "Basics of Computer Engineering\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#B26F47"
+    },
+    {
+        "title": "Ec (w)",
+        "start": "2025-05-19T11:40:00",
+        "end": "2025-05-19T13:15:00",
+        "description": "Elliptic Curve and its Application in Cryptography\nRodzaj zajęć: Wykład\nNr zajęć: 8/9\nProwadzący: mgr inż. Tomasz Kijko",
+        "allDay": false,
+        "color": "#5447B2"
+    },
+    {
+        "title": "NLP (ć)",
+        "start": "2025-05-09T08:00:00",
+        "end": "2025-05-09T09:35:00",
+        "description": "Natural Language Processing\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/5\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#7C47B2"
+    },
+    {
+        "title": "NLP (L)",
+        "start": "2025-06-12T17:50:00",
+        "end": "2025-06-12T19:25:00",
+        "description": "Natural Language Processing\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#7C47B2"
+    },
+    {
+        "title": "dip (L)",
+        "start": "2025-05-26T17:50:00",
+        "end": "2025-05-26T19:25:00",
+        "description": "Digital Image Processing\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#4762B2"
+    },
+    {
+        "title": "Crp (P)",
+        "start": "2025-05-05T09:50:00",
+        "end": "2025-05-05T11:25:00",
+        "description": "Project - Cryptography\nRodzaj zajęć: Projekt\nNr zajęć: 5/10\nProwadzący: mgr inż. Łukasz Dzieł",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "InC (w)",
+        "start": "2024-10-28T11:40:00",
+        "end": "2024-10-28T13:15:00",
+        "description": "Introduction to the Cryptography\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: dr inż. Michał Misztal",
+        "allDay": false,
+        "color": "#47B28A"
+    },
+    {
+        "title": "Crp (P)",
+        "start": "2025-06-02T09:50:00",
+        "end": "2025-06-02T11:25:00",
+        "description": "Project - Cryptography\nRodzaj zajęć: Projekt\nNr zajęć: 8/10\nProwadzący: mgr inż. Łukasz Dzieł",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "NLP (ć)",
+        "start": "2025-05-22T16:00:00",
+        "end": "2025-05-22T17:35:00",
+        "description": "Natural Language Processing\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/5\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#7C47B2"
+    },
+    {
+        "title": "ISP (L)",
+        "start": "2024-12-16T08:00:00",
+        "end": "2024-12-16T09:35:00",
+        "description": "Introduction to Stochastic Processes\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: dr inż. Romuald Hoffmann",
+        "allDay": false,
+        "color": "#A5B247"
+    },
+    {
+        "title": "NLP (L)",
+        "start": "2025-06-12T16:00:00",
+        "end": "2025-06-12T17:35:00",
+        "description": "Natural Language Processing\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#7C47B2"
+    },
+    {
+        "title": "Stc (L)",
+        "start": "2025-05-22T08:00:00",
+        "end": "2025-05-22T09:35:00",
+        "description": "Statistics\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/15\nProwadzący: dr Ewa Łakoma",
+        "allDay": false,
+        "color": "#B24797"
+    },
+    {
+        "title": "Rcv (ć)",
+        "start": "2025-05-16T11:40:00",
+        "end": "2025-05-16T13:15:00",
+        "description": "Robotics and Comp. Vision Systems\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/8\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "BCE (L)",
+        "start": "2024-11-26T13:30:00",
+        "end": "2024-11-26T15:05:00",
+        "description": "Basics of Computer Engineering\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/12\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#B26F47"
+    },
+    {
+        "title": "BN (w)",
+        "start": "2024-11-28T11:40:00",
+        "end": "2024-11-28T13:15:00",
+        "description": "Basics of Numerical Analysis and Technical Computations\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: dr hab. Marek Kojdecki",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "BCE (w)",
+        "start": "2024-11-15T08:00:00",
+        "end": "2024-11-15T09:35:00",
+        "description": "Basics of Computer Engineering\nRodzaj zajęć: Wykład\nNr zajęć: 9/14\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#B26F47"
+    },
+    {
+        "title": "ISP (w)",
+        "start": "2024-10-24T09:50:00",
+        "end": "2024-10-24T11:25:00",
+        "description": "Introduction to Stochastic Processes\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: dr inż. Romuald Hoffmann",
+        "allDay": false,
+        "color": "#A5B247"
+    },
+    {
+        "title": "InC (L)",
+        "start": "2025-01-14T13:30:00",
+        "end": "2025-01-14T15:05:00",
+        "description": "Introduction to the Cryptography\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/7\nProwadzący: dr inż. Michał Misztal",
+        "allDay": false,
+        "color": "#47B28A"
+    },
+    {
+        "title": "Ec (w)",
+        "start": "2025-05-26T11:40:00",
+        "end": "2025-05-26T13:15:00",
+        "description": "Elliptic Curve and its Application in Cryptography\nRodzaj zajęć: Wykład\nNr zajęć: 9/9\nProwadzący: mgr inż. Tomasz Kijko",
+        "allDay": false,
+        "color": "#5447B2"
+    },
+    {
+        "title": "MLe (w)",
+        "start": "2025-05-23T08:00:00",
+        "end": "2025-05-23T09:35:00",
+        "description": "Machine Learning\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#B29747"
+    },
+    {
+        "title": "dip (w)",
+        "start": "2025-03-24T17:50:00",
+        "end": "2025-03-24T19:25:00",
+        "description": "Digital Image Processing\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#4762B2"
+    },
+    {
+        "title": "BCE (w)",
+        "start": "2024-11-08T08:00:00",
+        "end": "2024-11-08T09:35:00",
+        "description": "Basics of Computer Engineering\nRodzaj zajęć: Wykład\nNr zajęć: 7/14\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#B26F47"
+    },
+    {
+        "title": "Ec (w)",
+        "start": "2025-05-05T11:40:00",
+        "end": "2025-05-05T13:15:00",
+        "description": "Elliptic Curve and its Application in Cryptography\nRodzaj zajęć: Wykład\nNr zajęć: 6/9\nProwadzący: mgr inż. Tomasz Kijko",
+        "allDay": false,
+        "color": "#5447B2"
+    },
+    {
+        "title": "Rcv (w)",
+        "start": "2025-04-08T08:00:00",
+        "end": "2025-04-08T09:35:00",
+        "description": "Robotics and Comp. Vision Systems\nRodzaj zajęć: Wykład\nNr zajęć: 2/14\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "BN (L)",
+        "start": "2025-01-16T11:40:00",
+        "end": "2025-01-16T13:15:00",
+        "description": "Basics of Numerical Analysis and Technical Computations\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/7\nProwadzący: dr hab. Marek Kojdecki",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "JEt (L)",
+        "start": "2025-01-21T17:50:00",
+        "end": "2025-01-21T19:25:00",
+        "description": "JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: mgr inż. Łukasz Laszko",
+        "allDay": false,
+        "color": "#B2476F"
+    },
+    {
+        "title": "Stc (L)",
+        "start": "2025-05-22T09:50:00",
+        "end": "2025-05-22T11:25:00",
+        "description": "Statistics\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/15\nProwadzący: dr Ewa Łakoma",
+        "allDay": false,
+        "color": "#B24797"
+    },
+    {
+        "title": "Rcv (ć)",
+        "start": "2025-05-14T17:50:00",
+        "end": "2025-05-14T19:25:00",
+        "description": "Robotics and Comp. Vision Systems\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/8\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "InC (w)",
+        "start": "2024-12-16T11:40:00",
+        "end": "2024-12-16T13:15:00",
+        "description": "Introduction to the Cryptography\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr inż. Michał Misztal",
+        "allDay": false,
+        "color": "#47B28A"
+    },
+    {
+        "title": "CAO (w)",
+        "start": "2024-11-04T17:50:00",
+        "end": "2024-11-04T19:25:00",
+        "description": "Computer Architecture and Operating Systems\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#478AB2"
+    },
+    {
+        "title": "Icn (P)",
+        "start": "2024-11-13T17:50:00",
+        "end": "2024-11-13T19:25:00",
+        "description": "Introduction to Computer Networking\nRodzaj zajęć: Projekt\nNr zajęć: 2/10\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#A547B2"
+    },
+    {
+        "title": "dip (L)",
+        "start": "2025-04-11T13:30:00",
+        "end": "2025-04-11T15:05:00",
+        "description": "Digital Image Processing\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#4762B2"
+    },
+    {
+        "title": "BN (w)",
+        "start": "2024-12-05T11:40:00",
+        "end": "2024-12-05T13:15:00",
+        "description": "Basics of Numerical Analysis and Technical Computations\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr hab. Marek Kojdecki",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Icn (ć)",
+        "start": "2024-11-06T17:50:00",
+        "end": "2024-11-06T19:25:00",
+        "description": "Introduction to Computer Networking\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#A547B2"
+    },
+    {
+        "title": "BCE (w)",
+        "start": "2024-11-08T09:50:00",
+        "end": "2024-11-08T11:25:00",
+        "description": "Basics of Computer Engineering\nRodzaj zajęć: Wykład\nNr zajęć: 8/14\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#B26F47"
+    },
+    {
+        "title": "Rcv (ć)",
+        "start": "2025-05-13T13:30:00",
+        "end": "2025-05-13T15:05:00",
+        "description": "Robotics and Comp. Vision Systems\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/8\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "CAO (w)",
+        "start": "2024-10-22T17:50:00",
+        "end": "2024-10-22T19:25:00",
+        "description": "Computer Architecture and Operating Systems\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#478AB2"
+    },
+    {
+        "title": "BN (w)",
+        "start": "2024-10-17T11:40:00",
+        "end": "2024-10-17T13:15:00",
+        "description": "Basics of Numerical Analysis and Technical Computations\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: dr hab. Marek Kojdecki",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "dip (w)",
+        "start": "2025-04-10T17:50:00",
+        "end": "2025-04-10T19:25:00",
+        "description": "Digital Image Processing\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#4762B2"
+    },
+    {
+        "title": "CAO (L)",
+        "start": "2024-12-04T08:00:00",
+        "end": "2024-12-04T09:35:00",
+        "description": "Computer Architecture and Operating Systems\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#478AB2"
+    },
+    {
+        "title": "Stc (L)",
+        "start": "2025-06-05T11:40:00",
+        "end": "2025-06-05T13:15:00",
+        "description": "Statistics\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/15\nProwadzący: dr Ewa Łakoma",
+        "allDay": false,
+        "color": "#B24797"
+    },
+    {
+        "title": "NLP (L)",
+        "start": "2025-05-23T13:30:00",
+        "end": "2025-05-23T15:05:00",
+        "description": "Natural Language Processing\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#7C47B2"
+    },
+    {
+        "title": "MLe (w)",
+        "start": "2025-04-04T08:00:00",
+        "end": "2025-04-04T09:35:00",
+        "description": "Machine Learning\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#B29747"
+    },
+    {
+        "title": "BCE (w)",
+        "start": "2024-10-25T08:00:00",
+        "end": "2024-10-25T09:35:00",
+        "description": "Basics of Computer Engineering\nRodzaj zajęć: Wykład\nNr zajęć: 3/14\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#B26F47"
+    },
+    {
+        "title": "BCE (w)",
+        "start": "2024-12-17T08:00:00",
+        "end": "2024-12-17T09:35:00",
+        "description": "Basics of Computer Engineering\nRodzaj zajęć: Wykład\nNr zajęć: 13/14\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#B26F47"
+    },
+    {
+        "title": "InC (w)",
+        "start": "2024-11-25T11:40:00",
+        "end": "2024-11-25T13:15:00",
+        "description": "Introduction to the Cryptography\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr inż. Michał Misztal",
+        "allDay": false,
+        "color": "#47B28A"
+    },
+    {
+        "title": "Stc (L)",
+        "start": "2025-06-12T11:40:00",
+        "end": "2025-06-12T13:15:00",
+        "description": "Statistics\nRodzaj zajęć: Laboratorium\nNr zajęć: 15/15\nProwadzący: dr Ewa Łakoma",
+        "allDay": false,
+        "color": "#B24797"
+    },
+    {
+        "title": "InC (L)",
+        "start": "2025-01-14T11:40:00",
+        "end": "2025-01-14T13:15:00",
+        "description": "Introduction to the Cryptography\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/7\nProwadzący: dr inż. Michał Misztal",
+        "allDay": false,
+        "color": "#47B28A"
+    },
+    {
+        "title": "dip (ć)",
+        "start": "2025-04-07T16:00:00",
+        "end": "2025-04-07T17:35:00",
+        "description": "Digital Image Processing\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/4\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#4762B2"
+    },
+    {
+        "title": "InC (L)",
+        "start": "2025-01-07T11:40:00",
+        "end": "2025-01-07T13:15:00",
+        "description": "Introduction to the Cryptography\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/7\nProwadzący: dr inż. Michał Misztal",
+        "allDay": false,
+        "color": "#47B28A"
+    },
+    {
+        "title": "Ec (w)",
+        "start": "2025-04-28T11:40:00",
+        "end": "2025-04-28T13:15:00",
+        "description": "Elliptic Curve and its Application in Cryptography\nRodzaj zajęć: Wykład\nNr zajęć: 5/9\nProwadzący: mgr inż. Tomasz Kijko",
+        "allDay": false,
+        "color": "#5447B2"
+    },
+    {
+        "title": "TCT (w)",
+        "start": "2025-05-08T08:00:00",
+        "end": "2025-05-08T09:35:00",
+        "description": "Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#47B262"
+    },
+    {
+        "title": "Crp (P)",
+        "start": "2025-06-09T09:50:00",
+        "end": "2025-06-09T11:25:00",
+        "description": "Project - Cryptography\nRodzaj zajęć: Projekt\nNr zajęć: 9/10\nProwadzący: mgr inż. Łukasz Dzieł",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "JEt (w)",
+        "start": "2024-12-09T13:30:00",
+        "end": "2024-12-09T15:05:00",
+        "description": "JavaEE Technologies\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: mgr inż. Łukasz Laszko",
+        "allDay": false,
+        "color": "#B2476F"
+    },
+    {
+        "title": "BCE (w)",
+        "start": "2024-10-18T08:00:00",
+        "end": "2024-10-18T09:35:00",
+        "description": "Basics of Computer Engineering\nRodzaj zajęć: Wykład\nNr zajęć: 1/14\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#B26F47"
+    },
+    {
+        "title": "NLP (L)",
+        "start": "2025-05-23T11:40:00",
+        "end": "2025-05-23T13:15:00",
+        "description": "Natural Language Processing\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#7C47B2"
+    },
+    {
+        "title": "NLP (ć)",
+        "start": "2025-05-09T09:50:00",
+        "end": "2025-05-09T11:25:00",
+        "description": "Natural Language Processing\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/5\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#7C47B2"
+    },
+    {
+        "title": "BN (L)",
+        "start": "2024-12-19T13:30:00",
+        "end": "2024-12-19T15:05:00",
+        "description": "Basics of Numerical Analysis and Technical Computations\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/7\nProwadzący: dr hab. Marek Kojdecki",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "JEt (L)",
+        "start": "2025-01-21T16:00:00",
+        "end": "2025-01-21T17:35:00",
+        "description": "JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: mgr inż. Łukasz Laszko",
+        "allDay": false,
+        "color": "#B2476F"
+    },
+    {
+        "title": "dip (L)",
+        "start": "2025-05-26T16:00:00",
+        "end": "2025-05-26T17:35:00",
+        "description": "Digital Image Processing\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#4762B2"
+    },
+    {
+        "title": "Rcv (L)",
+        "start": "2025-05-05T17:50:00",
+        "end": "2025-05-05T19:25:00",
+        "description": "Robotics and Comp. Vision Systems\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "Icn (w)",
+        "start": "2024-11-06T11:40:00",
+        "end": "2024-11-06T13:15:00",
+        "description": "Introduction to Computer Networking\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#A547B2"
+    },
+    {
+        "title": "Stc (L)",
+        "start": "2025-05-22T11:40:00",
+        "end": "2025-05-22T13:15:00",
+        "description": "Statistics\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/15\nProwadzący: dr Ewa Łakoma",
+        "allDay": false,
+        "color": "#B24797"
+    },
+    {
+        "title": "Ec (w)",
+        "start": "2025-04-07T11:40:00",
+        "end": "2025-04-07T13:15:00",
+        "description": "Elliptic Curve and its Application in Cryptography\nRodzaj zajęć: Wykład\nNr zajęć: 3/9\nProwadzący: mgr inż. Tomasz Kijko",
+        "allDay": false,
+        "color": "#5447B2"
+    },
+    {
+        "title": "Rcv (E)",
+        "start": "2025-05-28T16:00:00",
+        "end": "2025-05-28T17:35:00",
+        "description": "Robotics and Comp. Vision Systems\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "dip (w)",
+        "start": "2025-03-24T16:00:00",
+        "end": "2025-03-24T17:35:00",
+        "description": "Digital Image Processing\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#4762B2"
+    },
+    {
+        "title": "InC (L)",
+        "start": "2025-01-28T11:40:00",
+        "end": "2025-01-28T13:15:00",
+        "description": "Introduction to the Cryptography\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/7\nProwadzący: dr inż. Michał Misztal",
+        "allDay": false,
+        "color": "#47B28A"
+    },
+    {
+        "title": "BCE (L)",
+        "start": "2024-12-16T17:50:00",
+        "end": "2024-12-16T19:25:00",
+        "description": "Basics of Computer Engineering\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/12\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#B26F47"
+    },
+    {
+        "title": "Ec (w)",
+        "start": "2025-04-14T11:40:00",
+        "end": "2025-04-14T13:15:00",
+        "description": "Elliptic Curve and its Application in Cryptography\nRodzaj zajęć: Wykład\nNr zajęć: 4/9\nProwadzący: mgr inż. Tomasz Kijko",
+        "allDay": false,
+        "color": "#5447B2"
+    },
+    {
+        "title": "TCT (w)",
+        "start": "2025-03-27T17:50:00",
+        "end": "2025-03-27T19:25:00",
+        "description": "Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#47B262"
+    },
+    {
+        "title": "BN (w)",
+        "start": "2024-11-21T11:40:00",
+        "end": "2024-11-21T13:15:00",
+        "description": "Basics of Numerical Analysis and Technical Computations\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: dr hab. Marek Kojdecki",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "BCE (L)",
+        "start": "2024-12-18T11:40:00",
+        "end": "2024-12-18T13:15:00",
+        "description": "Basics of Computer Engineering\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/12\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#B26F47"
+    },
+    {
+        "title": "Ec (L)",
+        "start": "2025-06-16T11:40:00",
+        "end": "2025-06-16T13:15:00",
+        "description": "Elliptic Curve and its Application in Cryptography\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/7\nProwadzący: mgr inż. Tomasz Kijko",
+        "allDay": false,
+        "color": "#5447B2"
+    },
+    {
+        "title": "TCT (L)",
+        "start": "2025-05-09T11:40:00",
+        "end": "2025-05-09T13:15:00",
+        "description": "Trends in Computer Technology\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#47B262"
+    },
+    {
+        "title": "CAO (L)",
+        "start": "2024-12-04T09:50:00",
+        "end": "2024-12-04T11:25:00",
+        "description": "Computer Architecture and Operating Systems\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#478AB2"
+    },
+    {
+        "title": "Icn (L)",
+        "start": "2024-12-09T17:50:00",
+        "end": "2024-12-09T19:25:00",
+        "description": "Introduction to Computer Networking\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Sebastian Łeska",
+        "allDay": false,
+        "color": "#A547B2"
+    },
+    {
+        "title": "Stc (L)",
+        "start": "2025-05-29T09:50:00",
+        "end": "2025-05-29T11:25:00",
+        "description": "Statistics\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/15\nProwadzący: dr Ewa Łakoma",
+        "allDay": false,
+        "color": "#B24797"
+    },
+    {
+        "title": "TCT (w)",
+        "start": "2025-03-27T16:00:00",
+        "end": "2025-03-27T17:35:00",
+        "description": "Trends in Computer Technology\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#47B262"
+    },
+    {
+        "title": "NLP (ć)",
+        "start": "2025-05-30T11:40:00",
+        "end": "2025-05-30T13:15:00",
+        "description": "Natural Language Processing\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/5\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#7C47B2"
+    },
+    {
+        "title": "Crp (P)",
+        "start": "2025-04-28T09:50:00",
+        "end": "2025-04-28T11:25:00",
+        "description": "Project - Cryptography\nRodzaj zajęć: Projekt\nNr zajęć: 4/10\nProwadzący: mgr inż. Łukasz Dzieł",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "MLe (w)",
+        "start": "2025-04-24T17:50:00",
+        "end": "2025-04-24T19:25:00",
+        "description": "Machine Learning\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#B29747"
+    },
+    {
+        "title": "Stc (w)",
+        "start": "2025-03-20T09:50:00",
+        "end": "2025-03-20T11:25:00",
+        "description": "Statistics\nRodzaj zajęć: Wykład\nNr zajęć: 2/15\nProwadzący: dr Ewa Łakoma",
+        "allDay": false,
+        "color": "#B24797"
+    },
+    {
+        "title": "Icn (w)",
+        "start": "2024-10-23T11:40:00",
+        "end": "2024-10-23T13:15:00",
+        "description": "Introduction to Computer Networking\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#A547B2"
+    },
+    {
+        "title": "MLe (L)",
+        "start": "2025-05-15T16:00:00",
+        "end": "2025-05-15T17:35:00",
+        "description": "Machine Learning\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#B29747"
+    },
+    {
+        "title": "MLe (w)",
+        "start": "2025-04-11T08:00:00",
+        "end": "2025-04-11T09:35:00",
+        "description": "Machine Learning\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#B29747"
+    },
+    {
+        "title": "BCE (L)",
+        "start": "2024-12-04T11:40:00",
+        "end": "2024-12-04T13:15:00",
+        "description": "Basics of Computer Engineering\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/12\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#B26F47"
+    },
+    {
+        "title": "NLP (L)",
+        "start": "2025-05-30T09:50:00",
+        "end": "2025-05-30T11:25:00",
+        "description": "Natural Language Processing\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#7C47B2"
+    },
+    {
+        "title": "Rcv (ć)",
+        "start": "2025-05-27T11:40:00",
+        "end": "2025-05-27T13:15:00",
+        "description": "Robotics and Comp. Vision Systems\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/8\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "CAO (w)",
+        "start": "2024-10-21T17:50:00",
+        "end": "2024-10-21T19:25:00",
+        "description": "Computer Architecture and Operating Systems\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#478AB2"
+    },
+    {
+        "title": "JEt (L)",
+        "start": "2025-01-28T16:00:00",
+        "end": "2025-01-28T17:35:00",
+        "description": "JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: mgr inż. Łukasz Laszko",
+        "allDay": false,
+        "color": "#B2476F"
+    },
+    {
+        "title": "BN (L)",
+        "start": "2024-12-05T13:30:00",
+        "end": "2024-12-05T15:05:00",
+        "description": "Basics of Numerical Analysis and Technical Computations\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/7\nProwadzący: dr hab. Marek Kojdecki",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "MLe (L)",
+        "start": "2025-06-05T17:50:00",
+        "end": "2025-06-05T19:25:00",
+        "description": "Machine Learning\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#B29747"
+    },
+    {
+        "title": "SQS (w)",
+        "start": "2024-12-12T08:00:00",
+        "end": "2024-12-12T09:35:00",
+        "description": "Software Quality Standards\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr inż. Romuald Hoffmann",
+        "allDay": false,
+        "color": "#54B247"
+    },
+    {
+        "title": "Rcv (ć)",
+        "start": "2025-05-13T11:40:00",
+        "end": "2025-05-13T13:15:00",
+        "description": "Robotics and Comp. Vision Systems\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/8\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "BCE (L)",
+        "start": "2024-12-17T11:40:00",
+        "end": "2024-12-17T13:15:00",
+        "description": "Basics of Computer Engineering\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/12\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#B26F47"
+    },
+    {
+        "title": "dip (L)",
+        "start": "2025-04-15T13:30:00",
+        "end": "2025-04-15T15:05:00",
+        "description": "Digital Image Processing\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#4762B2"
+    },
+    {
+        "title": "NLP (w)",
+        "start": "2025-03-27T11:40:00",
+        "end": "2025-03-27T13:15:00",
+        "description": "Natural Language Processing\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#7C47B2"
+    },
+    {
+        "title": "CAO (L)",
+        "start": "2024-12-02T17:50:00",
+        "end": "2024-12-02T19:25:00",
+        "description": "Computer Architecture and Operating Systems\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#478AB2"
+    },
+    {
+        "title": "Stc (L)",
+        "start": "2025-06-05T09:50:00",
+        "end": "2025-06-05T11:25:00",
+        "description": "Statistics\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/15\nProwadzący: dr Ewa Łakoma",
+        "allDay": false,
+        "color": "#B24797"
+    },
+    {
+        "title": "Crp (P)",
+        "start": "2025-04-14T13:30:00",
+        "end": "2025-04-14T15:05:00",
+        "description": "Project - Cryptography\nRodzaj zajęć: Projekt\nNr zajęć: 3/10\nProwadzący: mgr inż. Łukasz Dzieł",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "MLe (w)",
+        "start": "2025-03-20T13:30:00",
+        "end": "2025-03-20T15:05:00",
+        "description": "Machine Learning\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#B29747"
+    },
+    {
+        "title": "InC (L)",
+        "start": "2025-01-21T13:30:00",
+        "end": "2025-01-21T15:05:00",
+        "description": "Introduction to the Cryptography\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/7\nProwadzący: dr inż. Michał Misztal",
+        "allDay": false,
+        "color": "#47B28A"
+    },
+    {
+        "title": "Crp (P)",
+        "start": "2025-05-12T09:50:00",
+        "end": "2025-05-12T11:25:00",
+        "description": "Project - Cryptography\nRodzaj zajęć: Projekt\nNr zajęć: 6/10\nProwadzący: mgr inż. Łukasz Dzieł",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Icn (w)",
+        "start": "2024-11-06T13:30:00",
+        "end": "2024-11-06T15:05:00",
+        "description": "Introduction to Computer Networking\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#A547B2"
+    },
+    {
+        "title": "JEt (L)",
+        "start": "2025-01-07T17:50:00",
+        "end": "2025-01-07T19:25:00",
+        "description": "JavaEE Technologies\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: mgr inż. Łukasz Laszko",
+        "allDay": false,
+        "color": "#B2476F"
+    },
+    {
+        "title": "BCE (L)",
+        "start": "2024-11-26T11:40:00",
+        "end": "2024-11-26T13:15:00",
+        "description": "Basics of Computer Engineering\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/12\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#B26F47"
+    },
+    {
+        "title": "CAO (ć)",
+        "start": "2024-11-26T16:00:00",
+        "end": "2024-11-26T17:35:00",
+        "description": "Computer Architecture and Operating Systems\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/4\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#478AB2"
+    },
+    {
+        "title": "Icn (w)",
+        "start": "2024-10-23T13:30:00",
+        "end": "2024-10-23T15:05:00",
+        "description": "Introduction to Computer Networking\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#A547B2"
+    },
+    {
+        "title": "Stc (L)",
+        "start": "2025-05-29T11:40:00",
+        "end": "2025-05-29T13:15:00",
+        "description": "Statistics\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/15\nProwadzący: dr Ewa Łakoma",
+        "allDay": false,
+        "color": "#B24797"
+    },
+    {
+        "title": "dip (L)",
+        "start": "2025-04-08T11:40:00",
+        "end": "2025-04-08T13:15:00",
+        "description": "Digital Image Processing\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#4762B2"
+    },
+    {
+        "title": "Icn (P)",
+        "start": "2024-12-19T16:00:00",
+        "end": "2024-12-19T17:35:00",
+        "description": "Introduction to Computer Networking\nRodzaj zajęć: Projekt\nNr zajęć: 9/10\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#A547B2"
+    },
+    {
+        "title": "dip (L)",
+        "start": "2025-04-11T16:00:00",
+        "end": "2025-04-11T17:35:00",
+        "description": "Digital Image Processing\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#4762B2"
+    },
+    {
+        "title": "Crp (P)",
+        "start": "2025-05-26T09:50:00",
+        "end": "2025-05-26T11:25:00",
+        "description": "Project - Cryptography\nRodzaj zajęć: Projekt\nNr zajęć: 7/10\nProwadzący: mgr inż. Łukasz Dzieł",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Rcv (L)",
+        "start": "2025-05-12T16:00:00",
+        "end": "2025-05-12T17:35:00",
+        "description": "Robotics and Comp. Vision Systems\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "Rcv (w)",
+        "start": "2025-03-25T09:50:00",
+        "end": "2025-03-25T11:25:00",
+        "description": "Robotics and Comp. Vision Systems\nRodzaj zajęć: Wykład\nNr zajęć: 1/14\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "BCE (L)",
+        "start": "2024-12-17T13:30:00",
+        "end": "2024-12-17T15:05:00",
+        "description": "Basics of Computer Engineering\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/12\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#B26F47"
+    },
+    {
+        "title": "InC (L)",
+        "start": "2025-01-07T13:30:00",
+        "end": "2025-01-07T15:05:00",
+        "description": "Introduction to the Cryptography\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/7\nProwadzący: dr inż. Michał Misztal",
+        "allDay": false,
+        "color": "#47B28A"
+    },
+    {
+        "title": "Rcv (L)",
+        "start": "2025-05-05T16:00:00",
+        "end": "2025-05-05T17:35:00",
+        "description": "Robotics and Comp. Vision Systems\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "dip (w)",
+        "start": "2025-05-13T16:00:00",
+        "end": "2025-05-13T17:35:00",
+        "description": "Digital Image Processing\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#4762B2"
+    },
+    {
+        "title": "Icn (P)",
+        "start": "2024-11-27T16:00:00",
+        "end": "2024-11-27T17:35:00",
+        "description": "Introduction to Computer Networking\nRodzaj zajęć: Projekt\nNr zajęć: 3/10\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#A547B2"
+    },
+    {
+        "title": "ISP (L)",
+        "start": "2024-11-20T11:40:00",
+        "end": "2024-11-20T13:15:00",
+        "description": "Introduction to Stochastic Processes\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: dr inż. Romuald Hoffmann",
+        "allDay": false,
+        "color": "#A5B247"
+    },
+    {
+        "title": "InC (w)",
+        "start": "2024-11-04T11:40:00",
+        "end": "2024-11-04T13:15:00",
+        "description": "Introduction to the Cryptography\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: dr inż. Michał Misztal",
+        "allDay": false,
+        "color": "#47B28A"
+    },
+    {
+        "title": "Stc (w)",
+        "start": "2025-04-03T09:50:00",
+        "end": "2025-04-03T11:25:00",
+        "description": "Statistics\nRodzaj zajęć: Wykład\nNr zajęć: 6/15\nProwadzący: dr Ewa Łakoma",
+        "allDay": false,
+        "color": "#B24797"
+    },
+    {
+        "title": "Rcv (w)",
+        "start": "2025-04-08T09:50:00",
+        "end": "2025-04-08T11:25:00",
+        "description": "Robotics and Comp. Vision Systems\nRodzaj zajęć: Wykład\nNr zajęć: 3/14\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "ISP (w)",
+        "start": "2025-01-23T08:00:00",
+        "end": "2025-01-23T09:35:00",
+        "description": "Introduction to Stochastic Processes\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr inż. Romuald Hoffmann",
+        "allDay": false,
+        "color": "#A5B247"
+    },
+    {
+        "title": "BCE (ć)",
+        "start": "2024-11-08T11:40:00",
+        "end": "2024-11-08T13:15:00",
+        "description": "Basics of Computer Engineering\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/4\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#B26F47"
+    },
+    {
+        "title": "CAO (w)",
+        "start": "2024-11-05T16:00:00",
+        "end": "2024-11-05T17:35:00",
+        "description": "Computer Architecture and Operating Systems\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#478AB2"
+    },
+    {
+        "title": "InC (L)",
+        "start": "2025-01-21T11:40:00",
+        "end": "2025-01-21T13:15:00",
+        "description": "Introduction to the Cryptography\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/7\nProwadzący: dr inż. Michał Misztal",
+        "allDay": false,
+        "color": "#47B28A"
+    },
+    {
+        "title": "InC (w)",
+        "start": "2024-12-09T11:40:00",
+        "end": "2024-12-09T13:15:00",
+        "description": "Introduction to the Cryptography\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: dr inż. Michał Misztal",
+        "allDay": false,
+        "color": "#47B28A"
+    },
+    {
+        "title": "Rcv (w)",
+        "start": "2025-05-27T09:50:00",
+        "end": "2025-05-27T11:25:00",
+        "description": "Robotics and Comp. Vision Systems\nRodzaj zajęć: Wykład\nNr zajęć: 14/14\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "Stc (w)",
+        "start": "2025-04-10T08:00:00",
+        "end": "2025-04-10T09:35:00",
+        "description": "Statistics\nRodzaj zajęć: Wykład\nNr zajęć: 8/15\nProwadzący: dr Ewa Łakoma",
+        "allDay": false,
+        "color": "#B24797"
+    },
+    {
+        "title": "dip (ć)",
+        "start": "2025-04-14T16:00:00",
+        "end": "2025-04-14T17:35:00",
+        "description": "Digital Image Processing\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/4\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#4762B2"
+    },
+    {
+        "title": "Rcv (w)",
+        "start": "2025-05-06T08:00:00",
+        "end": "2025-05-06T09:35:00",
+        "description": "Robotics and Comp. Vision Systems\nRodzaj zajęć: Wykład\nNr zajęć: 7/14\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "BN (w)",
+        "start": "2024-11-14T11:40:00",
+        "end": "2024-11-14T13:15:00",
+        "description": "Basics of Numerical Analysis and Technical Computations\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr hab. Marek Kojdecki",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "NLP (ć)",
+        "start": "2025-04-03T13:30:00",
+        "end": "2025-04-03T15:05:00",
+        "description": "Natural Language Processing\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/5\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#7C47B2"
+    },
+    {
+        "title": "Icn (L)",
+        "start": "2024-11-21T16:00:00",
+        "end": "2024-11-21T17:35:00",
+        "description": "Introduction to Computer Networking\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Sebastian Łeska",
+        "allDay": false,
+        "color": "#A547B2"
+    },
+    {
+        "title": "BCE (w)",
+        "start": "2024-11-05T08:00:00",
+        "end": "2024-11-05T09:35:00",
+        "description": "Basics of Computer Engineering\nRodzaj zajęć: Wykład\nNr zajęć: 5/14\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#B26F47"
+    },
+    {
+        "title": "JEt (w)",
+        "start": "2024-11-28T16:00:00",
+        "end": "2024-11-28T17:35:00",
+        "description": "JavaEE Technologies\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: mgr inż. Łukasz Laszko",
+        "allDay": false,
+        "color": "#B2476F"
+    },
+    {
+        "title": "Rcv (ć)",
+        "start": "2025-05-14T16:00:00",
+        "end": "2025-05-14T17:35:00",
+        "description": "Robotics and Comp. Vision Systems\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/8\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "Icn (L)",
+        "start": "2024-11-28T19:40:00",
+        "end": "2024-11-28T21:15:00",
+        "description": "Introduction to Computer Networking\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Sebastian Łeska",
+        "allDay": false,
+        "color": "#A547B2"
+    },
+    {
+        "title": "SQS (Inne)",
+        "start": "2025-01-16T09:50:00",
+        "end": "2025-01-16T11:25:00",
+        "description": "Software Quality Standards\nRodzaj zajęć:  - \nNr zajęć: 3/5\nProwadzący: dr inż. Romuald Hoffmann",
+        "allDay": false,
+        "color": "#54B247"
+    },
+    {
+        "title": "Icn (L)",
+        "start": "2024-11-28T17:50:00",
+        "end": "2024-11-28T19:25:00",
+        "description": "Introduction to Computer Networking\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Sebastian Łeska",
+        "allDay": false,
+        "color": "#A547B2"
+    },
+    {
+        "title": "ISP (L)",
+        "start": "2025-01-28T09:50:00",
+        "end": "2025-01-28T11:25:00",
+        "description": "Introduction to Stochastic Processes\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: dr inż. Romuald Hoffmann",
+        "allDay": false,
+        "color": "#A5B247"
+    },
+    {
+        "title": "CAO (w)",
+        "start": "2024-11-04T16:00:00",
+        "end": "2024-11-04T17:35:00",
+        "description": "Computer Architecture and Operating Systems\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#478AB2"
+    },
+    {
+        "title": "BCE (w)",
+        "start": "2024-11-05T09:50:00",
+        "end": "2024-11-05T11:25:00",
+        "description": "Basics of Computer Engineering\nRodzaj zajęć: Wykład\nNr zajęć: 6/14\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#B26F47"
+    },
+    {
+        "title": "Rcv (ć)",
+        "start": "2025-05-16T13:30:00",
+        "end": "2025-05-16T15:05:00",
+        "description": "Robotics and Comp. Vision Systems\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/8\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "Stc (w)",
+        "start": "2025-04-23T09:50:00",
+        "end": "2025-04-23T11:25:00",
+        "description": "Statistics\nRodzaj zajęć: Wykład\nNr zajęć: 12/15\nProwadzący: dr Ewa Łakoma",
+        "allDay": false,
+        "color": "#B24797"
+    },
+    {
+        "title": "BCE (L)",
+        "start": "2024-12-04T13:30:00",
+        "end": "2024-12-04T15:05:00",
+        "description": "Basics of Computer Engineering\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/12\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#B26F47"
+    },
+    {
+        "title": "Icn (ć)",
+        "start": "2024-10-23T16:00:00",
+        "end": "2024-10-23T17:35:00",
+        "description": "Introduction to Computer Networking\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/4\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#A547B2"
+    },
+    {
+        "title": "Icn (w)",
+        "start": "2024-11-27T13:30:00",
+        "end": "2024-11-27T15:05:00",
+        "description": "Introduction to Computer Networking\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#A547B2"
+    },
+    {
+        "title": "Ec (L)",
+        "start": "2025-06-02T11:40:00",
+        "end": "2025-06-02T13:15:00",
+        "description": "Elliptic Curve and its Application in Cryptography\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/7\nProwadzący: mgr inż. Tomasz Kijko",
+        "allDay": false,
+        "color": "#5447B2"
+    }
+]
