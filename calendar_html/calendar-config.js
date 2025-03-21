@@ -4,6 +4,42 @@ document.addEventListener('DOMContentLoaded', function() {
     var eventTitle = document.getElementById('event-title');
     var eventDescription = document.getElementById('event-description');
 
+    async function loadGroups() {
+        try {
+            const response = await fetch("data/calendars/WCY/groups.txt");
+            const text = await response.text();
+            const groups = text.split("\n").map(g => g.trim()).filter(g => g !== "");
+
+            let select = document.getElementById("group-select");
+            groups.forEach(group => {
+                let option = document.createElement("option");
+                option.value = group;
+                option.textContent = group;
+                select.appendChild(option);
+            });
+        } catch (error) {
+            console.error("Błąd ładowania grup:", error);
+        }
+    }
+
+    function downloadICS() {
+        let selectedGroup = document.getElementById("group-select").value;
+        if (!selectedGroup) {
+            alert("Wybierz grupę!");
+            return;
+        }
+
+        // Zamiana gwiazdek * na podłogi _
+        let fixedGroupName = selectedGroup.replace(/\*/g, "_"); 
+
+        let icsFileUrl = `data/calendars/WCY/calendar_ics/${encodeURIComponent(fixedGroupName)}.ics`;
+        console.log("Pobieranie:", icsFileUrl);
+        window.location.href = icsFileUrl;
+    }
+
+
+    window.onload = loadGroups;
+
     function isMobile() {
         return window.innerWidth < 768;
     }
