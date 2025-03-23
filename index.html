@@ -4,28 +4,80 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Kalendarz WCY22KC2S0</title>
+    <title>Kalendarz</title>
 
-    <!-- CSS -->
-    <link rel="stylesheet" href="calendar_html/styles.css">
+    <!-- calendar CSS -->
+    <link rel="stylesheet" href="calendar_html/calendar.css">
+
+    <!-- sidebar CSS -->
+     <link rel="stylesheet" href = "calendar_html/sidebar.css">
 
     <!-- FullCalendar JS -->
     <script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.15/index.global.min.js"></script>
 </head>
 
-<div class="container">
-    <label for="group-select">Wybierz grupę:</label>
-    <select id="group-select"></select>
-</div>
-
-<div id="event-info" class="event-info-box">
-    <h2 id="event-title"></h2>
-    <p id="event-description"></p>
-</div>
-
 <body>
-    <h1 class="calendar-title" style="display: none;"></h1>
-    <div id="calendar"></div>
+
+    <!-- sidebar -->
+    <div class = "sidebar">
+        <h2>Menu</h2>
+        <ul>
+            <li onclick = "showSection('home')">Home</li>
+            <li onclick = "showSection('calendars')">Kalendarze</li>
+            <li onclick = "showSection('signal')">Signal</li>
+            <li onclick = "showSection('github')">GitHub</li>
+            <li onclick = "showSection('email')">E-mail</li>
+            <li onclick = "showSection('info')">Informacje</li>
+        </ul>
+    </div>
+
+
+    <div class = "content">
+        <div id = "home" class = "section active">
+            <h1>Strona głowna</h1>
+            <p>Witam</p>
+        </div>
+
+        <div id = "calendars" class = "section ">
+            <h1>Kalendarze</h1>
+
+            <label for="group-select">Wybierz grupę:</label>
+            <select id="group-select"></select>
+
+            <div id="event-info" class="event-info-box">
+                <h2 id="event-title"></h2>
+                <p id="event-description"></p>
+            </div>
+
+            <h2 class = "calendar-title" style = "display: none;"></h2>
+            <div id = "calendar"></div>
+        </div>
+
+        <div id = "signal" class = "section">
+            <h1>Signal</h1>
+            <p>Link do kontaktu przez Signal</p>
+        </div>
+
+        <div id = "github" class = "section">
+            <h1>GitHub</h1>
+            <p>Tu będzie link do kontaktu przez GitHub</p>
+        </div>
+
+        <div id = "email" class = "section">
+            <h1>E-mail</h1>
+            <p>bedzie wyswietlac adres email do kontaktu</p>
+        </div>
+
+        <div id = "info" class = "section">
+            <h1>Informacje</h1>
+            <p>instrukcja</p>
+        </div>
+    </div>
+
+    <!-- skrypt do sidebar -->
+    <script src = "calendar_html/sidebar-config.js"></script>
+
+    <!-- skrypt do kalendarzy -->
     <script src="calendar_html/calendar-config.js"></script>
 </body>
 
