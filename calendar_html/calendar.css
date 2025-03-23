@@ -12,6 +12,7 @@ html, body {
 #calendar {
     max-width: 1100px;
     margin: 40px auto;
+    padding: 10px;
 }
 
 .calendar-title {
@@ -96,6 +97,7 @@ select, button {
     padding: 5px;
     transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
     font-weight: bold;
+    box-shadow: none !important; 
 }
 
 .fc-event:hover {
@@ -135,12 +137,6 @@ select, button {
     .fc-toolbar {
         font-size: 12px;
     }
-}
-
-#calendar {
-    max-width: 1100px;
-    margin: 20px auto;
-    padding: 10px;
 }
 
 .fc-view-harness {
@@ -223,8 +219,4 @@ select, button {
 
 .fc-timegrid-axis {
     background: #2a2a2a;
-}
-
-.fc-event {
-    box-shadow: none !important; 
 }
