@@ -3,3 +3,7 @@ function showSection(id) {
     sections.forEach(section => section.classList.remove('active'));
     document.getElementById(id).classList.add('active');
 }
+
+function toggleSidebar() {
+    document.querySelector('.sidebar').classList.toggle('open');
+}
