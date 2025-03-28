@@ -100,7 +100,8 @@ body {
   .separator_3 {
     position: relative;
     border-radius: 4px;
-    background-color: #444;
+    background-color: white;
+    opacity: 0.2;
     width: 48px;
     margin-left: 10px;
     transition: background-color 0.75s ease, width 0.75s ease;
@@ -131,13 +132,13 @@ body {
     left: 0;
     top: 50%;
     transform: translate(20px, -50%);
-    opacity: 0;
     font-size: 14px;
     font-weight: 600;
     color: white;
     white-space: nowrap;
     transition: opacity 0.25s ease, transform 0.75s ease;
     pointer-events: none;
+    opacity: 0;
   }
   
   .sidebar.open .separator_1,
@@ -151,7 +152,7 @@ body {
   .sidebar.open .separator_2-label,
   .sidebar.open .separator_3-label {
     transform: translate(0, -50%);
-    opacity: 0.4;
+    opacity: 1;
   }
   
   .menu {
