@@ -109,7 +109,7 @@ body {
   .separator_1 {
     margin-top: clamp(8px, 4vh, 40px);
     margin-bottom: 30px;
-    height: 3px;
+    height: 4px;
   }
   
   .separator_2 {
@@ -121,7 +121,7 @@ body {
   .separator_3 {
     margin-top: clamp(80px, 6vh, 60px);
     margin-bottom: 30px;
-    height: 3px;
+    height: 4px;
   }  
   
   .separator_1-label,
