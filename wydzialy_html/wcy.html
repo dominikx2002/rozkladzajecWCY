@@ -15,25 +15,34 @@
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center;
-            background-color: #1e1e1e;
-            color: #ffffff;
-            font-family: 'Poppins', Arial, Helvetica, sans-serif;
-            margin: 0;
-            text-align: center;
-            padding: 0;
-            font-size: 14px;
         }
     </style>
 
-    <!-- sidebar CSS -->
-    <link rel="stylesheet" href = "css/sidebar.css">
+    <!-- calendar CSS -->
+    <link rel="stylesheet" href="/css/calendar.css">
 
-    <!-- wydzialy CSS -->
-    <link rel="stylesheet" href = "css/cards.css">
+    <!-- sidebar CSS -->
+    <link rel="stylesheet" href = "/css/sidebar.css">
+
+    <!-- FullCalendar JS -->
+    <script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.15/index.global.min.js"></script>
 </head>
 
 <body>
 
+    <h1>Kalendarz</h1>
+
+    <label for="group-select">Wybierz grupę:</label>
+    <select id="group-select"></select>
+
+    <div id="event-info" class="event-info-box">
+        <h2 id="event-title"></h2>
+        <p id="event-description"></p>
+    </div>
+
+    <h2 class = "calendar-title" style = "display: none;"></h2>
+    <div id = "calendar"></div>
+        
     <!-- sidebar -->
     <div class = "sidebar">
 
@@ -46,7 +55,7 @@
         </div>
 
             <ul>
-                <li class = "menu-item active" onclick = "showSection('home', this)">
+                <li class = "menu-item" onclick = "window.location.href = '/index.html#home'">
                     <span class = "icon">
                         <svg class = "icon-svg" xmlns = "http://www.w3.org/2000/svg"  viewBox="0 0 32 32" width="30px" height="30px">
                             <path fill = "currentColor" d="M30.854,16.548C30.523,17.43,29.703,18,28.764,18H28v11c0,0.552-0.448,1-1,1h-6v-7c0-2.757-2.243-5-5-5  s-5,2.243-5,5v7H5c-0.552,0-1-0.448-1-1V18H3.235c-0.939,0-1.759-0.569-2.09-1.451c-0.331-0.882-0.088-1.852,0.62-2.47L13.444,3.019  c1.434-1.357,3.679-1.357,5.112,0l11.707,11.086C30.941,14.696,31.185,15.666,30.854,16.548z"/>
@@ -62,7 +71,7 @@
         </div>
 
             <ul class = "nav-top">
-                <li class = "menu-item" onclick = "showSection('calendars', this)">
+                <li class="menu-item" onclick="window.location.href = '/index.html#calendars'">
                     <span class = "icon">
                         <svg class = "icon-svg" xmlns = "http://www.w3.org/2000/svg"  viewBox="0 0 16 16" width="30px" height="30px">
                             <path fill = "currentColor" d="M4 .5a.5.5 0 0 0-1 0V1H2a2 2 0 0 0-2 2v1h16V3a2 2 0 0 0-2-2h-1V.5a.5.5 0 0 0-1 0V1H4V.5zM16 14V5H0v9a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2zM9.5 7h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5zm3 0h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5zM2 10.5a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5v-1zm3.5-.5h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5z"/>
@@ -125,138 +134,14 @@
             </ul>
     </div>
 
-    <!-- sekcja z home i calendars -->
-    <div class = "content">
-        <div id = "home" class = "section active">
-            <h1>Strona głowna</h1>
-            <p>Witam</p>
-        </div>
-            <div id = "calendars" class="section">
-                <h1>Wydziały WAT</h1>
-                <div class = "card-grid">
-                    <div class = "card" data-href = "/wydzialy_html/wlo.html">
-                        <div class = "card-background" style = "background-image: url(/data/containers/WLO_background.jpg);"></div>
-                        <div class = "card-overlay">
-                            <div class = "card-logo">
-                                <img src = "/data/containers/logo/wlo_logo.png" alt = "WLO logo/">
-                            </div>
-                            <div class = "card-info">
-                                <div class = "card-category">WLO</div>
-                                <div class = "card-title">Wydział Bezpieczeństwa, Logistyki i Zarządzania</div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class = "card" data-href = "/wydzialy_html/wcy.html">
-                        <div class = "card-background" style = "background-image: url('/data/containers/WCY_background.jpg');"></div>
-                        <div class = "card-overlay">
-                            <div class = "card-logo">
-                                <img src = "/data/containers/logo/wcy_logo.png" alt = "WCY logo">
-                            </div>
-                            <div class = "card-info">
-                                <div class = "card-category">WCY</div>
-                                <div class = "card-title">Wydział Cybernetyki</div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class = "card" data-href = "/wydzialy_html/wel.html">
-                        <div class = "card-background" style = "background-image: url('/data/containers/WEL_background.jpg');"></div>
-                        <div class = "card-overlay">
-                            <div class = "card-logo">
-                                <img src = "/data/containers/logo/wel_logo.png" alt = "WEL logo">
-                            </div>
-                            <div class = "card-info">
-                                <div class = "card-category">WEL</div>
-                                <div class = "card-title">Wydział Elektroniki</div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class = "card" data-href = "/wydzialy_html/wig.html">
-                        <div class = "card-background" style = "background-image: url('/data/containers/WIG_background.jpg');"></div>
-                        <div class = "card-overlay">
-                            <div class = "card-logo">
-                                <img src = "/data/containers/logo/wig_logo.png" alt = "WIG logo">
-                            </div>
-                            <div class = "card-info">
-                                <div class = "card-category">WIG</div>
-                                <div class = "card-title">Wydział Inżynierii Lądowej i Geodezji</div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class = "card" data-href = "/wydzialy_html/wim.html">
-                        <div class = "card-background" style = "background-image: url('/data/containers/WIM_background.jpg');"></div>
-                        <div class = "card-overlay">
-                            <div class = "card-logo">
-                                <img src = "/data/containers/logo/wim_logo.png" alt = "WIM logo">
-                            </div>
-                            <div class = "card-info">
-                                <div class = "card-category">WIM</div>
-                                <div class = "card-title">Wydział Inżynierii Mechanicznej</div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class = "card" data-href = "/wydzialy_html/wiml.html">
-                        <div class = "card-background" style = "background-image: url('/data/containers/WIML_background.jpg');"></div>
-                        <div class = "card-overlay">
-                            <div class = "card-logo">
-                                <img src = "/data/containers/logo/wiml_logo.png" alt = "WIML logo">
-                            </div>
-                            <div class = "card-info">
-                                <div class = "card-category">WIML</div>
-                                <div class = "card-title">Wydział Mechatroniki, Uzbrojenia i Lotnictwa</div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class = "card" data-href = "/wydzialy_html/wtc.html">
-                        <div class = "card-background" style = "background-image: url('/data/containers/WTC_background.jpg');"></div>
-                        <div class = "card-overlay">
-                            <div class = "card-logo">
-                                <img src = "/data/containers/logo/wtc_logo.png" alt = "WTC logo">
-                            </div>
-                            <div class = "card-info">
-                                <div class = "card-category">WTC</div>
-                                <div class = "card-title">Wydział Nowych Technologii i Chemii</div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class = "card" data-href = "/wydzialy_html/ioe.html">
-                        <div class = "card-background" style = "background-image: url('/data/containers/IOE_background.jpg');"></div>
-                        <div class = "card-overlay">
-                            <div class = "card-logo">
-                                <img src = "/data/containers/logo/ioe_logo.png" alt = "IOE logo">
-                            </div>
-                            <div class = "card-info">
-                                <div class = "card-category">IOE</div>
-                                <div class = "card-title">Instytut Optoelektroniki</div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            
-
-            <!--
-            <h1>Kalendarz</h1>
-
-            <label for="group-select">Wybierz grupę:</label>
-            <select id="group-select"></select>
-
-            <div id="event-info" class="event-info-box">
-                <h2 id="event-title"></h2>
-                <p id="event-description"></p>
-            </div>
-
-            <h2 class = "calendar-title" style = "display: none;"></h2>
-            <div id = "calendar"></div>
-            -->
-        </div>
-
-    </div>
     <!-- cards -->
-    <script src = "js/cards.js"></script>
+    <script src = "/js/cards.js"></script>
 
     <!-- skrypt do sidebar -->
-    <script src = "js/sidebar-config.js"></script>
+    <script src = "/js/sidebar-config.js"></script>
 
+    <!-- skrypt do kalendarzy -->
+    <script src="/js/calendar-config.js"></script>
 </body>
 
 </html>

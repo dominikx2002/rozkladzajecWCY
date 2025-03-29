@@ -20,3 +20,12 @@ cards.forEach(card => {
         }, 100); 
     });
 });
+
+document.querySelectorAll('.card').forEach(card => {
+    const href = card.dataset.href;
+    if (href) {
+        card.addEventListener('click', () => {
+            window.location.href = href;
+        });
+    }
+});  
