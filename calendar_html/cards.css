@@ -1,0 +1,111 @@
+.card-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-top: 20px;
+    padding-left: 15px;
+    padding-right: 30px;
+    gap: 15px;
+    box-sizing: border-box;
+}
+
+.card {
+    position: relative;
+    flex: 1 1 clamp(340px, 20%, 1000px);
+    height: 285px;
+    overflow: hidden;
+    border-radius: 12px;
+    cursor: pointer;
+    transition: transform 0.3 ease;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.card-background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    transition: all 0.3s ease;
+    z-index: 1;
+}
+
+.card-info {
+    padding: 0;
+    background: none;
+    backdrop-filter: none;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    pointer-events: none;
+}
+
+.card-category {
+    color: white;
+    font-size: 14px;
+    text-shadow: 0 0 5px rgba(0, 0, 0, 0.8);
+    margin: 0;
+}
+
+.card-title {
+    margin: 0;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1.2;
+    word-wrap: break-word;
+    text-shadow: 0 0 5px rgba(0, 0, 0, 0.8);
+}
+
+.card-overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 10px;
+    pointer-events: none;
+}
+
+.card-grid.hovering .card:not(.hovering) {
+    transform: scale(0.95);
+}
+
+.card-grid.hovering .card.hovering  {
+    transform: scale(1.05);
+}
+
+.card-grid.hovering .card:not(.hovering) .card-background {
+    filter: brightness(0.7) contrast(1.05) blur(3px) grayscale(1);
+}
+
+.card-grid.hovering .card:not(.hovering) .card-logo {
+    filter: grayscale(1);
+}
+
+.card.hovering .card-background {
+    transform: scale(1.15);
+    filter: none;
+}
+
+.card-logo {
+    display: flex;
+    justify-content: center;
+    opacity: 0.9;
+    pointer-events: none;
+}
+
+.card-logo img {
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+    filter: drop-shadow(0 0 5px rgba(0, 0, 0, 0.5));
+}

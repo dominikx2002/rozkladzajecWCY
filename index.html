@@ -11,7 +11,7 @@
             height: 100%;
             margin: 0;
             padding: 0;
-            background-image: url('data/png/background.jpg');
+            background-image: url('data/background.jpg');
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center;
@@ -22,7 +22,10 @@
     <link rel="stylesheet" href="calendar_html/calendar.css">
 
     <!-- sidebar CSS -->
-     <link rel="stylesheet" href = "calendar_html/sidebar.css">
+    <link rel="stylesheet" href = "calendar_html/sidebar.css">
+
+    <!-- wydzialy CSS -->
+    <link rel="stylesheet" href = "calendar_html/cards.css">
 
     <!-- FullCalendar JS -->
     <script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.15/index.global.min.js"></script>
@@ -121,46 +124,113 @@
             </ul>
     </div>
 
-
     <div class = "content">
         <div id = "home" class = "section active">
             <h1>Strona głowna</h1>
             <p>Witam</p>
         </div>
-
-        <div id = "calendars" class = "section ">
-            <div id = "WLO" class ="container">
-                Wydział Bezpieczeństwa, Logistyki i Zarządzania
-                <img src="/data/containers/wydzial_background.jpg">    
+            <div id = "calendars" class="section">
+                <h1>Wydziały WAT</h1>
+                <div class = "card-grid">
+                    <div class = "card">
+                        <div class = "card-background" style = "background-image: url(/data/containers/WLO_background.jpg);"></div>
+                        <div class = "card-overlay">
+                            <div class = "card-logo">
+                                <img src = "/data/containers/logo/wlo_logo.png" alt = "WLO logo/">
+                            </div>
+                            <div class = "card-info">
+                                <div class = "card-category">WLO</div>
+                                <div class = "card-title">Wydział Bezpieczeństwa, Logistyki i Zarządzania</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class = "card">
+                        <div class = "card-background" style = "background-image: url('/data/containers/WCY_background.jpg');"></div>
+                        <div class = "card-overlay">
+                            <div class = "card-logo">
+                                <img src = "/data/containers/logo/wcy_logo.png" alt = "WCY logo">
+                            </div>
+                            <div class = "card-info">
+                                <div class = "card-category">WCY</div>
+                                <div class = "card-title">Wydział Cybernetyki</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class = "card">
+                        <div class = "card-background" style = "background-image: url('/data/containers/WEL_background.jpg');"></div>
+                        <div class = "card-overlay">
+                            <div class = "card-logo">
+                                <img src = "/data/containers/logo/wel_logo.png" alt = "WEL logo">
+                            </div>
+                            <div class = "card-info">
+                                <div class = "card-category">WEL</div>
+                                <div class = "card-title">Wydział Elektroniki</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class = "card">
+                        <div class = "card-background" style = "background-image: url('/data/containers/WIG_background.jpg');"></div>
+                        <div class = "card-overlay">
+                            <div class = "card-logo">
+                                <img src = "/data/containers/logo/wig_logo.png" alt = "WIG logo">
+                            </div>
+                            <div class = "card-info">
+                                <div class = "card-category">WIG</div>
+                                <div class = "card-title">Wydział Inżynierii Lądowej i Geodezji</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class = "card">
+                        <div class = "card-background" style = "background-image: url('/data/containers/WIM_background.jpg');"></div>
+                        <div class = "card-overlay">
+                            <div class = "card-logo">
+                                <img src = "/data/containers/logo/wim_logo.png" alt = "WIM logo">
+                            </div>
+                            <div class = "card-info">
+                                <div class = "card-category">WIM</div>
+                                <div class = "card-title">Wydział Inżynierii Mechanicznej</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class = "card">
+                        <div class = "card-background" style = "background-image: url('/data/containers/WIML_background.jpg');"></div>
+                        <div class = "card-overlay">
+                            <div class = "card-logo">
+                                <img src = "/data/containers/logo/wiml_logo.png" alt = "WIML logo">
+                            </div>
+                            <div class = "card-info">
+                                <div class = "card-category">WIML</div>
+                                <div class = "card-title">Wydział Mechatroniki, Uzbrojenia i Lotnictwa</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class = "card">
+                        <div class = "card-background" style = "background-image: url('/data/containers/WTC_background.jpg');"></div>
+                        <div class = "card-overlay">
+                            <div class = "card-logo">
+                                <img src = "/data/containers/logo/wtc_logo.png" alt = "WTC logo">
+                            </div>
+                            <div class = "card-info">
+                                <div class = "card-category">WTC</div>
+                                <div class = "card-title">Wydział Nowych Technologii i Chemii</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class = "card">
+                        <div class = "card-background" style = "background-image: url('/data/containers/IOE_background.jpg');"></div>
+                        <div class = "card-overlay">
+                            <div class = "card-logo">
+                                <img src = "/data/containers/logo/ioe_logo.png" alt = "IOE logo">
+                            </div>
+                            <div class = "card-info">
+                                <div class = "card-category">IOE</div>
+                                <div class = "card-title">Instytut Optoelektroniki</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
-            <div id = "WCY" class ="container">
-                Wydział Cybernetyki
-                <img src="/data/containers/wydzial_background.jpg">                
-            </div>
-            <div id = "WEL" class ="container">
-                Wydział Elektroniki
-                <img src="/data/containers/wydzial_background.jpg">
-            </div>
-            <div id = "WIG" class ="container">
-                Wydział Inżynierii Lądowej i Geodezji
-                <img src="/data/containers/wydzial_background.jpg">
-            </div>
-            <div id = "WIM" class ="container">
-                Wydział Inżynierii Mechanicznej
-                <img src="/data/containers/wydzial_background.jpg">
-            </div>
-            <div id = "WML" class ="container">
-                Wydział Mechatroniki, Uzbrojenia i Lotnictwa
-                <img src="/data/containers/wydzial_background.jpg">
-            </div>
-            <div id = "WTC" class ="container">
-                Wydział Nowych Technologii i Chemii
-                <img src="/data/containers/wydzial_background.jpg">
-            </div>
-            <div id = "IOE" class ="container">
-                Instytut Optoelektroniki
-                <img src="/data/containers/wydzial_background.jpg">
-            </div>
+            
 
             <!--
             <h1>Kalendarz</h1>
@@ -198,6 +268,8 @@
             <p>instrukcja</p>
         </div>
     </div>
+    <!-- cards -->
+    <script src = "calendar_html/cards.js"></script>
 
     <!-- skrypt do sidebar -->
     <script src = "calendar_html/sidebar-config.js"></script>

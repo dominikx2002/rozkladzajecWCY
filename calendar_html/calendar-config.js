@@ -130,7 +130,7 @@ document.addEventListener('DOMContentLoaded', function() {
     setTimeout(() => {
         const downloadBtn = document.querySelector('.fc-download-button');
         if (downloadBtn) {
-            downloadBtn.innerHTML = `<img src="data/png/icons/download_icon.png" alt="Pobierz kalendarz " width="20" height="20" style="vertical-align: middle;">`;
+            downloadBtn.innerHTML = `<img src="data/icons/download_icon.png" alt="Pobierz kalendarz " width="20" height="20" style="vertical-align: middle;">`;
         }
     }, 100);
 
