@@ -10,16 +10,13 @@
     <style>
         html {
             background-color: #1e1e1e;
+            scroll-behavior: smooth;
         }
 
         body {
             min-height: 100%;
             margin: 0;
             padding: 0;
-            font-family: 'Poppins', Arial, Helvetica, sans-serif;
-            color: #ffffff;
-            text-align: center;
-            font-size: 14px;
         }
 
         .background {
@@ -48,7 +45,10 @@
     <!-- sidebar CSS -->
     <link rel="stylesheet" href = "/rozkladzajecWCY/css/sidebar.css">
 
-    <!-- wydzialy CSS -->
+    <!-- home CSS -->
+    <link rel="stylesheet" href = "/rozkladzajecWCY/css/home.css">
+
+    <!-- calendars CSS -->
     <link rel="stylesheet" href = "/rozkladzajecWCY/css/calendars.css">
 </head>
 
@@ -151,24 +151,30 @@
         <div id = "home" class = "section active">
             <div class = "logo">
                 <img src = "/rozkladzajecWCY/data/icons/godlo_wat.png" alt = "logo-WAT">
-                Wojskowa Akademia Techniczna
+                <span class = "logo-text">Wojskowa<br>Akademia<br>Techniczna</span>
             </div>
 
             <div id = "topbar">
-                <div class = "home"></div>
-                <div class = "about"></div>
-                <div class = "calendars"></div>
-                <div class = "news"></div>
-                <div class = "contact"></div>
+                <div class = "home">HOME</div>
+                <div class = "about">ABOUT</div>
+                <div class = "calendars">CALENDARS</div>
+                <div class = "news">NEWS</div>
+                <div class = "contact">CONTACT</div>
             </div>
 
             <div id = "home-content">
-
+                <h1>WAT Calendars</h1>
+                    <p>
+                    Aplikacja automatycznie scrapuje rozkłady zajęć z Wydziałów<br>Wojskowej Akademii Technicznej, 
+                    konwertuje je do formatu .ics co umożliwia<br>ich synchronizację z kalendarzem w Twoim telefonie.<br>
+                    Dzięki temu zawsze masz swój plan pod ręką - aktualny, czytelny i zsynchronizowany.
+                    </p>
+                <div class = "button" onclick="smoothScrollTo('calendars')">Try Now</div>
             </div>
         </div>
         
             <div id = "calendars" class="section">
-                <h1>Wydziały WAT</h1>
+                <h1 class = "calendars-header">Wydziały WAT</h1>
                 <div class = "card-grid">
                     <div class = "card" data-href = "/rozkladzajecWCY/wydzialy_html/wlo.html">
                         <div class = "card-background" style = "background-image: url('/rozkladzajecWCY/data/containers/WLO_background.jpg');"></div>
@@ -271,7 +277,10 @@
         </div>
 
     </div>
-    <!-- cards -->
+    <!-- home -->
+    <script src = "/rozkladzajecWCY/js/home.js"></script>
+
+    <!-- calendars -->
     <script src = "/rozkladzajecWCY/js/calendars.js"></script>
 
     <!-- sidebar -->
