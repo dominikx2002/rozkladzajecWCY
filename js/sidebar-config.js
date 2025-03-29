@@ -1,27 +1,39 @@
-function showSection(id) {
-    const sections = document.querySelectorAll('.section');
-    sections.forEach(section => section.classList.remove('active'));
-    document.getElementById(id).classList.add('active');
-}
-
 function toggleSidebar() {
     document.querySelector('.sidebar').classList.toggle('open');
 }
 
-function showSection(id, element) {
-    // Ukryj wszystkie sekcje
-    document.querySelectorAll('.section').forEach(section => {
-        section.classList.remove('active');
-    });
+document.addEventListener("scroll", () => {
+    const sidebar = document.getElementById("sidebar");
+    const home = document.getElementById("home");
 
-    // Pokaż aktywną sekcję
-    document.getElementById(id).classList.add('active');
+    if (!sidebar || !home) return;
 
-    // Odznacz wszystkie przyciski
-    document.querySelectorAll('.menu-item').forEach(btn => {
-        btn.classList.remove('active');
-    });
+    const homeBottom = home.getBoundingClientRect().bottom;
 
-    // Podświetl kliknięty przycisk
-    element.classList.add('active');
-}
+    if(homeBottom <= 0) {
+        sidebar.classList.remove("hidden");
+    } else {
+        sidebar.classList.add("hidden");
+    }
+});
+
+document.addEventListener("scroll", () => {
+  const sections = document.querySelectorAll(".section");
+  const menuItems = document.querySelectorAll(".menu-item");
+
+  let currentSectionId = "home"; // domyślna
+
+  sections.forEach(section => {
+    const rect = section.getBoundingClientRect();
+    if (rect.top <= window.innerHeight / 2 && rect.bottom > window.innerHeight / 2) {
+      currentSectionId = section.id;
+    }
+  });
+
+  menuItems.forEach(item => {
+    item.classList.remove("active");
+    if (item.onclick?.toString().includes(`'${currentSectionId}'`)) {
+      item.classList.add("active");
+    }
+  });
+});

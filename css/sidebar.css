@@ -2,7 +2,11 @@ body {
     margin: 0;
     font-family: Arial, sans-serif;
     position: relative;;
-  }
+}
+
+.hidden {
+  display: none !important;
+}
   
   .sidebar {
     display: flex;
@@ -91,10 +95,6 @@ body {
   }
   
   .section {
-    display: none;
-  }
-  
-  .section.active {
     display: block;
   }
   

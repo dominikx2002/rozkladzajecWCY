@@ -5,37 +5,58 @@
 <head>
     <meta charset="utf-8">
     <title>WAT - plany zajęć</title>
+    <link rel = "website icon" type = "png" href = "/rozkladzajecWCY/data/icons/godlo_wat.png">
 
     <style>
-        html, body {
-            height: 100%;
-            margin: 0;
-            padding: 0;
-            background-image: url('/rozkladzajecWCY/data/background.jpg');
-            background-size: cover;
-            background-repeat: no-repeat;
-            background-position: center;
+        html {
             background-color: #1e1e1e;
-            color: #ffffff;
-            font-family: 'Poppins', Arial, Helvetica, sans-serif;
+        }
+
+        body {
+            min-height: 100%;
             margin: 0;
-            text-align: center;
             padding: 0;
+            font-family: 'Poppins', Arial, Helvetica, sans-serif;
+            color: #ffffff;
+            text-align: center;
             font-size: 14px;
         }
+
+        .background {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            height: 122vh;
+            background-image: url('/rozkladzajecWCY/data/background.jpg');
+            background-size: cover;
+            background-repeat: repeat-y;
+            background-position: center bottom;
+            z-index: -1;
+            will-change: transform;
+        }
+
+        .section {
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
     </style>
 
     <!-- sidebar CSS -->
     <link rel="stylesheet" href = "/rozkladzajecWCY/css/sidebar.css">
 
     <!-- wydzialy CSS -->
-    <link rel="stylesheet" href = "/rozkladzajecWCY/css/cards.css">
+    <link rel="stylesheet" href = "/rozkladzajecWCY/css/calendars.css">
 </head>
 
-<body>
+<div class = "background"></div>
 
+<body>
     <!-- sidebar -->
-    <div class = "sidebar">
+    <div id = "sidebar" class = "sidebar hidden">
 
         <div class = "menu" onclick = "toggleSidebar()">
             <span class = "icon">
@@ -128,9 +149,24 @@
     <!-- sekcja z home i calendars -->
     <div class = "content">
         <div id = "home" class = "section active">
-            <h1>Strona głowna</h1>
-            <p>Witam</p>
+            <div class = "logo">
+                <img src = "/rozkladzajecWCY/data/icons/godlo_wat.png" alt = "logo-WAT">
+                Wojskowa Akademia Techniczna
+            </div>
+
+            <div id = "topbar">
+                <div class = "home"></div>
+                <div class = "about"></div>
+                <div class = "calendars"></div>
+                <div class = "news"></div>
+                <div class = "contact"></div>
+            </div>
+
+            <div id = "home-content">
+
+            </div>
         </div>
+        
             <div id = "calendars" class="section">
                 <h1>Wydziały WAT</h1>
                 <div class = "card-grid">
@@ -236,11 +272,14 @@
 
     </div>
     <!-- cards -->
-    <script src = "/rozkladzajecWCY/js/cards.js"></script>
+    <script src = "/rozkladzajecWCY/js/calendars.js"></script>
 
-    <!-- skrypt do sidebar -->
+    <!-- sidebar -->
     <script src = "/rozkladzajecWCY/js/sidebar-config.js"></script>
 
 </body>
+
+<!-- background -->
+<script src = "/rozkladzajecWCY/js/background.js"></script>
 
 </html>
