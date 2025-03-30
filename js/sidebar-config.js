@@ -1,7 +1,3 @@
-function toggleSidebar() {
-    document.querySelector('.sidebar').classList.toggle('open');
-}
-
 document.addEventListener("scroll", () => {
     const sidebar = document.getElementById("sidebar");
     const home = document.getElementById("home");

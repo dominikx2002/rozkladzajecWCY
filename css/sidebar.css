@@ -21,11 +21,11 @@
     overflow-y: auto;
   }
   
-  .sidebar.open {
+  .sidebar:hover {
     width: 200px;
   }
 
-  .sidebar:not(.open) .menu-item {
+  .sidebar:not(:hover) .menu-item {
     pointer-events: none;
     opacity: 0.2;
     cursor: default;
@@ -64,19 +64,19 @@
     transition: opacity 0.3s ease;
   }
   
-  .sidebar.open li.menu-item .label {
+  .sidebar:hover li.menu-item .label {
     opacity: 0.8;
   }
 
-  .sidebar.open .menu-item {
+  .sidebar:hover .menu-item {
     opacity: 0.4;
   }
 
-  .sidebar.open .menu-item:hover {
+  .sidebar:hover .menu-item:hover {
     opacity: 1;
   }
 
-  .sidebar.open .menu-item.active {
+  .sidebar:hover .menu-item.active {
     opacity: 1 !important;
     text-decoration: underline;
   }
@@ -141,47 +141,28 @@
     opacity: 0;
   }
   
-  .sidebar.open .separator_1,
-  .sidebar.open .separator_2,
-  .sidebar.open .separator_3 {
+  .sidebar:hover .separator_1,
+  .sidebar:hover .separator_2,
+  .sidebar:hover .separator_3 {
     background-color: transparent;
     width: 0;
   }
   
-  .sidebar.open .separator_1-label,
-  .sidebar.open .separator_2-label,
-  .sidebar.open .separator_3-label {
+  .sidebar:hover .separator_1-label,
+  .sidebar:hover .separator_2-label,
+  .sidebar:hover .separator_3-label {
     transform: translate(0, -50%);
     opacity: 1;
   }
+
   
-  .menu {
-    opacity: 0.4;
-    display: flex;
-    margin-left: 20px;
-    width: 30px;
-    height: 30px;
-    color: white;
-    align-items: center;
-    cursor: pointer;
-    justify-content: center;
-    margin-bottom: 40px;
-  }
-
-  .sidebar.open .menu {
-    opacity: 1;
-  }
-
-  .menu:hover {
-    opacity: 1;
-  }
 
   .sidebar .menu-item.active {
     opacity: 1 !important;
     text-decoration: underline;
   }
 
-  .sidebar.open ul.active {
+  .sidebar:hover ul.active {
     opacity: 1 !important;
     text-decoration: underline;
   }

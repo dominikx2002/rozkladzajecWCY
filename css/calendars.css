@@ -3,7 +3,7 @@
     flex-wrap: wrap;
     justify-content: center;
     padding-top: 20px;
-    padding-left: 15px;
+    padding-left: 50px;
     padding-right: 30px;
     gap: 15px;
     box-sizing: border-box;
@@ -11,8 +11,8 @@
 
 .card {
     position: relative;
-    flex: 1 1 clamp(340px, 20%, 1000px);
-    height: 285px;
+    flex: 1 1 clamp(320px, 20%, 1000px);
+    height: 265px;
     overflow: hidden;
     border-radius: 12px;
     cursor: pointer;
