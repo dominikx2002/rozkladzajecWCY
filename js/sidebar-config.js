@@ -4,6 +4,15 @@ document.addEventListener("scroll", () => {
 
     if (!sidebar || !home) return;
 
+    
+    // const isMobile = window.innerWidth <= 480;
+    // if(isMobile) {
+      // sidebar.classList.remove("hidden");
+      // sidebar.classList.add("mobile-visible");
+      // return;
+    // }
+    
+
     const homeBottom = home.getBoundingClientRect().bottom;
 
     if(homeBottom <= 0) {
