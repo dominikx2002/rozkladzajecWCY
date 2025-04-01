@@ -116,4 +116,8 @@
         margin-top: 20px;
         margin-left: 130px;
     }
+
+    .button:hover {
+        background-color: transparent;
+    }
 }
