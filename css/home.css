@@ -19,7 +19,7 @@
     text-shadow: 1px 1px 1px rgb(0, 0, 0);
 }
 
-#topbar {
+.topbar {
     position: absolute;
     top: 80px;
     right: 100px;
@@ -32,19 +32,31 @@
     color: white;
     letter-spacing: 2px;
     background-color: transparent;
-}
-
-#topbar > div {
     cursor: pointer;
     transition: color 0.3s ease;
+    text-decoration: none;
 }
-  
-#topbar > div:hover {
+
+.topbar a {
+    color: white;
+    transition: color 0.3s ease;
+    text-decoration: none;
+}
+
+.topbar a:hover,
+.topbar .home:hover,
+.topbar .about:hover,
+.topbar .news:hover,
+.topbar .contact:hover {
     color: rgb(22, 85, 35);
     text-shadow: 1px 1px 1px rgb(0, 0, 0);
 }
 
-#home-content h1 {
+a.calendars {
+    text-decoration: none !important;
+}
+
+.home-content h1 {
     margin-top: 120px;
     margin-left: 150px;
     color: white;
@@ -54,7 +66,7 @@
     text-shadow: 1px 1px 1px rgb(133, 133, 133);
 }
 
-#home-content p {
+.home-content p {
     margin-left: 150px;
     margin-top: 50px;
     color: white;
