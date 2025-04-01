@@ -81,11 +81,8 @@
     text-decoration: underline;
   }
 
-
   .content {
-    margin-left: 70px;
     padding: 20px 0;
-    width: calc(100% - 70px);
     max-width: 100vw;
     min-width: 0;
     box-sizing: border-box;
