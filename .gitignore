@@ -172,3 +172,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+#vs code 2022
+.vs/
+**/CodeChunks.db*
+**/SemanticSymbols.db*
+**/*.vsidx
+*.sqlite
