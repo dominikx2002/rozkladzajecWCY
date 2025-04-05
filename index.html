@@ -3,306 +3,48 @@
 <html lang="pl">
 
 <head>
+
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>WAT - plany zajęć</title>
     <link rel="website icon" type="png" href="/rozkladzajecWCY/data/icons/godlo_wat.png">
 
-    <style>
-        html {
-            background-color: #1e1e1e;
-            scroll-behavior: smooth;
-        }
-
-        body {
-            min-height: 100%;
-            margin: 0;
-            padding: 0;
-        }
-
-        .background {
-            position: fixed;
-            bottom: 0;
-            left: 0;
-            width: 100%;
-            height: 123vh;
-            background-image: url('/rozkladzajecWCY/data/background.jpg');
-            background-size: cover;
-            background-repeat: repeat-y;
-            background-position: center bottom;
-            z-index: -1;
-            will-change: transform;
-        }
-
-        @media only screen and (max-device-width: 480px) {
-            .background {
-                height: 158vh;
-            }
-        }
-
-        .section {
-            min-height: 100vh;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-        }
-    </style>
-
-    <!-- home CSS -->
+    <!-- main CSS -->
     <link rel="stylesheet" href="/rozkladzajecWCY/css/main.css">
 
-    <!-- learn CSS -->
-    <link rel="stylesheet" href="/rozkladzajecWCY/css/learn.css">
+    <!-- Topbar CSS -->
+    <link rel="stylesheet" href="/rozkladzajecWCY/css/topbar.css">
+
+    <!-- background CSS -->
+    <link rel="stylesheet" href="/rozkladzajecWCY/css/background.css">
+
+    <!-- locomotive-scroll CSS -->
+    <link rel="stylesheet" href="/rozkladzajecWCY/css/locomotive-scroll.css">
+
+    <!-- home CSS -->
+    <link rel="stylesheet" href="/rozkladzajecWCY/css/home.css">
+
+    <!-- how-it-works CSS -->
+    <link rel="stylesheet" href="/rozkladzajecWCY/css/how-it-works.css">
 
     <!-- calendars CSS -->
-    <link rel="stylesheet" href="/rozkladzajecWCY/css/calendars.css">
-
+    <!--<link rel="stylesheet" href="/rozkladzajecWCY/css/calendars.css">-->
     <!-- sidebar CSS -->
-    <link rel="stylesheet" href="/rozkladzajecWCY/css/sidebar.css">
-</head>
+    <!--<link rel="stylesheet" href="/rozkladzajecWCY/css/sidebar.css">-->
+    <!-- Loader -->
+    <script src="/rozkladzajecWCY/js/loader.js"></script>
 
-<div class="background"></div>
+    <!-- rain drop -->
+    <script src="/rozkladzajecWCY/js/rain.js"></script>
 
-<body>
+    <!-- locomotive-scroll -->
+    <script src="/rozkladzajecWCY/js/locomotive-scroll.min.js"></script>
 
-    <div class="content">
+    <!-- locomotive-scroll init -->
+    <script src="/rozkladzajecWCY/js/locomotive-scroll.js"></script>
 
-        <!-- sekcja z home -->
-        <div id="home" class="section">
-            <div class="header">
-                <div class="logo">
-                    <img src="/rozkladzajecWCY/data/icons/godlo_wat.png" alt="logo-WAT">
-                    <span class="logo-text">Wojskowa<br>Akademia<br>Techniczna</span>
-                </div>
-
-                <div class="topbar">
-                    <div class="home">HOME</div>
-                    <div class="about">ABOUT</div>
-                    <a href="#calendars" class="calendars">CALENDARS</a>
-                    <div class="news">NEWS</div>
-                    <div class="contact">CONTACT</div>
-                </div>
-            </div>
-
-            <div class="home-content">
-                <h1>WAT Calendars</h1>
-                <p>
-                    Aplikacja automatycznie scrapuje rozkłady zajęć z Wydziałów<br>Wojskowej Akademii Technicznej,
-                    konwertuje je do formatu .ics co umożliwia<br>ich synchronizację z kalendarzem w Twoim telefonie.<br>
-                    Dzięki temu zawsze masz swój plan pod ręką - aktualny, czytelny i zsynchronizowany.
-                </p>
-                <a href="#calendars" class="button1">Try Now</a>
-                <a href="#learn" class="button2">Learn</a>
-            </div>
-        </div>
-
-        <!-- sekcja Learn -->
-        <div id="learn" class="section">
-            <h1 class="learn-header">How it works</h1>
-            <img src="/rozkladzajecWCY/data/learn/iphone_month.jpeg" alt="iphone_month" />
-            <img src="/rozkladzajecWCY/data/learn/iphone_day.jpeg" alt="iphone_day" />
-        </div>
-
-        <!-- sekcja z kalendarzami -->
-        <div id="calendars" class="section">
-            <h1 class="calendars-header">Wydziały WAT</h1>
-            <div class="card-grid">
-                <div class="card" data-href="/rozkladzajecWCY/wydzialy_html/wlo.html">
-                    <div class="card-background" style="background-image: url('/rozkladzajecWCY/data/containers/WLO_background.jpg');"></div>
-                    <div class="card-overlay">
-                        <div class="card-logo">
-                            <img src="/rozkladzajecWCY/data/containers/logo/wlo_logo.png" alt="WLO logo" />
-                        </div>
-                        <div class="card-info">
-                            <div class="card-category">WLO</div>
-                            <div class="card-title">Wydział Bezpieczeństwa, Logistyki i Zarządzania</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card" data-href="/rozkladzajecWCY/wydzialy_html/wcy.html">
-                    <div class="card-background" style="background-image: url('/rozkladzajecWCY/data/containers/WCY_background.jpg');"></div>
-                    <div class="card-overlay">
-                        <div class="card-logo">
-                            <img src="/rozkladzajecWCY/data/containers/logo/wcy_logo.png" alt="WCY logo">
-                        </div>
-                        <div class="card-info">
-                            <div class="card-category">WCY</div>
-                            <div class="card-title">Wydział Cybernetyki</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card" data-href="/rozkladzajecWCY/wydzialy_html/wel.html">
-                    <div class="card-background" style="background-image: url('/rozkladzajecWCY/data/containers/WEL_background.jpg');"></div>
-                    <div class="card-overlay">
-                        <div class="card-logo">
-                            <img src="/rozkladzajecWCY/data/containers/logo/wel_logo.png" alt="WEL logo">
-                        </div>
-                        <div class="card-info">
-                            <div class="card-category">WEL</div>
-                            <div class="card-title">Wydział Elektroniki</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card" data-href="/rozkladzajecWCY/wydzialy_html/wig.html">
-                    <div class="card-background" style="background-image: url('/rozkladzajecWCY/data/containers/WIG_background.jpg');"></div>
-                    <div class="card-overlay">
-                        <div class="card-logo">
-                            <img src="/rozkladzajecWCY/data/containers/logo/wig_logo.png" alt="WIG logo">
-                        </div>
-                        <div class="card-info">
-                            <div class="card-category">WIG</div>
-                            <div class="card-title">Wydział Inżynierii Lądowej i Geodezji</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card" data-href="/rozkladzajecWCY/wydzialy_html/wim.html">
-                    <div class="card-background" style="background-image: url('/rozkladzajecWCY/data/containers/WIM_background.jpg');"></div>
-                    <div class="card-overlay">
-                        <div class="card-logo">
-                            <img src="/rozkladzajecWCY/data/containers/logo/wim_logo.png" alt="WIM logo">
-                        </div>
-                        <div class="card-info">
-                            <div class="card-category">WIM</div>
-                            <div class="card-title">Wydział Inżynierii Mechanicznej</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card" data-href="/rozkladzajecWCY/wydzialy_html/wiml.html">
-                    <div class="card-background" style="background-image: url('/rozkladzajecWCY/data/containers/WIML_background.jpg');"></div>
-                    <div class="card-overlay">
-                        <div class="card-logo">
-                            <img src="/rozkladzajecWCY/data/containers/logo/wiml_logo.png" alt="WIML logo">
-                        </div>
-                        <div class="card-info">
-                            <div class="card-category">WIML</div>
-                            <div class="card-title">Wydział Mechatroniki, Uzbrojenia i Lotnictwa</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card" data-href="/rozkladzajecWCY/wydzialy_html/wtc.html">
-                    <div class="card-background" style="background-image: url('/rozkladzajecWCY/data/containers/WTC_background.jpg');"></div>
-                    <div class="card-overlay">
-                        <div class="card-logo">
-                            <img src="/rozkladzajecWCY/data/containers/logo/wtc_logo.png" alt="WTC logo">
-                        </div>
-                        <div class="card-info">
-                            <div class="card-category">WTC</div>
-                            <div class="card-title">Wydział Nowych Technologii i Chemii</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card" data-href="/rozkladzajecWCY/wydzialy_html/ioe.html">
-                    <div class="card-background" style="background-image: url('/rozkladzajecWCY/data/containers/IOE_background.jpg');"></div>
-                    <div class="card-overlay">
-                        <div class="card-logo">
-                            <img src="/rozkladzajecWCY/data/containers/logo/ioe_logo.png" alt="IOE logo">
-                        </div>
-                        <div class="card-info">
-                            <div class="card-category">IOE</div>
-                            <div class="card-title">Instytut Optoelektroniki</div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- sidebar -->
-    <div id="sidebar" class="sidebar hidden">
-        <ul>
-            <li class="header-icon">
-                <span class="icon">
-                    <img src="/rozkladzajecWCY/data/icons/godlo_wat.png">
-                </span>
-                <span class="label">WAT</span>
-            </li>
-        </ul>
-
-        <ul>
-            <li class="menu-item active">
-                <a href="#home" class="home">
-                    <span class="icon">
-                        <svg class="icon-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="30px" height="30px">
-                            <path fill="currentColor" d="M30.854,16.548C30.523,17.43,29.703,18,28.764,18H28v11c0,0.552-0.448,1-1,1h-6v-7c0-2.757-2.243-5-5-5  s-5,2.243-5,5v7H5c-0.552,0-1-0.448-1-1V18H3.235c-0.939,0-1.759-0.569-2.09-1.451c-0.331-0.882-0.088-1.852,0.62-2.47L13.444,3.019  c1.434-1.357,3.679-1.357,5.112,0l11.707,11.086C30.941,14.696,31.185,15.666,30.854,16.548z" />
-                        </svg>
-                    </span>
-                    <span class="label">Home</span>
-                </a>
-            </li>
-        </ul>
-
-        <!-- "general" -->
-        <div class="separator_1">
-            <span class="separator_1-label">General</span>
-        </div>
-
-        <ul class="nav-top">
-            <li class="menu-item" onclick="showSection('calendars', this)">
-                <span class="icon">
-                    <svg class="icon-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="30px" height="30px">
-                        <path fill="currentColor" d="M4 .5a.5.5 0 0 0-1 0V1H2a2 2 0 0 0-2 2v1h16V3a2 2 0 0 0-2-2h-1V.5a.5.5 0 0 0-1 0V1H4V.5zM16 14V5H0v9a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2zM9.5 7h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5zm3 0h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5zM2 10.5a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5v-1zm3.5-.5h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5z" />
-                    </svg>
-                </span>
-                <span class="label">Calendars</span>
-            </li>
-        </ul>
-
-        <!-- contact -->
-        <div class="separator_2">
-            <span class="separator_2-label">Contact</span>
-        </div>
-
-        <ul>
-            <li class="menu-item">
-                <a href="https://github.com/dominikx2002/rozkladzajecWCY" target="_blank">
-                    <span class="icon">
-                        <svg class="icon-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="30px" height="30px">
-                            <path fill="currentColor" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z" />
-                        </svg>
-                    </span>
-                    <span class="label">GitHub</span>
-                </a>
-            </li>
-        </ul>
-        <ul>
-            <li class="menu-item">
-                <a href="/rozkladzajecWCY/sidebar_html/signal.html" target="_blank">
-                    <span class="icon">
-                        <svg class="icon-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="30px" height="30px">
-                            <path fill="currentColor" d="m6.08.234.179.727a7.264 7.264 0 0 0-2.01.832l-.383-.643A7.9 7.9 0 0 1 6.079.234zm3.84 0L9.742.96a7.265 7.265 0 0 1 2.01.832l.388-.643A7.957 7.957 0 0 0 9.92.234zm-8.77 3.63a7.944 7.944 0 0 0-.916 2.215l.727.18a7.264 7.264 0 0 1 .832-2.01l-.643-.386zM.75 8a7.3 7.3 0 0 1 .081-1.086L.091 6.8a8 8 0 0 0 0 2.398l.74-.112A7.262 7.262 0 0 1 .75 8zm11.384 6.848-.384-.64a7.23 7.23 0 0 1-2.007.831l.18.728a7.965 7.965 0 0 0 2.211-.919zM15.251 8c0 .364-.028.727-.082 1.086l.74.112a7.966 7.966 0 0 0 0-2.398l-.74.114c.054.36.082.722.082 1.086zm.516 1.918-.728-.18a7.252 7.252 0 0 1-.832 2.012l.643.387a7.933 7.933 0 0 0 .917-2.219zm-6.68 5.25c-.72.11-1.453.11-2.173 0l-.112.742a7.99 7.99 0 0 0 2.396 0l-.112-.741zm4.75-2.868a7.229 7.229 0 0 1-1.537 1.534l.446.605a8.07 8.07 0 0 0 1.695-1.689l-.604-.45zM12.3 2.163c.587.432 1.105.95 1.537 1.537l.604-.45a8.06 8.06 0 0 0-1.69-1.691l-.45.604zM2.163 3.7A7.242 7.242 0 0 1 3.7 2.163l-.45-.604a8.06 8.06 0 0 0-1.691 1.69l.604.45zm12.688.163-.644.387c.377.623.658 1.3.832 2.007l.728-.18a7.931 7.931 0 0 0-.916-2.214zM6.913.831a7.254 7.254 0 0 1 2.172 0l.112-.74a7.985 7.985 0 0 0-2.396 0l.112.74zM2.547 14.64 1 15l.36-1.549-.729-.17-.361 1.548a.75.75 0 0 0 .9.902l1.548-.357-.17-.734zM.786 12.612l.732.168.25-1.073A7.187 7.187 0 0 1 .96 9.74l-.727.18a8 8 0 0 0 .736 1.902l-.184.79zm3.5 1.623-1.073.25.17.731.79-.184c.6.327 1.239.574 1.902.737l.18-.728a7.197 7.197 0 0 1-1.962-.811l-.007.005zM8 1.5a6.502 6.502 0 0 0-6.498 6.502 6.516 6.516 0 0 0 .998 3.455l-.625 2.668L4.54 13.5a6.502 6.502 0 0 0 6.93-11A6.516 6.516 0 0 0 8 1.5" />
-                        </svg>
-                    </span>
-                    <span class="label">Signal</span>
-                </a>
-            </li>
-        </ul>
-        <ul>
-            <li class="menu-item" onclick="window.location.href = '/rozkladzajecWCY/sidebar_html/email.html'">
-                <span class="icon">
-                    <svg class="icon-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="30px" height="30px">
-                        <path fill="currentColor" d="M256 352c-16.53 0-33.06-5.422-47.16-16.41L0 173.2V400C0 426.5 21.49 448 48 448h416c26.51 0 48-21.49 48-48V173.2l-208.8 162.5C289.1 346.6 272.5 352 256 352zM16.29 145.3l212.2 165.1c16.19 12.6 38.87 12.6 55.06 0l212.2-165.1C505.1 137.3 512 125 512 112C512 85.49 490.5 64 464 64h-416C21.49 64 0 85.49 0 112C0 125 6.01 137.3 16.29 145.3z" />
-                    </svg>
-                </span>
-                <span class="label">E-mail</span>
-            </li>
-        </ul>
-
-        <!-- dashboard -->
-        <div class="separator_3">
-            <span class="separator_3-label">Dashboard</span>
-        </div>
-
-        <ul class="nav-bottom">
-            <li class="menu-item" onclick="window.location.href = '/rozkladzajecWCY/sidebar_html/info.html'">
-                <span class="icon">
-                    <svg class="icon-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="30px" height="30px">
-                        <path fill="currentColor" d="M12,2A10,10,0,1,0,22,12,10,10,0,0,0,12,2Zm-.5,3A1.5,1.5,0,1,1,10,6.5,1.5,1.5,0,0,1,11.5,5ZM14,18H13a2,2,0,0,1-2-2V12a1,1,0,0,1,0-2h1a1,1,0,0,1,1,1v5h1a1,1,0,0,1,0,2Z" />
-                    </svg>
-                </span>
-                <span class="label">Information</span>
-            </li>
-        </ul>
-    </div>
+    <!-- text-animation -->
+    <script src="/rozkladzajecWCY/js/text-animation.js"></script>
 
     <!-- header -->
     <script src="/rozkladzajecWCY/js/header.js"></script>
@@ -316,9 +58,65 @@
     <!-- sidebar -->
     <script src="/rozkladzajecWCY/js/sidebar-config.js"></script>
 
-</body>
+</head>
 
-<!-- background -->
-<script src="/rozkladzajecWCY/js/background.js"></script>
+<body>
+    <!-- Background -->
+    <div class="background"></div>
+
+    <div data-scroll-container>
+
+        <!-- Topbar -->
+        <nav>
+            <div class="logo">
+                <img src="/rozkladzajecWCY/data/icons/godlo_wat.png" alt="logo-WAT">
+                <span id="decrypt" class="decrypt-text" data-original="WAT" data-target="Military University of Technology">WAT</span>
+            </div>
+            <a href="#home">HOME</a>
+            <a href="#how-it-works">HOW IT WORKS</a>
+            <a href="#calendars">CALENDARS</a>
+            <a href="#contact">CONTACT</a>
+        </nav>
+
+        <div class="loader">
+            <div class="reveal-strip" style="--delay: 0.6s"></div>
+            <div class="reveal-strip" style="--delay: 0.3s"></div>
+            <div class="reveal-strip" style="--delay: 0s"></div>
+            <div class="reveal-strip" style="--delay: 0.3s"></div>
+            <div class="reveal-strip" style="--delay: 0.6s"></div>
+        </div>
+
+        <div class="rain-container" id="rain"></div>
+
+        <!-- HOME -->
+        <section class="home">
+            <article>
+                <h1 style="--letters: 8.5;">WAT CALENDAR</h1>
+                <h2 class="wave-text">Class schedules scraper<br>& converter that allow <span class="Sync">Sync</span><br>with your <span class="phone">phone</span>'s calendar.</h2>
+                <h3>
+                    <p>©2025</p>
+                    <p>AT HAND</p>
+                    <p>UP-TO-DATE</p>
+                </h3>
+                <a href="#how-it-works" class="button-learn">Learn</a>
+                <a href="#calendars" class="button-try-now">Try now</a>
+            </article>
+        </section>
+
+        <!-- HOW IT WORKS -->
+        <section class="how-it-works">
+        </section>
+
+        <!-- CALENDARS -->
+        <section class="calendars">
+        </section>
+
+        <!-- CONTACT -->
+        <section class="contact">
+        </section>
+
+    </div>
+
+</body>
 
 </html>
