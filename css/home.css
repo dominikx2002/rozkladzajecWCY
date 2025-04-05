@@ -1,0 +1,81 @@
+article h1 {
+    white-space: nowrap;
+    font-size: calc(100vw / var(--letters));
+    width: 100vw;
+    display: block;
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-family: "Gill Sans", sans-serif;
+    text-align: center;
+    line-height: 1;
+}
+
+article h2 {
+    display: block;
+    color: white;
+    font-size: 38px;
+    padding-left: calc(100vw / 5 * 1);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 325px;
+    margin-bottom: 0;
+    line-height: 0.8;
+}
+
+article h2 .Sync {
+    font-size: 50px;
+    font-weight: 1;
+    font-family: Georgia;
+    font-stretch: condensed;
+}
+
+article h2 .phone {
+    font-size: 45px;
+    font-weight: 600;
+    font-family: "Gill Sans", sans-serif;
+}
+
+h3 {
+    margin-top: 10px;
+    display: flex;
+    padding-left: calc(100vw / 5 * 1);
+    gap: 10.5rem;
+}
+
+h3 p {
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 1;
+    font-size: 13px;
+    margin: 0;
+}
+
+.wave-text span {
+    display: inline-block;
+    transition: transform 0.4s cubic-bezier(0.25, 1, 0.5, 1);
+    will-change: transform;
+}
+
+.wave-text span:hover {
+    transform: translateY(-12px) translateX(var(--randomX)) rotate(var(--randomR));
+}
+
+.wave-text span.space {
+    display: inline;
+    transform: none !important;
+    transition: none !important;
+}
+
+@keyframes wave {
+    0% {
+        transform: translateY(0);
+    }
+
+    50% {
+        transform: translateY(-10px);
+    }
+
+    100% {
+        transform: translateY(0);
+    }
+}
