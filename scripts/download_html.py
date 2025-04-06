@@ -5,9 +5,9 @@ def fetch_html(url):
         "User-Agent": "Mozilla/5.0"
     }
     try:
-        with httpx.Client(verify=False, timeout=20) as client:  # 20 sekund timeoutu
+        with httpx.Client(verify=False, timeout=20) as client:  
             response = client.get(url)
-            response.raise_for_status()  # Wymusi zgłoszenie błędu HTTP, jeśli wystąpi
+            response.raise_for_status()  
             return response.text
     except httpx.HTTPStatusError as e:
         print(f"Error: HTTPStatusError: {e.response.status_code} - {e.response.text}")

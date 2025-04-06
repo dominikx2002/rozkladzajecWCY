@@ -5,7 +5,6 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 from collections import defaultdict
 
-# Definicje katalogów i plików
 DATA_WCY_DIR = "data/calendars/WCY"
 GROUPS_FILE = os.path.join(DATA_WCY_DIR, "groups.txt")
 SCHEDULES_DIR = os.path.join(DATA_WCY_DIR, "calendar_ics")
@@ -65,10 +64,9 @@ def parse_schedule(html, academic_titles):
     
     soup = BeautifulSoup(html, "html.parser")
     lessons = []
-    lesson_counters = defaultdict(int)  # Licznik zajęć dla danego przedmiotu i typu
-    max_lessons_count = defaultdict(int)  # Maksymalna liczba zajęć danego typu w semestrze
+    lesson_counters = defaultdict(int)  
+    max_lessons_count = defaultdict(int)  
 
-    # Najpierw musimy policzyć maksymalną liczbę zajęć (Y)
     for lesson in soup.find_all("div", class_="lesson"):
         subject_element = lesson.find("span", class_="name")
         subject_lines = [line.strip() for line in subject_element.stripped_strings]
@@ -84,7 +82,6 @@ def parse_schedule(html, academic_titles):
         lesson_key = (subject_short, lesson_type)
         max_lessons_count[lesson_key] = max(max_lessons_count[lesson_key], lesson_number)
 
-    # Teraz parsujemy plan i liczymy X/Y
     for lesson in soup.find_all("div", class_="lesson"):
         try:
             date_str = lesson.find("span", class_="date").text.strip()
@@ -102,8 +99,8 @@ def parse_schedule(html, academic_titles):
             lesson_number = int(lesson_number_match.group(1)) if lesson_number_match else 0
 
             lesson_key = (subject_short, lesson_type)
-            lesson_counters[lesson_key] += 1  # X (obecne zajęcia)
-            max_lessons = max_lessons_count[lesson_key] or "Brak"  # Y (maksymalna liczba)
+            lesson_counters[lesson_key] += 1  
+            max_lessons = max_lessons_count[lesson_key] or "Brak"  
 
             lesson_number_formatted = f"{lesson_counters[lesson_key]}/{max_lessons}"
 
@@ -149,7 +146,7 @@ def parse_schedule(html, academic_titles):
 
 def sanitize_filename(filename):
     """Usuwa niedozwolone znaki w NAZWIE PLIKU, ale nie w ścieżce."""
-    return re.sub(r'[<>:"\\|?*]', "_", filename)  # Usuwa TYLKO niedozwolone znaki w nazwie pliku
+    return re.sub(r'[<>:"\\|?*]', "_", filename)  
 
 def generate_ics(lessons, filename, group_id):
     """Tworzy plik ICS z planem zajęć."""
@@ -171,7 +168,6 @@ def generate_ics(lessons, filename, group_id):
     
     ics_content += "END:VCALENDAR\n"
 
-    # **Poprawka**: TYLKO nazwa pliku jest sanitizowana, nie cała ścieżka!
     sanitized_filename = sanitize_filename(f"{group_id}.ics")
     full_path = os.path.join(SCHEDULES_DIR, sanitized_filename)
 

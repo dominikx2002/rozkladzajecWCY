@@ -5,13 +5,10 @@ document.addEventListener('DOMContentLoaded', function() {
     var eventDescription = document.getElementById('event-description');
     var groupSelect = document.getElementById("group-select");
 
-
-    // Sprawdza czy ze strony korzysta telefon
     function isMobile() {
         return window.innerWidth < 768;
     }
 
-    // Tooltip - czytanie wspolrzednych myszki
     function moveTooltip(event) {
         if (isMobile()) return;
         let offsetX = 20;
@@ -35,8 +32,6 @@ document.addEventListener('DOMContentLoaded', function() {
         eventInfoBox.style.top = `${posY}px`;
     }
 
-
-    // Struktura kalendarza - FullCalendar
     var calendar = new FullCalendar.Calendar(calendarEl, {
         initialView: 'timeGridWeek',
         locale: 'pl',
@@ -71,13 +66,10 @@ document.addEventListener('DOMContentLoaded', function() {
         slotMinTime: "07:00:00",
         slotMaxTime: "22:00:00",
 
-
-        // Klikniecie na date w miesiacu - przejscie do widoku dnia
         dateClick: function(info) {
             calendar.changeView('timeGridDay', info.dateStr);
         },
 
-        // Najazd myszka na wydarzenie
         eventMouseEnter: function(info) {
             if (isMobile()) return;
             eventTitle.innerText = info.event.title;
@@ -104,7 +96,6 @@ document.addEventListener('DOMContentLoaded', function() {
             document.removeEventListener('mousemove', moveTooltip);
         },
 
-        // Do obsługi wyświetlenia wydarzenia na telefonie
         eventClick: function(info) {
             if(!isMobile()) return;
             eventTitle.innerText = info.event.title;
@@ -125,8 +116,6 @@ document.addEventListener('DOMContentLoaded', function() {
 
     });
 
-
-    // Ikona pobierania
     setTimeout(() => {
         const downloadBtn = document.querySelector('.fc-download-button');
         if (downloadBtn) {
@@ -136,7 +125,6 @@ document.addEventListener('DOMContentLoaded', function() {
 
     calendar.render();
 
-    // Funkcja załadowania grup do wyboru (select)
     async function loadGroups() {
         try {
             const response = await fetch("/rozkladzajecWCY/data/calendars/WCY/groups.txt");
@@ -162,7 +150,6 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     }
 
-    // funkcja do pobierania pliku kalendarza
     function downloadICS() {
         let selectedGroup = document.getElementById("group-select").value;
         if (!selectedGroup) {
@@ -170,7 +157,6 @@ document.addEventListener('DOMContentLoaded', function() {
             return;
         }
 
-        // Zamiana gwiazdek * na podłogi _
         let fixedGroupName = selectedGroup.replace(/\*/g, "_"); 
 
         let icsFileUrl = `/rozkladzajecWCY/data/calendars/WCY/calendar_ics/${encodeURIComponent(fixedGroupName)}.ics`;
@@ -180,7 +166,6 @@ document.addEventListener('DOMContentLoaded', function() {
     
     window.onload = loadGroups;
 
-    // Funkcja aktualizująca kalendarz po zmianie grupy
     function updateCalendar(selectedGroup) {
         if (!selectedGroup) return;
 
@@ -215,7 +200,6 @@ document.addEventListener('DOMContentLoaded', function() {
 
     }
 
-    // Obsługa zmiany grupy
     groupSelect.addEventListener("change", function() {
         let selectedGroup = this.value;
         updateCalendar(selectedGroup);

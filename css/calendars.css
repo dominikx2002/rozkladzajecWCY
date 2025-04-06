@@ -1,3 +1,9 @@
+section.calendars {
+    min-height: 100vh;
+    background: white;
+    color: #111;
+}
+
 #calendars  .calendars-header {
     margin-top: 40px;
     margin-bottom: 30px;
@@ -23,7 +29,7 @@
     overflow: hidden;
     border-radius: 12px;
     cursor: pointer;
-    transition: transform 0.3 ease;
+    transition: transform 0.3s ease;
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
@@ -120,10 +126,4 @@
 .calendars-header {
     color: white;
     text-align: center;
-}
-
-section.calendars {
-    min-height: 100vh;
-    background: white;
-    color: #111;
 }

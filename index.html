@@ -12,11 +12,8 @@
     <!-- main CSS -->
     <link rel="stylesheet" href="/rozkladzajecWCY/css/main.css">
 
-    <!-- Topbar CSS -->
+    <!-- topbar CSS -->
     <link rel="stylesheet" href="/rozkladzajecWCY/css/topbar.css">
-
-    <!-- background CSS -->
-    <link rel="stylesheet" href="/rozkladzajecWCY/css/background.css">
 
     <!-- locomotive-scroll CSS -->
     <link rel="stylesheet" href="/rozkladzajecWCY/css/locomotive-scroll.css">
@@ -28,10 +25,12 @@
     <link rel="stylesheet" href="/rozkladzajecWCY/css/how-it-works.css">
 
     <!-- calendars CSS -->
-    <!--<link rel="stylesheet" href="/rozkladzajecWCY/css/calendars.css">-->
-    <!-- sidebar CSS -->
-    <!--<link rel="stylesheet" href="/rozkladzajecWCY/css/sidebar.css">-->
-    <!-- Loader -->
+    <link rel="stylesheet" href="/rozkladzajecWCY/css/calendars.css">
+
+    <!-- contact CSS-->
+    <link rel="stylesheet" href="/rozkladzajecWCY/css/contact.css">
+
+    <!-- loader -->
     <script src="/rozkladzajecWCY/js/loader.js" defer></script>
 
     <!-- rain drop -->
@@ -47,29 +46,35 @@
     <script src="/rozkladzajecWCY/js/text-animation.js"></script>
 
     <!-- header -->
-    <!--<script src="/rozkladzajecWCY/js/header.js"></script>-->
+    <script src="/rozkladzajecWCY/js/topbar.js"></script>
+
     <!-- home -->
     <script src="/rozkladzajecWCY/js/home.js"></script>
 
     <!-- calendars -->
-    <script src="/rozkladzajecWCY/js/calendars.js"></script>
-
-    <!-- sidebar -->
-    <script src="/rozkladzajecWCY/js/sidebar-config.js"></script>
+    <!--<script src="/rozkladzajecWCY/js/calendars.js"></script>-->
 
 </head>
 
 <body>
-    <!-- Background -->
-    <div class="background"></div>
+
+    <div class="loader">
+        <div class="reveal-strip" style="--delay: 0.6s"></div>
+        <div class="reveal-strip" style="--delay: 0.3s"></div>
+        <div class="reveal-strip" style="--delay: 0s"></div>
+        <div class="reveal-strip" style="--delay: 0.3s"></div>
+        <div class="reveal-strip" style="--delay: 0.6s"></div>
+    </div>
+
+    <div class="rain-container" id="rain"></div>
 
     <div data-scroll-container>
 
         <!-- Topbar -->
-        <nav>
+        <nav id="topbar">
             <div class="logo">
                 <img src="/rozkladzajecWCY/data/icons/godlo_wat.png" alt="logo-WAT">
-                <span id="decrypt" class="decrypt-text" data-original="WAT" data-target="Military University of Technology">WAT</span>
+                <span id="decrypt" class="decrypt-text" data-original="WAT" data-target="Wojskowa Akademia Techniczna">WAT</span>
             </div>
             <a href="#home">HOME</a>
             <a href="#how-it-works">HOW IT WORKS</a>
@@ -77,22 +82,12 @@
             <a href="#contact">CONTACT</a>
         </nav>
 
-        <div class="loader">
-            <div class="reveal-strip" style="--delay: 0.6s"></div>
-            <div class="reveal-strip" style="--delay: 0.3s"></div>
-            <div class="reveal-strip" style="--delay: 0s"></div>
-            <div class="reveal-strip" style="--delay: 0.3s"></div>
-            <div class="reveal-strip" style="--delay: 0.6s"></div>
-        </div>
-
-        <div class="rain-container" id="rain"></div>
-
         <!-- HOME -->
         <section class="home">
             <article>
-                <h1 style="--letters: 8.5;">WAT CALENDAR</h1>
-                <h2 class="wave-text">Class schedules scraper<br>& converter that allow <span class="Sync">Sync</span><br>with your <span class="phone">phone</span>'s calendar.</h2>
-                <h3>
+                <h1 class="watcalendar-animation" style="--letters: 8.5;">WAT CALENDAR</h1>
+                <h2 class="wave-text">Class schedules scraper<br>& converter that allow <span class="Sync">Sync</span><br>with your <span class="phone">phone</span>'s calendar</h2>
+                <h3 class="fade">
                     <p>©2025</p>
                     <p>AT HAND</p>
                     <p>UP-TO-DATE</p>
