@@ -2,22 +2,34 @@ section.how-it-works {
     position: relative;
     min-height: 100vh;
     z-index: -3;
-    background-image: linear-gradient( 0deg, hsl(0deg 0% 100%) 14%, hsl(132deg 16% 69%) 68%, hsl(136deg 25% 39%) 86%, hsl(143deg 58% 23%) 95%, hsl(143deg 58% 23%) 101%, hsl(143deg 58% 23%) 101% );
+    background-image: linear-gradient( 0deg, hsl(0deg 0% 100%) 56%, hsl(134deg 17% 81%) 64%, hsl(136deg 21% 55%) 69%, hsl(143deg 61% 32%) 77%, hsl(143deg 61% 32%) 87%, hsl(143deg 61% 32%) 100% );
     color: #111;
 }
 
 .wave4 {
     position: absolute;
     top: 0;
-    transform: rotate(180deg) translateY(20px);
+    width: 130%;
+    height: 400px;
+    transform: rotate(180deg) translateY(60px);
     mask-image: linear-gradient(to bottom, transparent 0%, black 70%, black 100%);
-    -webkit-mask-image: linear-gradient(to bottom, transparent 30%, black 100%);
-    filter: blur(10px);
+    -webkit-mask-image: linear-gradient(to bottom, transparent 30%, black 70%, black 100%);
+    filter: blur(20px);
     z-index: -2;
 }
 
+.wave5 {
+    position: absolute;
+    top: 0;
+    width: 130%;
+    height: 100px;
+    transform: rotate(180deg) translateY(60px);
+    filter: blur(0px);
+    z-index: 0;
+}
+
 section.how-it-works h1 {
-    transform: translateY(100px);
+    transform: translateY(150px);
     white-space: nowrap;
     font-size: calc(97vw / var(--letters));
     width: 100vw;
@@ -34,5 +46,5 @@ section.how-it-works h1 {
 section.how-it-works h3 p {
     display: block;
     color: black;
-    transform: translateY(75px);
+    transform: translateY(125px);
 }
