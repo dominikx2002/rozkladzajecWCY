@@ -21,6 +21,9 @@
     <!-- home CSS -->
     <link rel="stylesheet" href="/rozkladzajecWCY/css/home.css">
 
+    <! -- wave CSS -->
+    <link rel="stylesheet" href="/rozkladzajecWCY/css/wave.css">
+
     <!-- how-it-works CSS -->
     <link rel="stylesheet" href="/rozkladzajecWCY/css/how-it-works.css">
 
@@ -29,6 +32,9 @@
 
     <!-- contact CSS-->
     <link rel="stylesheet" href="/rozkladzajecWCY/css/contact.css">
+
+    <!-- bottombar CSS -->
+    <link rel="stylesheet" href="/rozkladzajecWCY/css/bottombar.css">
 
     <!-- loader -->
     <script src="/rozkladzajecWCY/js/loader.js" defer></script>
@@ -66,6 +72,8 @@
         <a href="#contact">CONTACT</a>
     </nav>
 
+    <div class="bottombar"></div>
+
     <!-- zaladowanie strony -->
     <div class="loader">
         <div class="reveal-strip" style="--delay: 0.6s"></div>
@@ -94,11 +102,39 @@
                 <a href="#how-it-works" class="button-learn">Learn</a>
                 <a href="#calendars" class="button-try-now">Try now</a>
             </article>
+            <!-- animacja wave -->
+            <div>
+                <svg class="wave1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320" preserveAspectRatio="none" shape-rendering="auto">
+                    <path fill="rgba(25, 94, 51, 0.5" ) d="M0,0L60,37.3C120,75,240,149,360,160C480,171,600,117,720,80C840,43,960,21,1080,21.3C1200,21,1320,43,1380,53.3L1440,64L1440,320L1380,320C1320,320,1200,320,1080,320C960,320,840,320,720,320C600,320,480,320,360,320C240,320,120,320,60,320L0,320Z"></path>
+                </svg>
+                <svg class="wave2" viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto">
+                    <defs>
+                        <path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" />
+                    </defs>
+                    <g class="parallax">
+                        <use xlink:href="#gentle-wave" x="48" y="-2" fill="rgba(25, 94, 51, 1" ) />
+                    </g>
+                </svg>
+                <svg class="wave3" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320" preserveAspectRatio="none" shape-rendering="auto">
+                    <path fill="rgba(25, 94, 51, 1" ) d="M0,128L120,149.3C240,171,480,213,720,202.7C960,192,1200,128,1320,96L1440,64L1440,320L1320,320C1200,320,960,320,720,320C480,320,240,320,120,320L0,320Z"></path>
+                </svg>
+            </div>
         </section>
 
         <!-- HOW IT WORKS -->
-        <section class="how-it-works">
-            HOW IT WORKS
+        <section class="how-it-works" id="how-it-works">
+            <div>
+                <svg class="wave4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320" preserveAspectRatio="none" shape-rendering="auto">
+                    <path fill="rgba(25, 94, 51, 1" ) d="M0,128L120,149.3C240,171,480,213,720,202.7C960,192,1200,128,1320,96L1440,64L1440,320L1320,320C1200,320,960,320,720,320C480,320,240,320,120,320L0,320Z"></path>
+                </svg>
+            </div>
+            <h1 style="--letters: 5.9;">How it Works</h1>
+            <h3 style="--letters: 70;">
+                <p>WEB</p>
+                <p>IPHONE</p>
+                <p>WEB</p>
+                <p>GOOGLE</p>
+            </h3>
         </section>
 
         <!-- CALENDARS -->
