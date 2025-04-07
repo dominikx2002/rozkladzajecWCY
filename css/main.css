@@ -2,7 +2,6 @@ html, body {
     margin: 0;
     padding: 0;
     height: 100%;
-    overflow-x: hidden;
     background-color: black;
 }
 
@@ -85,6 +84,7 @@ html, body {
 [data-scroll-container] {
     height: auto;
     overflow: visible;
+    overflow-x: hidden;
 }
 
 section {
