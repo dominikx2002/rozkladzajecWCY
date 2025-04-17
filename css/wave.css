@@ -7,8 +7,8 @@
     margin: 0;
     padding: 0;
     bottom: 0;
-    left: 0;
-    width: 120vw;
+    left: -20px;
+    width: 110vw;
     height: 500px;
     z-index: -2;
     overflow: hidden;
@@ -22,8 +22,8 @@
     margin: 0;
     padding: 0;
     bottom: 0;
-    left: 0;
-    width: 130%;
+    left: -20px;
+    width: 110vw;
     height: 320px;
     z-index: -2;
     overflow: hidden;
@@ -36,12 +36,72 @@
     position: absolute;
     bottom: 0;
     height: 320px;
-    width: 130%;
+    left: -20px;
+    width: 110vw;
     z-index: -2;
     transform: translateY(50px);
     mask-image: linear-gradient(to bottom, transparent 0%, black 70%, black 100%);
     -webkit-mask-image: linear-gradient(to bottom, transparent 0%,black 70%, black 100%);
     filter: blur(30px);
+}
+
+.wave4 {
+    position: absolute;
+    top: 0;
+    left: -20px;
+    width: 110vw;
+    height: 400px;
+    transform: rotate(180deg) translateY(60px);
+    mask-image: linear-gradient(to bottom, transparent 0%, black 70%, black 100%);
+    -webkit-mask-image: linear-gradient(to bottom, transparent 30%, black 70%, black 100%);
+    filter: blur(20px);
+    z-index: -2;
+}
+
+.wave5 {
+    position: absolute;
+    top: 0;
+    left: -20px;
+    width: 110vw;
+    height: 350px;
+    mask-image: linear-gradient(to bottom, transparent 0%, black 70%, black 100%);
+    -webkit-mask-image: linear-gradient(to bottom, transparent 0%, black 70%, black 100%);
+    transform: rotate(180deg) translateY(-160px);
+    z-index: -2;
+    filter: blur(20px);
+}
+
+.wave6 {
+    position: absolute;
+    bottom: 0;
+    width: 100vw;
+    height: 350px;
+    mask-image: linear-gradient(to bottom, transparent 0%, black 70%, black 100%);
+    -webkit-mask-image: linear-gradient(to bottom, transparent 0%, black 70%, black 100%);
+    transform: translateY(0px);
+    z-index: -2;
+    filter: blur(20px);
+}
+
+.wave7 {
+    position: absolute;
+    width: 100vw;
+    height: 500px;
+    mask-image: linear-gradient(to bottom, transparent 0%, black 70%, black 100%);
+    -webkit-mask-image: linear-gradient(to bottom, transparent 0%, black 70%, black 100%);
+    transform: rotate(180deg) translateY(0px);
+    z-index: -2;
+    filter: blur(20px);
+}
+
+.wave8 {
+    position: absolute;
+    left: -20px;
+    width: 110vw;
+    height: 250px;
+    transform: rotate(180deg) translateY(40px);
+    z-index: 1;
+    filter: blur(20px);
 }
 
 .parallax > use {

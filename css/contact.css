@@ -2,3 +2,36 @@ section.contact {
     min-height: 100vh;
     color: white;
 }
+
+section.contact h1 {
+    transform: translateY(0px);
+    white-space: nowrap;
+    font-size: calc(97vw / var(--letters));
+    width: 100vw;
+    display: block;
+    margin: 0;
+    padding: 0px;
+    color: white;
+    font-family: "Gill Sans", sans-serif;
+    text-align: center;
+    z-index: -1;
+}
+
+section.contact .footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 95%;
+    margin-left: 27px;
+    text-transform: uppercase;
+    transform: translateY(-50px);
+}
+
+section.contact .footer span {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: clamp(0px, 1.3vw, 15px);
+    color: white;
+    letter-spacing: 0px;
+    white-space: nowrap;
+    font-weight: 600;
+}
