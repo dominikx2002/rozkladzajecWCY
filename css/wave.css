@@ -48,27 +48,14 @@
 .wave4 {
     position: absolute;
     top: 0;
-    left: -20px;
-    width: 110vw;
-    height: 400px;
+    left: -800px;
+    width: 250vw;
+    height: 1000px;
     transform: rotate(180deg) translateY(60px);
     mask-image: linear-gradient(to bottom, transparent 0%, black 70%, black 100%);
     -webkit-mask-image: linear-gradient(to bottom, transparent 30%, black 70%, black 100%);
     filter: blur(20px);
     z-index: -2;
-}
-
-.wave5 {
-    position: absolute;
-    top: 0;
-    left: -20px;
-    width: 110vw;
-    height: 350px;
-    mask-image: linear-gradient(to bottom, transparent 0%, black 70%, black 100%);
-    -webkit-mask-image: linear-gradient(to bottom, transparent 0%, black 70%, black 100%);
-    transform: rotate(180deg) translateY(-160px);
-    z-index: -2;
-    filter: blur(20px);
 }
 
 .wave6 {
@@ -86,7 +73,7 @@
 .wave7 {
     position: absolute;
     width: 100vw;
-    height: 500px;
+    height: 300px;
     mask-image: linear-gradient(to bottom, transparent 0%, black 70%, black 100%);
     -webkit-mask-image: linear-gradient(to bottom, transparent 0%, black 70%, black 100%);
     transform: rotate(180deg) translateY(0px);
@@ -102,6 +89,16 @@
     transform: rotate(180deg) translateY(40px);
     z-index: 1;
     filter: blur(20px);
+}
+
+.wave9 {
+    position: absolute;
+    left: -20px;
+    width: 110vw;
+    height: 120px;
+    transform: translateY(-110px);
+    z-index: 1;
+    filter: blur(12px);
 }
 
 .parallax > use {

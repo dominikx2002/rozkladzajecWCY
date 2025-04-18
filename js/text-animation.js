@@ -103,6 +103,7 @@ window.addEventListener("DOMContentLoaded", () => {
     document.querySelectorAll(".wave-text").forEach(createWaveText);
 });
 
+//animacja pojawienia sie tekstu
 function revealWaveWordsOnScroll() {
     const wave = document.querySelector('.wave-text');
     if (!wave) return;
@@ -141,7 +142,7 @@ window.addEventListener("DOMContentLoaded", () => {
         createWaveText(wave);
         setTimeout(() => {
             revealWaveWordsOnScroll();
-        }, 2400);
+        }, 1700);
     }
 });
 
