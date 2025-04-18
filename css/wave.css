@@ -101,6 +101,18 @@
     filter: blur(12px);
 }
 
+.wave1,
+.wave2,
+.wave3,
+.wave4,
+.wave6,
+.wave7,
+.wave8,
+.wave9 {
+    height: auto;
+    display: block;
+}
+
 .parallax > use {
     animation: move-forever 10s cubic-bezier(0.55, 0.5, 0.45, 0.5)infinite;
 }
