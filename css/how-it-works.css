@@ -35,7 +35,7 @@ section.how-it-works1 {
 }
 
 section.how-it-works1 h1 {
-    transform: translateY(180px);
+    transform: translateY(120px);
     font-size: calc(97vw / var(--letters));
     line-height: 0.75;
     display: block;
@@ -46,7 +46,7 @@ section.how-it-works1 h1 {
 }
 
 section.how-it-works1 .footer {
-    transform: translateY(180px);
+    transform: translateY(120px);
     display: flex;
     justify-content: center;
     margin: 0;
