@@ -159,6 +159,7 @@ h3 p {
     filter: blur(30px);
     mask-image: linear-gradient(to bottom, transparent 0%, black 70%, black 100%);
     -webkit-mask-image: linear-gradient(to bottom, transparent 0%, black 70%, black 100%);
+    pointer-events: none;
 }
 
 .wave2 {
@@ -172,6 +173,7 @@ h3 p {
     z-index: -2;
     overflow: hidden;
     filter: blur(10px);
+    pointer-events: none;
 }
 
 .parallax > use {

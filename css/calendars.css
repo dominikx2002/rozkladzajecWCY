@@ -5,28 +5,35 @@ section.calendars {
     font-family: "Gill Sans", sans-serif;
 }
 
+.wave5 {
+    position: absolute;
+    top: 0px;
+    left: -50px;
+    width: 110vw;
+    height: auto;
+    z-index: 0;
+    pointer-events: none;
+    filter: blur(30px);
+}
+
 section.calendars h1 {
-    white-space: nowrap;
     font-size: calc(97vw / var(--letters));
-    width: 100vw;
+    line-height: 0.75;
     display: block;
     margin: 0;
-    padding: 0px;
+    padding-top: 270px;
     color: white;
     font-family: "Gill Sans", sans-serif;
     text-align: center;
-    z-index: -1;
 }
 
 section.calendars .footer {
     display: flex;
     justify-content: center;
-    margin-top: 0;
-    gap: 17.2vw;
-    margin-top: calc(97vw / var(--letters));
-    width: 100vw;
-    padding: 0;
     margin: 0;
+    padding-top: 0;
+    gap: 16.9vw;
+    margin-top: 0;
     text-transform: uppercase;
 }
 
@@ -34,7 +41,6 @@ section.calendars .footer span {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: calc(97vw / var(--letters));
     color: white;
-    white-space: nowrap;
     font-weight: 600;
     text-align: center;
 }
@@ -139,35 +145,4 @@ section.calendars .footer span {
     width: 100%;
     height: auto;
     display: block;
-}
-
-.wave7 {
-    position: absolute;
-    width: 100vw;
-    height: 300px;
-    mask-image: linear-gradient(to bottom, transparent 0%, black 70%, black 100%);
-    -webkit-mask-image: linear-gradient(to bottom, transparent 0%, black 70%, black 100%);
-    transform: rotate(180deg) translateY(0px);
-    z-index: -2;
-    filter: blur(20px);
-}
-
-.wave8 {
-    position: absolute;
-    left: -20px;
-    width: 110vw;
-    height: 250px;
-    transform: rotate(180deg) translateY(40px);
-    z-index: 1;
-    filter: blur(20px);
-}
-
-.wave9 {
-    position: absolute;
-    left: -20px;
-    width: 110vw;
-    height: 120px;
-    transform: translateY(-110px);
-    z-index: 1;
-    filter: blur(12px);
 }

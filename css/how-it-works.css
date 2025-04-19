@@ -21,47 +21,6 @@ section.how-it-works1 {
     color: #111;
 }
 
-section.how-it-works2 {
-    position: relative;
-    min-height: 100vh;
-    z-index: -3;
-    background-image: linear-gradient( 0deg, hsl(143deg 58% 23%) 0%, hsl(139deg 39% 30%) 4%, hsl(137deg 28% 36%) 7%, hsl(136deg 22% 43%) 11%, hsl(134deg 17% 49%) 14%, hsl(134deg 16% 55%) 18%, hsl(133deg 16% 61%) 22%, hsl(132deg 16% 68%) 27%, hsl(132deg 16% 74%) 32%, hsl(132deg 16% 80%) 40%, hsl(131deg 16% 87%) 53%, hsl(131deg 17% 93%) 73%, hsl(0deg 0% 100%) 100% );
-    color: #111;
-}
-
-section.how-it-works1 h1 {
-    transform: translateY(170px);
-    white-space: nowrap;
-    font-size: calc(97vw / var(--letters));
-    width: 100vw;
-    display: block;
-    margin: 0;
-    padding: 0px;
-    color: black;
-    font-family: "Gill Sans", sans-serif;
-    text-align: center;
-    line-height: 1;
-}
-
-section.how-it-works1 .footer {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    width: 95%;
-    margin-left: 27px;
-    text-transform: uppercase;
-    transform: translateY(150px);
-}
-
-section.how-it-works1 .footer span {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: clamp(0px, 1.3vw, 15px);
-    color: black;
-    letter-spacing: 0px;
-    white-space: nowrap;
-    font-weight: 600;
-}
-
 .wave3 {
     position: absolute;
     top: -50px;
@@ -75,14 +34,67 @@ section.how-it-works1 .footer span {
     -webkit-mask-image: linear-gradient(to top, transparent 0%, black 30%, black 100%);
 }
 
-.wave6 {
+section.how-it-works1 h1 {
+    transform: translateY(180px);
+    font-size: calc(97vw / var(--letters));
+    line-height: 0.75;
+    display: block;
+    margin: 0;
+    color: black;
+    font-family: "Gill Sans", sans-serif;
+    text-align: center;
+}
+
+section.how-it-works1 .footer {
+    transform: translateY(180px);
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding-top: 0;
+    gap: 17.75vw;
+    margin-top: 0;
+    text-transform: uppercase;
+    white-space: nowrap;
+}
+
+section.how-it-works1 .footer span {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: calc(97vw / var(--letters));
+    color: black;
+    font-weight: 600;
+    text-align: center;
+}
+
+section.how-it-works2 {
+    position: relative;
+    min-height: 100vh;
+    z-index: -3;
+    background-image: linear-gradient(
+        180deg,
+        hsl(0deg 0% 100%) 13%,
+        hsl(300deg 100% 100%) 48%,
+        hsl(300deg 100% 100%) 62%,
+        hsl(0deg 0% 100%) 70%,
+        hsl(300deg 100% 100%) 77%,
+        hsl(300deg 100% 100%) 81%,
+        hsl(0deg 0% 100%) 85%,
+        hsl(300deg 100% 100%) 88%,
+        hsl(300deg 100% 100%) 91%,
+        hsl(0deg 0% 100%) 92%,
+        hsl(344deg 0% 64%) 94%,
+        hsl(344deg 0% 31%) 96%,
+        hsl(0deg 0% 0%) 99%
+    );
+    color: #111;
+}
+
+.wave4 {
     position: absolute;
-    bottom: 0;
-    width: 100vw;
-    height: 350px;
-    mask-image: linear-gradient(to bottom, transparent 0%, black 70%, black 100%);
-    -webkit-mask-image: linear-gradient(to bottom, transparent 0%, black 70%, black 100%);
-    transform: translateY(0px);
-    z-index: -2;
+    bottom: -60px;
+    width: 110vw;
+    left: -50px;
+    height: auto;
+    z-index: -1;
     filter: blur(20px);
+    pointer-events: none;
 }
