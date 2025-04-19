@@ -35,3 +35,34 @@ section.contact .footer span {
     white-space: nowrap;
     font-weight: 600;
 }
+
+.wave7 {
+    position: absolute;
+    width: 100vw;
+    height: 300px;
+    mask-image: linear-gradient(to bottom, transparent 0%, black 70%, black 100%);
+    -webkit-mask-image: linear-gradient(to bottom, transparent 0%, black 70%, black 100%);
+    transform: rotate(180deg) translateY(0px);
+    z-index: -2;
+    filter: blur(20px);
+}
+
+.wave8 {
+    position: absolute;
+    left: -20px;
+    width: 110vw;
+    height: 250px;
+    transform: rotate(180deg) translateY(40px);
+    z-index: 1;
+    filter: blur(20px);
+}
+
+.wave9 {
+    position: absolute;
+    left: -20px;
+    width: 110vw;
+    height: 120px;
+    transform: translateY(-110px);
+    z-index: 1;
+    filter: blur(12px);
+}
