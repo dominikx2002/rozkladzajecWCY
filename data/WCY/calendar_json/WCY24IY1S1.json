@@ -1,0 +1,3810 @@
+[
+    {
+        "title": "WdI (w)",
+        "start": "2024-10-11T09:50:00",
+        "end": "2024-10-11T11:25:00",
+        "description": "Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: dr inż. Dariusz Pierzchała",
+        "allDay": false,
+        "color": "#B247A6"
+    },
+    {
+        "title": "WdI (L)",
+        "start": "2025-01-13T08:00:00",
+        "end": "2025-01-13T09:35:00",
+        "description": "Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/11\nProwadzący: mgr inż. Paweł Pieczonka",
+        "allDay": false,
+        "color": "#B247A6"
+    },
+    {
+        "title": "WF (ć)",
+        "start": "2024-12-09T09:50:00",
+        "end": "2024-12-09T11:25:00",
+        "description": "Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#77B247"
+    },
+    {
+        "title": "Mat I (ć)",
+        "start": "2024-10-24T11:40:00",
+        "end": "2024-10-24T13:15:00",
+        "description": "Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/19\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#8E47B2"
+    },
+    {
+        "title": "Tgs (ć)",
+        "start": "2025-03-18T17:50:00",
+        "end": "2025-03-18T19:25:00",
+        "description": "Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący: mgr inż. Piotr Jakubowski",
+        "allDay": false,
+        "color": "#B2475F"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2025-04-16T16:00:00",
+        "end": "2025-04-16T17:35:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 21/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#475FB2"
+    },
+    {
+        "title": "Rp (w)",
+        "start": "2025-03-04T13:30:00",
+        "end": "2025-03-04T15:05:00",
+        "description": "Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 1/9\nProwadzący: dr Justyna Kurkowiak",
+        "allDay": false,
+        "color": "#B24777"
+    },
+    {
+        "title": "M II (ć)",
+        "start": "2025-01-29T09:50:00",
+        "end": "2025-01-29T11:25:00",
+        "description": "Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16/17\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#47B25F"
+    },
+    {
+        "title": "Rp (w)",
+        "start": "2025-04-24T13:30:00",
+        "end": "2025-04-24T15:05:00",
+        "description": "Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 8/9\nProwadzący: dr Justyna Kurkowiak",
+        "allDay": false,
+        "color": "#B24777"
+    },
+    {
+        "title": "F1 (L)",
+        "start": "2025-03-19T11:40:00",
+        "end": "2025-03-19T13:15:00",
+        "description": "Fizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "F1 (Inne)",
+        "start": "2025-07-15T09:50:00",
+        "end": "2025-07-15T11:25:00",
+        "description": "Fizyka 1 - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 1/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "PGI (ć)",
+        "start": "2024-12-13T17:50:00",
+        "end": "2024-12-13T19:25:00",
+        "description": "Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/9\nProwadzący: -",
+        "allDay": false,
+        "color": "#5F47B2"
+    },
+    {
+        "title": "Mat I (ć)",
+        "start": "2025-01-16T09:50:00",
+        "end": "2025-01-16T11:25:00",
+        "description": "Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/19\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#8E47B2"
+    },
+    {
+        "title": "M II (ć)",
+        "start": "2024-11-19T08:00:00",
+        "end": "2024-11-19T09:35:00",
+        "description": "Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/17\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#47B25F"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2024-11-06T17:50:00",
+        "end": "2024-11-06T19:25:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#475FB2"
+    },
+    {
+        "title": "M II (w)",
+        "start": "2025-01-15T08:00:00",
+        "end": "2025-01-15T09:35:00",
+        "description": "Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 15/17\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#47B25F"
+    },
+    {
+        "title": "F1 (Inne)",
+        "start": "2025-07-15T13:30:00",
+        "end": "2025-07-15T15:05:00",
+        "description": "Fizyka 1 - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 3/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "Tgs (w)",
+        "start": "2025-03-28T09:50:00",
+        "end": "2025-03-28T11:25:00",
+        "description": "Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: dr hab. inż. Zbigniew Tarapata",
+        "allDay": false,
+        "color": "#B2475F"
+    },
+    {
+        "title": "WF (ć)",
+        "start": "2024-10-14T09:50:00",
+        "end": "2024-10-14T11:25:00",
+        "description": "Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#77B247"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2025-01-29T16:00:00",
+        "end": "2025-01-29T17:35:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#B27747"
+    },
+    {
+        "title": "MD1 (ć)",
+        "start": "2024-12-10T11:40:00",
+        "end": "2024-12-10T13:15:00",
+        "description": "Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący: dr hab. inż. Andrzej Chojnacki",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "M II (w)",
+        "start": "2024-10-09T08:00:00",
+        "end": "2024-10-09T09:35:00",
+        "description": "Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 1/17\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#47B25F"
+    },
+    {
+        "title": "M II (ć)",
+        "start": "2025-01-30T11:40:00",
+        "end": "2025-01-30T13:15:00",
+        "description": "Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17/17\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#47B25F"
+    },
+    {
+        "title": "PTk (ć)",
+        "start": "2025-06-17T11:40:00",
+        "end": "2025-06-17T13:15:00",
+        "description": "Podstawy techniki komputerów\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący:  Jozef Turczyn",
+        "allDay": false,
+        "color": "#B2A647"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2024-10-30T16:00:00",
+        "end": "2024-10-30T17:35:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#B27747"
+    },
+    {
+        "title": "F1 (E)",
+        "start": "2025-07-01T13:30:00",
+        "end": "2025-07-01T15:05:00",
+        "description": "Fizyka 1 - (Egzamin) -\nRodzaj zajęć:  - \nNr zajęć: 3/3\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "PTk (w)",
+        "start": "2025-04-24T11:40:00",
+        "end": "2025-04-24T13:15:00",
+        "description": "Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 8/14\nProwadzący: dr inż. Krzysztof Murawski",
+        "allDay": false,
+        "color": "#B2A647"
+    },
+    {
+        "title": "Tpi (w)",
+        "start": "2025-03-18T09:50:00",
+        "end": "2025-03-18T11:25:00",
+        "description": "Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr hab. inż. Kazimierz Worwa",
+        "allDay": false,
+        "color": "#5FB247"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2024-12-04T16:00:00",
+        "end": "2024-12-04T17:35:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#B27747"
+    },
+    {
+        "title": "M II (ć)",
+        "start": "2024-12-10T09:50:00",
+        "end": "2024-12-10T11:25:00",
+        "description": "Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/17\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#47B25F"
+    },
+    {
+        "title": "M II (ć)",
+        "start": "2025-01-20T13:30:00",
+        "end": "2025-01-20T15:05:00",
+        "description": "Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/17\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#47B25F"
+    },
+    {
+        "title": "MD1 (ć)",
+        "start": "2024-11-26T11:40:00",
+        "end": "2024-11-26T13:15:00",
+        "description": "Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: dr hab. inż. Andrzej Chojnacki",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "MD1 (Inne)",
+        "start": "2025-02-21T11:40:00",
+        "end": "2025-02-21T13:15:00",
+        "description": "Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 6/4\nProwadzący: dr hab. inż. Andrzej Chojnacki",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "PGI (w)",
+        "start": "2024-11-22T16:00:00",
+        "end": "2024-11-22T17:35:00",
+        "description": "Podstawy grafiki inżynierskiej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#5F47B2"
+    },
+    {
+        "title": "Mat I (w)",
+        "start": "2024-11-22T13:30:00",
+        "end": "2024-11-22T15:05:00",
+        "description": "Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 12/15\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#8E47B2"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2024-11-27T17:50:00",
+        "end": "2024-11-27T19:25:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#475FB2"
+    },
+    {
+        "title": "MD1 (Inne)",
+        "start": "2025-04-07T16:00:00",
+        "end": "2025-04-07T17:35:00",
+        "description": "Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 7/4\nProwadzący: dr hab. inż. Andrzej Chojnacki",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "WdI (L)",
+        "start": "2025-01-24T09:50:00",
+        "end": "2025-01-24T11:25:00",
+        "description": "Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/11\nProwadzący: mgr inż. Paweł Pieczonka",
+        "allDay": false,
+        "color": "#B247A6"
+    },
+    {
+        "title": "M II (w)",
+        "start": "2024-10-31T09:50:00",
+        "end": "2024-10-31T11:25:00",
+        "description": "Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 4/17\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#47B25F"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2025-05-15T16:00:00",
+        "end": "2025-05-15T17:35:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 26/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#B27747"
+    },
+    {
+        "title": "ppk (L)",
+        "start": "2025-03-28T13:30:00",
+        "end": "2025-03-28T15:05:00",
+        "description": "Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Tomasz Żentara",
+        "allDay": false,
+        "color": "#A647B2"
+    },
+    {
+        "title": "HP (ć)",
+        "start": "2025-04-02T08:00:00",
+        "end": "2025-04-02T09:35:00",
+        "description": "Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "M II (w)",
+        "start": "2024-12-11T08:00:00",
+        "end": "2024-12-11T09:35:00",
+        "description": "Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 11/17\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#47B25F"
+    },
+    {
+        "title": "Rp (L)",
+        "start": "2025-05-15T09:50:00",
+        "end": "2025-05-15T11:25:00",
+        "description": "Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący: dr Justyna Kurkowiak",
+        "allDay": false,
+        "color": "#B24777"
+    },
+    {
+        "title": "Ez (w)",
+        "start": "2024-10-23T13:30:00",
+        "end": "2024-10-23T15:05:00",
+        "description": "Etyka zawodowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#47A6B2"
+    },
+    {
+        "title": "PTk (w)",
+        "start": "2025-05-19T11:40:00",
+        "end": "2025-05-19T13:15:00",
+        "description": "Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 13/14\nProwadzący: dr inż. Krzysztof Murawski",
+        "allDay": false,
+        "color": "#B2A647"
+    },
+    {
+        "title": "M II (ć)",
+        "start": "2024-10-30T08:00:00",
+        "end": "2024-10-30T09:35:00",
+        "description": "Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/17\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#47B25F"
+    },
+    {
+        "title": "WdI (L)",
+        "start": "2025-01-21T09:50:00",
+        "end": "2025-01-21T11:25:00",
+        "description": "Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/11\nProwadzący: mgr inż. Paweł Pieczonka",
+        "allDay": false,
+        "color": "#B247A6"
+    },
+    {
+        "title": "Md2 (ć)",
+        "start": "2025-05-29T11:40:00",
+        "end": "2025-05-29T13:15:00",
+        "description": "Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: dr hab. inż. Andrzej Chojnacki",
+        "allDay": false,
+        "color": "#B28E47"
+    },
+    {
+        "title": "MD1 (ć)",
+        "start": "2024-11-05T11:40:00",
+        "end": "2024-11-05T13:15:00",
+        "description": "Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący: dr hab. inż. Andrzej Chojnacki",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Amt (w)",
+        "start": "2025-03-27T08:00:00",
+        "end": "2025-03-27T09:35:00",
+        "description": "Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: dr Mariusz Jurkiewicz",
+        "allDay": false,
+        "color": "#8EB247"
+    },
+    {
+        "title": "F1 (ć)",
+        "start": "2025-05-07T11:40:00",
+        "end": "2025-05-07T13:15:00",
+        "description": "Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "F1 (w)",
+        "start": "2025-05-14T13:30:00",
+        "end": "2025-05-14T15:05:00",
+        "description": "Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 15/20\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "PTk (w)",
+        "start": "2025-04-28T11:40:00",
+        "end": "2025-04-28T13:15:00",
+        "description": "Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 9/14\nProwadzący: dr inż. Krzysztof Murawski",
+        "allDay": false,
+        "color": "#B2A647"
+    },
+    {
+        "title": "MD1 (Inne)",
+        "start": "2025-01-21T13:30:00",
+        "end": "2025-01-21T15:05:00",
+        "description": "Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 3/4\nProwadzący: dr hab. inż. Andrzej Chojnacki",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "M II (w)",
+        "start": "2024-11-20T08:00:00",
+        "end": "2024-11-20T09:35:00",
+        "description": "Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 7/17\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#47B25F"
+    },
+    {
+        "title": "M II (w)",
+        "start": "2024-12-11T09:50:00",
+        "end": "2024-12-11T11:25:00",
+        "description": "Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 12/17\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#47B25F"
+    },
+    {
+        "title": "WdI (w)",
+        "start": "2024-11-08T09:50:00",
+        "end": "2024-11-08T11:25:00",
+        "description": "Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący:  Jakub Grątkiewicz",
+        "allDay": false,
+        "color": "#B247A6"
+    },
+    {
+        "title": "Rp (L)",
+        "start": "2025-04-03T11:40:00",
+        "end": "2025-04-03T13:15:00",
+        "description": "Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący: dr Justyna Kurkowiak",
+        "allDay": false,
+        "color": "#B24777"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2025-06-04T16:00:00",
+        "end": "2025-06-04T17:35:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 28/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#475FB2"
+    },
+    {
+        "title": "F1 (w)",
+        "start": "2025-03-12T13:30:00",
+        "end": "2025-03-12T15:05:00",
+        "description": "Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/20\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "Rp (w)",
+        "start": "2025-03-27T13:30:00",
+        "end": "2025-03-27T15:05:00",
+        "description": "Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 4/9\nProwadzący: dr Justyna Kurkowiak",
+        "allDay": false,
+        "color": "#B24777"
+    },
+    {
+        "title": "F1 (ć)",
+        "start": "2025-04-02T09:50:00",
+        "end": "2025-04-02T11:25:00",
+        "description": "Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "WdP (w)",
+        "start": "2025-03-31T08:00:00",
+        "end": "2025-03-31T09:35:00",
+        "description": "Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr inż. Dariusz Pierzchała",
+        "allDay": false,
+        "color": "#4776B2"
+    },
+    {
+        "title": "M II (ć)",
+        "start": "2024-10-15T11:40:00",
+        "end": "2024-10-15T13:15:00",
+        "description": "Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/17\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#47B25F"
+    },
+    {
+        "title": "WdI (w)",
+        "start": "2024-11-22T09:50:00",
+        "end": "2024-11-22T11:25:00",
+        "description": "Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 5/4\nProwadzący:  Jakub Grątkiewicz",
+        "allDay": false,
+        "color": "#B247A6"
+    },
+    {
+        "title": "PTk (ć)",
+        "start": "2025-05-20T11:40:00",
+        "end": "2025-05-20T13:15:00",
+        "description": "Podstawy techniki komputerów\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/4\nProwadzący:  Jozef Turczyn",
+        "allDay": false,
+        "color": "#B2A647"
+    },
+    {
+        "title": "WdI (L)",
+        "start": "2024-12-17T09:50:00",
+        "end": "2024-12-17T11:25:00",
+        "description": "Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/11\nProwadzący: mgr inż. Paweł Pieczonka",
+        "allDay": false,
+        "color": "#B247A6"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2025-05-14T16:00:00",
+        "end": "2025-05-14T17:35:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 25/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#475FB2"
+    },
+    {
+        "title": "Tgs (ć)",
+        "start": "2025-04-01T17:50:00",
+        "end": "2025-04-01T19:25:00",
+        "description": "Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący: mgr inż. Piotr Jakubowski",
+        "allDay": false,
+        "color": "#B2475F"
+    },
+    {
+        "title": "HP (w)",
+        "start": "2025-03-12T08:00:00",
+        "end": "2025-03-12T09:35:00",
+        "description": "Historia Polski - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2025-04-03T16:00:00",
+        "end": "2025-04-03T17:35:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 20/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#B27747"
+    },
+    {
+        "title": "MD1 (ć)",
+        "start": "2024-11-12T11:40:00",
+        "end": "2024-11-12T13:15:00",
+        "description": "Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący: dr hab. inż. Andrzej Chojnacki",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Amt (ć)",
+        "start": "2025-03-31T13:30:00",
+        "end": "2025-03-31T15:05:00",
+        "description": "Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/12\nProwadzący: mgr inż. Stanisław Zoń",
+        "allDay": false,
+        "color": "#8EB247"
+    },
+    {
+        "title": "WdI (L)",
+        "start": "2025-01-29T11:40:00",
+        "end": "2025-01-29T13:15:00",
+        "description": "Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/11\nProwadzący: mgr inż. Paweł Pieczonka",
+        "allDay": false,
+        "color": "#B247A6"
+    },
+    {
+        "title": "WDM (ć)",
+        "start": "2024-12-10T13:30:00",
+        "end": "2024-12-10T15:05:00",
+        "description": "Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B28E"
+    },
+    {
+        "title": "Amt (ć)",
+        "start": "2025-05-28T11:40:00",
+        "end": "2025-05-28T13:15:00",
+        "description": "Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/12\nProwadzący: mgr inż. Stanisław Zoń",
+        "allDay": false,
+        "color": "#8EB247"
+    },
+    {
+        "title": "PGI (w)",
+        "start": "2024-10-18T16:00:00",
+        "end": "2024-10-18T17:35:00",
+        "description": "Podstawy grafiki inżynierskiej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#5F47B2"
+    },
+    {
+        "title": "WdI (w)",
+        "start": "2024-12-06T11:40:00",
+        "end": "2024-12-06T13:15:00",
+        "description": "Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 6/4\nProwadzący:  Jakub Grątkiewicz",
+        "allDay": false,
+        "color": "#B247A6"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2025-03-13T16:00:00",
+        "end": "2025-03-13T17:35:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#B27747"
+    },
+    {
+        "title": "HP (w)",
+        "start": "2025-03-04T16:00:00",
+        "end": "2025-03-04T17:35:00",
+        "description": "Historia Polski - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "Amt (w)",
+        "start": "2025-05-08T08:00:00",
+        "end": "2025-05-08T09:35:00",
+        "description": "Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący: dr Mariusz Jurkiewicz",
+        "allDay": false,
+        "color": "#8EB247"
+    },
+    {
+        "title": "Ez (w)",
+        "start": "2024-10-09T13:30:00",
+        "end": "2024-10-09T15:05:00",
+        "description": "Etyka zawodowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#47A6B2"
+    },
+    {
+        "title": "F1 (w)",
+        "start": "2025-05-07T13:30:00",
+        "end": "2025-05-07T15:05:00",
+        "description": "Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 14/20\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "M II (ć)",
+        "start": "2024-12-13T13:30:00",
+        "end": "2024-12-13T15:05:00",
+        "description": "Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/17\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#47B25F"
+    },
+    {
+        "title": "PGI (ć)",
+        "start": "2025-01-15T11:40:00",
+        "end": "2025-01-15T13:15:00",
+        "description": "Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/9\nProwadzący: -",
+        "allDay": false,
+        "color": "#5F47B2"
+    },
+    {
+        "title": "PTk (w)",
+        "start": "2025-03-13T09:50:00",
+        "end": "2025-03-13T11:25:00",
+        "description": "Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 2/14\nProwadzący: dr inż. Krzysztof Murawski",
+        "allDay": false,
+        "color": "#B2A647"
+    },
+    {
+        "title": "Amt (ć)",
+        "start": "2025-03-10T09:50:00",
+        "end": "2025-03-10T11:25:00",
+        "description": "Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/12\nProwadzący: mgr inż. Stanisław Zoń",
+        "allDay": false,
+        "color": "#8EB247"
+    },
+    {
+        "title": "WdI (L)",
+        "start": "2024-12-10T16:00:00",
+        "end": "2024-12-10T17:35:00",
+        "description": "Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/11\nProwadzący: mgr inż. Paweł Pieczonka",
+        "allDay": false,
+        "color": "#B247A6"
+    },
+    {
+        "title": "HP (ć)",
+        "start": "2025-04-09T09:50:00",
+        "end": "2025-04-09T11:25:00",
+        "description": "Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "WDM (w)",
+        "start": "2024-11-13T11:40:00",
+        "end": "2024-11-13T13:15:00",
+        "description": "Wprowadzenie do metrologii - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B28E"
+    },
+    {
+        "title": "WDM (w)",
+        "start": "2024-10-21T11:40:00",
+        "end": "2024-10-21T13:15:00",
+        "description": "Wprowadzenie do metrologii - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B28E"
+    },
+    {
+        "title": "Amt (w)",
+        "start": "2025-04-17T08:00:00",
+        "end": "2025-04-17T09:35:00",
+        "description": "Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący: dr Mariusz Jurkiewicz",
+        "allDay": false,
+        "color": "#8EB247"
+    },
+    {
+        "title": "Tgs (w)",
+        "start": "2025-03-21T09:50:00",
+        "end": "2025-03-21T11:25:00",
+        "description": "Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr hab. inż. Zbigniew Tarapata",
+        "allDay": false,
+        "color": "#B2475F"
+    },
+    {
+        "title": "PTk (w)",
+        "start": "2025-04-24T09:50:00",
+        "end": "2025-04-24T11:25:00",
+        "description": "Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 7/14\nProwadzący: dr inż. Krzysztof Murawski",
+        "allDay": false,
+        "color": "#B2A647"
+    },
+    {
+        "title": "WdP (w)",
+        "start": "2025-03-03T08:00:00",
+        "end": "2025-03-03T09:35:00",
+        "description": "Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr inż. Dariusz Pierzchała",
+        "allDay": false,
+        "color": "#4776B2"
+    },
+    {
+        "title": "F1 (w)",
+        "start": "2025-04-30T13:30:00",
+        "end": "2025-04-30T15:05:00",
+        "description": "Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 13/20\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "MD1 (Inne)",
+        "start": "2025-01-21T11:40:00",
+        "end": "2025-01-21T13:15:00",
+        "description": "Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 2/4\nProwadzący: dr hab. inż. Andrzej Chojnacki",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Mat I (w)",
+        "start": "2024-11-28T08:00:00",
+        "end": "2024-11-28T09:35:00",
+        "description": "Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 13/15\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#8E47B2"
+    },
+    {
+        "title": "Mat I (ć)",
+        "start": "2025-01-20T11:40:00",
+        "end": "2025-01-20T13:15:00",
+        "description": "Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/19\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#8E47B2"
+    },
+    {
+        "title": "Tgs (w)",
+        "start": "2025-03-07T09:50:00",
+        "end": "2025-03-07T11:25:00",
+        "description": "Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: dr hab. inż. Zbigniew Tarapata",
+        "allDay": false,
+        "color": "#B2475F"
+    },
+    {
+        "title": "Mat I (ć)",
+        "start": "2025-01-10T08:00:00",
+        "end": "2025-01-10T09:35:00",
+        "description": "Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/19\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#8E47B2"
+    },
+    {
+        "title": "F1 (L)",
+        "start": "2025-05-14T11:40:00",
+        "end": "2025-05-14T13:15:00",
+        "description": "Fizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "ppk (L)",
+        "start": "2025-05-06T09:50:00",
+        "end": "2025-05-06T11:25:00",
+        "description": "Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Tomasz Żentara",
+        "allDay": false,
+        "color": "#A647B2"
+    },
+    {
+        "title": "Tgs (w)",
+        "start": "2025-04-11T08:00:00",
+        "end": "2025-04-11T09:35:00",
+        "description": "Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: dr hab. inż. Zbigniew Tarapata",
+        "allDay": false,
+        "color": "#B2475F"
+    },
+    {
+        "title": "WDM (ć)",
+        "start": "2024-12-03T13:30:00",
+        "end": "2024-12-03T15:05:00",
+        "description": "Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B28E"
+    },
+    {
+        "title": "PGI (ć)",
+        "start": "2025-01-31T08:00:00",
+        "end": "2025-01-31T09:35:00",
+        "description": "Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/9\nProwadzący: -",
+        "allDay": false,
+        "color": "#5F47B2"
+    },
+    {
+        "title": "WdI (L)",
+        "start": "2024-11-15T08:00:00",
+        "end": "2024-11-15T09:35:00",
+        "description": "Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/11\nProwadzący: mgr inż. Paweł Pieczonka",
+        "allDay": false,
+        "color": "#B247A6"
+    },
+    {
+        "title": "Md2 (ć)",
+        "start": "2025-04-29T13:30:00",
+        "end": "2025-04-29T15:05:00",
+        "description": "Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: dr hab. inż. Andrzej Chojnacki",
+        "allDay": false,
+        "color": "#B28E47"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2025-06-12T16:00:00",
+        "end": "2025-06-12T17:35:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 30/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#B27747"
+    },
+    {
+        "title": "PTk (L)",
+        "start": "2025-05-15T17:50:00",
+        "end": "2025-05-15T19:25:00",
+        "description": "Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: mgr inż. Marcin Goluch",
+        "allDay": false,
+        "color": "#B2A647"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2025-04-04T19:40:00",
+        "end": "2025-04-04T21:15:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 21/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#B27747"
+    },
+    {
+        "title": "ppk (w)",
+        "start": "2025-03-20T11:40:00",
+        "end": "2025-03-20T13:15:00",
+        "description": "Podstawy podzespołów komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Jan Chudzikiewicz",
+        "allDay": false,
+        "color": "#A647B2"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2025-03-06T16:00:00",
+        "end": "2025-03-06T17:35:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#B27747"
+    },
+    {
+        "title": "M II (ć)",
+        "start": "2024-10-17T16:00:00",
+        "end": "2024-10-17T17:35:00",
+        "description": "Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/17\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#47B25F"
+    },
+    {
+        "title": "Owi (ć)",
+        "start": "2024-11-28T09:50:00",
+        "end": "2024-11-28T11:25:00",
+        "description": "Ochrona własności intelektualnych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#7747B2"
+    },
+    {
+        "title": "HP (ć)",
+        "start": "2025-05-07T09:50:00",
+        "end": "2025-05-07T11:25:00",
+        "description": "Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "Md2 (w)",
+        "start": "2025-04-07T11:40:00",
+        "end": "2025-04-07T13:15:00",
+        "description": "Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr hab. inż. Andrzej Chojnacki",
+        "allDay": false,
+        "color": "#B28E47"
+    },
+    {
+        "title": "Tpi (w)",
+        "start": "2025-04-01T09:50:00",
+        "end": "2025-04-01T11:25:00",
+        "description": "Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr hab. inż. Kazimierz Worwa",
+        "allDay": false,
+        "color": "#5FB247"
+    },
+    {
+        "title": "WdP (L)",
+        "start": "2025-04-15T08:00:00",
+        "end": "2025-04-15T09:35:00",
+        "description": "Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: mgr inż. Sławomir Wysocki",
+        "allDay": false,
+        "color": "#4776B2"
+    },
+    {
+        "title": "Mat I (ć)",
+        "start": "2025-01-09T09:50:00",
+        "end": "2025-01-09T11:25:00",
+        "description": "Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/19\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#8E47B2"
+    },
+    {
+        "title": "F1 (L)",
+        "start": "2025-05-08T13:30:00",
+        "end": "2025-05-08T15:05:00",
+        "description": "Fizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "Mat I (w)",
+        "start": "2024-11-08T13:30:00",
+        "end": "2024-11-08T15:05:00",
+        "description": "Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 8/15\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#8E47B2"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2024-11-20T17:50:00",
+        "end": "2024-11-20T19:25:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#475FB2"
+    },
+    {
+        "title": "PTk (L)",
+        "start": "2025-04-03T19:40:00",
+        "end": "2025-04-03T21:15:00",
+        "description": "Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: mgr inż. Marcin Goluch",
+        "allDay": false,
+        "color": "#B2A647"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2024-12-18T17:50:00",
+        "end": "2024-12-18T19:25:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#475FB2"
+    },
+    {
+        "title": "WdP (L)",
+        "start": "2025-04-15T09:50:00",
+        "end": "2025-04-15T11:25:00",
+        "description": "Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: mgr inż. Sławomir Wysocki",
+        "allDay": false,
+        "color": "#4776B2"
+    },
+    {
+        "title": "WDM (ć)",
+        "start": "2024-11-28T11:40:00",
+        "end": "2024-11-28T13:15:00",
+        "description": "Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B28E"
+    },
+    {
+        "title": "Wzp (w)",
+        "start": "2024-11-12T16:00:00",
+        "end": "2024-11-12T17:35:00",
+        "description": "Wybrane zagadnienia prawa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "Mat I (ć)",
+        "start": "2024-10-17T13:30:00",
+        "end": "2024-10-17T15:05:00",
+        "description": "Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/19\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#8E47B2"
+    },
+    {
+        "title": "WdP (L)",
+        "start": "2025-05-09T08:00:00",
+        "end": "2025-05-09T09:35:00",
+        "description": "Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: mgr inż. Sławomir Wysocki",
+        "allDay": false,
+        "color": "#4776B2"
+    },
+    {
+        "title": "Tpi (w)",
+        "start": "2025-03-25T09:50:00",
+        "end": "2025-03-25T11:25:00",
+        "description": "Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr hab. inż. Kazimierz Worwa",
+        "allDay": false,
+        "color": "#5FB247"
+    },
+    {
+        "title": "WF (ć)",
+        "start": "2025-05-05T09:50:00",
+        "end": "2025-05-05T11:25:00",
+        "description": "Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 23/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#77B247"
+    },
+    {
+        "title": "WDM (w)",
+        "start": "2024-10-16T11:40:00",
+        "end": "2024-10-16T13:15:00",
+        "description": "Wprowadzenie do metrologii - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B28E"
+    },
+    {
+        "title": "MD1 (Inne)",
+        "start": "2025-02-17T09:50:00",
+        "end": "2025-02-17T11:25:00",
+        "description": "Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 5/4\nProwadzący: dr hab. inż. Andrzej Chojnacki",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "WF (ć)",
+        "start": "2025-05-20T09:50:00",
+        "end": "2025-05-20T11:25:00",
+        "description": "Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 26/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#77B247"
+    },
+    {
+        "title": "F1 (w)",
+        "start": "2025-06-11T13:30:00",
+        "end": "2025-06-11T15:05:00",
+        "description": "Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 19/20\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "Mat I (ć)",
+        "start": "2024-12-19T09:50:00",
+        "end": "2024-12-19T11:25:00",
+        "description": "Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/19\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#8E47B2"
+    },
+    {
+        "title": "MD1 (w)",
+        "start": "2024-11-15T11:40:00",
+        "end": "2024-11-15T13:15:00",
+        "description": "Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr hab. inż. Andrzej Chojnacki",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Owi (w)",
+        "start": "2024-11-27T11:40:00",
+        "end": "2024-11-27T13:15:00",
+        "description": "Ochrona własności intelektualnych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#7747B2"
+    },
+    {
+        "title": "F1 (w)",
+        "start": "2025-04-02T13:30:00",
+        "end": "2025-04-02T15:05:00",
+        "description": "Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 9/20\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "Mat I (w)",
+        "start": "2024-11-15T13:30:00",
+        "end": "2024-11-15T15:05:00",
+        "description": "Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 10/15\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#8E47B2"
+    },
+    {
+        "title": "Rp (L)",
+        "start": "2025-05-06T11:40:00",
+        "end": "2025-05-06T13:15:00",
+        "description": "Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący: dr Justyna Kurkowiak",
+        "allDay": false,
+        "color": "#B24777"
+    },
+    {
+        "title": "MD1 (w)",
+        "start": "2024-10-11T11:40:00",
+        "end": "2024-10-11T13:15:00",
+        "description": "Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: dr hab. inż. Andrzej Chojnacki",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-10T11:40:00",
+        "end": "2025-04-10T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B276"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2025-01-29T17:50:00",
+        "end": "2025-01-29T19:25:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#475FB2"
+    },
+    {
+        "title": "Wzp (w)",
+        "start": "2024-10-29T16:00:00",
+        "end": "2024-10-29T17:35:00",
+        "description": "Wybrane zagadnienia prawa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "WF (ć)",
+        "start": "2024-11-06T09:50:00",
+        "end": "2024-11-06T11:25:00",
+        "description": "Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#77B247"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2024-12-18T16:00:00",
+        "end": "2024-12-18T17:35:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#B27747"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2025-04-09T16:00:00",
+        "end": "2025-04-09T17:35:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 20/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#475FB2"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2025-01-15T16:00:00",
+        "end": "2025-01-15T17:35:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#B27747"
+    },
+    {
+        "title": "Owi (w)",
+        "start": "2024-10-24T13:30:00",
+        "end": "2024-10-24T15:05:00",
+        "description": "Ochrona własności intelektualnych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#7747B2"
+    },
+    {
+        "title": "F1 (Inne)",
+        "start": "2025-09-16T11:40:00",
+        "end": "2025-09-16T13:15:00",
+        "description": "Fizyka 1 - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 5/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "Rp (L)",
+        "start": "2025-04-17T13:30:00",
+        "end": "2025-04-17T15:05:00",
+        "description": "Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: dr Justyna Kurkowiak",
+        "allDay": false,
+        "color": "#B24777"
+    },
+    {
+        "title": "F1 (ć)",
+        "start": "2025-03-19T09:50:00",
+        "end": "2025-03-19T11:25:00",
+        "description": "Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "Mat I (w)",
+        "start": "2024-12-12T08:00:00",
+        "end": "2024-12-12T09:35:00",
+        "description": "Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 15/15\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#8E47B2"
+    },
+    {
+        "title": "Tgs (w)",
+        "start": "2025-04-11T09:50:00",
+        "end": "2025-04-11T11:25:00",
+        "description": "Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr hab. inż. Zbigniew Tarapata",
+        "allDay": false,
+        "color": "#B2475F"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2025-05-28T16:00:00",
+        "end": "2025-05-28T17:35:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 27/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#475FB2"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2024-10-09T17:50:00",
+        "end": "2024-10-09T19:25:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#475FB2"
+    },
+    {
+        "title": "Mat I (Inne)",
+        "start": "2025-03-31T16:00:00",
+        "end": "2025-03-31T17:35:00",
+        "description": "Matematyka I\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#8E47B2"
+    },
+    {
+        "title": "M II (w)",
+        "start": "2024-11-13T08:00:00",
+        "end": "2024-11-13T09:35:00",
+        "description": "Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 5/17\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#47B25F"
+    },
+    {
+        "title": "PGI (w)",
+        "start": "2024-10-11T16:00:00",
+        "end": "2024-10-11T17:35:00",
+        "description": "Podstawy grafiki inżynierskiej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#5F47B2"
+    },
+    {
+        "title": "Tpi (w)",
+        "start": "2025-03-11T11:40:00",
+        "end": "2025-03-11T13:15:00",
+        "description": "Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr hab. inż. Kazimierz Worwa",
+        "allDay": false,
+        "color": "#5FB247"
+    },
+    {
+        "title": "HP (ć)",
+        "start": "2025-05-21T08:00:00",
+        "end": "2025-05-21T09:35:00",
+        "description": "Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "Rp (ć)",
+        "start": "2025-05-15T13:30:00",
+        "end": "2025-05-15T15:05:00",
+        "description": "Rachunek prawdopodobieństwa\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący: dr Justyna Kurkowiak",
+        "allDay": false,
+        "color": "#B24777"
+    },
+    {
+        "title": "F1 (w)",
+        "start": "2025-04-23T13:30:00",
+        "end": "2025-04-23T15:05:00",
+        "description": "Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 12/20\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "F1 (w)",
+        "start": "2025-06-18T13:30:00",
+        "end": "2025-06-18T15:05:00",
+        "description": "Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 20/20\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "WDM (ć)",
+        "start": "2024-12-19T13:30:00",
+        "end": "2024-12-19T15:05:00",
+        "description": "Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B28E"
+    },
+    {
+        "title": "F1 (w)",
+        "start": "2025-03-05T08:00:00",
+        "end": "2025-03-05T09:35:00",
+        "description": "Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/20\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "M II (w)",
+        "start": "2024-11-20T09:50:00",
+        "end": "2024-11-20T11:25:00",
+        "description": "Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 8/17\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#47B25F"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2024-11-27T16:00:00",
+        "end": "2024-11-27T17:35:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#B27747"
+    },
+    {
+        "title": "Tgs (w)",
+        "start": "2025-03-21T08:00:00",
+        "end": "2025-03-21T09:35:00",
+        "description": "Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: dr hab. inż. Zbigniew Tarapata",
+        "allDay": false,
+        "color": "#B2475F"
+    },
+    {
+        "title": "WdI (L)",
+        "start": "2024-11-07T08:00:00",
+        "end": "2024-11-07T09:35:00",
+        "description": "Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/11\nProwadzący: mgr inż. Paweł Pieczonka",
+        "allDay": false,
+        "color": "#B247A6"
+    },
+    {
+        "title": "Tgs (ć)",
+        "start": "2025-06-11T17:50:00",
+        "end": "2025-06-11T19:25:00",
+        "description": "Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: mgr inż. Piotr Jakubowski",
+        "allDay": false,
+        "color": "#B2475F"
+    },
+    {
+        "title": "WdS (w)",
+        "start": "2024-10-10T09:50:00",
+        "end": "2024-10-10T11:25:00",
+        "description": "Wprowadzenie do studiowania\nRodzaj zajęć: Wykład\nNr zajęć: 1/3\nProwadzący: dr Ewa Łakoma",
+        "allDay": false,
+        "color": "#B25F47"
+    },
+    {
+        "title": "Mat I (w)",
+        "start": "2024-10-17T08:00:00",
+        "end": "2024-10-17T09:35:00",
+        "description": "Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 3/15\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#8E47B2"
+    },
+    {
+        "title": "Tpi (w)",
+        "start": "2025-06-16T11:40:00",
+        "end": "2025-06-16T13:15:00",
+        "description": "Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr hab. inż. Kazimierz Worwa",
+        "allDay": false,
+        "color": "#5FB247"
+    },
+    {
+        "title": "Ez (w)",
+        "start": "2024-11-13T13:30:00",
+        "end": "2024-11-13T15:05:00",
+        "description": "Etyka zawodowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#47A6B2"
+    },
+    {
+        "title": "Md2 (ć)",
+        "start": "2025-05-22T11:40:00",
+        "end": "2025-05-22T13:15:00",
+        "description": "Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący: dr hab. inż. Andrzej Chojnacki",
+        "allDay": false,
+        "color": "#B28E47"
+    },
+    {
+        "title": "Mat I (w)",
+        "start": "2024-11-14T08:00:00",
+        "end": "2024-11-14T09:35:00",
+        "description": "Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 9/15\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#8E47B2"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2024-11-13T17:50:00",
+        "end": "2024-11-13T19:25:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#475FB2"
+    },
+    {
+        "title": "F1 (w)",
+        "start": "2025-05-21T13:30:00",
+        "end": "2025-05-21T15:05:00",
+        "description": "Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 16/20\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "Tpi (w)",
+        "start": "2025-04-08T09:50:00",
+        "end": "2025-04-08T11:25:00",
+        "description": "Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr hab. inż. Kazimierz Worwa",
+        "allDay": false,
+        "color": "#5FB247"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2025-04-30T16:00:00",
+        "end": "2025-04-30T17:35:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 23/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#475FB2"
+    },
+    {
+        "title": "ppk (L)",
+        "start": "2025-04-11T13:30:00",
+        "end": "2025-04-11T15:05:00",
+        "description": "Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Tomasz Żentara",
+        "allDay": false,
+        "color": "#A647B2"
+    },
+    {
+        "title": "MD1 (ć)",
+        "start": "2024-11-19T11:40:00",
+        "end": "2024-11-19T13:15:00",
+        "description": "Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: dr hab. inż. Andrzej Chojnacki",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "F1 (Inne)",
+        "start": "2025-09-16T09:50:00",
+        "end": "2025-09-16T11:25:00",
+        "description": "Fizyka 1 - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 4/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "Amt (w)",
+        "start": "2025-03-20T08:00:00",
+        "end": "2025-03-20T09:35:00",
+        "description": "Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący: dr Mariusz Jurkiewicz",
+        "allDay": false,
+        "color": "#8EB247"
+    },
+    {
+        "title": "M II (w)",
+        "start": "2025-01-29T08:00:00",
+        "end": "2025-01-29T09:35:00",
+        "description": "Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 17/17\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#47B25F"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2025-04-10T16:00:00",
+        "end": "2025-04-10T17:35:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 22/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#B27747"
+    },
+    {
+        "title": "MD1 (ć)",
+        "start": "2024-12-03T11:40:00",
+        "end": "2024-12-03T13:15:00",
+        "description": "Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: dr hab. inż. Andrzej Chojnacki",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "ppk (L)",
+        "start": "2025-04-23T08:00:00",
+        "end": "2025-04-23T09:35:00",
+        "description": "Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Tomasz Żentara",
+        "allDay": false,
+        "color": "#A647B2"
+    },
+    {
+        "title": "WDM (ć)",
+        "start": "2025-01-08T13:30:00",
+        "end": "2025-01-08T15:05:00",
+        "description": "Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B28E"
+    },
+    {
+        "title": "F1 (w)",
+        "start": "2025-05-28T13:30:00",
+        "end": "2025-05-28T15:05:00",
+        "description": "Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 17/20\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "WF (ć)",
+        "start": "2025-06-16T09:50:00",
+        "end": "2025-06-16T11:25:00",
+        "description": "Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 30/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#77B247"
+    },
+    {
+        "title": "Mat I (ć)",
+        "start": "2024-11-18T11:40:00",
+        "end": "2024-11-18T13:15:00",
+        "description": "Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/19\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#8E47B2"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2025-01-08T17:50:00",
+        "end": "2025-01-08T19:25:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#475FB2"
+    },
+    {
+        "title": "Ing (Inne)",
+        "start": "2024-10-04T09:50:00",
+        "end": "2024-10-04T11:25:00",
+        "description": "Inauguracja\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr hab. inż. Zbigniew Tarapata",
+        "allDay": false,
+        "color": "#47B2A6"
+    },
+    {
+        "title": "WdP (L)",
+        "start": "2025-03-27T11:40:00",
+        "end": "2025-03-27T13:15:00",
+        "description": "Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: mgr inż. Sławomir Wysocki",
+        "allDay": false,
+        "color": "#4776B2"
+    },
+    {
+        "title": "Mat I (ć)",
+        "start": "2025-01-23T09:50:00",
+        "end": "2025-01-23T11:25:00",
+        "description": "Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17/19\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#8E47B2"
+    },
+    {
+        "title": "Mat I (w)",
+        "start": "2024-10-18T13:30:00",
+        "end": "2024-10-18T15:05:00",
+        "description": "Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 4/15\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#8E47B2"
+    },
+    {
+        "title": "Sws (Inne)",
+        "start": "2024-10-14T11:40:00",
+        "end": "2024-10-14T13:15:00",
+        "description": "Spotkanie organizacyjne\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#478EB2"
+    },
+    {
+        "title": "Mat I (ć)",
+        "start": "2024-11-07T09:50:00",
+        "end": "2024-11-07T11:25:00",
+        "description": "Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/19\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#8E47B2"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2025-05-22T16:00:00",
+        "end": "2025-05-22T17:35:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 27/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#B27747"
+    },
+    {
+        "title": "WdI (w)",
+        "start": "2024-10-25T09:50:00",
+        "end": "2024-10-25T11:25:00",
+        "description": "Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący:  Jakub Grątkiewicz",
+        "allDay": false,
+        "color": "#B247A6"
+    },
+    {
+        "title": "Mat I (E)",
+        "start": "2025-02-05T08:00:00",
+        "end": "2025-02-05T09:35:00",
+        "description": "Matematyka I\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#8E47B2"
+    },
+    {
+        "title": "Ez (w)",
+        "start": "2024-11-20T13:30:00",
+        "end": "2024-11-20T15:05:00",
+        "description": "Etyka zawodowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#47A6B2"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2024-12-04T17:50:00",
+        "end": "2024-12-04T19:25:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#475FB2"
+    },
+    {
+        "title": "WF (ć)",
+        "start": "2024-11-04T09:50:00",
+        "end": "2024-11-04T11:25:00",
+        "description": "Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#77B247"
+    },
+    {
+        "title": "M II (E)",
+        "start": "2025-02-07T09:50:00",
+        "end": "2025-02-07T11:25:00",
+        "description": "Matematyka II\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#47B25F"
+    },
+    {
+        "title": "Amt (ć)",
+        "start": "2025-04-29T11:40:00",
+        "end": "2025-04-29T13:15:00",
+        "description": "Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/12\nProwadzący: mgr inż. Stanisław Zoń",
+        "allDay": false,
+        "color": "#8EB247"
+    },
+    {
+        "title": "PTk (ć)",
+        "start": "2025-06-02T11:40:00",
+        "end": "2025-06-02T13:15:00",
+        "description": "Podstawy techniki komputerów\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/4\nProwadzący:  Jozef Turczyn",
+        "allDay": false,
+        "color": "#B2A647"
+    },
+    {
+        "title": "F1 (w)",
+        "start": "2025-04-16T13:30:00",
+        "end": "2025-04-16T15:05:00",
+        "description": "Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 11/20\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "F1 (ć)",
+        "start": "2025-04-30T09:50:00",
+        "end": "2025-04-30T11:25:00",
+        "description": "Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "WdI (L)",
+        "start": "2025-01-09T13:30:00",
+        "end": "2025-01-09T15:05:00",
+        "description": "Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/11\nProwadzący: mgr inż. Paweł Pieczonka",
+        "allDay": false,
+        "color": "#B247A6"
+    },
+    {
+        "title": "ppk (w)",
+        "start": "2025-03-24T16:00:00",
+        "end": "2025-03-24T17:35:00",
+        "description": "Podstawy podzespołów komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Jan Chudzikiewicz",
+        "allDay": false,
+        "color": "#A647B2"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2025-03-20T16:00:00",
+        "end": "2025-03-20T17:35:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 18/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#B27747"
+    },
+    {
+        "title": "Owi (w)",
+        "start": "2024-10-24T16:00:00",
+        "end": "2024-10-24T17:35:00",
+        "description": "Ochrona własności intelektualnych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#7747B2"
+    },
+    {
+        "title": "F1 (ć)",
+        "start": "2025-05-21T11:40:00",
+        "end": "2025-05-21T13:15:00",
+        "description": "Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "WdP (L)",
+        "start": "2025-04-29T09:50:00",
+        "end": "2025-04-29T11:25:00",
+        "description": "Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: mgr inż. Sławomir Wysocki",
+        "allDay": false,
+        "color": "#4776B2"
+    },
+    {
+        "title": "M II (w)",
+        "start": "2025-01-22T08:00:00",
+        "end": "2025-01-22T09:35:00",
+        "description": "Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 16/17\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#47B25F"
+    },
+    {
+        "title": "Tuim (Inne)",
+        "start": "2024-09-17T08:00:00",
+        "end": "2024-09-17T09:35:00",
+        "description": "Technologie usługowe i mobilne\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: mgr inż. Paweł Pieczonka",
+        "allDay": false,
+        "color": "#A6B247"
+    },
+    {
+        "title": "Amt (ć)",
+        "start": "2025-05-07T08:00:00",
+        "end": "2025-05-07T09:35:00",
+        "description": "Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/12\nProwadzący: mgr inż. Stanisław Zoń",
+        "allDay": false,
+        "color": "#8EB247"
+    },
+    {
+        "title": "PTk (w)",
+        "start": "2025-03-21T11:40:00",
+        "end": "2025-03-21T13:15:00",
+        "description": "Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 5/14\nProwadzący: dr inż. Krzysztof Murawski",
+        "allDay": false,
+        "color": "#B2A647"
+    },
+    {
+        "title": "Md2 (w)",
+        "start": "2025-03-17T11:40:00",
+        "end": "2025-03-17T13:15:00",
+        "description": "Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: dr hab. inż. Andrzej Chojnacki",
+        "allDay": false,
+        "color": "#B28E47"
+    },
+    {
+        "title": "WF (ć)",
+        "start": "2025-06-02T09:50:00",
+        "end": "2025-06-02T11:25:00",
+        "description": "Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 28/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#77B247"
+    },
+    {
+        "title": "PTk (L)",
+        "start": "2025-04-24T19:40:00",
+        "end": "2025-04-24T21:15:00",
+        "description": "Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: mgr inż. Marcin Goluch",
+        "allDay": false,
+        "color": "#B2A647"
+    },
+    {
+        "title": "WdI (w)",
+        "start": "2025-01-31T09:50:00",
+        "end": "2025-01-31T11:25:00",
+        "description": "Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 7/4\nProwadzący: dr inż. Dariusz Pierzchała",
+        "allDay": false,
+        "color": "#B247A6"
+    },
+    {
+        "title": "Md2 (w)",
+        "start": "2025-04-30T11:40:00",
+        "end": "2025-04-30T13:15:00",
+        "description": "Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr hab. inż. Andrzej Chojnacki",
+        "allDay": false,
+        "color": "#B28E47"
+    },
+    {
+        "title": "Tpi (L)",
+        "start": "2025-04-09T19:40:00",
+        "end": "2025-04-09T21:15:00",
+        "description": "Teoretyczne podstawy informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/2\nProwadzący: mgr inż. Piotr Jakubowski",
+        "allDay": false,
+        "color": "#5FB247"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2025-05-07T16:00:00",
+        "end": "2025-05-07T17:35:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 24/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#475FB2"
+    },
+    {
+        "title": "Mat I (w)",
+        "start": "2024-11-21T08:00:00",
+        "end": "2024-11-21T09:35:00",
+        "description": "Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 11/15\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#8E47B2"
+    },
+    {
+        "title": "Mat I (w)",
+        "start": "2024-10-11T13:30:00",
+        "end": "2024-10-11T15:05:00",
+        "description": "Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 2/15\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#8E47B2"
+    },
+    {
+        "title": "WF (ć)",
+        "start": "2025-05-26T09:50:00",
+        "end": "2025-05-26T11:25:00",
+        "description": "Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 27/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#77B247"
+    },
+    {
+        "title": "Mat I (w)",
+        "start": "2024-10-10T08:00:00",
+        "end": "2024-10-10T09:35:00",
+        "description": "Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 1/15\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#8E47B2"
+    },
+    {
+        "title": "Mat I (ć)",
+        "start": "2024-10-23T08:00:00",
+        "end": "2024-10-23T09:35:00",
+        "description": "Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/19\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#8E47B2"
+    },
+    {
+        "title": "WF (ć)",
+        "start": "2025-05-19T09:50:00",
+        "end": "2025-05-19T11:25:00",
+        "description": "Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 25/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#77B247"
+    },
+    {
+        "title": "Owi (w)",
+        "start": "2024-11-14T17:50:00",
+        "end": "2024-11-14T19:25:00",
+        "description": "Ochrona własności intelektualnych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#7747B2"
+    },
+    {
+        "title": "PTk (L)",
+        "start": "2025-06-05T17:50:00",
+        "end": "2025-06-05T19:25:00",
+        "description": "Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: mgr inż. Marcin Goluch",
+        "allDay": false,
+        "color": "#B2A647"
+    },
+    {
+        "title": "ppk (w)",
+        "start": "2025-03-06T11:40:00",
+        "end": "2025-03-06T13:15:00",
+        "description": "Podstawy podzespołów komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Jan Chudzikiewicz",
+        "allDay": false,
+        "color": "#A647B2"
+    },
+    {
+        "title": "WdS (w)",
+        "start": "2024-11-14T09:50:00",
+        "end": "2024-11-14T11:25:00",
+        "description": "Wprowadzenie do studiowania\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący: dr Ewa Łakoma",
+        "allDay": false,
+        "color": "#B25F47"
+    },
+    {
+        "title": "Tgs (ć)",
+        "start": "2025-05-22T17:50:00",
+        "end": "2025-05-22T19:25:00",
+        "description": "Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący: mgr inż. Piotr Jakubowski",
+        "allDay": false,
+        "color": "#B2475F"
+    },
+    {
+        "title": "WF (ć)",
+        "start": "2025-03-03T09:50:00",
+        "end": "2025-03-03T11:25:00",
+        "description": "Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#77B247"
+    },
+    {
+        "title": "PTk (L)",
+        "start": "2025-04-03T17:50:00",
+        "end": "2025-04-03T19:25:00",
+        "description": "Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: mgr inż. Marcin Goluch",
+        "allDay": false,
+        "color": "#B2A647"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2025-05-21T16:00:00",
+        "end": "2025-05-21T17:35:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 26/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#475FB2"
+    },
+    {
+        "title": "Tuim (Inne)",
+        "start": "2024-09-17T09:50:00",
+        "end": "2024-09-17T11:25:00",
+        "description": "Technologie usługowe i mobilne\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: mgr inż. Paweł Pieczonka",
+        "allDay": false,
+        "color": "#A6B247"
+    },
+    {
+        "title": "F1 (w)",
+        "start": "2025-03-18T08:00:00",
+        "end": "2025-03-18T09:35:00",
+        "description": "Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/20\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "Mat I (E)",
+        "start": "2025-02-05T09:50:00",
+        "end": "2025-02-05T11:25:00",
+        "description": "Matematyka I\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#8E47B2"
+    },
+    {
+        "title": "MD1 (Inne)",
+        "start": "2025-04-14T17:50:00",
+        "end": "2025-04-14T19:25:00",
+        "description": "Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 8/4\nProwadzący: dr hab. inż. Andrzej Chojnacki",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2024-11-06T16:00:00",
+        "end": "2024-11-06T17:35:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#B27747"
+    },
+    {
+        "title": "ppk (L)",
+        "start": "2025-04-11T11:40:00",
+        "end": "2025-04-11T13:15:00",
+        "description": "Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Tomasz Żentara",
+        "allDay": false,
+        "color": "#A647B2"
+    },
+    {
+        "title": "PTk (L)",
+        "start": "2025-05-15T19:40:00",
+        "end": "2025-05-15T21:15:00",
+        "description": "Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: mgr inż. Marcin Goluch",
+        "allDay": false,
+        "color": "#B2A647"
+    },
+    {
+        "title": "MD1 (w)",
+        "start": "2024-12-09T13:30:00",
+        "end": "2024-12-09T15:05:00",
+        "description": "Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr hab. inż. Andrzej Chojnacki",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "F1 (w)",
+        "start": "2025-03-25T08:00:00",
+        "end": "2025-03-25T09:35:00",
+        "description": "Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/20\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "Tpi (w)",
+        "start": "2025-03-05T09:50:00",
+        "end": "2025-03-05T11:25:00",
+        "description": "Teoretyczne podstawy informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr hab. inż. Kazimierz Worwa",
+        "allDay": false,
+        "color": "#5FB247"
+    },
+    {
+        "title": "PTk (w)",
+        "start": "2025-03-14T11:40:00",
+        "end": "2025-03-14T13:15:00",
+        "description": "Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 4/14\nProwadzący: dr inż. Krzysztof Murawski",
+        "allDay": false,
+        "color": "#B2A647"
+    },
+    {
+        "title": "Mat I (w)",
+        "start": "2024-10-25T13:30:00",
+        "end": "2024-10-25T15:05:00",
+        "description": "Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 6/15\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#8E47B2"
+    },
+    {
+        "title": "PTk (L)",
+        "start": "2025-04-24T17:50:00",
+        "end": "2025-04-24T19:25:00",
+        "description": "Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: mgr inż. Marcin Goluch",
+        "allDay": false,
+        "color": "#B2A647"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2025-06-11T16:00:00",
+        "end": "2025-06-11T17:35:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 29/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#475FB2"
+    },
+    {
+        "title": "Wzp (w)",
+        "start": "2024-11-05T16:00:00",
+        "end": "2024-11-05T17:35:00",
+        "description": "Wybrane zagadnienia prawa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "M II (ć)",
+        "start": "2025-01-23T11:40:00",
+        "end": "2025-01-23T13:15:00",
+        "description": "Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/17\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#47B25F"
+    },
+    {
+        "title": "M II (ć)",
+        "start": "2025-01-09T11:40:00",
+        "end": "2025-01-09T13:15:00",
+        "description": "Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/17\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#47B25F"
+    },
+    {
+        "title": "Owi (w)",
+        "start": "2024-11-14T16:00:00",
+        "end": "2024-11-14T17:35:00",
+        "description": "Ochrona własności intelektualnych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#7747B2"
+    },
+    {
+        "title": "M II (E)",
+        "start": "2025-02-07T08:00:00",
+        "end": "2025-02-07T09:35:00",
+        "description": "Matematyka II\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#47B25F"
+    },
+    {
+        "title": "ppk (w)",
+        "start": "2025-03-20T09:50:00",
+        "end": "2025-03-20T11:25:00",
+        "description": "Podstawy podzespołów komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Jan Chudzikiewicz",
+        "allDay": false,
+        "color": "#A647B2"
+    },
+    {
+        "title": "Mat I (ć)",
+        "start": "2024-12-12T09:50:00",
+        "end": "2024-12-12T11:25:00",
+        "description": "Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/19\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#8E47B2"
+    },
+    {
+        "title": "Md2 (w)",
+        "start": "2025-03-06T13:30:00",
+        "end": "2025-03-06T15:05:00",
+        "description": "Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: dr hab. inż. Andrzej Chojnacki",
+        "allDay": false,
+        "color": "#B28E47"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2025-01-08T16:00:00",
+        "end": "2025-01-08T17:35:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#B27747"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2025-03-19T16:00:00",
+        "end": "2025-03-19T17:35:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#475FB2"
+    },
+    {
+        "title": "M II (ć)",
+        "start": "2025-01-16T11:40:00",
+        "end": "2025-01-16T13:15:00",
+        "description": "Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/17\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#47B25F"
+    },
+    {
+        "title": "Mat I (w)",
+        "start": "2024-10-31T08:00:00",
+        "end": "2024-10-31T09:35:00",
+        "description": "Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 7/15\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#8E47B2"
+    },
+    {
+        "title": "Wzp (w)",
+        "start": "2024-11-19T16:00:00",
+        "end": "2024-11-19T17:35:00",
+        "description": "Wybrane zagadnienia prawa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2024-10-30T17:50:00",
+        "end": "2024-10-30T19:25:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#475FB2"
+    },
+    {
+        "title": "Tpi (ć)",
+        "start": "2025-05-21T17:50:00",
+        "end": "2025-05-21T19:25:00",
+        "description": "Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/6\nProwadzący: mgr inż. Piotr Jakubowski",
+        "allDay": false,
+        "color": "#5FB247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-10T13:30:00",
+        "end": "2025-04-10T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 3/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B276"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2025-04-02T16:00:00",
+        "end": "2025-04-02T17:35:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 19/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#475FB2"
+    },
+    {
+        "title": "Tpi (ć)",
+        "start": "2025-03-26T17:50:00",
+        "end": "2025-03-26T19:25:00",
+        "description": "Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/6\nProwadzący: mgr inż. Piotr Jakubowski",
+        "allDay": false,
+        "color": "#5FB247"
+    },
+    {
+        "title": "PTk (w)",
+        "start": "2025-03-07T11:40:00",
+        "end": "2025-03-07T13:15:00",
+        "description": "Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 1/14\nProwadzący: dr inż. Krzysztof Murawski",
+        "allDay": false,
+        "color": "#B2A647"
+    },
+    {
+        "title": "WDM (w)",
+        "start": "2024-10-07T08:00:00",
+        "end": "2024-10-07T09:35:00",
+        "description": "Wprowadzenie do metrologii - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B28E"
+    },
+    {
+        "title": "Amt (w)",
+        "start": "2025-04-24T08:00:00",
+        "end": "2025-04-24T09:35:00",
+        "description": "Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: dr Mariusz Jurkiewicz",
+        "allDay": false,
+        "color": "#8EB247"
+    },
+    {
+        "title": "Md2 (w)",
+        "start": "2025-03-24T11:40:00",
+        "end": "2025-03-24T13:15:00",
+        "description": "Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr hab. inż. Andrzej Chojnacki",
+        "allDay": false,
+        "color": "#B28E47"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2025-01-22T17:50:00",
+        "end": "2025-01-22T19:25:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#475FB2"
+    },
+    {
+        "title": "F1 (w)",
+        "start": "2025-03-26T13:30:00",
+        "end": "2025-03-26T15:05:00",
+        "description": "Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/20\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "HP (w)",
+        "start": "2025-03-11T16:00:00",
+        "end": "2025-03-11T17:35:00",
+        "description": "Historia Polski - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "F1 (ć)",
+        "start": "2025-04-09T11:40:00",
+        "end": "2025-04-09T13:15:00",
+        "description": "Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "Amt (ć)",
+        "start": "2025-03-17T08:00:00",
+        "end": "2025-03-17T09:35:00",
+        "description": "Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/12\nProwadzący: mgr inż. Stanisław Zoń",
+        "allDay": false,
+        "color": "#8EB247"
+    },
+    {
+        "title": "F1 (L)",
+        "start": "2025-04-16T11:40:00",
+        "end": "2025-04-16T13:15:00",
+        "description": "Fizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2025-04-23T16:00:00",
+        "end": "2025-04-23T17:35:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 22/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#475FB2"
+    },
+    {
+        "title": "WdI (Inne)",
+        "start": "2025-02-19T13:30:00",
+        "end": "2025-02-19T15:05:00",
+        "description": "Wprowadzenie do informatyki\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr inż. Dariusz Pierzchała",
+        "allDay": false,
+        "color": "#B247A6"
+    },
+    {
+        "title": "Md2 (w)",
+        "start": "2025-04-28T13:30:00",
+        "end": "2025-04-28T15:05:00",
+        "description": "Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: dr hab. inż. Andrzej Chojnacki",
+        "allDay": false,
+        "color": "#B28E47"
+    },
+    {
+        "title": "PGI (ć)",
+        "start": "2024-12-16T11:40:00",
+        "end": "2024-12-16T13:15:00",
+        "description": "Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/9\nProwadzący: -",
+        "allDay": false,
+        "color": "#5F47B2"
+    },
+    {
+        "title": "PGI (w)",
+        "start": "2024-10-25T16:00:00",
+        "end": "2024-10-25T17:35:00",
+        "description": "Podstawy grafiki inżynierskiej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#5F47B2"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2024-10-23T17:50:00",
+        "end": "2024-10-23T19:25:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#475FB2"
+    },
+    {
+        "title": "WF (ć)",
+        "start": "2025-03-17T09:50:00",
+        "end": "2025-03-17T11:25:00",
+        "description": "Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#77B247"
+    },
+    {
+        "title": "ppk (w)",
+        "start": "2025-03-24T17:50:00",
+        "end": "2025-03-24T19:25:00",
+        "description": "Podstawy podzespołów komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Jan Chudzikiewicz",
+        "allDay": false,
+        "color": "#A647B2"
+    },
+    {
+        "title": "WF (ć)",
+        "start": "2025-04-07T09:50:00",
+        "end": "2025-04-07T11:25:00",
+        "description": "Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 20/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#77B247"
+    },
+    {
+        "title": "Mat I (w)",
+        "start": "2024-12-05T08:00:00",
+        "end": "2024-12-05T09:35:00",
+        "description": "Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 14/15\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#8E47B2"
+    },
+    {
+        "title": "Tgs (w)",
+        "start": "2025-03-28T08:00:00",
+        "end": "2025-03-28T09:35:00",
+        "description": "Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr hab. inż. Zbigniew Tarapata",
+        "allDay": false,
+        "color": "#B2475F"
+    },
+    {
+        "title": "M II (w)",
+        "start": "2024-12-18T08:00:00",
+        "end": "2024-12-18T09:35:00",
+        "description": "Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 13/17\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#47B25F"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2025-06-18T16:00:00",
+        "end": "2025-06-18T17:35:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 30/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#475FB2"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2024-10-16T16:00:00",
+        "end": "2024-10-16T17:35:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#B27747"
+    },
+    {
+        "title": "F1 (w)",
+        "start": "2025-04-09T13:30:00",
+        "end": "2025-04-09T15:05:00",
+        "description": "Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 10/20\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2025-04-24T16:00:00",
+        "end": "2025-04-24T17:35:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 24/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#B27747"
+    },
+    {
+        "title": "WdP (L)",
+        "start": "2025-06-03T08:00:00",
+        "end": "2025-06-03T09:35:00",
+        "description": "Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: mgr inż. Sławomir Wysocki",
+        "allDay": false,
+        "color": "#4776B2"
+    },
+    {
+        "title": "WF (ć)",
+        "start": "2025-03-24T09:50:00",
+        "end": "2025-03-24T11:25:00",
+        "description": "Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 18/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#77B247"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2024-10-23T16:00:00",
+        "end": "2024-10-23T17:35:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#B27747"
+    },
+    {
+        "title": "HP (w)",
+        "start": "2025-03-26T08:00:00",
+        "end": "2025-03-26T09:35:00",
+        "description": "Historia Polski - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "M II (w)",
+        "start": "2024-10-24T09:50:00",
+        "end": "2024-10-24T11:25:00",
+        "description": "Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 3/17\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#47B25F"
+    },
+    {
+        "title": "Tpi (ć)",
+        "start": "2025-04-23T17:50:00",
+        "end": "2025-04-23T19:25:00",
+        "description": "Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/6\nProwadzący: mgr inż. Piotr Jakubowski",
+        "allDay": false,
+        "color": "#5FB247"
+    },
+    {
+        "title": "WF (ć)",
+        "start": "2025-05-12T09:50:00",
+        "end": "2025-05-12T11:25:00",
+        "description": "Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 24/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#77B247"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2025-04-17T16:00:00",
+        "end": "2025-04-17T17:35:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 23/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#B27747"
+    },
+    {
+        "title": "Tgs (ć)",
+        "start": "2025-04-15T17:50:00",
+        "end": "2025-04-15T19:25:00",
+        "description": "Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: mgr inż. Piotr Jakubowski",
+        "allDay": false,
+        "color": "#B2475F"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2024-12-11T16:00:00",
+        "end": "2024-12-11T17:35:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#B27747"
+    },
+    {
+        "title": "HP (w)",
+        "start": "2025-03-12T09:50:00",
+        "end": "2025-03-12T11:25:00",
+        "description": "Historia Polski - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "F1 (ć)",
+        "start": "2025-04-23T11:40:00",
+        "end": "2025-04-23T13:15:00",
+        "description": "Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "M II (w)",
+        "start": "2024-11-13T09:50:00",
+        "end": "2024-11-13T11:25:00",
+        "description": "Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 6/17\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#47B25F"
+    },
+    {
+        "title": "HP (ć)",
+        "start": "2025-03-12T11:40:00",
+        "end": "2025-03-12T13:15:00",
+        "description": "Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "MD1 (w)",
+        "start": "2024-11-08T11:40:00",
+        "end": "2024-11-08T13:15:00",
+        "description": "Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr hab. inż. Andrzej Chojnacki",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "WF (ć)",
+        "start": "2025-04-28T09:50:00",
+        "end": "2025-04-28T11:25:00",
+        "description": "Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 22/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#77B247"
+    },
+    {
+        "title": "HP (ć)",
+        "start": "2025-04-16T08:00:00",
+        "end": "2025-04-16T09:35:00",
+        "description": "Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "WF (ć)",
+        "start": "2025-03-31T09:50:00",
+        "end": "2025-03-31T11:25:00",
+        "description": "Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 19/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#77B247"
+    },
+    {
+        "title": "Tpi (ć)",
+        "start": "2025-06-04T17:50:00",
+        "end": "2025-06-04T19:25:00",
+        "description": "Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/6\nProwadzący: mgr inż. Piotr Jakubowski",
+        "allDay": false,
+        "color": "#5FB247"
+    },
+    {
+        "title": "M II (Inne)",
+        "start": "2025-02-21T08:00:00",
+        "end": "2025-02-21T09:35:00",
+        "description": "Matematyka II\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#47B25F"
+    },
+    {
+        "title": "Wzp (w)",
+        "start": "2024-10-22T16:00:00",
+        "end": "2024-10-22T17:35:00",
+        "description": "Wybrane zagadnienia prawa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "F1 (ć)",
+        "start": "2025-04-16T09:50:00",
+        "end": "2025-04-16T11:25:00",
+        "description": "Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "M II (ć)",
+        "start": "2024-11-06T08:00:00",
+        "end": "2024-11-06T09:35:00",
+        "description": "Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/17\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#47B25F"
+    },
+    {
+        "title": "Md2 (ć)",
+        "start": "2025-04-15T13:30:00",
+        "end": "2025-04-15T15:05:00",
+        "description": "Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący: dr hab. inż. Andrzej Chojnacki",
+        "allDay": false,
+        "color": "#B28E47"
+    },
+    {
+        "title": "WF (ć)",
+        "start": "2025-01-27T09:50:00",
+        "end": "2025-01-27T11:25:00",
+        "description": "Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#77B247"
+    },
+    {
+        "title": "WF (ć)",
+        "start": "2024-12-16T09:50:00",
+        "end": "2024-12-16T11:25:00",
+        "description": "Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#77B247"
+    },
+    {
+        "title": "WdP (w)",
+        "start": "2025-03-14T08:00:00",
+        "end": "2025-03-14T09:35:00",
+        "description": "Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Dariusz Pierzchała",
+        "allDay": false,
+        "color": "#4776B2"
+    },
+    {
+        "title": "Mat I (ć)",
+        "start": "2024-10-15T09:50:00",
+        "end": "2024-10-15T11:25:00",
+        "description": "Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/19\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#8E47B2"
+    },
+    {
+        "title": "Wzp (w)",
+        "start": "2024-11-26T16:00:00",
+        "end": "2024-11-26T17:35:00",
+        "description": "Wybrane zagadnienia prawa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "PTk (w)",
+        "start": "2025-05-26T11:40:00",
+        "end": "2025-05-26T13:15:00",
+        "description": "Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 14/14\nProwadzący: dr inż. Krzysztof Murawski",
+        "allDay": false,
+        "color": "#B2A647"
+    },
+    {
+        "title": "WF (ć)",
+        "start": "2024-10-28T09:50:00",
+        "end": "2024-10-28T11:25:00",
+        "description": "Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#77B247"
+    },
+    {
+        "title": "M II (w)",
+        "start": "2024-12-04T08:00:00",
+        "end": "2024-12-04T09:35:00",
+        "description": "Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 9/17\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#47B25F"
+    },
+    {
+        "title": "WF (ć)",
+        "start": "2024-11-25T09:50:00",
+        "end": "2024-11-25T11:25:00",
+        "description": "Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#77B247"
+    },
+    {
+        "title": "WDM (w)",
+        "start": "2024-11-06T11:40:00",
+        "end": "2024-11-06T13:15:00",
+        "description": "Wprowadzenie do metrologii - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B28E"
+    },
+    {
+        "title": "ppk (w)",
+        "start": "2025-03-06T09:50:00",
+        "end": "2025-03-06T11:25:00",
+        "description": "Podstawy podzespołów komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Jan Chudzikiewicz",
+        "allDay": false,
+        "color": "#A647B2"
+    },
+    {
+        "title": "MD1 (w)",
+        "start": "2024-10-18T11:40:00",
+        "end": "2024-10-18T13:15:00",
+        "description": "Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: dr hab. inż. Andrzej Chojnacki",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "WF (ć)",
+        "start": "2024-12-02T09:50:00",
+        "end": "2024-12-02T11:25:00",
+        "description": "Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#77B247"
+    },
+    {
+        "title": "Rp (w)",
+        "start": "2025-03-11T13:30:00",
+        "end": "2025-03-11T15:05:00",
+        "description": "Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 2/9\nProwadzący: dr Justyna Kurkowiak",
+        "allDay": false,
+        "color": "#B24777"
+    },
+    {
+        "title": "MD1 (w)",
+        "start": "2024-10-25T11:40:00",
+        "end": "2024-10-25T13:15:00",
+        "description": "Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: dr hab. inż. Andrzej Chojnacki",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Wzp (ć)",
+        "start": "2025-01-16T08:00:00",
+        "end": "2025-01-16T09:35:00",
+        "description": "Wybrane zagadnienia prawa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "F1 (Inne)",
+        "start": "2025-07-15T11:40:00",
+        "end": "2025-07-15T13:15:00",
+        "description": "Fizyka 1 - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 2/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "PTk (w)",
+        "start": "2025-05-08T11:40:00",
+        "end": "2025-05-08T13:15:00",
+        "description": "Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 11/14\nProwadzący: dr inż. Krzysztof Murawski",
+        "allDay": false,
+        "color": "#B2A647"
+    },
+    {
+        "title": "Rp (w)",
+        "start": "2025-06-18T08:00:00",
+        "end": "2025-06-18T09:35:00",
+        "description": "Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 9/9\nProwadzący: dr Justyna Kurkowiak",
+        "allDay": false,
+        "color": "#B24777"
+    },
+    {
+        "title": "ppk (L)",
+        "start": "2025-03-28T11:40:00",
+        "end": "2025-03-28T13:15:00",
+        "description": "Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Tomasz Żentara",
+        "allDay": false,
+        "color": "#A647B2"
+    },
+    {
+        "title": "Wzp (ć)",
+        "start": "2024-12-10T08:00:00",
+        "end": "2024-12-10T09:35:00",
+        "description": "Wybrane zagadnienia prawa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "WdI (Inne)",
+        "start": "2025-02-07T11:40:00",
+        "end": "2025-02-07T13:15:00",
+        "description": "Wprowadzenie do informatyki\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr inż. Paweł Pieczonka",
+        "allDay": false,
+        "color": "#B247A6"
+    },
+    {
+        "title": "Mat I (w)",
+        "start": "2024-10-24T08:00:00",
+        "end": "2024-10-24T09:35:00",
+        "description": "Matematyka I\nRodzaj zajęć: Wykład\nNr zajęć: 5/15\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#8E47B2"
+    },
+    {
+        "title": "Tgs (ć)",
+        "start": "2025-05-08T17:50:00",
+        "end": "2025-05-08T19:25:00",
+        "description": "Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: mgr inż. Piotr Jakubowski",
+        "allDay": false,
+        "color": "#B2475F"
+    },
+    {
+        "title": "Ez (w)",
+        "start": "2024-10-30T13:30:00",
+        "end": "2024-10-30T15:05:00",
+        "description": "Etyka zawodowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#47A6B2"
+    },
+    {
+        "title": "WdP (L)",
+        "start": "2025-04-29T08:00:00",
+        "end": "2025-04-29T09:35:00",
+        "description": "Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: mgr inż. Sławomir Wysocki",
+        "allDay": false,
+        "color": "#4776B2"
+    },
+    {
+        "title": "F1 (ć)",
+        "start": "2025-06-11T11:40:00",
+        "end": "2025-06-11T13:15:00",
+        "description": "Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "HP (ć)",
+        "start": "2025-03-26T09:50:00",
+        "end": "2025-03-26T11:25:00",
+        "description": "Historia Polski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2025-05-29T16:00:00",
+        "end": "2025-05-29T17:35:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 28/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#B27747"
+    },
+    {
+        "title": "PTk (ć)",
+        "start": "2025-05-05T11:40:00",
+        "end": "2025-05-05T13:15:00",
+        "description": "Podstawy techniki komputerów\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/4\nProwadzący:  Jozef Turczyn",
+        "allDay": false,
+        "color": "#B2A647"
+    },
+    {
+        "title": "WdP (L)",
+        "start": "2025-05-09T09:50:00",
+        "end": "2025-05-09T11:25:00",
+        "description": "Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: mgr inż. Sławomir Wysocki",
+        "allDay": false,
+        "color": "#4776B2"
+    },
+    {
+        "title": "WdI (w)",
+        "start": "2024-10-18T09:50:00",
+        "end": "2024-10-18T11:25:00",
+        "description": "Wprowadzenie do informatyki\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: dr inż. Dariusz Pierzchała",
+        "allDay": false,
+        "color": "#B247A6"
+    },
+    {
+        "title": "WdP (w)",
+        "start": "2025-04-04T08:00:00",
+        "end": "2025-04-04T09:35:00",
+        "description": "Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Dariusz Pierzchała",
+        "allDay": false,
+        "color": "#4776B2"
+    },
+    {
+        "title": "Mat I (ć)",
+        "start": "2024-12-13T11:40:00",
+        "end": "2024-12-13T13:15:00",
+        "description": "Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/19\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#8E47B2"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2025-01-22T16:00:00",
+        "end": "2025-01-22T17:35:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#B27747"
+    },
+    {
+        "title": "Rp (L)",
+        "start": "2025-05-22T13:30:00",
+        "end": "2025-05-22T15:05:00",
+        "description": "Rachunek prawdopodobieństwa\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: dr Justyna Kurkowiak",
+        "allDay": false,
+        "color": "#B24777"
+    },
+    {
+        "title": "F1 (w)",
+        "start": "2025-03-04T08:00:00",
+        "end": "2025-03-04T09:35:00",
+        "description": "Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/20\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "PGI (ć)",
+        "start": "2025-01-20T08:00:00",
+        "end": "2025-01-20T09:35:00",
+        "description": "Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/9\nProwadzący: -",
+        "allDay": false,
+        "color": "#5F47B2"
+    },
+    {
+        "title": "Mat I (ć)",
+        "start": "2025-01-24T08:00:00",
+        "end": "2025-01-24T09:35:00",
+        "description": "Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 18/19\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#8E47B2"
+    },
+    {
+        "title": "Amt (ć)",
+        "start": "2025-05-13T09:50:00",
+        "end": "2025-05-13T11:25:00",
+        "description": "Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/12\nProwadzący: mgr inż. Stanisław Zoń",
+        "allDay": false,
+        "color": "#8EB247"
+    },
+    {
+        "title": "PTk (w)",
+        "start": "2025-04-04T11:40:00",
+        "end": "2025-04-04T13:15:00",
+        "description": "Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 6/14\nProwadzący: dr inż. Krzysztof Murawski",
+        "allDay": false,
+        "color": "#B2A647"
+    },
+    {
+        "title": "PGI (ć)",
+        "start": "2025-01-08T11:40:00",
+        "end": "2025-01-08T13:15:00",
+        "description": "Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/9\nProwadzący: -",
+        "allDay": false,
+        "color": "#5F47B2"
+    },
+    {
+        "title": "Mat I (ć)",
+        "start": "2025-01-30T09:50:00",
+        "end": "2025-01-30T11:25:00",
+        "description": "Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 19/19\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#8E47B2"
+    },
+    {
+        "title": "PGI (ć)",
+        "start": "2024-12-13T16:00:00",
+        "end": "2024-12-13T17:35:00",
+        "description": "Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/9\nProwadzący: -",
+        "allDay": false,
+        "color": "#5F47B2"
+    },
+    {
+        "title": "MD1 (Inne)",
+        "start": "2025-01-22T09:50:00",
+        "end": "2025-01-22T11:25:00",
+        "description": "Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 4/4\nProwadzący: dr hab. inż. Andrzej Chojnacki",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Amt (w)",
+        "start": "2025-04-03T08:00:00",
+        "end": "2025-04-03T09:35:00",
+        "description": "Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący: dr Mariusz Jurkiewicz",
+        "allDay": false,
+        "color": "#8EB247"
+    },
+    {
+        "title": "Ez (ć)",
+        "start": "2024-12-09T08:00:00",
+        "end": "2024-12-09T09:35:00",
+        "description": "Etyka zawodowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący: -",
+        "allDay": false,
+        "color": "#47A6B2"
+    },
+    {
+        "title": "M II (w)",
+        "start": "2024-12-04T09:50:00",
+        "end": "2024-12-04T11:25:00",
+        "description": "Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 10/17\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#47B25F"
+    },
+    {
+        "title": "Sws (Inne)",
+        "start": "2024-10-29T13:30:00",
+        "end": "2024-10-29T15:05:00",
+        "description": "Spotkanie organizacyjne - (Spotkanie organizacyjne) -\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#478EB2"
+    },
+    {
+        "title": "WF (ć)",
+        "start": "2024-11-18T09:50:00",
+        "end": "2024-11-18T11:25:00",
+        "description": "Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#77B247"
+    },
+    {
+        "title": "WdI (L)",
+        "start": "2024-11-18T08:00:00",
+        "end": "2024-11-18T09:35:00",
+        "description": "Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/11\nProwadzący: mgr inż. Paweł Pieczonka",
+        "allDay": false,
+        "color": "#B247A6"
+    },
+    {
+        "title": "ppk (L)",
+        "start": "2025-04-23T09:50:00",
+        "end": "2025-04-23T11:25:00",
+        "description": "Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Tomasz Żentara",
+        "allDay": false,
+        "color": "#A647B2"
+    },
+    {
+        "title": "F1 (w)",
+        "start": "2025-06-04T13:30:00",
+        "end": "2025-06-04T15:05:00",
+        "description": "Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 18/20\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "F1 (w)",
+        "start": "2025-03-11T08:00:00",
+        "end": "2025-03-11T09:35:00",
+        "description": "Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/20\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "Rp (ć)",
+        "start": "2025-05-29T13:30:00",
+        "end": "2025-05-29T15:05:00",
+        "description": "Rachunek prawdopodobieństwa\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący: dr Justyna Kurkowiak",
+        "allDay": false,
+        "color": "#B24777"
+    },
+    {
+        "title": "PGI (w)",
+        "start": "2024-11-08T16:00:00",
+        "end": "2024-11-08T17:35:00",
+        "description": "Podstawy grafiki inżynierskiej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#5F47B2"
+    },
+    {
+        "title": "Tgs (w)",
+        "start": "2025-03-07T08:00:00",
+        "end": "2025-03-07T09:35:00",
+        "description": "Teoria grafów i sieci\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: dr hab. inż. Zbigniew Tarapata",
+        "allDay": false,
+        "color": "#B2475F"
+    },
+    {
+        "title": "Rp (w)",
+        "start": "2025-03-19T08:00:00",
+        "end": "2025-03-19T09:35:00",
+        "description": "Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 3/9\nProwadzący: dr Justyna Kurkowiak",
+        "allDay": false,
+        "color": "#B24777"
+    },
+    {
+        "title": "Md2 (w)",
+        "start": "2025-04-14T11:40:00",
+        "end": "2025-04-14T13:15:00",
+        "description": "Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: dr hab. inż. Andrzej Chojnacki",
+        "allDay": false,
+        "color": "#B28E47"
+    },
+    {
+        "title": "F1 (ć)",
+        "start": "2025-03-26T11:40:00",
+        "end": "2025-03-26T13:15:00",
+        "description": "Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "HP (w)",
+        "start": "2025-03-18T16:00:00",
+        "end": "2025-03-18T17:35:00",
+        "description": "Historia Polski - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "M II (ć)",
+        "start": "2024-11-19T09:50:00",
+        "end": "2024-11-19T11:25:00",
+        "description": "Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/17\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#47B25F"
+    },
+    {
+        "title": "Md2 (ć)",
+        "start": "2025-05-06T13:30:00",
+        "end": "2025-05-06T15:05:00",
+        "description": "Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: dr hab. inż. Andrzej Chojnacki",
+        "allDay": false,
+        "color": "#B28E47"
+    },
+    {
+        "title": "M II (ć)",
+        "start": "2024-12-19T11:40:00",
+        "end": "2024-12-19T13:15:00",
+        "description": "Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/17\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#47B25F"
+    },
+    {
+        "title": "WF (ć)",
+        "start": "2025-01-20T09:50:00",
+        "end": "2025-01-20T11:25:00",
+        "description": "Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#77B247"
+    },
+    {
+        "title": "WdS (w)",
+        "start": "2024-11-07T11:40:00",
+        "end": "2024-11-07T13:15:00",
+        "description": "Wprowadzenie do studiowania\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący: dr Ewa Łakoma",
+        "allDay": false,
+        "color": "#B25F47"
+    },
+    {
+        "title": "PTk (L)",
+        "start": "2025-06-05T19:40:00",
+        "end": "2025-06-05T21:15:00",
+        "description": "Podstawy techniki komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr inż. Marcin Goluch",
+        "allDay": false,
+        "color": "#B2A647"
+    },
+    {
+        "title": "Amt (w)",
+        "start": "2025-03-06T08:00:00",
+        "end": "2025-03-06T09:35:00",
+        "description": "Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący: dr Mariusz Jurkiewicz",
+        "allDay": false,
+        "color": "#8EB247"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2025-01-15T17:50:00",
+        "end": "2025-01-15T19:25:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#475FB2"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2025-03-26T16:00:00",
+        "end": "2025-03-26T17:35:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 18/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#475FB2"
+    },
+    {
+        "title": "Tpi (ć)",
+        "start": "2025-04-09T17:50:00",
+        "end": "2025-04-09T19:25:00",
+        "description": "Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/6\nProwadzący: mgr inż. Piotr Jakubowski",
+        "allDay": false,
+        "color": "#5FB247"
+    },
+    {
+        "title": "Tgs (ć)",
+        "start": "2025-04-10T17:50:00",
+        "end": "2025-04-10T19:25:00",
+        "description": "Teoria grafów i sieci\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: mgr inż. Piotr Jakubowski",
+        "allDay": false,
+        "color": "#B2475F"
+    },
+    {
+        "title": "PTk (w)",
+        "start": "2025-05-08T09:50:00",
+        "end": "2025-05-08T11:25:00",
+        "description": "Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 10/14\nProwadzący: dr inż. Krzysztof Murawski",
+        "allDay": false,
+        "color": "#B2A647"
+    },
+    {
+        "title": "Amt (w)",
+        "start": "2025-04-10T08:00:00",
+        "end": "2025-04-10T09:35:00",
+        "description": "Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący: dr Mariusz Jurkiewicz",
+        "allDay": false,
+        "color": "#8EB247"
+    },
+    {
+        "title": "ppk (L)",
+        "start": "2025-05-06T08:00:00",
+        "end": "2025-05-06T09:35:00",
+        "description": "Podstawy podzespołów komputerów\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Tomasz Żentara",
+        "allDay": false,
+        "color": "#A647B2"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2024-10-16T17:50:00",
+        "end": "2024-10-16T19:25:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#475FB2"
+    },
+    {
+        "title": "Wzp (w)",
+        "start": "2024-10-15T16:00:00",
+        "end": "2024-10-15T17:35:00",
+        "description": "Wybrane zagadnienia prawa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "Ez (ć)",
+        "start": "2024-11-25T08:00:00",
+        "end": "2024-11-25T09:35:00",
+        "description": "Etyka zawodowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący: -",
+        "allDay": false,
+        "color": "#47A6B2"
+    },
+    {
+        "title": "F1 (ć)",
+        "start": "2025-06-04T11:40:00",
+        "end": "2025-06-04T13:15:00",
+        "description": "Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "Ez (w)",
+        "start": "2024-10-16T13:30:00",
+        "end": "2024-10-16T15:05:00",
+        "description": "Etyka zawodowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#47A6B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-12T13:30:00",
+        "end": "2024-11-12T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B276"
+    },
+    {
+        "title": "HP (w)",
+        "start": "2025-04-01T16:00:00",
+        "end": "2025-04-01T17:35:00",
+        "description": "Historia Polski - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "Mat I (Inne)",
+        "start": "2025-02-19T08:00:00",
+        "end": "2025-02-19T09:35:00",
+        "description": "Matematyka I\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#8E47B2"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2024-10-09T16:00:00",
+        "end": "2024-10-09T17:35:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#B27747"
+    },
+    {
+        "title": "WF (ć)",
+        "start": "2024-10-21T09:50:00",
+        "end": "2024-10-21T11:25:00",
+        "description": "Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#77B247"
+    },
+    {
+        "title": "F1 (Inne)",
+        "start": "2025-09-16T13:30:00",
+        "end": "2025-09-16T15:05:00",
+        "description": "Fizyka 1 - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 6/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "Md2 (w)",
+        "start": "2025-03-03T11:40:00",
+        "end": "2025-03-03T13:15:00",
+        "description": "Matematyka dyskretna II\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: dr hab. inż. Andrzej Chojnacki",
+        "allDay": false,
+        "color": "#B28E47"
+    },
+    {
+        "title": "Mat I (ć)",
+        "start": "2025-01-22T11:40:00",
+        "end": "2025-01-22T13:15:00",
+        "description": "Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16/19\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#8E47B2"
+    },
+    {
+        "title": "WF (ć)",
+        "start": "2025-04-14T09:50:00",
+        "end": "2025-04-14T11:25:00",
+        "description": "Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 21/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#77B247"
+    },
+    {
+        "title": "F1 (E)",
+        "start": "2025-07-01T11:40:00",
+        "end": "2025-07-01T13:15:00",
+        "description": "Fizyka 1 - (Egzamin) -\nRodzaj zajęć:  - \nNr zajęć: 2/3\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "MD1 (Inne)",
+        "start": "2025-01-17T09:50:00",
+        "end": "2025-01-17T11:25:00",
+        "description": "Matematyka dyskretna I\nRodzaj zajęć:  - \nNr zajęć: 1/4\nProwadzący: dr hab. inż. Andrzej Chojnacki",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "F1 (E)",
+        "start": "2025-07-01T09:50:00",
+        "end": "2025-07-01T11:25:00",
+        "description": "Fizyka 1 - (Egzamin) -\nRodzaj zajęć:  - \nNr zajęć: 1/3\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "Mat I (ć)",
+        "start": "2024-11-26T13:30:00",
+        "end": "2024-11-26T15:05:00",
+        "description": "Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/19\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#8E47B2"
+    },
+    {
+        "title": "ppk (w)",
+        "start": "2025-04-17T09:50:00",
+        "end": "2025-04-17T11:25:00",
+        "description": "Podstawy podzespołów komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Jan Chudzikiewicz",
+        "allDay": false,
+        "color": "#A647B2"
+    },
+    {
+        "title": "F1 (ć)",
+        "start": "2025-06-18T11:40:00",
+        "end": "2025-06-18T13:15:00",
+        "description": "Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "Amt (ć)",
+        "start": "2025-03-25T13:30:00",
+        "end": "2025-03-25T15:05:00",
+        "description": "Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/12\nProwadzący: mgr inż. Stanisław Zoń",
+        "allDay": false,
+        "color": "#8EB247"
+    },
+    {
+        "title": "WdP (w)",
+        "start": "2025-03-14T09:50:00",
+        "end": "2025-03-14T11:25:00",
+        "description": "Wprowadzenie do programowania\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr inż. Dariusz Pierzchała",
+        "allDay": false,
+        "color": "#4776B2"
+    },
+    {
+        "title": "F1 (ć)",
+        "start": "2025-03-25T11:40:00",
+        "end": "2025-03-25T13:15:00",
+        "description": "Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "WF (ć)",
+        "start": "2024-11-27T09:50:00",
+        "end": "2024-11-27T11:25:00",
+        "description": "Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#77B247"
+    },
+    {
+        "title": "WDM (ć)",
+        "start": "2025-01-23T08:00:00",
+        "end": "2025-01-23T09:35:00",
+        "description": "Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B28E"
+    },
+    {
+        "title": "WdP (L)",
+        "start": "2025-03-27T09:50:00",
+        "end": "2025-03-27T11:25:00",
+        "description": "Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: mgr inż. Sławomir Wysocki",
+        "allDay": false,
+        "color": "#4776B2"
+    },
+    {
+        "title": "M II (Inne)",
+        "start": "2025-04-07T17:50:00",
+        "end": "2025-04-07T19:25:00",
+        "description": "Matematyka II\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#47B25F"
+    },
+    {
+        "title": "Rp (w)",
+        "start": "2025-04-03T09:50:00",
+        "end": "2025-04-03T11:25:00",
+        "description": "Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 5/9\nProwadzący: dr Justyna Kurkowiak",
+        "allDay": false,
+        "color": "#B24777"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2024-11-13T16:00:00",
+        "end": "2024-11-13T17:35:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#B27747"
+    },
+    {
+        "title": "F1 (L)",
+        "start": "2025-04-02T11:40:00",
+        "end": "2025-04-02T13:15:00",
+        "description": "Fizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2025-03-27T16:00:00",
+        "end": "2025-03-27T17:35:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 19/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#B27747"
+    },
+    {
+        "title": "PGI (w)",
+        "start": "2024-11-15T16:00:00",
+        "end": "2024-11-15T17:35:00",
+        "description": "Podstawy grafiki inżynierskiej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#5F47B2"
+    },
+    {
+        "title": "WdI (L)",
+        "start": "2024-10-28T13:30:00",
+        "end": "2024-10-28T15:05:00",
+        "description": "Wprowadzenie do informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/11\nProwadzący: mgr inż. Paweł Pieczonka",
+        "allDay": false,
+        "color": "#B247A6"
+    },
+    {
+        "title": "PGI (ć)",
+        "start": "2024-12-02T08:00:00",
+        "end": "2024-12-02T09:35:00",
+        "description": "Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/9\nProwadzący: -",
+        "allDay": false,
+        "color": "#5F47B2"
+    },
+    {
+        "title": "M II (ć)",
+        "start": "2024-12-05T09:50:00",
+        "end": "2024-12-05T11:25:00",
+        "description": "Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/17\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#47B25F"
+    },
+    {
+        "title": "Rp (w)",
+        "start": "2025-04-17T11:40:00",
+        "end": "2025-04-17T13:15:00",
+        "description": "Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 7/9\nProwadzący: dr Justyna Kurkowiak",
+        "allDay": false,
+        "color": "#B24777"
+    },
+    {
+        "title": "MD1 (w)",
+        "start": "2024-12-02T13:30:00",
+        "end": "2024-12-02T15:05:00",
+        "description": "Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: dr hab. inż. Andrzej Chojnacki",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Ing (Inne)",
+        "start": "2024-10-04T11:40:00",
+        "end": "2024-10-04T13:15:00",
+        "description": "Inauguracja\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr hab. inż. Zbigniew Tarapata",
+        "allDay": false,
+        "color": "#47B2A6"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2024-12-11T17:50:00",
+        "end": "2024-12-11T19:25:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#475FB2"
+    },
+    {
+        "title": "M II (w)",
+        "start": "2024-10-17T09:50:00",
+        "end": "2024-10-17T11:25:00",
+        "description": "Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 2/17\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#47B25F"
+    },
+    {
+        "title": "Tpi (L)",
+        "start": "2025-05-21T19:40:00",
+        "end": "2025-05-21T21:15:00",
+        "description": "Teoretyczne podstawy informatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/2\nProwadzący: mgr inż. Piotr Jakubowski",
+        "allDay": false,
+        "color": "#5FB247"
+    },
+    {
+        "title": "WF (ć)",
+        "start": "2025-06-09T09:50:00",
+        "end": "2025-06-09T11:25:00",
+        "description": "Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 29/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#77B247"
+    },
+    {
+        "title": "F1 (ć)",
+        "start": "2025-03-18T11:40:00",
+        "end": "2025-03-18T13:15:00",
+        "description": "Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "Amt (w)",
+        "start": "2025-03-13T08:00:00",
+        "end": "2025-03-13T09:35:00",
+        "description": "Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący: dr Mariusz Jurkiewicz",
+        "allDay": false,
+        "color": "#8EB247"
+    },
+    {
+        "title": "Amt (ć)",
+        "start": "2025-04-08T13:30:00",
+        "end": "2025-04-08T15:05:00",
+        "description": "Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/12\nProwadzący: mgr inż. Stanisław Zoń",
+        "allDay": false,
+        "color": "#8EB247"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2025-06-05T16:00:00",
+        "end": "2025-06-05T17:35:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 29/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#B27747"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2025-05-08T16:00:00",
+        "end": "2025-05-08T17:35:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 25/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#B27747"
+    },
+    {
+        "title": "PTk (w)",
+        "start": "2025-05-12T11:40:00",
+        "end": "2025-05-12T13:15:00",
+        "description": "Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 12/14\nProwadzący: dr inż. Krzysztof Murawski",
+        "allDay": false,
+        "color": "#B2A647"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2024-11-20T16:00:00",
+        "end": "2024-11-20T17:35:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#B27747"
+    },
+    {
+        "title": "Mat I (ć)",
+        "start": "2024-11-21T09:50:00",
+        "end": "2024-11-21T11:25:00",
+        "description": "Matematyka I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/19\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#8E47B2"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2025-03-12T16:00:00",
+        "end": "2025-03-12T17:35:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#475FB2"
+    },
+    {
+        "title": "Owi (w)",
+        "start": "2024-10-14T13:30:00",
+        "end": "2024-10-14T15:05:00",
+        "description": "Ochrona własności intelektualnych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#7747B2"
+    },
+    {
+        "title": "Md2 (ć)",
+        "start": "2025-05-15T11:40:00",
+        "end": "2025-05-15T13:15:00",
+        "description": "Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: dr hab. inż. Andrzej Chojnacki",
+        "allDay": false,
+        "color": "#B28E47"
+    },
+    {
+        "title": "MD1 (ć)",
+        "start": "2024-12-17T11:40:00",
+        "end": "2024-12-17T13:15:00",
+        "description": "Matematyka dyskretna I\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: dr hab. inż. Andrzej Chojnacki",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "WdP (L)",
+        "start": "2025-06-10T08:00:00",
+        "end": "2025-06-10T09:35:00",
+        "description": "Wprowadzenie do programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: mgr inż. Sławomir Wysocki",
+        "allDay": false,
+        "color": "#4776B2"
+    },
+    {
+        "title": "HP (w)",
+        "start": "2025-04-15T16:00:00",
+        "end": "2025-04-15T17:35:00",
+        "description": "Historia Polski - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "Tpi (ć)",
+        "start": "2025-05-07T17:50:00",
+        "end": "2025-05-07T19:25:00",
+        "description": "Teoretyczne podstawy informatyki\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/6\nProwadzący: mgr inż. Piotr Jakubowski",
+        "allDay": false,
+        "color": "#5FB247"
+    },
+    {
+        "title": "M II (ć)",
+        "start": "2025-01-13T13:30:00",
+        "end": "2025-01-13T15:05:00",
+        "description": "Matematyka II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/17\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#47B25F"
+    },
+    {
+        "title": "Rp (w)",
+        "start": "2025-04-08T08:00:00",
+        "end": "2025-04-08T09:35:00",
+        "description": "Rachunek prawdopodobieństwa\nRodzaj zajęć: Wykład\nNr zajęć: 6/9\nProwadzący: dr Justyna Kurkowiak",
+        "allDay": false,
+        "color": "#B24777"
+    },
+    {
+        "title": "Amt (ć)",
+        "start": "2025-05-21T09:50:00",
+        "end": "2025-05-21T11:25:00",
+        "description": "Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/12\nProwadzący: mgr inż. Stanisław Zoń",
+        "allDay": false,
+        "color": "#8EB247"
+    },
+    {
+        "title": "Amt (ć)",
+        "start": "2025-04-01T11:40:00",
+        "end": "2025-04-01T13:15:00",
+        "description": "Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/12\nProwadzący: mgr inż. Stanisław Zoń",
+        "allDay": false,
+        "color": "#8EB247"
+    },
+    {
+        "title": "F1 (w)",
+        "start": "2025-03-19T13:30:00",
+        "end": "2025-03-19T15:05:00",
+        "description": "Fizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/20\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "Md2 (ć)",
+        "start": "2025-04-01T13:30:00",
+        "end": "2025-04-01T15:05:00",
+        "description": "Matematyka dyskretna II\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący: dr hab. inż. Andrzej Chojnacki",
+        "allDay": false,
+        "color": "#B28E47"
+    },
+    {
+        "title": "WF (ć)",
+        "start": "2025-01-13T09:50:00",
+        "end": "2025-01-13T11:25:00",
+        "description": "Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#77B247"
+    },
+    {
+        "title": "Amt (w)",
+        "start": "2025-05-15T08:00:00",
+        "end": "2025-05-15T09:35:00",
+        "description": "Analiza matematyczna\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: dr Mariusz Jurkiewicz",
+        "allDay": false,
+        "color": "#8EB247"
+    },
+    {
+        "title": "Amt (ć)",
+        "start": "2025-06-11T09:50:00",
+        "end": "2025-06-11T11:25:00",
+        "description": "Analiza matematyczna\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/12\nProwadzący: mgr inż. Stanisław Zoń",
+        "allDay": false,
+        "color": "#8EB247"
+    },
+    {
+        "title": "PTk (w)",
+        "start": "2025-03-13T11:40:00",
+        "end": "2025-03-13T13:15:00",
+        "description": "Podstawy techniki komputerów\nRodzaj zajęć: Wykład\nNr zajęć: 3/14\nProwadzący: dr inż. Krzysztof Murawski",
+        "allDay": false,
+        "color": "#B2A647"
+    },
+    {
+        "title": "PGI (ć)",
+        "start": "2024-11-27T08:00:00",
+        "end": "2024-11-27T09:35:00",
+        "description": "Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/9\nProwadzący: -",
+        "allDay": false,
+        "color": "#5F47B2"
+    },
+    {
+        "title": "WF (ć)",
+        "start": "2024-10-07T09:50:00",
+        "end": "2024-10-07T11:25:00",
+        "description": "Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/30\nProwadzący: -",
+        "allDay": false,
+        "color": "#77B247"
+    },
+    {
+        "title": "WDM (w)",
+        "start": "2024-11-20T11:40:00",
+        "end": "2024-11-20T13:15:00",
+        "description": "Wprowadzenie do metrologii - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B28E"
+    },
+    {
+        "title": "M II (w)",
+        "start": "2025-01-08T08:00:00",
+        "end": "2025-01-08T09:35:00",
+        "description": "Matematyka II\nRodzaj zajęć: Wykład\nNr zajęć: 14/17\nProwadzący: dr Arkadiusz Szymaniec",
+        "allDay": false,
+        "color": "#47B25F"
+    },
+    {
+        "title": "F1 (ć)",
+        "start": "2025-04-08T11:40:00",
+        "end": "2025-04-08T13:15:00",
+        "description": "Fizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "Ez (w)",
+        "start": "2024-11-27T13:30:00",
+        "end": "2024-11-27T15:05:00",
+        "description": "Etyka zawodowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#47A6B2"
+    },
+    {
+        "title": "MD1 (w)",
+        "start": "2024-11-22T11:40:00",
+        "end": "2024-11-22T13:15:00",
+        "description": "Matematyka dyskretna I\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: dr hab. inż. Andrzej Chojnacki",
+        "allDay": false,
+        "color": "#B24747"
+    }
+]

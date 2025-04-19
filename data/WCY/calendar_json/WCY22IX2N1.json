@@ -1,0 +1,1554 @@
+[
+    {
+        "title": "XFiz1 (ć)",
+        "start": "2024-05-20T16:00:00",
+        "end": "2024-05-20T17:35:00",
+        "description": "XFizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Pw (w)",
+        "start": "2024-04-07T11:40:00",
+        "end": "2024-04-07T13:15:00",
+        "description": "Programowanie wspolbieżne\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr inż. Jarosław Rulka",
+        "allDay": false,
+        "color": "#9347B2"
+    },
+    {
+        "title": "Wpp (Inne)",
+        "start": "2024-09-20T17:50:00",
+        "end": "2024-09-20T19:25:00",
+        "description": "Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący:  Jozef Turczyn",
+        "allDay": false,
+        "color": "#4784B2"
+    },
+    {
+        "title": "XFiz1 (w)",
+        "start": "2024-04-29T17:50:00",
+        "end": "2024-04-29T19:25:00",
+        "description": "XFizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 10/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Tik (w)",
+        "start": "2024-03-09T11:40:00",
+        "end": "2024-03-09T13:15:00",
+        "description": "Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Leszek Grad",
+        "allDay": false,
+        "color": "#B2A347"
+    },
+    {
+        "title": "Tik (L)",
+        "start": "2024-05-18T11:40:00",
+        "end": "2024-05-18T13:15:00",
+        "description": "Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący: dr inż. Leszek Grad",
+        "allDay": false,
+        "color": "#B2A347"
+    },
+    {
+        "title": "Ikc (w)",
+        "start": "2024-03-17T11:40:00",
+        "end": "2024-03-17T13:15:00",
+        "description": "Interfejsy komputerów cyfrowych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Jozef Turczyn",
+        "allDay": false,
+        "color": "#93B247"
+    },
+    {
+        "title": "Wkr (w)",
+        "start": "2024-03-10T16:00:00",
+        "end": "2024-03-10T17:35:00",
+        "description": "Wstęp do kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: dr inż. Piotr Bora",
+        "allDay": false,
+        "color": "#47B284"
+    },
+    {
+        "title": "Pnak (Inne)",
+        "start": "2024-09-22T09:50:00",
+        "end": "2024-09-22T11:25:00",
+        "description": "Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć:  - \nNr zajęć: 4/2\nProwadzący: mgr inż. Waldemar Szylberg",
+        "allDay": false,
+        "color": "#B24775"
+    },
+    {
+        "title": "MM (w)",
+        "start": "2024-04-27T11:40:00",
+        "end": "2024-04-27T13:15:00",
+        "description": "Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr hab. inż. Zbigniew Tarapata",
+        "allDay": false,
+        "color": "#4756B2"
+    },
+    {
+        "title": "SI (w)",
+        "start": "2024-04-06T08:00:00",
+        "end": "2024-04-06T09:35:00",
+        "description": "Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr hab. inż. Andrzej Najgebauer",
+        "allDay": false,
+        "color": "#66B247"
+    },
+    {
+        "title": "XFiz1 (w)",
+        "start": "2024-04-08T16:00:00",
+        "end": "2024-04-08T17:35:00",
+        "description": "XFizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Wkr (w)",
+        "start": "2024-04-06T17:50:00",
+        "end": "2024-04-06T19:25:00",
+        "description": "Wstęp do kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: dr inż. Piotr Bora",
+        "allDay": false,
+        "color": "#47B284"
+    },
+    {
+        "title": "Ikc (L)",
+        "start": "2024-05-26T19:40:00",
+        "end": "2024-05-26T21:15:00",
+        "description": "Interfejsy komputerów cyfrowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/7\nProwadzący: mgr inż. Krzysztof Szajewski",
+        "allDay": false,
+        "color": "#93B247"
+    },
+    {
+        "title": "SI (w)",
+        "start": "2024-06-08T08:00:00",
+        "end": "2024-06-08T09:35:00",
+        "description": "Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr hab. inż. Andrzej Najgebauer",
+        "allDay": false,
+        "color": "#66B247"
+    },
+    {
+        "title": "XFiz1 (w)",
+        "start": "2024-04-15T17:50:00",
+        "end": "2024-04-15T19:25:00",
+        "description": "XFizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "IO (E)",
+        "start": "2024-06-29T09:50:00",
+        "end": "2024-06-29T11:25:00",
+        "description": "Inżynieria oprogramowania\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr inż. Tomasz Gumowski",
+        "allDay": false,
+        "color": "#B247A3"
+    },
+    {
+        "title": "Sck (E)",
+        "start": "2024-06-29T08:00:00",
+        "end": "2024-06-29T09:35:00",
+        "description": "Sieci komputerowe\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Janusz Furtak",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "SI (w)",
+        "start": "2024-05-11T19:40:00",
+        "end": "2024-05-11T21:15:00",
+        "description": "Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr hab. inż. Andrzej Najgebauer",
+        "allDay": false,
+        "color": "#66B247"
+    },
+    {
+        "title": "Tik (w)",
+        "start": "2024-03-09T13:30:00",
+        "end": "2024-03-09T15:05:00",
+        "description": "Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Leszek Grad",
+        "allDay": false,
+        "color": "#B2A347"
+    },
+    {
+        "title": "IO (w)",
+        "start": "2024-03-09T08:00:00",
+        "end": "2024-03-09T09:35:00",
+        "description": "Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: mgr inż. Tomasz Gumowski",
+        "allDay": false,
+        "color": "#B247A3"
+    },
+    {
+        "title": "IO (Inne)",
+        "start": "2024-09-21T11:40:00",
+        "end": "2024-09-21T13:15:00",
+        "description": "Inżynieria oprogramowania\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: mgr inż. Tomasz Gumowski",
+        "allDay": false,
+        "color": "#B247A3"
+    },
+    {
+        "title": "MM (w)",
+        "start": "2024-03-24T17:50:00",
+        "end": "2024-03-24T19:25:00",
+        "description": "Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr hab. inż. Zbigniew Tarapata",
+        "allDay": false,
+        "color": "#4756B2"
+    },
+    {
+        "title": "XFiz1 (w)",
+        "start": "2024-03-25T16:00:00",
+        "end": "2024-03-25T17:35:00",
+        "description": "XFizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "XFiz1 (ć)",
+        "start": "2024-05-27T17:50:00",
+        "end": "2024-05-27T19:25:00",
+        "description": "XFizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "MM (ć)",
+        "start": "2024-06-09T17:50:00",
+        "end": "2024-06-09T19:25:00",
+        "description": "Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/5\nProwadzący: mgr inż. Michał Kapałka",
+        "allDay": false,
+        "color": "#4756B2"
+    },
+    {
+        "title": "MM (w)",
+        "start": "2024-03-09T09:50:00",
+        "end": "2024-03-09T11:25:00",
+        "description": "Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr hab. inż. Zbigniew Tarapata",
+        "allDay": false,
+        "color": "#4756B2"
+    },
+    {
+        "title": "Pw (P)",
+        "start": "2024-05-18T16:00:00",
+        "end": "2024-05-18T17:35:00",
+        "description": "Programowanie wspolbieżne\nRodzaj zajęć: Projekt\nNr zajęć: 2/4\nProwadzący: mgr inż. Piotr Stąpor",
+        "allDay": false,
+        "color": "#9347B2"
+    },
+    {
+        "title": "Tik (ć)",
+        "start": "2024-04-20T13:30:00",
+        "end": "2024-04-20T15:05:00",
+        "description": "Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący: dr inż. Leszek Grad",
+        "allDay": false,
+        "color": "#B2A347"
+    },
+    {
+        "title": "Sck (L)",
+        "start": "2024-05-25T11:40:00",
+        "end": "2024-05-25T13:15:00",
+        "description": "Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący:  Jakub Sychowiec",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Sck (w)",
+        "start": "2024-05-11T13:30:00",
+        "end": "2024-05-11T15:05:00",
+        "description": "Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: dr hab. inż. Janusz Furtak",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Sck (w)",
+        "start": "2024-04-13T13:30:00",
+        "end": "2024-04-13T15:05:00",
+        "description": "Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: dr hab. inż. Janusz Furtak",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Ikc (L)",
+        "start": "2024-06-15T13:30:00",
+        "end": "2024-06-15T15:05:00",
+        "description": "Interfejsy komputerów cyfrowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/7\nProwadzący: mgr inż. Krzysztof Szajewski",
+        "allDay": false,
+        "color": "#93B247"
+    },
+    {
+        "title": "SI (w)",
+        "start": "2024-03-02T08:00:00",
+        "end": "2024-03-02T09:35:00",
+        "description": "Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr hab. inż. Andrzej Najgebauer",
+        "allDay": false,
+        "color": "#66B247"
+    },
+    {
+        "title": "Pnak (w)",
+        "start": "2024-03-03T17:50:00",
+        "end": "2024-03-03T19:25:00",
+        "description": "Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: dr inż. Adam Patkowski",
+        "allDay": false,
+        "color": "#B24775"
+    },
+    {
+        "title": "Tik (w)",
+        "start": "2024-03-16T13:30:00",
+        "end": "2024-03-16T15:05:00",
+        "description": "Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Leszek Grad",
+        "allDay": false,
+        "color": "#B2A347"
+    },
+    {
+        "title": "Pw (w)",
+        "start": "2024-03-09T16:00:00",
+        "end": "2024-03-09T17:35:00",
+        "description": "Programowanie wspolbieżne\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr inż. Jarosław Rulka",
+        "allDay": false,
+        "color": "#9347B2"
+    },
+    {
+        "title": "XFiz1 (L)",
+        "start": "2024-05-21T16:00:00",
+        "end": "2024-05-21T17:35:00",
+        "description": "XFizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "IO (L)",
+        "start": "2024-05-19T08:00:00",
+        "end": "2024-05-19T09:35:00",
+        "description": "Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: mgr inż. Grzegorz Kiryk",
+        "allDay": false,
+        "color": "#B247A3"
+    },
+    {
+        "title": "XFiz1 (L)",
+        "start": "2024-05-28T16:00:00",
+        "end": "2024-05-28T17:35:00",
+        "description": "XFizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2024-04-27T09:50:00",
+        "end": "2024-04-27T11:25:00",
+        "description": "Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#6547B2"
+    },
+    {
+        "title": "XFiz1 (Inne)",
+        "start": "2024-09-16T16:00:00",
+        "end": "2024-09-16T17:35:00",
+        "description": "XFizyka 1 - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Pw (L)",
+        "start": "2024-05-19T16:00:00",
+        "end": "2024-05-19T17:35:00",
+        "description": "Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący: mgr inż. Piotr Stąpor",
+        "allDay": false,
+        "color": "#9347B2"
+    },
+    {
+        "title": "SI (L)",
+        "start": "2024-06-09T11:40:00",
+        "end": "2024-06-09T13:15:00",
+        "description": "Sztuczna Inteligencja\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący: mgr inż. Przemysław Czuba",
+        "allDay": false,
+        "color": "#66B247"
+    },
+    {
+        "title": "IO (w)",
+        "start": "2024-03-16T08:00:00",
+        "end": "2024-03-16T09:35:00",
+        "description": "Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: mgr inż. Tomasz Gumowski",
+        "allDay": false,
+        "color": "#B247A3"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2024-04-20T09:50:00",
+        "end": "2024-04-20T11:25:00",
+        "description": "Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#6547B2"
+    },
+    {
+        "title": "Sck (L)",
+        "start": "2024-05-12T13:30:00",
+        "end": "2024-05-12T15:05:00",
+        "description": "Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący:  Jakub Sychowiec",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Sck (L)",
+        "start": "2024-06-16T19:40:00",
+        "end": "2024-06-16T21:15:00",
+        "description": "Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący:  Jakub Sychowiec",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "IO (L)",
+        "start": "2024-04-28T16:00:00",
+        "end": "2024-04-28T17:35:00",
+        "description": "Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: mgr inż. Grzegorz Kiryk",
+        "allDay": false,
+        "color": "#B247A3"
+    },
+    {
+        "title": "XFiz1 (w)",
+        "start": "2024-05-06T17:50:00",
+        "end": "2024-05-06T19:25:00",
+        "description": "XFizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 12/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Pw (P)",
+        "start": "2024-06-09T19:40:00",
+        "end": "2024-06-09T21:15:00",
+        "description": "Programowanie wspolbieżne\nRodzaj zajęć: Projekt\nNr zajęć: 3/4\nProwadzący: mgr inż. Piotr Stąpor",
+        "allDay": false,
+        "color": "#9347B2"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2024-03-23T09:50:00",
+        "end": "2024-03-23T11:25:00",
+        "description": "Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#6547B2"
+    },
+    {
+        "title": "Pw (P)",
+        "start": "2024-04-07T19:40:00",
+        "end": "2024-04-07T21:15:00",
+        "description": "Programowanie wspolbieżne\nRodzaj zajęć: Projekt\nNr zajęć: 1/4\nProwadzący: mgr inż. Piotr Stąpor",
+        "allDay": false,
+        "color": "#9347B2"
+    },
+    {
+        "title": "XFiz1 (w)",
+        "start": "2024-04-08T17:50:00",
+        "end": "2024-04-08T19:25:00",
+        "description": "XFizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "XFiz1 (L)",
+        "start": "2024-05-21T17:50:00",
+        "end": "2024-05-21T19:25:00",
+        "description": "XFizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Pnak (L)",
+        "start": "2024-05-25T17:50:00",
+        "end": "2024-05-25T19:25:00",
+        "description": "Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący: mgr inż. Waldemar Szylberg",
+        "allDay": false,
+        "color": "#B24775"
+    },
+    {
+        "title": "Ikc (L)",
+        "start": "2024-06-09T09:50:00",
+        "end": "2024-06-09T11:25:00",
+        "description": "Interfejsy komputerów cyfrowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/7\nProwadzący: mgr inż. Krzysztof Szajewski",
+        "allDay": false,
+        "color": "#93B247"
+    },
+    {
+        "title": "WdA (L)",
+        "start": "2024-04-21T13:30:00",
+        "end": "2024-04-21T15:05:00",
+        "description": "Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący: mgr Jerzy Dorobisz",
+        "allDay": false,
+        "color": "#47B256"
+    },
+    {
+        "title": "XFiz1 (ć)",
+        "start": "2024-06-05T17:50:00",
+        "end": "2024-06-05T19:25:00",
+        "description": "XFizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "IO (L)",
+        "start": "2024-04-21T08:00:00",
+        "end": "2024-04-21T09:35:00",
+        "description": "Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: mgr inż. Grzegorz Kiryk",
+        "allDay": false,
+        "color": "#B247A3"
+    },
+    {
+        "title": "MM (ć)",
+        "start": "2024-04-28T11:40:00",
+        "end": "2024-04-28T13:15:00",
+        "description": "Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/5\nProwadzący: mgr inż. Michał Kapałka",
+        "allDay": false,
+        "color": "#4756B2"
+    },
+    {
+        "title": "Sck (Inne)",
+        "start": "2024-07-06T08:00:00",
+        "end": "2024-07-06T09:35:00",
+        "description": "Sieci komputerowe\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr hab. inż. Janusz Furtak",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "MM (w)",
+        "start": "2024-04-27T13:30:00",
+        "end": "2024-04-27T15:05:00",
+        "description": "Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr hab. inż. Zbigniew Tarapata",
+        "allDay": false,
+        "color": "#4756B2"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2024-06-08T09:50:00",
+        "end": "2024-06-08T11:25:00",
+        "description": "Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#6547B2"
+    },
+    {
+        "title": "Sck (L)",
+        "start": "2024-04-21T19:40:00",
+        "end": "2024-04-21T21:15:00",
+        "description": "Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący:  Jakub Sychowiec",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Pw (L)",
+        "start": "2024-04-07T17:50:00",
+        "end": "2024-04-07T19:25:00",
+        "description": "Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący: mgr inż. Piotr Stąpor",
+        "allDay": false,
+        "color": "#9347B2"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2024-04-06T09:50:00",
+        "end": "2024-04-06T11:25:00",
+        "description": "Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#6547B2"
+    },
+    {
+        "title": "Wkr (w)",
+        "start": "2024-03-10T17:50:00",
+        "end": "2024-03-10T19:25:00",
+        "description": "Wstęp do kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: dr inż. Piotr Bora",
+        "allDay": false,
+        "color": "#47B284"
+    },
+    {
+        "title": "XFiz1 (L)",
+        "start": "2024-06-10T17:50:00",
+        "end": "2024-06-10T19:25:00",
+        "description": "XFizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "XFiz1 (w)",
+        "start": "2024-04-22T16:00:00",
+        "end": "2024-04-22T17:35:00",
+        "description": "XFizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "XFiz1 (ć)",
+        "start": "2024-05-22T17:50:00",
+        "end": "2024-05-22T19:25:00",
+        "description": "XFizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "PO (ć)",
+        "start": "2024-04-20T11:40:00",
+        "end": "2024-04-20T13:15:00",
+        "description": "Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/4\nProwadzący: dr inż. Paweł Moszczyński",
+        "allDay": false,
+        "color": "#B27547"
+    },
+    {
+        "title": "Pnak (w)",
+        "start": "2024-03-24T13:30:00",
+        "end": "2024-03-24T15:05:00",
+        "description": "Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: dr inż. Adam Patkowski",
+        "allDay": false,
+        "color": "#B24775"
+    },
+    {
+        "title": "Pnak (L)",
+        "start": "2024-04-20T17:50:00",
+        "end": "2024-04-20T19:25:00",
+        "description": "Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący: mgr inż. Waldemar Szylberg",
+        "allDay": false,
+        "color": "#B24775"
+    },
+    {
+        "title": "Pnak (w)",
+        "start": "2024-03-24T16:00:00",
+        "end": "2024-03-24T17:35:00",
+        "description": "Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: dr inż. Adam Patkowski",
+        "allDay": false,
+        "color": "#B24775"
+    },
+    {
+        "title": "XFiz1 (w)",
+        "start": "2024-05-13T16:00:00",
+        "end": "2024-05-13T17:35:00",
+        "description": "XFizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 13/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "WdA (w)",
+        "start": "2024-03-24T08:00:00",
+        "end": "2024-03-24T09:35:00",
+        "description": "Wprowadzenie do automatyki\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski",
+        "allDay": false,
+        "color": "#47B256"
+    },
+    {
+        "title": "XFiz1 (ć)",
+        "start": "2024-05-22T16:00:00",
+        "end": "2024-05-22T17:35:00",
+        "description": "XFizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "XFiz1 (ć)",
+        "start": "2024-06-17T16:00:00",
+        "end": "2024-06-17T17:35:00",
+        "description": "XFizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Ikc (w)",
+        "start": "2024-03-03T11:40:00",
+        "end": "2024-03-03T13:15:00",
+        "description": "Interfejsy komputerów cyfrowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Jozef Turczyn",
+        "allDay": false,
+        "color": "#93B247"
+    },
+    {
+        "title": "Sck (w)",
+        "start": "2024-03-03T08:00:00",
+        "end": "2024-03-03T09:35:00",
+        "description": "Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący: dr hab. inż. Janusz Furtak",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Pnak (Inne)",
+        "start": "2024-09-22T09:50:00",
+        "end": "2024-09-22T11:25:00",
+        "description": "Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący: dr inż. Adam Patkowski",
+        "allDay": false,
+        "color": "#B24775"
+    },
+    {
+        "title": "IO (w)",
+        "start": "2024-04-27T08:00:00",
+        "end": "2024-04-27T09:35:00",
+        "description": "Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: mgr inż. Tomasz Gumowski",
+        "allDay": false,
+        "color": "#B247A3"
+    },
+    {
+        "title": "XFiz1 (E)",
+        "start": "2024-07-01T16:00:00",
+        "end": "2024-07-01T17:35:00",
+        "description": "XFizyka 1 - (Egzamin) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "PO (ć)",
+        "start": "2024-05-18T17:50:00",
+        "end": "2024-05-18T19:25:00",
+        "description": "Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/4\nProwadzący: dr inż. Paweł Moszczyński",
+        "allDay": false,
+        "color": "#B27547"
+    },
+    {
+        "title": "IO (L)",
+        "start": "2024-06-15T09:50:00",
+        "end": "2024-06-15T11:25:00",
+        "description": "Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: mgr inż. Grzegorz Kiryk",
+        "allDay": false,
+        "color": "#B247A3"
+    },
+    {
+        "title": "Sck (L)",
+        "start": "2024-05-25T16:00:00",
+        "end": "2024-05-25T17:35:00",
+        "description": "Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący:  Jakub Sychowiec",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Tik (L)",
+        "start": "2024-04-21T16:00:00",
+        "end": "2024-04-21T17:35:00",
+        "description": "Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący: dr inż. Leszek Grad",
+        "allDay": false,
+        "color": "#B2A347"
+    },
+    {
+        "title": "Ikc (w)",
+        "start": "2024-03-03T13:30:00",
+        "end": "2024-03-03T15:05:00",
+        "description": "Interfejsy komputerów cyfrowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Jozef Turczyn",
+        "allDay": false,
+        "color": "#93B247"
+    },
+    {
+        "title": "IO (L)",
+        "start": "2024-05-19T09:50:00",
+        "end": "2024-05-19T11:25:00",
+        "description": "Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: mgr inż. Grzegorz Kiryk",
+        "allDay": false,
+        "color": "#B247A3"
+    },
+    {
+        "title": "IO (Inne)",
+        "start": "2024-07-06T11:40:00",
+        "end": "2024-07-06T13:15:00",
+        "description": "Inżynieria oprogramowania\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: mgr inż. Tomasz Gumowski",
+        "allDay": false,
+        "color": "#B247A3"
+    },
+    {
+        "title": "SI (L)",
+        "start": "2024-05-18T13:30:00",
+        "end": "2024-05-18T15:05:00",
+        "description": "Sztuczna Inteligencja\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: mgr inż. Przemysław Czuba",
+        "allDay": false,
+        "color": "#66B247"
+    },
+    {
+        "title": "XFiz1 (w)",
+        "start": "2024-05-06T16:00:00",
+        "end": "2024-05-06T17:35:00",
+        "description": "XFizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 11/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "WdA (w)",
+        "start": "2024-03-10T08:00:00",
+        "end": "2024-03-10T09:35:00",
+        "description": "Wprowadzenie do automatyki\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski",
+        "allDay": false,
+        "color": "#47B256"
+    },
+    {
+        "title": "Ikc (L)",
+        "start": "2024-06-09T08:00:00",
+        "end": "2024-06-09T09:35:00",
+        "description": "Interfejsy komputerów cyfrowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/7\nProwadzący: mgr inż. Krzysztof Szajewski",
+        "allDay": false,
+        "color": "#93B247"
+    },
+    {
+        "title": "IO (L)",
+        "start": "2024-04-28T13:30:00",
+        "end": "2024-04-28T15:05:00",
+        "description": "Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: mgr inż. Grzegorz Kiryk",
+        "allDay": false,
+        "color": "#B247A3"
+    },
+    {
+        "title": "Tik (w)",
+        "start": "2024-03-23T16:00:00",
+        "end": "2024-03-23T17:35:00",
+        "description": "Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Leszek Grad",
+        "allDay": false,
+        "color": "#B2A347"
+    },
+    {
+        "title": "Pnak (Inne)",
+        "start": "2024-07-06T13:30:00",
+        "end": "2024-07-06T15:05:00",
+        "description": "Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr inż. Adam Patkowski",
+        "allDay": false,
+        "color": "#B24775"
+    },
+    {
+        "title": "Sck (w)",
+        "start": "2024-04-13T11:40:00",
+        "end": "2024-04-13T13:15:00",
+        "description": "Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący: dr hab. inż. Janusz Furtak",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Sck (w)",
+        "start": "2024-05-11T11:40:00",
+        "end": "2024-05-11T13:15:00",
+        "description": "Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący: dr hab. inż. Janusz Furtak",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Wkr (L)",
+        "start": "2024-05-19T11:40:00",
+        "end": "2024-05-19T13:15:00",
+        "description": "Wstęp do kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/3\nProwadzący:  Michał Miarowski",
+        "allDay": false,
+        "color": "#47B284"
+    },
+    {
+        "title": "WdA (L)",
+        "start": "2024-06-08T13:30:00",
+        "end": "2024-06-08T15:05:00",
+        "description": "Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący: mgr Jerzy Dorobisz",
+        "allDay": false,
+        "color": "#47B256"
+    },
+    {
+        "title": "Sck (w)",
+        "start": "2024-03-02T13:30:00",
+        "end": "2024-03-02T15:05:00",
+        "description": "Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący: dr hab. inż. Janusz Furtak",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Ikc (w)",
+        "start": "2024-03-10T11:40:00",
+        "end": "2024-03-10T13:15:00",
+        "description": "Interfejsy komputerów cyfrowych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Jozef Turczyn",
+        "allDay": false,
+        "color": "#93B247"
+    },
+    {
+        "title": "Ikc (L)",
+        "start": "2024-05-26T17:50:00",
+        "end": "2024-05-26T19:25:00",
+        "description": "Interfejsy komputerów cyfrowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/7\nProwadzący: mgr inż. Krzysztof Szajewski",
+        "allDay": false,
+        "color": "#93B247"
+    },
+    {
+        "title": "Wpp (Inne)",
+        "start": "2024-06-29T11:40:00",
+        "end": "2024-06-29T13:15:00",
+        "description": "Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący:  Michał Miarowski",
+        "allDay": false,
+        "color": "#4784B2"
+    },
+    {
+        "title": "IO (w)",
+        "start": "2024-05-25T08:00:00",
+        "end": "2024-05-25T09:35:00",
+        "description": "Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: mgr inż. Tomasz Gumowski",
+        "allDay": false,
+        "color": "#B247A3"
+    },
+    {
+        "title": "Tik (w)",
+        "start": "2024-03-16T11:40:00",
+        "end": "2024-03-16T13:15:00",
+        "description": "Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Leszek Grad",
+        "allDay": false,
+        "color": "#B2A347"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2024-03-16T09:50:00",
+        "end": "2024-03-16T11:25:00",
+        "description": "Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#6547B2"
+    },
+    {
+        "title": "IO (L)",
+        "start": "2024-06-09T16:00:00",
+        "end": "2024-06-09T17:35:00",
+        "description": "Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: mgr inż. Grzegorz Kiryk",
+        "allDay": false,
+        "color": "#B247A3"
+    },
+    {
+        "title": "Sck (w)",
+        "start": "2024-03-02T11:40:00",
+        "end": "2024-03-02T13:15:00",
+        "description": "Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący: dr hab. inż. Janusz Furtak",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "XFiz1 (ć)",
+        "start": "2024-06-05T16:00:00",
+        "end": "2024-06-05T17:35:00",
+        "description": "XFizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "XFiz1 (w)",
+        "start": "2024-04-22T17:50:00",
+        "end": "2024-04-22T19:25:00",
+        "description": "XFizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Pnak (L)",
+        "start": "2024-04-20T16:00:00",
+        "end": "2024-04-20T17:35:00",
+        "description": "Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący: mgr inż. Waldemar Szylberg",
+        "allDay": false,
+        "color": "#B24775"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2024-03-02T09:50:00",
+        "end": "2024-03-02T11:25:00",
+        "description": "Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#6547B2"
+    },
+    {
+        "title": "Wkr (L)",
+        "start": "2024-04-21T11:40:00",
+        "end": "2024-04-21T13:15:00",
+        "description": "Wstęp do kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/3\nProwadzący:  Michał Miarowski",
+        "allDay": false,
+        "color": "#47B284"
+    },
+    {
+        "title": "Pw (L)",
+        "start": "2024-04-07T16:00:00",
+        "end": "2024-04-07T17:35:00",
+        "description": "Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący: mgr inż. Piotr Stąpor",
+        "allDay": false,
+        "color": "#9347B2"
+    },
+    {
+        "title": "Sck (L)",
+        "start": "2024-05-26T13:30:00",
+        "end": "2024-05-26T15:05:00",
+        "description": "Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący:  Jakub Sychowiec",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "PO (w)",
+        "start": "2024-03-23T11:40:00",
+        "end": "2024-03-23T13:15:00",
+        "description": "Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr hab. inż. Tadeusz Nowicki",
+        "allDay": false,
+        "color": "#B27547"
+    },
+    {
+        "title": "Sck (L)",
+        "start": "2024-06-16T17:50:00",
+        "end": "2024-06-16T19:25:00",
+        "description": "Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący:  Jakub Sychowiec",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Pw (L)",
+        "start": "2024-05-19T13:30:00",
+        "end": "2024-05-19T15:05:00",
+        "description": "Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący: mgr inż. Piotr Stąpor",
+        "allDay": false,
+        "color": "#9347B2"
+    },
+    {
+        "title": "IO (w)",
+        "start": "2024-05-11T08:00:00",
+        "end": "2024-05-11T09:35:00",
+        "description": "Inżynieria oprogramowania\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: mgr inż. Tomasz Gumowski",
+        "allDay": false,
+        "color": "#B247A3"
+    },
+    {
+        "title": "WdA (L)",
+        "start": "2024-05-12T11:40:00",
+        "end": "2024-05-12T13:15:00",
+        "description": "Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: mgr Jerzy Dorobisz",
+        "allDay": false,
+        "color": "#47B256"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2024-05-11T09:50:00",
+        "end": "2024-05-11T11:25:00",
+        "description": "Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#6547B2"
+    },
+    {
+        "title": "IO (L)",
+        "start": "2024-04-21T09:50:00",
+        "end": "2024-04-21T11:25:00",
+        "description": "Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: mgr inż. Grzegorz Kiryk",
+        "allDay": false,
+        "color": "#B247A3"
+    },
+    {
+        "title": "Ikc (w)",
+        "start": "2024-03-24T11:40:00",
+        "end": "2024-03-24T13:15:00",
+        "description": "Interfejsy komputerów cyfrowych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Jozef Turczyn",
+        "allDay": false,
+        "color": "#93B247"
+    },
+    {
+        "title": "Tik (L)",
+        "start": "2024-05-11T16:00:00",
+        "end": "2024-05-11T17:35:00",
+        "description": "Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący: dr inż. Leszek Grad",
+        "allDay": false,
+        "color": "#B2A347"
+    },
+    {
+        "title": "XFiz1 (w)",
+        "start": "2024-04-29T16:00:00",
+        "end": "2024-04-29T17:35:00",
+        "description": "XFizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 9/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "IO (L)",
+        "start": "2024-06-09T13:30:00",
+        "end": "2024-06-09T15:05:00",
+        "description": "Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: mgr inż. Grzegorz Kiryk",
+        "allDay": false,
+        "color": "#B247A3"
+    },
+    {
+        "title": "XFiz1 (ć)",
+        "start": "2024-05-27T16:00:00",
+        "end": "2024-05-27T17:35:00",
+        "description": "XFizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "XFiz1 (ć)",
+        "start": "2024-05-20T17:50:00",
+        "end": "2024-05-20T19:25:00",
+        "description": "XFizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Tik (ć)",
+        "start": "2024-05-18T09:50:00",
+        "end": "2024-05-18T11:25:00",
+        "description": "Teoria informacji i kodowania\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący: dr inż. Leszek Grad",
+        "allDay": false,
+        "color": "#B2A347"
+    },
+    {
+        "title": "WdA (w)",
+        "start": "2024-03-10T09:50:00",
+        "end": "2024-03-10T11:25:00",
+        "description": "Wprowadzenie do automatyki\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski",
+        "allDay": false,
+        "color": "#47B256"
+    },
+    {
+        "title": "XFiz1 (L)",
+        "start": "2024-05-28T17:50:00",
+        "end": "2024-05-28T19:25:00",
+        "description": "XFizyka 1 - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "MM (ć)",
+        "start": "2024-05-12T17:50:00",
+        "end": "2024-05-12T19:25:00",
+        "description": "Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/5\nProwadzący: mgr inż. Michał Kapałka",
+        "allDay": false,
+        "color": "#4756B2"
+    },
+    {
+        "title": "Sck (w)",
+        "start": "2024-03-03T09:50:00",
+        "end": "2024-03-03T11:25:00",
+        "description": "Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: dr hab. inż. Janusz Furtak",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "SI (L)",
+        "start": "2024-05-26T09:50:00",
+        "end": "2024-05-26T11:25:00",
+        "description": "Sztuczna Inteligencja\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący: mgr inż. Przemysław Czuba",
+        "allDay": false,
+        "color": "#66B247"
+    },
+    {
+        "title": "WdA (w)",
+        "start": "2024-04-07T09:50:00",
+        "end": "2024-04-07T11:25:00",
+        "description": "Wprowadzenie do automatyki\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski",
+        "allDay": false,
+        "color": "#47B256"
+    },
+    {
+        "title": "Sck (L)",
+        "start": "2024-05-26T16:00:00",
+        "end": "2024-05-26T17:35:00",
+        "description": "Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący:  Jakub Sychowiec",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Pw (w)",
+        "start": "2024-04-07T13:30:00",
+        "end": "2024-04-07T15:05:00",
+        "description": "Programowanie wspolbieżne\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr inż. Jarosław Rulka",
+        "allDay": false,
+        "color": "#9347B2"
+    },
+    {
+        "title": "Pnak (w)",
+        "start": "2024-03-03T16:00:00",
+        "end": "2024-03-03T17:35:00",
+        "description": "Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: dr inż. Adam Patkowski",
+        "allDay": false,
+        "color": "#B24775"
+    },
+    {
+        "title": "Sck (w)",
+        "start": "2024-04-06T13:30:00",
+        "end": "2024-04-06T15:05:00",
+        "description": "Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący: dr hab. inż. Janusz Furtak",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Wpp (Inne)",
+        "start": "2024-07-07T11:40:00",
+        "end": "2024-07-07T13:15:00",
+        "description": "Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący:  Michał Miarowski",
+        "allDay": false,
+        "color": "#4784B2"
+    },
+    {
+        "title": "Ikc (w)",
+        "start": "2024-03-10T13:30:00",
+        "end": "2024-03-10T15:05:00",
+        "description": "Interfejsy komputerów cyfrowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Jozef Turczyn",
+        "allDay": false,
+        "color": "#93B247"
+    },
+    {
+        "title": "MM (ć)",
+        "start": "2024-04-14T13:30:00",
+        "end": "2024-04-14T15:05:00",
+        "description": "Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/5\nProwadzący: mgr inż. Michał Kapałka",
+        "allDay": false,
+        "color": "#4756B2"
+    },
+    {
+        "title": "SI (L)",
+        "start": "2024-06-16T08:00:00",
+        "end": "2024-06-16T09:35:00",
+        "description": "Sztuczna Inteligencja\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: mgr inż. Przemysław Czuba",
+        "allDay": false,
+        "color": "#66B247"
+    },
+    {
+        "title": "Wkr (L)",
+        "start": "2024-04-13T16:00:00",
+        "end": "2024-04-13T17:35:00",
+        "description": "Wstęp do kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/3\nProwadzący:  Michał Miarowski",
+        "allDay": false,
+        "color": "#47B284"
+    },
+    {
+        "title": "PO (ć)",
+        "start": "2024-05-25T13:30:00",
+        "end": "2024-05-25T15:05:00",
+        "description": "Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący: dr inż. Paweł Moszczyński",
+        "allDay": false,
+        "color": "#B27547"
+    },
+    {
+        "title": "SI (w)",
+        "start": "2024-04-20T08:00:00",
+        "end": "2024-04-20T09:35:00",
+        "description": "Sztuczna Inteligencja\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr hab. inż. Andrzej Najgebauer",
+        "allDay": false,
+        "color": "#66B247"
+    },
+    {
+        "title": "Pw (P)",
+        "start": "2024-06-16T16:00:00",
+        "end": "2024-06-16T17:35:00",
+        "description": "Programowanie wspolbieżne\nRodzaj zajęć: Projekt\nNr zajęć: 4/4\nProwadzący: mgr inż. Piotr Stąpor",
+        "allDay": false,
+        "color": "#9347B2"
+    },
+    {
+        "title": "Tik (w)",
+        "start": "2024-03-02T16:00:00",
+        "end": "2024-03-02T17:35:00",
+        "description": "Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Leszek Grad",
+        "allDay": false,
+        "color": "#B2A347"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2024-05-25T09:50:00",
+        "end": "2024-05-25T11:25:00",
+        "description": "Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#6547B2"
+    },
+    {
+        "title": "Pw (w)",
+        "start": "2024-04-13T08:00:00",
+        "end": "2024-04-13T09:35:00",
+        "description": "Programowanie wspolbieżne\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Jarosław Rulka",
+        "allDay": false,
+        "color": "#9347B2"
+    },
+    {
+        "title": "WdA (L)",
+        "start": "2024-05-26T11:40:00",
+        "end": "2024-05-26T13:15:00",
+        "description": "Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący: mgr Jerzy Dorobisz",
+        "allDay": false,
+        "color": "#47B256"
+    },
+    {
+        "title": "MM (w)",
+        "start": "2024-03-23T08:00:00",
+        "end": "2024-03-23T09:35:00",
+        "description": "Modelowanie matematyczne\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr hab. inż. Zbigniew Tarapata",
+        "allDay": false,
+        "color": "#4756B2"
+    },
+    {
+        "title": "Sck (w)",
+        "start": "2024-04-06T11:40:00",
+        "end": "2024-04-06T13:15:00",
+        "description": "Sieci komputerowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący: dr hab. inż. Janusz Furtak",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "XFiz1 (w)",
+        "start": "2024-04-15T16:00:00",
+        "end": "2024-04-15T17:35:00",
+        "description": "XFizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "WdA (w)",
+        "start": "2024-03-24T09:50:00",
+        "end": "2024-03-24T11:25:00",
+        "description": "Wprowadzenie do automatyki\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski",
+        "allDay": false,
+        "color": "#47B256"
+    },
+    {
+        "title": "Tik (L)",
+        "start": "2024-06-08T11:40:00",
+        "end": "2024-06-08T13:15:00",
+        "description": "Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący: dr inż. Leszek Grad",
+        "allDay": false,
+        "color": "#B2A347"
+    },
+    {
+        "title": "Ikc (w)",
+        "start": "2024-03-17T13:30:00",
+        "end": "2024-03-17T15:05:00",
+        "description": "Interfejsy komputerów cyfrowych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Jozef Turczyn",
+        "allDay": false,
+        "color": "#93B247"
+    },
+    {
+        "title": "PO (w)",
+        "start": "2024-03-17T09:50:00",
+        "end": "2024-03-17T11:25:00",
+        "description": "Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr hab. inż. Tadeusz Nowicki",
+        "allDay": false,
+        "color": "#B27547"
+    },
+    {
+        "title": "Sck (L)",
+        "start": "2024-05-12T16:00:00",
+        "end": "2024-05-12T17:35:00",
+        "description": "Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący:  Jakub Sychowiec",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "PO (w)",
+        "start": "2024-03-23T13:30:00",
+        "end": "2024-03-23T15:05:00",
+        "description": "Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr hab. inż. Tadeusz Nowicki",
+        "allDay": false,
+        "color": "#B27547"
+    },
+    {
+        "title": "Pw (Inne)",
+        "start": "2024-07-06T09:50:00",
+        "end": "2024-07-06T11:25:00",
+        "description": "Programowanie wspolbieżne\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Jarosław Rulka",
+        "allDay": false,
+        "color": "#9347B2"
+    },
+    {
+        "title": "Ikc (L)",
+        "start": "2024-04-13T17:50:00",
+        "end": "2024-04-13T19:25:00",
+        "description": "Interfejsy komputerów cyfrowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/7\nProwadzący: mgr inż. Krzysztof Szajewski",
+        "allDay": false,
+        "color": "#93B247"
+    },
+    {
+        "title": "Pw (L)",
+        "start": "2024-06-16T11:40:00",
+        "end": "2024-06-16T13:15:00",
+        "description": "Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: mgr inż. Piotr Stąpor",
+        "allDay": false,
+        "color": "#9347B2"
+    },
+    {
+        "title": "PO (w)",
+        "start": "2024-03-17T08:00:00",
+        "end": "2024-03-17T09:35:00",
+        "description": "Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr hab. inż. Tadeusz Nowicki",
+        "allDay": false,
+        "color": "#B27547"
+    },
+    {
+        "title": "Pnak (Inne)",
+        "start": "2024-07-06T13:30:00",
+        "end": "2024-07-06T15:05:00",
+        "description": "Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: mgr inż. Waldemar Szylberg",
+        "allDay": false,
+        "color": "#B24775"
+    },
+    {
+        "title": "Tik (L)",
+        "start": "2024-06-15T08:00:00",
+        "end": "2024-06-15T09:35:00",
+        "description": "Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: dr inż. Leszek Grad",
+        "allDay": false,
+        "color": "#B2A347"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2024-04-13T09:50:00",
+        "end": "2024-04-13T11:25:00",
+        "description": "Język angielski - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#6547B2"
+    },
+    {
+        "title": "Pnak (L)",
+        "start": "2024-06-15T17:50:00",
+        "end": "2024-06-15T19:25:00",
+        "description": "Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący: mgr inż. Waldemar Szylberg",
+        "allDay": false,
+        "color": "#B24775"
+    },
+    {
+        "title": "Tik (Inne)",
+        "start": "2024-09-22T13:30:00",
+        "end": "2024-09-22T15:05:00",
+        "description": "Teoria informacji i kodowania\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr inż. Leszek Grad",
+        "allDay": false,
+        "color": "#B2A347"
+    },
+    {
+        "title": "PO (ć)",
+        "start": "2024-05-11T17:50:00",
+        "end": "2024-05-11T19:25:00",
+        "description": "Podstawy optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/4\nProwadzący: dr inż. Paweł Moszczyński",
+        "allDay": false,
+        "color": "#B27547"
+    },
+    {
+        "title": "Wkr (w)",
+        "start": "2024-04-06T16:00:00",
+        "end": "2024-04-06T17:35:00",
+        "description": "Wstęp do kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: dr inż. Piotr Bora",
+        "allDay": false,
+        "color": "#47B284"
+    },
+    {
+        "title": "IO (L)",
+        "start": "2024-06-15T11:40:00",
+        "end": "2024-06-15T13:15:00",
+        "description": "Inżynieria oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: mgr inż. Grzegorz Kiryk",
+        "allDay": false,
+        "color": "#B247A3"
+    },
+    {
+        "title": "PO (w)",
+        "start": "2024-04-07T08:00:00",
+        "end": "2024-04-07T09:35:00",
+        "description": "Podstawy optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr hab. inż. Tadeusz Nowicki",
+        "allDay": false,
+        "color": "#B27547"
+    },
+    {
+        "title": "XFiz1 (w)",
+        "start": "2024-03-25T17:50:00",
+        "end": "2024-03-25T19:25:00",
+        "description": "XFizyka 1 - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Sck (Inne)",
+        "start": "2024-09-21T08:00:00",
+        "end": "2024-09-21T09:35:00",
+        "description": "Sieci komputerowe\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr hab. inż. Janusz Furtak",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "PO (P)",
+        "start": "2024-06-08T17:50:00",
+        "end": "2024-06-08T19:25:00",
+        "description": "Podstawy optymalizacji\nRodzaj zajęć: Projekt\nNr zajęć: 1/1\nProwadzący: dr inż. Paweł Moszczyński",
+        "allDay": false,
+        "color": "#B27547"
+    },
+    {
+        "title": "SI (L)",
+        "start": "2024-05-12T09:50:00",
+        "end": "2024-05-12T11:25:00",
+        "description": "Sztuczna Inteligencja\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący: mgr inż. Przemysław Czuba",
+        "allDay": false,
+        "color": "#66B247"
+    },
+    {
+        "title": "Pnak (L)",
+        "start": "2024-06-15T19:40:00",
+        "end": "2024-06-15T21:15:00",
+        "description": "Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: mgr inż. Waldemar Szylberg",
+        "allDay": false,
+        "color": "#B24775"
+    },
+    {
+        "title": "Ikc (ć)",
+        "start": "2024-04-14T11:40:00",
+        "end": "2024-04-14T13:15:00",
+        "description": "Interfejsy komputerów cyfrowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/1\nProwadzący:  Jozef Turczyn",
+        "allDay": false,
+        "color": "#93B247"
+    },
+    {
+        "title": "MM (ć)",
+        "start": "2024-05-12T19:40:00",
+        "end": "2024-05-12T21:15:00",
+        "description": "Modelowanie matematyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/5\nProwadzący: mgr inż. Michał Kapałka",
+        "allDay": false,
+        "color": "#4756B2"
+    },
+    {
+        "title": "WdA (L)",
+        "start": "2024-06-16T13:30:00",
+        "end": "2024-06-16T15:05:00",
+        "description": "Wprowadzenie do automatyki\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: mgr Jerzy Dorobisz",
+        "allDay": false,
+        "color": "#47B256"
+    },
+    {
+        "title": "Ikc (L)",
+        "start": "2024-06-15T16:00:00",
+        "end": "2024-06-15T17:35:00",
+        "description": "Interfejsy komputerów cyfrowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/7\nProwadzący: mgr inż. Krzysztof Szajewski",
+        "allDay": false,
+        "color": "#93B247"
+    },
+    {
+        "title": "Tik (Inne)",
+        "start": "2024-07-06T16:00:00",
+        "end": "2024-07-06T17:35:00",
+        "description": "Teoria informacji i kodowania\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr inż. Leszek Grad",
+        "allDay": false,
+        "color": "#B2A347"
+    },
+    {
+        "title": "Sck (L)",
+        "start": "2024-04-21T17:50:00",
+        "end": "2024-04-21T19:25:00",
+        "description": "Sieci komputerowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący:  Jakub Sychowiec",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Tik (w)",
+        "start": "2024-03-23T17:50:00",
+        "end": "2024-03-23T19:25:00",
+        "description": "Teoria informacji i kodowania\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Leszek Grad",
+        "allDay": false,
+        "color": "#B2A347"
+    },
+    {
+        "title": "Pw (w)",
+        "start": "2024-03-09T17:50:00",
+        "end": "2024-03-09T19:25:00",
+        "description": "Programowanie wspolbieżne\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Jarosław Rulka",
+        "allDay": false,
+        "color": "#9347B2"
+    },
+    {
+        "title": "MM (Inne)",
+        "start": "2024-07-07T17:50:00",
+        "end": "2024-07-07T19:25:00",
+        "description": "Modelowanie matematyczne\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr inż. Michał Kapałka",
+        "allDay": false,
+        "color": "#4756B2"
+    },
+    {
+        "title": "Pw (L)",
+        "start": "2024-06-16T09:50:00",
+        "end": "2024-06-16T11:25:00",
+        "description": "Programowanie wspolbieżne\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący: mgr inż. Piotr Stąpor",
+        "allDay": false,
+        "color": "#9347B2"
+    },
+    {
+        "title": "Pnak (L)",
+        "start": "2024-05-25T19:40:00",
+        "end": "2024-05-25T21:15:00",
+        "description": "Programowanie niskopoziomowe i analiza kodu\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący: mgr inż. Waldemar Szylberg",
+        "allDay": false,
+        "color": "#B24775"
+    },
+    {
+        "title": "Tik (L)",
+        "start": "2024-06-08T16:00:00",
+        "end": "2024-06-08T17:35:00",
+        "description": "Teoria informacji i kodowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący: dr inż. Leszek Grad",
+        "allDay": false,
+        "color": "#B2A347"
+    },
+    {
+        "title": "XFiz1 (ć)",
+        "start": "2024-06-17T17:50:00",
+        "end": "2024-06-17T19:25:00",
+        "description": "XFizyka 1 - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    }
+]

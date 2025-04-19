@@ -1,0 +1,1258 @@
+[
+    {
+        "title": "Ek (w)",
+        "start": "2024-06-09T11:40:00",
+        "end": "2024-06-09T13:15:00",
+        "description": "Ekonomia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: -",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "isi (w)",
+        "start": "2024-03-03T11:40:00",
+        "end": "2024-03-03T13:15:00",
+        "description": "Integracja systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: dr inż. Adrian Woźniak",
+        "allDay": false,
+        "color": "#B27247"
+    },
+    {
+        "title": "Wmo (ć)",
+        "start": "2024-05-11T09:50:00",
+        "end": "2024-05-11T11:25:00",
+        "description": "Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/5\nProwadzący: dr inż. Piotr Górny",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Swp (w)",
+        "start": "2024-03-09T11:40:00",
+        "end": "2024-03-09T13:15:00",
+        "description": "Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Tomasz Pałys",
+        "allDay": false,
+        "color": "#B2479D"
+    },
+    {
+        "title": "ak (Inne)",
+        "start": "2024-09-29T08:00:00",
+        "end": "2024-09-29T09:35:00",
+        "description": "Algorytmy kwantowe\nRodzaj zajęć:  - \nNr zajęć: 4/4\nProwadzący: dr inż. Joanna Wiśniewska",
+        "allDay": false,
+        "color": "#9DB247"
+    },
+    {
+        "title": "Wmo (Inne)",
+        "start": "2024-07-06T09:50:00",
+        "end": "2024-07-06T11:25:00",
+        "description": "Wielokr. metody oceny i optymalizacji\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr inż. Piotr Górny",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Zui (w)",
+        "start": "2024-04-06T11:40:00",
+        "end": "2024-04-06T13:15:00",
+        "description": "Zarządzanie usługami informatycznymi\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: dr inż. Wiesław Barcikowski",
+        "allDay": false,
+        "color": "#72B247"
+    },
+    {
+        "title": "Esi (ć)",
+        "start": "2024-03-10T17:50:00",
+        "end": "2024-03-10T19:25:00",
+        "description": "Efektywność systemów  informatycznych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/4\nProwadzący: dr hab. inż. Ryszard Antkiewicz",
+        "allDay": false,
+        "color": "#479DB2"
+    },
+    {
+        "title": "ZPr (L)",
+        "start": "2024-10-20T13:30:00",
+        "end": "2024-10-20T15:05:00",
+        "description": "Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący: mgr inż. Jarosław Napiórkowski",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "No (L)",
+        "start": "2024-05-11T13:30:00",
+        "end": "2024-05-11T15:05:00",
+        "description": "Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący: dr inż. Romuald Hoffmann",
+        "allDay": false,
+        "color": "#47B29D"
+    },
+    {
+        "title": "Esi (ć)",
+        "start": "2024-04-28T16:00:00",
+        "end": "2024-04-28T17:35:00",
+        "description": "Efektywność systemów  informatycznych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/4\nProwadzący: dr hab. inż. Ryszard Antkiewicz",
+        "allDay": false,
+        "color": "#479DB2"
+    },
+    {
+        "title": "No (L)",
+        "start": "2024-05-18T17:50:00",
+        "end": "2024-05-18T19:25:00",
+        "description": "Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący: dr inż. Romuald Hoffmann",
+        "allDay": false,
+        "color": "#47B29D"
+    },
+    {
+        "title": "Soc (w)",
+        "start": "2024-10-06T09:50:00",
+        "end": "2024-10-06T11:25:00",
+        "description": "Socjologia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24772"
+    },
+    {
+        "title": "Soc (ć)",
+        "start": "2024-11-24T13:30:00",
+        "end": "2024-11-24T15:05:00",
+        "description": "Socjologia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24772"
+    },
+    {
+        "title": "Swp (Inne)",
+        "start": "2024-09-21T09:50:00",
+        "end": "2024-09-21T11:25:00",
+        "description": "Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr inż. Tomasz Pałys",
+        "allDay": false,
+        "color": "#B2479D"
+    },
+    {
+        "title": "ak (ć)",
+        "start": "2024-04-27T11:40:00",
+        "end": "2024-04-27T13:15:00",
+        "description": "Algorytmy kwantowe\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/6\nProwadzący: dr inż. Joanna Wiśniewska",
+        "allDay": false,
+        "color": "#9DB247"
+    },
+    {
+        "title": "Wmo (w)",
+        "start": "2024-04-21T09:50:00",
+        "end": "2024-04-21T11:25:00",
+        "description": "Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr inż. Piotr Górny",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "mo (P)",
+        "start": "2024-11-24T08:00:00",
+        "end": "2024-11-24T09:35:00",
+        "description": "Metodyki obiektowe\nRodzaj zajęć: Projekt\nNr zajęć: 9/10\nProwadzący: dr inż. Wojciech Kulas",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "mo (P)",
+        "start": "2024-11-24T09:50:00",
+        "end": "2024-11-24T11:25:00",
+        "description": "Metodyki obiektowe\nRodzaj zajęć: Projekt\nNr zajęć: 10/10\nProwadzący: dr inż. Wojciech Kulas",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "Wmo (w)",
+        "start": "2024-03-09T09:50:00",
+        "end": "2024-03-09T11:25:00",
+        "description": "Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Piotr Górny",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "ak (w)",
+        "start": "2024-03-23T13:30:00",
+        "end": "2024-03-23T15:05:00",
+        "description": "Algorytmy kwantowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: dr inż. Joanna Wiśniewska",
+        "allDay": false,
+        "color": "#9DB247"
+    },
+    {
+        "title": "ZPr (L)",
+        "start": "2024-11-10T08:00:00",
+        "end": "2024-11-10T09:35:00",
+        "description": "Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: mgr inż. Jarosław Napiórkowski",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "ak (ć)",
+        "start": "2024-05-26T17:50:00",
+        "end": "2024-05-26T19:25:00",
+        "description": "Algorytmy kwantowe\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/6\nProwadzący: dr inż. Joanna Wiśniewska",
+        "allDay": false,
+        "color": "#9DB247"
+    },
+    {
+        "title": "Soc (w)",
+        "start": "2024-10-26T13:30:00",
+        "end": "2024-10-26T15:05:00",
+        "description": "Socjologia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24772"
+    },
+    {
+        "title": "Soc (w)",
+        "start": "2024-10-19T11:40:00",
+        "end": "2024-10-19T13:15:00",
+        "description": "Socjologia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24772"
+    },
+    {
+        "title": "No (L)",
+        "start": "2024-05-25T17:50:00",
+        "end": "2024-05-25T19:25:00",
+        "description": "Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący: dr inż. Romuald Hoffmann",
+        "allDay": false,
+        "color": "#47B29D"
+    },
+    {
+        "title": "ak (ć)",
+        "start": "2024-05-26T16:00:00",
+        "end": "2024-05-26T17:35:00",
+        "description": "Algorytmy kwantowe\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/6\nProwadzący: dr inż. Joanna Wiśniewska",
+        "allDay": false,
+        "color": "#9DB247"
+    },
+    {
+        "title": "Mzw (P)",
+        "start": "2024-04-06T17:50:00",
+        "end": "2024-04-06T19:25:00",
+        "description": "Metodyki zwinne\nRodzaj zajęć: Projekt\nNr zajęć: 2/4\nProwadzący: dr inż. Wojciech Kulas",
+        "allDay": false,
+        "color": "#47B272"
+    },
+    {
+        "title": "Swp (L)",
+        "start": "2024-04-21T17:50:00",
+        "end": "2024-04-21T19:25:00",
+        "description": "Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący: mgr Jerzy Dorobisz",
+        "allDay": false,
+        "color": "#B2479D"
+    },
+    {
+        "title": "SBD (Inne)",
+        "start": "2024-09-21T13:30:00",
+        "end": "2024-09-21T15:05:00",
+        "description": "Systemy baz danych\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr inż. Jarosław Koszela",
+        "allDay": false,
+        "color": "#7247B2"
+    },
+    {
+        "title": "Swp (L)",
+        "start": "2024-05-18T13:30:00",
+        "end": "2024-05-18T15:05:00",
+        "description": "Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący: mgr Jerzy Dorobisz",
+        "allDay": false,
+        "color": "#B2479D"
+    },
+    {
+        "title": "Mzw (P)",
+        "start": "2024-06-08T19:40:00",
+        "end": "2024-06-08T21:15:00",
+        "description": "Metodyki zwinne\nRodzaj zajęć: Projekt\nNr zajęć: 4/4\nProwadzący: dr inż. Wojciech Kulas",
+        "allDay": false,
+        "color": "#47B272"
+    },
+    {
+        "title": "isi (L)",
+        "start": "2024-04-20T11:40:00",
+        "end": "2024-04-20T13:15:00",
+        "description": "Integracja systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący: dr inż. Adrian Woźniak",
+        "allDay": false,
+        "color": "#B27247"
+    },
+    {
+        "title": "Swp (w)",
+        "start": "2024-04-20T08:00:00",
+        "end": "2024-04-20T09:35:00",
+        "description": "Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr inż. Tomasz Pałys",
+        "allDay": false,
+        "color": "#B2479D"
+    },
+    {
+        "title": "Esi (w)",
+        "start": "2024-03-02T17:50:00",
+        "end": "2024-03-02T19:25:00",
+        "description": "Efektywność systemów  informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: dr hab. inż. Ryszard Antkiewicz",
+        "allDay": false,
+        "color": "#479DB2"
+    },
+    {
+        "title": "Mzw (L)",
+        "start": "2024-05-18T11:40:00",
+        "end": "2024-05-18T13:15:00",
+        "description": "Metodyki zwinne\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/3\nProwadzący: dr inż. Wojciech Kulas",
+        "allDay": false,
+        "color": "#47B272"
+    },
+    {
+        "title": "Zui (P)",
+        "start": "2024-04-27T16:00:00",
+        "end": "2024-04-27T17:35:00",
+        "description": "Zarządzanie usługami informatycznymi\nRodzaj zajęć: Projekt\nNr zajęć: 2/6\nProwadzący: dr inż. Wiesław Barcikowski",
+        "allDay": false,
+        "color": "#72B247"
+    },
+    {
+        "title": "Swp (L)",
+        "start": "2024-05-26T09:50:00",
+        "end": "2024-05-26T11:25:00",
+        "description": "Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: mgr Jerzy Dorobisz",
+        "allDay": false,
+        "color": "#B2479D"
+    },
+    {
+        "title": "No (w)",
+        "start": "2024-03-10T11:40:00",
+        "end": "2024-03-10T13:15:00",
+        "description": "Niezawodność oprogramowania\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: dr hab. inż. Kazimierz Worwa",
+        "allDay": false,
+        "color": "#47B29D"
+    },
+    {
+        "title": "Soc (w)",
+        "start": "2024-10-19T09:50:00",
+        "end": "2024-10-19T11:25:00",
+        "description": "Socjologia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24772"
+    },
+    {
+        "title": "Mzw (P)",
+        "start": "2024-03-10T16:00:00",
+        "end": "2024-03-10T17:35:00",
+        "description": "Metodyki zwinne\nRodzaj zajęć: Projekt\nNr zajęć: 1/4\nProwadzący: dr inż. Wojciech Kulas",
+        "allDay": false,
+        "color": "#47B272"
+    },
+    {
+        "title": "Ek (w)",
+        "start": "2024-03-24T16:00:00",
+        "end": "2024-03-24T17:35:00",
+        "description": "Ekonomia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: -",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "ak (w)",
+        "start": "2024-04-06T13:30:00",
+        "end": "2024-04-06T15:05:00",
+        "description": "Algorytmy kwantowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: dr inż. Joanna Wiśniewska",
+        "allDay": false,
+        "color": "#9DB247"
+    },
+    {
+        "title": "Sme. (ć)",
+        "start": "2024-06-09T16:00:00",
+        "end": "2024-06-09T17:35:00",
+        "description": "Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/5\nProwadzący: mgr inż. Michał Kapałka",
+        "allDay": false,
+        "color": "#B29D47"
+    },
+    {
+        "title": "Sme. (ć)",
+        "start": "2024-05-19T16:00:00",
+        "end": "2024-05-19T17:35:00",
+        "description": "Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/5\nProwadzący: mgr inż. Michał Kapałka",
+        "allDay": false,
+        "color": "#B29D47"
+    },
+    {
+        "title": "SBD (L)",
+        "start": "2024-04-20T17:50:00",
+        "end": "2024-04-20T19:25:00",
+        "description": "Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/4\nProwadzący: dr inż. Jarosław Koszela",
+        "allDay": false,
+        "color": "#7247B2"
+    },
+    {
+        "title": "Swp (w)",
+        "start": "2024-04-28T08:00:00",
+        "end": "2024-04-28T09:35:00",
+        "description": "Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Tomasz Pałys",
+        "allDay": false,
+        "color": "#B2479D"
+    },
+    {
+        "title": "Sme. (w)",
+        "start": "2024-04-07T09:50:00",
+        "end": "2024-04-07T11:25:00",
+        "description": "Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr hab. inż. Tadeusz Nowicki",
+        "allDay": false,
+        "color": "#B29D47"
+    },
+    {
+        "title": "Soc (ć)",
+        "start": "2024-11-24T11:40:00",
+        "end": "2024-11-24T13:15:00",
+        "description": "Socjologia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24772"
+    },
+    {
+        "title": "No (w)",
+        "start": "2024-03-24T13:30:00",
+        "end": "2024-03-24T15:05:00",
+        "description": "Niezawodność oprogramowania\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: dr hab. inż. Kazimierz Worwa",
+        "allDay": false,
+        "color": "#47B29D"
+    },
+    {
+        "title": "ZPr (w)",
+        "start": "2024-11-10T16:00:00",
+        "end": "2024-11-10T17:35:00",
+        "description": "Zarządzanie projektami\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "SBD (L)",
+        "start": "2024-04-20T16:00:00",
+        "end": "2024-04-20T17:35:00",
+        "description": "Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/4\nProwadzący: dr inż. Jarosław Koszela",
+        "allDay": false,
+        "color": "#7247B2"
+    },
+    {
+        "title": "Sme. (w)",
+        "start": "2024-03-10T09:50:00",
+        "end": "2024-03-10T11:25:00",
+        "description": "Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr hab. inż. Tadeusz Nowicki",
+        "allDay": false,
+        "color": "#B29D47"
+    },
+    {
+        "title": "Sme. (w)",
+        "start": "2024-03-24T08:00:00",
+        "end": "2024-03-24T09:35:00",
+        "description": "Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr hab. inż. Tadeusz Nowicki",
+        "allDay": false,
+        "color": "#B29D47"
+    },
+    {
+        "title": "Wmo (ć)",
+        "start": "2024-05-18T09:50:00",
+        "end": "2024-05-18T11:25:00",
+        "description": "Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/5\nProwadzący: dr inż. Piotr Górny",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Zui (P)",
+        "start": "2024-05-19T11:40:00",
+        "end": "2024-05-19T13:15:00",
+        "description": "Zarządzanie usługami informatycznymi\nRodzaj zajęć: Projekt\nNr zajęć: 3/6\nProwadzący: dr inż. Wiesław Barcikowski",
+        "allDay": false,
+        "color": "#72B247"
+    },
+    {
+        "title": "isi (w)",
+        "start": "2024-03-23T17:50:00",
+        "end": "2024-03-23T19:25:00",
+        "description": "Integracja systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: dr inż. Adrian Woźniak",
+        "allDay": false,
+        "color": "#B27247"
+    },
+    {
+        "title": "ZPr (w)",
+        "start": "2024-10-05T17:50:00",
+        "end": "2024-10-05T19:25:00",
+        "description": "Zarządzanie projektami\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "ZPr (w)",
+        "start": "2024-10-05T16:00:00",
+        "end": "2024-10-05T17:35:00",
+        "description": "Zarządzanie projektami\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "Mzw (P)",
+        "start": "2024-04-06T19:40:00",
+        "end": "2024-04-06T21:15:00",
+        "description": "Metodyki zwinne\nRodzaj zajęć: Projekt\nNr zajęć: 3/4\nProwadzący: dr inż. Wojciech Kulas",
+        "allDay": false,
+        "color": "#47B272"
+    },
+    {
+        "title": "Twinf (L)",
+        "start": "2024-11-09T09:50:00",
+        "end": "2024-11-09T11:25:00",
+        "description": "Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#9D47B2"
+    },
+    {
+        "title": "Zui (w)",
+        "start": "2024-03-09T16:00:00",
+        "end": "2024-03-09T17:35:00",
+        "description": "Zarządzanie usługami informatycznymi\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: dr inż. Wiesław Barcikowski",
+        "allDay": false,
+        "color": "#72B247"
+    },
+    {
+        "title": "Zui (w)",
+        "start": "2024-03-09T13:30:00",
+        "end": "2024-03-09T15:05:00",
+        "description": "Zarządzanie usługami informatycznymi\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: dr inż. Wiesław Barcikowski",
+        "allDay": false,
+        "color": "#72B247"
+    },
+    {
+        "title": "mo (P)",
+        "start": "2024-10-27T13:30:00",
+        "end": "2024-10-27T15:05:00",
+        "description": "Metodyki obiektowe\nRodzaj zajęć: Projekt\nNr zajęć: 5/10\nProwadzący: dr inż. Wojciech Kulas",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "isi (L)",
+        "start": "2024-06-09T13:30:00",
+        "end": "2024-06-09T15:05:00",
+        "description": "Integracja systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: dr inż. Adrian Woźniak",
+        "allDay": false,
+        "color": "#B27247"
+    },
+    {
+        "title": "Swp (L)",
+        "start": "2024-05-18T16:00:00",
+        "end": "2024-05-18T17:35:00",
+        "description": "Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący: mgr Jerzy Dorobisz",
+        "allDay": false,
+        "color": "#B2479D"
+    },
+    {
+        "title": "mo (P)",
+        "start": "2024-10-27T16:00:00",
+        "end": "2024-10-27T17:35:00",
+        "description": "Metodyki obiektowe\nRodzaj zajęć: Projekt\nNr zajęć: 6/10\nProwadzący: dr inż. Wojciech Kulas",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "Ek (ć)",
+        "start": "2024-05-26T08:00:00",
+        "end": "2024-05-26T09:35:00",
+        "description": "Ekonomia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący: -",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "ZPr (w)",
+        "start": "2024-10-27T11:40:00",
+        "end": "2024-10-27T13:15:00",
+        "description": "Zarządzanie projektami\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "ak (w)",
+        "start": "2024-03-02T13:30:00",
+        "end": "2024-03-02T15:05:00",
+        "description": "Algorytmy kwantowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: dr inż. Joanna Wiśniewska",
+        "allDay": false,
+        "color": "#9DB247"
+    },
+    {
+        "title": "ak (ć)",
+        "start": "2024-05-25T08:00:00",
+        "end": "2024-05-25T09:35:00",
+        "description": "Algorytmy kwantowe\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/6\nProwadzący: dr inż. Joanna Wiśniewska",
+        "allDay": false,
+        "color": "#9DB247"
+    },
+    {
+        "title": "SBD (L)",
+        "start": "2024-05-11T16:00:00",
+        "end": "2024-05-11T17:35:00",
+        "description": "Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/4\nProwadzący: dr inż. Jarosław Koszela",
+        "allDay": false,
+        "color": "#7247B2"
+    },
+    {
+        "title": "Esi (w)",
+        "start": "2024-04-07T13:30:00",
+        "end": "2024-04-07T15:05:00",
+        "description": "Efektywność systemów  informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: dr hab. inż. Ryszard Antkiewicz",
+        "allDay": false,
+        "color": "#479DB2"
+    },
+    {
+        "title": "Mzw (w)",
+        "start": "2024-03-10T13:30:00",
+        "end": "2024-03-10T15:05:00",
+        "description": "Metodyki zwinne\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący: dr inż. Wojciech Kulas",
+        "allDay": false,
+        "color": "#47B272"
+    },
+    {
+        "title": "ak (ć)",
+        "start": "2024-04-21T13:30:00",
+        "end": "2024-04-21T15:05:00",
+        "description": "Algorytmy kwantowe\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/6\nProwadzący: dr inż. Joanna Wiśniewska",
+        "allDay": false,
+        "color": "#9DB247"
+    },
+    {
+        "title": "isi (w)",
+        "start": "2024-03-03T09:50:00",
+        "end": "2024-03-03T11:25:00",
+        "description": "Integracja systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: dr inż. Adrian Woźniak",
+        "allDay": false,
+        "color": "#B27247"
+    },
+    {
+        "title": "Wmo (ć)",
+        "start": "2024-06-08T09:50:00",
+        "end": "2024-06-08T11:25:00",
+        "description": "Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/5\nProwadzący: dr inż. Piotr Górny",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Swp (L)",
+        "start": "2024-04-21T19:40:00",
+        "end": "2024-04-21T21:15:00",
+        "description": "Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: mgr Jerzy Dorobisz",
+        "allDay": false,
+        "color": "#B2479D"
+    },
+    {
+        "title": "No (w)",
+        "start": "2024-06-09T09:50:00",
+        "end": "2024-06-09T11:25:00",
+        "description": "Niezawodność oprogramowania\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: dr hab. inż. Kazimierz Worwa",
+        "allDay": false,
+        "color": "#47B29D"
+    },
+    {
+        "title": "Wmo (E)",
+        "start": "2024-06-29T09:50:00",
+        "end": "2024-06-29T11:25:00",
+        "description": "Wielokr. metody oceny i optymalizacji\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Piotr Górny",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "isi (w)",
+        "start": "2024-03-23T16:00:00",
+        "end": "2024-03-23T17:35:00",
+        "description": "Integracja systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: dr inż. Adrian Woźniak",
+        "allDay": false,
+        "color": "#B27247"
+    },
+    {
+        "title": "Esi (w)",
+        "start": "2024-03-02T16:00:00",
+        "end": "2024-03-02T17:35:00",
+        "description": "Efektywność systemów  informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: dr hab. inż. Ryszard Antkiewicz",
+        "allDay": false,
+        "color": "#479DB2"
+    },
+    {
+        "title": "Zui (P)",
+        "start": "2024-04-27T13:30:00",
+        "end": "2024-04-27T15:05:00",
+        "description": "Zarządzanie usługami informatycznymi\nRodzaj zajęć: Projekt\nNr zajęć: 1/6\nProwadzący: dr inż. Wiesław Barcikowski",
+        "allDay": false,
+        "color": "#72B247"
+    },
+    {
+        "title": "Twinf (L)",
+        "start": "2024-11-09T11:40:00",
+        "end": "2024-11-09T13:15:00",
+        "description": "Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#9D47B2"
+    },
+    {
+        "title": "SBD (L)",
+        "start": "2024-05-11T17:50:00",
+        "end": "2024-05-11T19:25:00",
+        "description": "Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/4\nProwadzący: dr inż. Jarosław Koszela",
+        "allDay": false,
+        "color": "#7247B2"
+    },
+    {
+        "title": "No (w)",
+        "start": "2024-03-24T11:40:00",
+        "end": "2024-03-24T13:15:00",
+        "description": "Niezawodność oprogramowania\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: dr hab. inż. Kazimierz Worwa",
+        "allDay": false,
+        "color": "#47B29D"
+    },
+    {
+        "title": "isi (L)",
+        "start": "2024-05-12T16:00:00",
+        "end": "2024-05-12T17:35:00",
+        "description": "Integracja systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący: dr inż. Adrian Woźniak",
+        "allDay": false,
+        "color": "#B27247"
+    },
+    {
+        "title": "mo (P)",
+        "start": "2024-10-06T11:40:00",
+        "end": "2024-10-06T13:15:00",
+        "description": "Metodyki obiektowe\nRodzaj zajęć: Projekt\nNr zajęć: 1/10\nProwadzący: dr inż. Wojciech Kulas",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "Esi (ć)",
+        "start": "2024-05-25T11:40:00",
+        "end": "2024-05-25T13:15:00",
+        "description": "Efektywność systemów  informatycznych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący: dr hab. inż. Ryszard Antkiewicz",
+        "allDay": false,
+        "color": "#479DB2"
+    },
+    {
+        "title": "Wmo (ć)",
+        "start": "2024-05-25T09:50:00",
+        "end": "2024-05-25T11:25:00",
+        "description": "Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/5\nProwadzący: dr inż. Piotr Górny",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Sme. (w)",
+        "start": "2024-03-10T08:00:00",
+        "end": "2024-03-10T09:35:00",
+        "description": "Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr hab. inż. Tadeusz Nowicki",
+        "allDay": false,
+        "color": "#B29D47"
+    },
+    {
+        "title": "ak (Inne)",
+        "start": "2024-07-06T13:30:00",
+        "end": "2024-07-06T15:05:00",
+        "description": "Algorytmy kwantowe\nRodzaj zajęć:  - \nNr zajęć: 2/4\nProwadzący: dr inż. Joanna Wiśniewska",
+        "allDay": false,
+        "color": "#9DB247"
+    },
+    {
+        "title": "Swp (w)",
+        "start": "2024-03-23T11:40:00",
+        "end": "2024-03-23T13:15:00",
+        "description": "Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr inż. Tomasz Pałys",
+        "allDay": false,
+        "color": "#B2479D"
+    },
+    {
+        "title": "mo (P)",
+        "start": "2024-10-06T13:30:00",
+        "end": "2024-10-06T15:05:00",
+        "description": "Metodyki obiektowe\nRodzaj zajęć: Projekt\nNr zajęć: 2/10\nProwadzący: dr inż. Wojciech Kulas",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "Zui (w)",
+        "start": "2024-04-06T09:50:00",
+        "end": "2024-04-06T11:25:00",
+        "description": "Zarządzanie usługami informatycznymi\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: dr inż. Wiesław Barcikowski",
+        "allDay": false,
+        "color": "#72B247"
+    },
+    {
+        "title": "Sme. (Inne)",
+        "start": "2024-07-07T16:00:00",
+        "end": "2024-07-07T17:35:00",
+        "description": "Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr inż. Michał Kapałka",
+        "allDay": false,
+        "color": "#B29D47"
+    },
+    {
+        "title": "Swp (Inne)",
+        "start": "2024-07-06T08:00:00",
+        "end": "2024-07-06T09:35:00",
+        "description": "Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr inż. Tomasz Pałys",
+        "allDay": false,
+        "color": "#B2479D"
+    },
+    {
+        "title": "ZPr (w)",
+        "start": "2024-10-20T11:40:00",
+        "end": "2024-10-20T13:15:00",
+        "description": "Zarządzanie projektami\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "Esi (ć)",
+        "start": "2024-05-19T09:50:00",
+        "end": "2024-05-19T11:25:00",
+        "description": "Efektywność systemów  informatycznych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/4\nProwadzący: dr hab. inż. Ryszard Antkiewicz",
+        "allDay": false,
+        "color": "#479DB2"
+    },
+    {
+        "title": "ak (Inne)",
+        "start": "2024-06-29T11:40:00",
+        "end": "2024-06-29T13:15:00",
+        "description": "Algorytmy kwantowe\nRodzaj zajęć:  - \nNr zajęć: 1/4\nProwadzący: dr inż. Joanna Wiśniewska",
+        "allDay": false,
+        "color": "#9DB247"
+    },
+    {
+        "title": "ZPr (L)",
+        "start": "2024-11-23T09:50:00",
+        "end": "2024-11-23T11:25:00",
+        "description": "Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: mgr inż. Jarosław Napiórkowski",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "Ek (ć)",
+        "start": "2024-05-12T09:50:00",
+        "end": "2024-05-12T11:25:00",
+        "description": "Ekonomia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący: -",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "mo (P)",
+        "start": "2024-10-20T08:00:00",
+        "end": "2024-10-20T09:35:00",
+        "description": "Metodyki obiektowe\nRodzaj zajęć: Projekt\nNr zajęć: 3/10\nProwadzący: dr inż. Wojciech Kulas",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "Wmo (w)",
+        "start": "2024-04-27T08:00:00",
+        "end": "2024-04-27T09:35:00",
+        "description": "Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Piotr Górny",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Zui (P)",
+        "start": "2024-06-08T13:30:00",
+        "end": "2024-06-08T15:05:00",
+        "description": "Zarządzanie usługami informatycznymi\nRodzaj zajęć: Projekt\nNr zajęć: 5/6\nProwadzący: dr inż. Wiesław Barcikowski",
+        "allDay": false,
+        "color": "#72B247"
+    },
+    {
+        "title": "SBD (L)",
+        "start": "2024-05-12T17:50:00",
+        "end": "2024-05-12T19:25:00",
+        "description": "Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/4\nProwadzący:  Arkadiusz Orzeł",
+        "allDay": false,
+        "color": "#7247B2"
+    },
+    {
+        "title": "ZPr (L)",
+        "start": "2024-11-10T09:50:00",
+        "end": "2024-11-10T11:25:00",
+        "description": "Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący: mgr inż. Jarosław Napiórkowski",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "No (L)",
+        "start": "2024-06-08T17:50:00",
+        "end": "2024-06-08T19:25:00",
+        "description": "Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: dr inż. Romuald Hoffmann",
+        "allDay": false,
+        "color": "#47B29D"
+    },
+    {
+        "title": "Zui (P)",
+        "start": "2024-06-08T16:00:00",
+        "end": "2024-06-08T17:35:00",
+        "description": "Zarządzanie usługami informatycznymi\nRodzaj zajęć: Projekt\nNr zajęć: 6/6\nProwadzący: dr inż. Wiesław Barcikowski",
+        "allDay": false,
+        "color": "#72B247"
+    },
+    {
+        "title": "Sme. (ć)",
+        "start": "2024-05-12T11:40:00",
+        "end": "2024-05-12T13:15:00",
+        "description": "Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/5\nProwadzący: mgr inż. Michał Kapałka",
+        "allDay": false,
+        "color": "#B29D47"
+    },
+    {
+        "title": "Mzw (L)",
+        "start": "2024-04-21T16:00:00",
+        "end": "2024-04-21T17:35:00",
+        "description": "Metodyki zwinne\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/3\nProwadzący: dr inż. Wojciech Kulas",
+        "allDay": false,
+        "color": "#47B272"
+    },
+    {
+        "title": "Twinf (L)",
+        "start": "2024-10-26T16:00:00",
+        "end": "2024-10-26T17:35:00",
+        "description": "Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#9D47B2"
+    },
+    {
+        "title": "isi (L)",
+        "start": "2024-05-26T11:40:00",
+        "end": "2024-05-26T13:15:00",
+        "description": "Integracja systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący: dr inż. Adrian Woźniak",
+        "allDay": false,
+        "color": "#B27247"
+    },
+    {
+        "title": "Twinf (w)",
+        "start": "2024-10-19T16:00:00",
+        "end": "2024-10-19T17:35:00",
+        "description": "Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#9D47B2"
+    },
+    {
+        "title": "ZPr (L)",
+        "start": "2024-11-23T08:00:00",
+        "end": "2024-11-23T09:35:00",
+        "description": "Zarządzanie projektami\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący: mgr inż. Jarosław Napiórkowski",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "SBD (w)",
+        "start": "2024-03-23T09:50:00",
+        "end": "2024-03-23T11:25:00",
+        "description": "Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: dr inż. Jarosław Koszela",
+        "allDay": false,
+        "color": "#7247B2"
+    },
+    {
+        "title": "Wmo (w)",
+        "start": "2024-03-09T08:00:00",
+        "end": "2024-03-09T09:35:00",
+        "description": "Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr inż. Piotr Górny",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Twinf (L)",
+        "start": "2024-11-23T13:30:00",
+        "end": "2024-11-23T15:05:00",
+        "description": "Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#9D47B2"
+    },
+    {
+        "title": "Esi (L)",
+        "start": "2024-05-25T13:30:00",
+        "end": "2024-05-25T15:05:00",
+        "description": "Efektywność systemów  informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/2\nProwadzący: mgr inż. Marcin Perka",
+        "allDay": false,
+        "color": "#479DB2"
+    },
+    {
+        "title": "Ek (w)",
+        "start": "2024-04-28T09:50:00",
+        "end": "2024-04-28T11:25:00",
+        "description": "Ekonomia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: -",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "Wmo (ć)",
+        "start": "2024-04-27T09:50:00",
+        "end": "2024-04-27T11:25:00",
+        "description": "Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/5\nProwadzący: dr inż. Piotr Górny",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Twinf (L)",
+        "start": "2024-10-26T17:50:00",
+        "end": "2024-10-26T19:25:00",
+        "description": "Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#9D47B2"
+    },
+    {
+        "title": "isi (L)",
+        "start": "2024-05-12T13:30:00",
+        "end": "2024-05-12T15:05:00",
+        "description": "Integracja systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący: dr inż. Adrian Woźniak",
+        "allDay": false,
+        "color": "#B27247"
+    },
+    {
+        "title": "Wmo (w)",
+        "start": "2024-04-07T11:40:00",
+        "end": "2024-04-07T13:15:00",
+        "description": "Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr inż. Piotr Górny",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Swp (w)",
+        "start": "2024-03-02T11:40:00",
+        "end": "2024-03-02T13:15:00",
+        "description": "Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr inż. Tomasz Pałys",
+        "allDay": false,
+        "color": "#B2479D"
+    },
+    {
+        "title": "isi (L)",
+        "start": "2024-04-20T13:30:00",
+        "end": "2024-04-20T15:05:00",
+        "description": "Integracja systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący: dr inż. Adrian Woźniak",
+        "allDay": false,
+        "color": "#B27247"
+    },
+    {
+        "title": "Ek (w)",
+        "start": "2024-03-24T17:50:00",
+        "end": "2024-03-24T19:25:00",
+        "description": "Ekonomia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: -",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "Sme. (w)",
+        "start": "2024-03-24T09:50:00",
+        "end": "2024-03-24T11:25:00",
+        "description": "Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr hab. inż. Tadeusz Nowicki",
+        "allDay": false,
+        "color": "#B29D47"
+    },
+    {
+        "title": "mo (P)",
+        "start": "2024-10-20T09:50:00",
+        "end": "2024-10-20T11:25:00",
+        "description": "Metodyki obiektowe\nRodzaj zajęć: Projekt\nNr zajęć: 4/10\nProwadzący: dr inż. Wojciech Kulas",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "Sme. (ć)",
+        "start": "2024-04-28T17:50:00",
+        "end": "2024-04-28T19:25:00",
+        "description": "Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/5\nProwadzący: mgr inż. Michał Kapałka",
+        "allDay": false,
+        "color": "#B29D47"
+    },
+    {
+        "title": "ak (ć)",
+        "start": "2024-06-08T11:40:00",
+        "end": "2024-06-08T13:15:00",
+        "description": "Algorytmy kwantowe\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/6\nProwadzący: dr inż. Joanna Wiśniewska",
+        "allDay": false,
+        "color": "#9DB247"
+    },
+    {
+        "title": "No (L)",
+        "start": "2024-04-21T11:40:00",
+        "end": "2024-04-21T13:15:00",
+        "description": "Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący: dr inż. Romuald Hoffmann",
+        "allDay": false,
+        "color": "#47B29D"
+    },
+    {
+        "title": "Soc (w)",
+        "start": "2024-10-06T08:00:00",
+        "end": "2024-10-06T09:35:00",
+        "description": "Socjologia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24772"
+    },
+    {
+        "title": "Sme. (ć)",
+        "start": "2024-05-26T13:30:00",
+        "end": "2024-05-26T15:05:00",
+        "description": "Stochastyczne modele eksploatacji systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/5\nProwadzący: mgr inż. Michał Kapałka",
+        "allDay": false,
+        "color": "#B29D47"
+    },
+    {
+        "title": "Esi (w)",
+        "start": "2024-04-28T13:30:00",
+        "end": "2024-04-28T15:05:00",
+        "description": "Efektywność systemów  informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: dr hab. inż. Ryszard Antkiewicz",
+        "allDay": false,
+        "color": "#479DB2"
+    },
+    {
+        "title": "SBD (w)",
+        "start": "2024-06-09T08:00:00",
+        "end": "2024-06-09T09:35:00",
+        "description": "Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: dr inż. Jarosław Koszela",
+        "allDay": false,
+        "color": "#7247B2"
+    },
+    {
+        "title": "SBD (w)",
+        "start": "2024-03-23T08:00:00",
+        "end": "2024-03-23T09:35:00",
+        "description": "Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: dr inż. Jarosław Koszela",
+        "allDay": false,
+        "color": "#7247B2"
+    },
+    {
+        "title": "Wmo (Inne)",
+        "start": "2024-09-21T11:40:00",
+        "end": "2024-09-21T13:15:00",
+        "description": "Wielokr. metody oceny i optymalizacji\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr inż. Piotr Górny",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "SBD (L)",
+        "start": "2024-05-12T19:40:00",
+        "end": "2024-05-12T21:15:00",
+        "description": "Systemy baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/4\nProwadzący:  Arkadiusz Orzeł",
+        "allDay": false,
+        "color": "#7247B2"
+    },
+    {
+        "title": "Twinf (w)",
+        "start": "2024-10-05T11:40:00",
+        "end": "2024-10-05T13:15:00",
+        "description": "Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#9D47B2"
+    },
+    {
+        "title": "mo (P)",
+        "start": "2024-11-09T13:30:00",
+        "end": "2024-11-09T15:05:00",
+        "description": "Metodyki obiektowe\nRodzaj zajęć: Projekt\nNr zajęć: 7/10\nProwadzący: dr inż. Wojciech Kulas",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "Zui (P)",
+        "start": "2024-05-19T13:30:00",
+        "end": "2024-05-19T15:05:00",
+        "description": "Zarządzanie usługami informatycznymi\nRodzaj zajęć: Projekt\nNr zajęć: 4/6\nProwadzący: dr inż. Wiesław Barcikowski",
+        "allDay": false,
+        "color": "#72B247"
+    },
+    {
+        "title": "Mzw (L)",
+        "start": "2024-05-11T11:40:00",
+        "end": "2024-05-11T13:15:00",
+        "description": "Metodyki zwinne\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/3\nProwadzący: dr inż. Wojciech Kulas",
+        "allDay": false,
+        "color": "#47B272"
+    },
+    {
+        "title": "ak (w)",
+        "start": "2024-04-20T09:50:00",
+        "end": "2024-04-20T11:25:00",
+        "description": "Algorytmy kwantowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: dr inż. Joanna Wiśniewska",
+        "allDay": false,
+        "color": "#9DB247"
+    },
+    {
+        "title": "Twinf (L)",
+        "start": "2024-11-23T11:40:00",
+        "end": "2024-11-23T13:15:00",
+        "description": "Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#9D47B2"
+    },
+    {
+        "title": "Ek (w)",
+        "start": "2024-04-28T11:40:00",
+        "end": "2024-04-28T13:15:00",
+        "description": "Ekonomia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: -",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "Twinf (w)",
+        "start": "2024-10-05T13:30:00",
+        "end": "2024-10-05T15:05:00",
+        "description": "Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#9D47B2"
+    },
+    {
+        "title": "SBD (w)",
+        "start": "2024-03-02T09:50:00",
+        "end": "2024-03-02T11:25:00",
+        "description": "Systemy baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: dr inż. Jarosław Koszela",
+        "allDay": false,
+        "color": "#7247B2"
+    },
+    {
+        "title": "Esi (L)",
+        "start": "2024-05-25T16:00:00",
+        "end": "2024-05-25T17:35:00",
+        "description": "Efektywność systemów  informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/2\nProwadzący: mgr inż. Marcin Perka",
+        "allDay": false,
+        "color": "#479DB2"
+    },
+    {
+        "title": "ak (Inne)",
+        "start": "2024-09-21T08:00:00",
+        "end": "2024-09-21T09:35:00",
+        "description": "Algorytmy kwantowe\nRodzaj zajęć:  - \nNr zajęć: 3/4\nProwadzący: dr inż. Joanna Wiśniewska",
+        "allDay": false,
+        "color": "#9DB247"
+    },
+    {
+        "title": "Twinf (w)",
+        "start": "2024-10-19T13:30:00",
+        "end": "2024-10-19T15:05:00",
+        "description": "Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#9D47B2"
+    },
+    {
+        "title": "Mzw (w)",
+        "start": "2024-04-06T16:00:00",
+        "end": "2024-04-06T17:35:00",
+        "description": "Metodyki zwinne\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący: dr inż. Wojciech Kulas",
+        "allDay": false,
+        "color": "#47B272"
+    },
+    {
+        "title": "No (L)",
+        "start": "2024-04-27T17:50:00",
+        "end": "2024-04-27T19:25:00",
+        "description": "Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący: dr inż. Romuald Hoffmann",
+        "allDay": false,
+        "color": "#47B29D"
+    },
+    {
+        "title": "SBD (Inne)",
+        "start": "2024-07-06T11:40:00",
+        "end": "2024-07-06T13:15:00",
+        "description": "Systemy baz danych\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr inż. Jarosław Koszela",
+        "allDay": false,
+        "color": "#7247B2"
+    },
+    {
+        "title": "Mzw (w)",
+        "start": "2024-03-03T13:30:00",
+        "end": "2024-03-03T15:05:00",
+        "description": "Metodyki zwinne\nRodzaj zajęć: Wykład\nNr zajęć: 1/3\nProwadzący: dr inż. Wojciech Kulas",
+        "allDay": false,
+        "color": "#47B272"
+    },
+    {
+        "title": "Swp (E)",
+        "start": "2024-06-29T08:00:00",
+        "end": "2024-06-29T09:35:00",
+        "description": "Standardy w projektowaniu systemów dialogowych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Tomasz Pałys",
+        "allDay": false,
+        "color": "#B2479D"
+    },
+    {
+        "title": "mo (P)",
+        "start": "2024-11-09T16:00:00",
+        "end": "2024-11-09T17:35:00",
+        "description": "Metodyki obiektowe\nRodzaj zajęć: Projekt\nNr zajęć: 8/10\nProwadzący: dr inż. Wojciech Kulas",
+        "allDay": false,
+        "color": "#4747B2"
+    }
+]

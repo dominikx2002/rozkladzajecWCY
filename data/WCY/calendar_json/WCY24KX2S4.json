@@ -1,0 +1,1354 @@
+[
+    {
+        "title": "Mnk (L)",
+        "start": "2025-04-29T16:00:00",
+        "end": "2025-04-29T17:35:00",
+        "description": "Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/12\nProwadzący: dr hab. Ewa Czuchry",
+        "allDay": false,
+        "color": "#4799B2"
+    },
+    {
+        "title": "Ing (Inne)",
+        "start": "2025-03-03T11:40:00",
+        "end": "2025-03-03T13:15:00",
+        "description": "Inauguracja\nRodzaj zajęć:  - \nNr zajęć: 3/1\nProwadzący: dr hab. inż. Tadeusz Nowicki",
+        "allDay": false,
+        "color": "#B2AA47"
+    },
+    {
+        "title": "Ek (w)",
+        "start": "2025-04-02T13:30:00",
+        "end": "2025-04-02T15:05:00",
+        "description": "Ekonomia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#4768B2"
+    },
+    {
+        "title": "Dtu (w)",
+        "start": "2025-04-03T09:50:00",
+        "end": "2025-04-03T11:25:00",
+        "description": "Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący:  Zbigniew Zielinski",
+        "allDay": false,
+        "color": "#B247AA"
+    },
+    {
+        "title": "Mnk (L)",
+        "start": "2025-04-01T16:00:00",
+        "end": "2025-04-01T17:35:00",
+        "description": "Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/12\nProwadzący: dr hab. Ewa Czuchry",
+        "allDay": false,
+        "color": "#4799B2"
+    },
+    {
+        "title": "Mnk (w)",
+        "start": "2025-03-13T09:50:00",
+        "end": "2025-03-13T11:25:00",
+        "description": "Metody numeryczne w kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący: dr hab. Marek Kojdecki",
+        "allDay": false,
+        "color": "#4799B2"
+    },
+    {
+        "title": "Nmtz (ć)",
+        "start": "2025-06-10T09:50:00",
+        "end": "2025-06-10T11:25:00",
+        "description": "Nowoczesne metody i techniki zarządzania - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/3\nProwadzący: -",
+        "allDay": false,
+        "color": "#89B247"
+    },
+    {
+        "title": "Stg (L)",
+        "start": "2025-05-07T11:40:00",
+        "end": "2025-05-07T13:15:00",
+        "description": "Steganografia\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/7\nProwadzący: dr inż. Kamil Kaczyński",
+        "allDay": false,
+        "color": "#57B247"
+    },
+    {
+        "title": "Mnk (w)",
+        "start": "2025-03-06T11:40:00",
+        "end": "2025-03-06T13:15:00",
+        "description": "Metody numeryczne w kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący: dr hab. Marek Kojdecki",
+        "allDay": false,
+        "color": "#4799B2"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2025-04-24T13:30:00",
+        "end": "2025-04-24T15:05:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B268"
+    },
+    {
+        "title": "Mnk (L)",
+        "start": "2025-05-13T13:30:00",
+        "end": "2025-05-13T15:05:00",
+        "description": "Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/12\nProwadzący: dr hab. Ewa Czuchry",
+        "allDay": false,
+        "color": "#4799B2"
+    },
+    {
+        "title": "Nmtz (w)",
+        "start": "2025-04-09T09:50:00",
+        "end": "2025-04-09T11:25:00",
+        "description": "Nowoczesne metody i techniki zarządzania - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#89B247"
+    },
+    {
+        "title": "Tal (L)",
+        "start": "2025-04-01T13:30:00",
+        "end": "2025-04-01T15:05:00",
+        "description": "Techniki algorytmiczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: mgr inż. Piotr Stąpor",
+        "allDay": false,
+        "color": "#47B299"
+    },
+    {
+        "title": "Mnk (w)",
+        "start": "2025-06-05T11:40:00",
+        "end": "2025-06-05T13:15:00",
+        "description": "Metody numeryczne w kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: dr hab. Marek Kojdecki",
+        "allDay": false,
+        "color": "#4799B2"
+    },
+    {
+        "title": "Ps (w)",
+        "start": "2025-03-17T09:50:00",
+        "end": "2025-03-17T11:25:00",
+        "description": "Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: dr Lucjan Kowalski",
+        "allDay": false,
+        "color": "#5747B2"
+    },
+    {
+        "title": "Dtu (w)",
+        "start": "2025-05-06T09:50:00",
+        "end": "2025-05-06T11:25:00",
+        "description": "Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący:  Zbigniew Zielinski",
+        "allDay": false,
+        "color": "#B247AA"
+    },
+    {
+        "title": "Ek (ć)",
+        "start": "2025-05-27T13:30:00",
+        "end": "2025-05-27T15:05:00",
+        "description": "Ekonomia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/3\nProwadzący: -",
+        "allDay": false,
+        "color": "#4768B2"
+    },
+    {
+        "title": "BbD (w)",
+        "start": "2025-03-05T09:50:00",
+        "end": "2025-03-05T11:25:00",
+        "description": "Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr hab. inż. Bolesław Szafrański",
+        "allDay": false,
+        "color": "#B27847"
+    },
+    {
+        "title": "Mnk (L)",
+        "start": "2025-04-15T16:00:00",
+        "end": "2025-04-15T17:35:00",
+        "description": "Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/12\nProwadzący: dr hab. Ewa Czuchry",
+        "allDay": false,
+        "color": "#4799B2"
+    },
+    {
+        "title": "Tal (w)",
+        "start": "2025-03-31T13:30:00",
+        "end": "2025-03-31T15:05:00",
+        "description": "Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr hab. inż. Zbigniew Tarapata",
+        "allDay": false,
+        "color": "#47B299"
+    },
+    {
+        "title": "WIT (P)",
+        "start": "2025-06-18T16:00:00",
+        "end": "2025-06-18T17:35:00",
+        "description": "Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNr zajęć: 3/4\nProwadzący: mgr inż. Łukasz Paciorek",
+        "allDay": false,
+        "color": "#8947B2"
+    },
+    {
+        "title": "Nmtz (w)",
+        "start": "2025-04-16T09:50:00",
+        "end": "2025-04-16T11:25:00",
+        "description": "Nowoczesne metody i techniki zarządzania - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#89B247"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2025-05-22T13:30:00",
+        "end": "2025-05-22T15:05:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B268"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2025-06-05T13:30:00",
+        "end": "2025-06-05T15:05:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B268"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2025-03-20T13:30:00",
+        "end": "2025-03-20T15:05:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B268"
+    },
+    {
+        "title": "Stg (L)",
+        "start": "2025-04-23T11:40:00",
+        "end": "2025-04-23T13:15:00",
+        "description": "Steganografia\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/7\nProwadzący: dr inż. Kamil Kaczyński",
+        "allDay": false,
+        "color": "#57B247"
+    },
+    {
+        "title": "Dtu (L)",
+        "start": "2025-05-07T13:30:00",
+        "end": "2025-05-07T15:05:00",
+        "description": "Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący: mgr inż. Michał Melaniuk",
+        "allDay": false,
+        "color": "#B247AA"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2025-04-17T13:30:00",
+        "end": "2025-04-17T15:05:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B268"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2025-04-10T13:30:00",
+        "end": "2025-04-10T15:05:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B268"
+    },
+    {
+        "title": "Ps (w)",
+        "start": "2025-03-10T09:50:00",
+        "end": "2025-03-10T11:25:00",
+        "description": "Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: dr Lucjan Kowalski",
+        "allDay": false,
+        "color": "#5747B2"
+    },
+    {
+        "title": "Soc (w)",
+        "start": "2025-05-08T09:50:00",
+        "end": "2025-05-08T11:25:00",
+        "description": "Socjologia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24778"
+    },
+    {
+        "title": "TP (Inne)",
+        "start": "2025-04-10T11:40:00",
+        "end": "2025-04-10T13:15:00",
+        "description": "Targi pracy WAT\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Ing (Inne)",
+        "start": "2025-03-03T11:40:00",
+        "end": "2025-03-03T13:15:00",
+        "description": "Inauguracja\nRodzaj zajęć:  - \nNr zajęć: 4/1\nProwadzący: dr Joanna Piasecka",
+        "allDay": false,
+        "color": "#B2AA47"
+    },
+    {
+        "title": "Ps (w)",
+        "start": "2025-03-31T09:50:00",
+        "end": "2025-03-31T11:25:00",
+        "description": "Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr Lucjan Kowalski",
+        "allDay": false,
+        "color": "#5747B2"
+    },
+    {
+        "title": "Dtu (P)",
+        "start": "2025-05-28T11:40:00",
+        "end": "2025-05-28T13:15:00",
+        "description": "Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Projekt\nNr zajęć: 5/7\nProwadzący: mgr inż. Michał Melaniuk",
+        "allDay": false,
+        "color": "#B247AA"
+    },
+    {
+        "title": "BbD (L)",
+        "start": "2025-05-19T11:40:00",
+        "end": "2025-05-19T13:15:00",
+        "description": "Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: mgr inż. Józef Woźniak",
+        "allDay": false,
+        "color": "#B27847"
+    },
+    {
+        "title": "Mnk (L)",
+        "start": "2025-04-08T16:00:00",
+        "end": "2025-04-08T17:35:00",
+        "description": "Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/12\nProwadzący: dr hab. Ewa Czuchry",
+        "allDay": false,
+        "color": "#4799B2"
+    },
+    {
+        "title": "Ps (w)",
+        "start": "2025-03-24T09:50:00",
+        "end": "2025-03-24T11:25:00",
+        "description": "Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr Lucjan Kowalski",
+        "allDay": false,
+        "color": "#5747B2"
+    },
+    {
+        "title": "Tal (w)",
+        "start": "2025-03-10T11:40:00",
+        "end": "2025-03-10T13:15:00",
+        "description": "Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr hab. inż. Zbigniew Tarapata",
+        "allDay": false,
+        "color": "#47B299"
+    },
+    {
+        "title": "Tal (L)",
+        "start": "2025-05-20T11:40:00",
+        "end": "2025-05-20T13:15:00",
+        "description": "Techniki algorytmiczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: mgr inż. Piotr Stąpor",
+        "allDay": false,
+        "color": "#47B299"
+    },
+    {
+        "title": "Mnk (L)",
+        "start": "2025-05-13T16:00:00",
+        "end": "2025-05-13T17:35:00",
+        "description": "Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/12\nProwadzący: dr hab. Ewa Czuchry",
+        "allDay": false,
+        "color": "#4799B2"
+    },
+    {
+        "title": "Ps (ć)",
+        "start": "2025-05-19T09:50:00",
+        "end": "2025-05-19T11:25:00",
+        "description": "Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: dr Lucjan Kowalski",
+        "allDay": false,
+        "color": "#5747B2"
+    },
+    {
+        "title": "Ek (w)",
+        "start": "2025-06-11T11:40:00",
+        "end": "2025-06-11T13:15:00",
+        "description": "Ekonomia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#4768B2"
+    },
+    {
+        "title": "Soc (w)",
+        "start": "2025-05-08T11:40:00",
+        "end": "2025-05-08T13:15:00",
+        "description": "Socjologia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24778"
+    },
+    {
+        "title": "WIT (w)",
+        "start": "2025-03-04T09:50:00",
+        "end": "2025-03-04T11:25:00",
+        "description": "Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#8947B2"
+    },
+    {
+        "title": "Stg (w)",
+        "start": "2025-04-30T11:40:00",
+        "end": "2025-04-30T13:15:00",
+        "description": "Steganografia\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: dr inż. Kamil Kaczyński",
+        "allDay": false,
+        "color": "#57B247"
+    },
+    {
+        "title": "WIT (L)",
+        "start": "2025-05-14T16:00:00",
+        "end": "2025-05-14T17:35:00",
+        "description": "Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący: mgr inż. Łukasz Paciorek",
+        "allDay": false,
+        "color": "#8947B2"
+    },
+    {
+        "title": "Stg (w)",
+        "start": "2025-04-30T09:50:00",
+        "end": "2025-04-30T11:25:00",
+        "description": "Steganografia\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: dr inż. Kamil Kaczyński",
+        "allDay": false,
+        "color": "#57B247"
+    },
+    {
+        "title": "WIT (w)",
+        "start": "2025-03-11T08:00:00",
+        "end": "2025-03-11T09:35:00",
+        "description": "Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#8947B2"
+    },
+    {
+        "title": "Tal (L)",
+        "start": "2025-05-27T09:50:00",
+        "end": "2025-05-27T11:25:00",
+        "description": "Techniki algorytmiczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: mgr inż. Piotr Stąpor",
+        "allDay": false,
+        "color": "#47B299"
+    },
+    {
+        "title": "Mnk (L)",
+        "start": "2025-05-20T16:00:00",
+        "end": "2025-05-20T17:35:00",
+        "description": "Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/12\nProwadzący: dr hab. Ewa Czuchry",
+        "allDay": false,
+        "color": "#4799B2"
+    },
+    {
+        "title": "Ps (ć)",
+        "start": "2025-05-05T11:40:00",
+        "end": "2025-05-05T13:15:00",
+        "description": "Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: dr Lucjan Kowalski",
+        "allDay": false,
+        "color": "#5747B2"
+    },
+    {
+        "title": "Mnk (L)",
+        "start": "2025-03-25T16:00:00",
+        "end": "2025-03-25T17:35:00",
+        "description": "Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/12\nProwadzący: dr hab. Ewa Czuchry",
+        "allDay": false,
+        "color": "#4799B2"
+    },
+    {
+        "title": "Dtu (w)",
+        "start": "2025-03-20T09:50:00",
+        "end": "2025-03-20T11:25:00",
+        "description": "Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący:  Zbigniew Zielinski",
+        "allDay": false,
+        "color": "#B247AA"
+    },
+    {
+        "title": "Mnk (w)",
+        "start": "2025-03-13T11:40:00",
+        "end": "2025-03-13T13:15:00",
+        "description": "Metody numeryczne w kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący: dr hab. Marek Kojdecki",
+        "allDay": false,
+        "color": "#4799B2"
+    },
+    {
+        "title": "Tal (w)",
+        "start": "2025-03-18T13:30:00",
+        "end": "2025-03-18T15:05:00",
+        "description": "Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr hab. inż. Zbigniew Tarapata",
+        "allDay": false,
+        "color": "#47B299"
+    },
+    {
+        "title": "Ing (Inne)",
+        "start": "2025-03-03T11:40:00",
+        "end": "2025-03-03T13:15:00",
+        "description": "Inauguracja\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr hab. Marek Kojdecki",
+        "allDay": false,
+        "color": "#B2AA47"
+    },
+    {
+        "title": "Ek (w)",
+        "start": "2025-03-18T09:50:00",
+        "end": "2025-03-18T11:25:00",
+        "description": "Ekonomia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#4768B2"
+    },
+    {
+        "title": "BbD (L)",
+        "start": "2025-05-26T13:30:00",
+        "end": "2025-05-26T15:05:00",
+        "description": "Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: mgr inż. Józef Woźniak",
+        "allDay": false,
+        "color": "#B27847"
+    },
+    {
+        "title": "Soc (w)",
+        "start": "2025-05-22T11:40:00",
+        "end": "2025-05-22T13:15:00",
+        "description": "Socjologia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24778"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2025-04-11T17:50:00",
+        "end": "2025-04-11T19:25:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B268"
+    },
+    {
+        "title": "WIT (w)",
+        "start": "2025-03-25T08:00:00",
+        "end": "2025-03-25T09:35:00",
+        "description": "Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#8947B2"
+    },
+    {
+        "title": "Ps (ć)",
+        "start": "2025-04-07T11:40:00",
+        "end": "2025-04-07T13:15:00",
+        "description": "Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący: dr Lucjan Kowalski",
+        "allDay": false,
+        "color": "#5747B2"
+    },
+    {
+        "title": "Dtu (P)",
+        "start": "2025-04-24T09:50:00",
+        "end": "2025-04-24T11:25:00",
+        "description": "Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Projekt\nNr zajęć: 1/7\nProwadzący: mgr inż. Michał Melaniuk",
+        "allDay": false,
+        "color": "#B247AA"
+    },
+    {
+        "title": "Ps (w)",
+        "start": "2025-04-07T09:50:00",
+        "end": "2025-04-07T11:25:00",
+        "description": "Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: dr Lucjan Kowalski",
+        "allDay": false,
+        "color": "#5747B2"
+    },
+    {
+        "title": "Ps (w)",
+        "start": "2025-06-16T09:50:00",
+        "end": "2025-06-16T11:25:00",
+        "description": "Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr Lucjan Kowalski",
+        "allDay": false,
+        "color": "#5747B2"
+    },
+    {
+        "title": "Dtu (P)",
+        "start": "2025-06-12T09:50:00",
+        "end": "2025-06-12T11:25:00",
+        "description": "Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Projekt\nNr zajęć: 6/7\nProwadzący: mgr inż. Michał Melaniuk",
+        "allDay": false,
+        "color": "#B247AA"
+    },
+    {
+        "title": "Tal (w)",
+        "start": "2025-03-31T11:40:00",
+        "end": "2025-03-31T13:15:00",
+        "description": "Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr hab. inż. Zbigniew Tarapata",
+        "allDay": false,
+        "color": "#47B299"
+    },
+    {
+        "title": "Ing (Inne)",
+        "start": "2025-03-03T11:40:00",
+        "end": "2025-03-03T13:15:00",
+        "description": "Inauguracja\nRodzaj zajęć:  - \nNr zajęć: 6/1\nProwadzący: dr hab. inż. Zbigniew Tarapata",
+        "allDay": false,
+        "color": "#B2AA47"
+    },
+    {
+        "title": "Stg (w)",
+        "start": "2025-04-23T13:30:00",
+        "end": "2025-04-23T15:05:00",
+        "description": "Steganografia\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: dr inż. Kamil Kaczyński",
+        "allDay": false,
+        "color": "#57B247"
+    },
+    {
+        "title": "Dtu (L)",
+        "start": "2025-04-17T09:50:00",
+        "end": "2025-04-17T11:25:00",
+        "description": "Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący: mgr inż. Michał Melaniuk",
+        "allDay": false,
+        "color": "#B247AA"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2025-03-27T13:30:00",
+        "end": "2025-03-27T15:05:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B268"
+    },
+    {
+        "title": "BbD (L)",
+        "start": "2025-06-09T11:40:00",
+        "end": "2025-06-09T13:15:00",
+        "description": "Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: mgr inż. Józef Woźniak",
+        "allDay": false,
+        "color": "#B27847"
+    },
+    {
+        "title": "Mnk (L)",
+        "start": "2025-05-06T16:00:00",
+        "end": "2025-05-06T17:35:00",
+        "description": "Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/12\nProwadzący: dr hab. Ewa Czuchry",
+        "allDay": false,
+        "color": "#4799B2"
+    },
+    {
+        "title": "BbD (L)",
+        "start": "2025-06-09T13:30:00",
+        "end": "2025-06-09T15:05:00",
+        "description": "Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr inż. Józef Woźniak",
+        "allDay": false,
+        "color": "#B27847"
+    },
+    {
+        "title": "Ek (ć)",
+        "start": "2025-04-29T11:40:00",
+        "end": "2025-04-29T13:15:00",
+        "description": "Ekonomia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/3\nProwadzący: -",
+        "allDay": false,
+        "color": "#4768B2"
+    },
+    {
+        "title": "Tal (w)",
+        "start": "2025-03-10T13:30:00",
+        "end": "2025-03-10T15:05:00",
+        "description": "Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr hab. inż. Zbigniew Tarapata",
+        "allDay": false,
+        "color": "#47B299"
+    },
+    {
+        "title": "Stg (w)",
+        "start": "2025-05-07T09:50:00",
+        "end": "2025-05-07T11:25:00",
+        "description": "Steganografia\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: dr inż. Kamil Kaczyński",
+        "allDay": false,
+        "color": "#57B247"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2025-03-13T13:30:00",
+        "end": "2025-03-13T15:05:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B268"
+    },
+    {
+        "title": "Mnk (L)",
+        "start": "2025-05-27T16:00:00",
+        "end": "2025-05-27T17:35:00",
+        "description": "Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/12\nProwadzący: dr hab. Ewa Czuchry",
+        "allDay": false,
+        "color": "#4799B2"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2025-05-15T13:30:00",
+        "end": "2025-05-15T15:05:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B268"
+    },
+    {
+        "title": "Ek (w)",
+        "start": "2025-03-12T11:40:00",
+        "end": "2025-03-12T13:15:00",
+        "description": "Ekonomia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#4768B2"
+    },
+    {
+        "title": "Stg (L)",
+        "start": "2025-06-18T13:30:00",
+        "end": "2025-06-18T15:05:00",
+        "description": "Steganografia\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/7\nProwadzący: dr inż. Kamil Kaczyński",
+        "allDay": false,
+        "color": "#57B247"
+    },
+    {
+        "title": "Ps (w)",
+        "start": "2025-03-03T13:30:00",
+        "end": "2025-03-03T15:05:00",
+        "description": "Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: dr Lucjan Kowalski",
+        "allDay": false,
+        "color": "#5747B2"
+    },
+    {
+        "title": "Soc (w)",
+        "start": "2025-05-15T11:40:00",
+        "end": "2025-05-15T13:15:00",
+        "description": "Socjologia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24778"
+    },
+    {
+        "title": "Ps (ć)",
+        "start": "2025-05-26T09:50:00",
+        "end": "2025-05-26T11:25:00",
+        "description": "Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący: dr Lucjan Kowalski",
+        "allDay": false,
+        "color": "#5747B2"
+    },
+    {
+        "title": "Tal (L)",
+        "start": "2025-05-07T16:00:00",
+        "end": "2025-05-07T17:35:00",
+        "description": "Techniki algorytmiczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: mgr inż. Piotr Stąpor",
+        "allDay": false,
+        "color": "#47B299"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2025-05-08T13:30:00",
+        "end": "2025-05-08T15:05:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B268"
+    },
+    {
+        "title": "Nmtz (ć)",
+        "start": "2025-06-03T11:40:00",
+        "end": "2025-06-03T13:15:00",
+        "description": "Nowoczesne metody i techniki zarządzania - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/3\nProwadzący: -",
+        "allDay": false,
+        "color": "#89B247"
+    },
+    {
+        "title": "Mnk (w)",
+        "start": "2025-04-17T11:40:00",
+        "end": "2025-04-17T13:15:00",
+        "description": "Metody numeryczne w kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: dr hab. Marek Kojdecki",
+        "allDay": false,
+        "color": "#4799B2"
+    },
+    {
+        "title": "Mnk (w)",
+        "start": "2025-04-03T11:40:00",
+        "end": "2025-04-03T13:15:00",
+        "description": "Metody numeryczne w kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący: dr hab. Marek Kojdecki",
+        "allDay": false,
+        "color": "#4799B2"
+    },
+    {
+        "title": "Tal (w)",
+        "start": "2025-04-04T08:00:00",
+        "end": "2025-04-04T09:35:00",
+        "description": "Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr hab. inż. Zbigniew Tarapata",
+        "allDay": false,
+        "color": "#47B299"
+    },
+    {
+        "title": "Ps (ć)",
+        "start": "2025-06-09T09:50:00",
+        "end": "2025-06-09T11:25:00",
+        "description": "Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: dr Lucjan Kowalski",
+        "allDay": false,
+        "color": "#5747B2"
+    },
+    {
+        "title": "BbD (w)",
+        "start": "2025-04-09T11:40:00",
+        "end": "2025-04-09T13:15:00",
+        "description": "Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr hab. inż. Bolesław Szafrański",
+        "allDay": false,
+        "color": "#B27847"
+    },
+    {
+        "title": "Ek (w)",
+        "start": "2025-03-12T13:30:00",
+        "end": "2025-03-12T15:05:00",
+        "description": "Ekonomia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#4768B2"
+    },
+    {
+        "title": "WIT (P)",
+        "start": "2025-06-18T17:50:00",
+        "end": "2025-06-18T19:25:00",
+        "description": "Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNr zajęć: 4/4\nProwadzący: mgr inż. Łukasz Paciorek",
+        "allDay": false,
+        "color": "#8947B2"
+    },
+    {
+        "title": "Tal (L)",
+        "start": "2025-05-13T11:40:00",
+        "end": "2025-05-13T13:15:00",
+        "description": "Techniki algorytmiczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: mgr inż. Piotr Stąpor",
+        "allDay": false,
+        "color": "#47B299"
+    },
+    {
+        "title": "Dtu (w)",
+        "start": "2025-04-15T09:50:00",
+        "end": "2025-04-15T11:25:00",
+        "description": "Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący:  Zbigniew Zielinski",
+        "allDay": false,
+        "color": "#B247AA"
+    },
+    {
+        "title": "BbD (w)",
+        "start": "2025-03-19T11:40:00",
+        "end": "2025-03-19T13:15:00",
+        "description": "Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr hab. inż. Bolesław Szafrański",
+        "allDay": false,
+        "color": "#B27847"
+    },
+    {
+        "title": "Nmtz (w)",
+        "start": "2025-03-12T09:50:00",
+        "end": "2025-03-12T11:25:00",
+        "description": "Nowoczesne metody i techniki zarządzania - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#89B247"
+    },
+    {
+        "title": "BbD (w)",
+        "start": "2025-03-05T08:00:00",
+        "end": "2025-03-05T09:35:00",
+        "description": "Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr hab. inż. Bolesław Szafrański",
+        "allDay": false,
+        "color": "#B27847"
+    },
+    {
+        "title": "BbD (L)",
+        "start": "2025-05-12T13:30:00",
+        "end": "2025-05-12T15:05:00",
+        "description": "Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: mgr inż. Józef Woźniak",
+        "allDay": false,
+        "color": "#B27847"
+    },
+    {
+        "title": "Dtu (w)",
+        "start": "2025-04-29T09:50:00",
+        "end": "2025-04-29T11:25:00",
+        "description": "Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący:  Zbigniew Zielinski",
+        "allDay": false,
+        "color": "#B247AA"
+    },
+    {
+        "title": "Tal (L)",
+        "start": "2025-06-18T11:40:00",
+        "end": "2025-06-18T13:15:00",
+        "description": "Techniki algorytmiczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr inż. Piotr Stąpor",
+        "allDay": false,
+        "color": "#47B299"
+    },
+    {
+        "title": "Mnk (L)",
+        "start": "2025-06-12T16:00:00",
+        "end": "2025-06-12T17:35:00",
+        "description": "Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/12\nProwadzący: dr hab. Ewa Czuchry",
+        "allDay": false,
+        "color": "#4799B2"
+    },
+    {
+        "title": "Dtu (L)",
+        "start": "2025-04-30T13:30:00",
+        "end": "2025-04-30T15:05:00",
+        "description": "Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: mgr inż. Michał Melaniuk",
+        "allDay": false,
+        "color": "#B247AA"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2025-06-12T13:30:00",
+        "end": "2025-06-12T15:05:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B268"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2025-04-03T13:30:00",
+        "end": "2025-04-03T15:05:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B268"
+    },
+    {
+        "title": "Stg (w)",
+        "start": "2025-05-21T09:50:00",
+        "end": "2025-05-21T11:25:00",
+        "description": "Steganografia\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: dr inż. Kamil Kaczyński",
+        "allDay": false,
+        "color": "#57B247"
+    },
+    {
+        "title": "Soc (ć)",
+        "start": "2025-06-10T11:40:00",
+        "end": "2025-06-10T13:15:00",
+        "description": "Socjologia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/3\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24778"
+    },
+    {
+        "title": "Mnk (L)",
+        "start": "2025-06-03T16:00:00",
+        "end": "2025-06-03T17:35:00",
+        "description": "Metody numeryczne w kryptologii\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/12\nProwadzący: dr hab. Ewa Czuchry",
+        "allDay": false,
+        "color": "#4799B2"
+    },
+    {
+        "title": "Stg (L)",
+        "start": "2025-05-14T13:30:00",
+        "end": "2025-05-14T15:05:00",
+        "description": "Steganografia\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/7\nProwadzący: dr inż. Kamil Kaczyński",
+        "allDay": false,
+        "color": "#57B247"
+    },
+    {
+        "title": "Soc (w)",
+        "start": "2025-05-22T09:50:00",
+        "end": "2025-05-22T11:25:00",
+        "description": "Socjologia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24778"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2025-05-29T13:30:00",
+        "end": "2025-05-29T15:05:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B268"
+    },
+    {
+        "title": "Dtu (L)",
+        "start": "2025-06-05T09:50:00",
+        "end": "2025-06-05T11:25:00",
+        "description": "Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: mgr inż. Michał Melaniuk",
+        "allDay": false,
+        "color": "#B247AA"
+    },
+    {
+        "title": "Soc (w)",
+        "start": "2025-05-05T09:50:00",
+        "end": "2025-05-05T11:25:00",
+        "description": "Socjologia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24778"
+    },
+    {
+        "title": "Dtu (w)",
+        "start": "2025-03-27T09:50:00",
+        "end": "2025-03-27T11:25:00",
+        "description": "Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący:  Zbigniew Zielinski",
+        "allDay": false,
+        "color": "#B247AA"
+    },
+    {
+        "title": "Nmtz (w)",
+        "start": "2025-04-23T09:50:00",
+        "end": "2025-04-23T11:25:00",
+        "description": "Nowoczesne metody i techniki zarządzania - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#89B247"
+    },
+    {
+        "title": "Mnk (w)",
+        "start": "2025-04-14T09:50:00",
+        "end": "2025-04-14T11:25:00",
+        "description": "Metody numeryczne w kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący: dr hab. Marek Kojdecki",
+        "allDay": false,
+        "color": "#4799B2"
+    },
+    {
+        "title": "Soc (ć)",
+        "start": "2025-05-20T13:30:00",
+        "end": "2025-05-20T15:05:00",
+        "description": "Socjologia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/3\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24778"
+    },
+    {
+        "title": "BbD (w)",
+        "start": "2025-03-26T13:30:00",
+        "end": "2025-03-26T15:05:00",
+        "description": "Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr hab. inż. Bolesław Szafrański",
+        "allDay": false,
+        "color": "#B27847"
+    },
+    {
+        "title": "BbD (w)",
+        "start": "2025-03-19T13:30:00",
+        "end": "2025-03-19T15:05:00",
+        "description": "Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr hab. inż. Bolesław Szafrański",
+        "allDay": false,
+        "color": "#B27847"
+    },
+    {
+        "title": "Dtu (P)",
+        "start": "2025-05-28T09:50:00",
+        "end": "2025-05-28T11:25:00",
+        "description": "Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Projekt\nNr zajęć: 4/7\nProwadzący: mgr inż. Michał Melaniuk",
+        "allDay": false,
+        "color": "#B247AA"
+    },
+    {
+        "title": "WIT (L)",
+        "start": "2025-05-28T16:00:00",
+        "end": "2025-05-28T17:35:00",
+        "description": "Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący: mgr inż. Łukasz Paciorek",
+        "allDay": false,
+        "color": "#8947B2"
+    },
+    {
+        "title": "BbD (L)",
+        "start": "2025-05-19T13:30:00",
+        "end": "2025-05-19T15:05:00",
+        "description": "Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: mgr inż. Józef Woźniak",
+        "allDay": false,
+        "color": "#B27847"
+    },
+    {
+        "title": "Stg (w)",
+        "start": "2025-03-05T11:40:00",
+        "end": "2025-03-05T13:15:00",
+        "description": "Steganografia\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: dr inż. Kamil Kaczyński",
+        "allDay": false,
+        "color": "#57B247"
+    },
+    {
+        "title": "Nmtz (ć)",
+        "start": "2025-05-27T11:40:00",
+        "end": "2025-05-27T13:15:00",
+        "description": "Nowoczesne metody i techniki zarządzania - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/3\nProwadzący: -",
+        "allDay": false,
+        "color": "#89B247"
+    },
+    {
+        "title": "Mnk (w)",
+        "start": "2025-05-05T08:00:00",
+        "end": "2025-05-05T09:35:00",
+        "description": "Metody numeryczne w kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący: dr hab. Marek Kojdecki",
+        "allDay": false,
+        "color": "#4799B2"
+    },
+    {
+        "title": "Stg (w)",
+        "start": "2025-04-16T11:40:00",
+        "end": "2025-04-16T13:15:00",
+        "description": "Steganografia\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: dr inż. Kamil Kaczyński",
+        "allDay": false,
+        "color": "#57B247"
+    },
+    {
+        "title": "Ing (Inne)",
+        "start": "2025-03-03T11:40:00",
+        "end": "2025-03-03T13:15:00",
+        "description": "Inauguracja\nRodzaj zajęć:  - \nNr zajęć: 5/1\nProwadzący: dr inż. Dariusz Pierzchała",
+        "allDay": false,
+        "color": "#B2AA47"
+    },
+    {
+        "title": "WIT (L)",
+        "start": "2025-04-09T17:50:00",
+        "end": "2025-04-09T19:25:00",
+        "description": "Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący: mgr inż. Łukasz Paciorek",
+        "allDay": false,
+        "color": "#8947B2"
+    },
+    {
+        "title": "WIT (P)",
+        "start": "2025-05-08T16:00:00",
+        "end": "2025-05-08T17:35:00",
+        "description": "Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNr zajęć: 1/4\nProwadzący: mgr inż. Łukasz Paciorek",
+        "allDay": false,
+        "color": "#8947B2"
+    },
+    {
+        "title": "Ek (ć)",
+        "start": "2025-04-15T11:40:00",
+        "end": "2025-04-15T13:15:00",
+        "description": "Ekonomia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/3\nProwadzący: -",
+        "allDay": false,
+        "color": "#4768B2"
+    },
+    {
+        "title": "WIT (w)",
+        "start": "2025-03-11T09:50:00",
+        "end": "2025-03-11T11:25:00",
+        "description": "Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#8947B2"
+    },
+    {
+        "title": "WIT (L)",
+        "start": "2025-05-28T17:50:00",
+        "end": "2025-05-28T19:25:00",
+        "description": "Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: mgr inż. Łukasz Paciorek",
+        "allDay": false,
+        "color": "#8947B2"
+    },
+    {
+        "title": "Ek (w)",
+        "start": "2025-06-17T11:40:00",
+        "end": "2025-06-17T13:15:00",
+        "description": "Ekonomia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#4768B2"
+    },
+    {
+        "title": "Ek (w)",
+        "start": "2025-04-02T11:40:00",
+        "end": "2025-04-02T13:15:00",
+        "description": "Ekonomia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#4768B2"
+    },
+    {
+        "title": "Nmtz (w)",
+        "start": "2025-03-19T09:50:00",
+        "end": "2025-03-19T11:25:00",
+        "description": "Nowoczesne metody i techniki zarządzania - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#89B247"
+    },
+    {
+        "title": "WIT (L)",
+        "start": "2025-05-14T17:50:00",
+        "end": "2025-05-14T19:25:00",
+        "description": "Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący: mgr inż. Łukasz Paciorek",
+        "allDay": false,
+        "color": "#8947B2"
+    },
+    {
+        "title": "Nmtz (w)",
+        "start": "2025-03-26T09:50:00",
+        "end": "2025-03-26T11:25:00",
+        "description": "Nowoczesne metody i techniki zarządzania - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#89B247"
+    },
+    {
+        "title": "Ing (Inne)",
+        "start": "2025-03-03T11:40:00",
+        "end": "2025-03-03T13:15:00",
+        "description": "Inauguracja\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Janusz Furtak",
+        "allDay": false,
+        "color": "#B2AA47"
+    },
+    {
+        "title": "Stg (L)",
+        "start": "2025-04-16T13:30:00",
+        "end": "2025-04-16T15:05:00",
+        "description": "Steganografia\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/7\nProwadzący: dr inż. Kamil Kaczyński",
+        "allDay": false,
+        "color": "#57B247"
+    },
+    {
+        "title": "Soc (w)",
+        "start": "2025-05-15T09:50:00",
+        "end": "2025-05-15T11:25:00",
+        "description": "Socjologia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24778"
+    },
+    {
+        "title": "Stg (w)",
+        "start": "2025-04-09T13:30:00",
+        "end": "2025-04-09T15:05:00",
+        "description": "Steganografia\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: dr inż. Kamil Kaczyński",
+        "allDay": false,
+        "color": "#57B247"
+    },
+    {
+        "title": "WIT (L)",
+        "start": "2025-04-09T16:00:00",
+        "end": "2025-04-09T17:35:00",
+        "description": "Wirtualizacja systemów IT\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący: mgr inż. Łukasz Paciorek",
+        "allDay": false,
+        "color": "#8947B2"
+    },
+    {
+        "title": "Stg (L)",
+        "start": "2025-05-28T13:30:00",
+        "end": "2025-05-28T15:05:00",
+        "description": "Steganografia\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/7\nProwadzący: dr inż. Kamil Kaczyński",
+        "allDay": false,
+        "color": "#57B247"
+    },
+    {
+        "title": "Nmtz (w)",
+        "start": "2025-04-02T09:50:00",
+        "end": "2025-04-02T11:25:00",
+        "description": "Nowoczesne metody i techniki zarządzania - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#89B247"
+    },
+    {
+        "title": "Dtu (P)",
+        "start": "2025-05-06T11:40:00",
+        "end": "2025-05-06T13:15:00",
+        "description": "Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Projekt\nNr zajęć: 2/7\nProwadzący: mgr inż. Michał Melaniuk",
+        "allDay": false,
+        "color": "#B247AA"
+    },
+    {
+        "title": "Dtu (P)",
+        "start": "2025-05-06T13:30:00",
+        "end": "2025-05-06T15:05:00",
+        "description": "Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Projekt\nNr zajęć: 3/7\nProwadzący: mgr inż. Michał Melaniuk",
+        "allDay": false,
+        "color": "#B247AA"
+    },
+    {
+        "title": "WIT (P)",
+        "start": "2025-05-08T17:50:00",
+        "end": "2025-05-08T19:25:00",
+        "description": "Wirtualizacja systemów IT\nRodzaj zajęć: Projekt\nNr zajęć: 2/4\nProwadzący: mgr inż. Łukasz Paciorek",
+        "allDay": false,
+        "color": "#8947B2"
+    },
+    {
+        "title": "Tal (w)",
+        "start": "2025-04-14T11:40:00",
+        "end": "2025-04-14T13:15:00",
+        "description": "Techniki algorytmiczne\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr hab. inż. Zbigniew Tarapata",
+        "allDay": false,
+        "color": "#47B299"
+    },
+    {
+        "title": "BbD (L)",
+        "start": "2025-05-26T11:40:00",
+        "end": "2025-05-26T13:15:00",
+        "description": "Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: mgr inż. Józef Woźniak",
+        "allDay": false,
+        "color": "#B27847"
+    },
+    {
+        "title": "Dtu (L)",
+        "start": "2025-05-21T11:40:00",
+        "end": "2025-05-21T13:15:00",
+        "description": "Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący: mgr inż. Michał Melaniuk",
+        "allDay": false,
+        "color": "#B247AA"
+    },
+    {
+        "title": "BbD (w)",
+        "start": "2025-03-26T11:40:00",
+        "end": "2025-03-26T13:15:00",
+        "description": "Bezpieczeństwo baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr hab. inż. Bolesław Szafrański",
+        "allDay": false,
+        "color": "#B27847"
+    },
+    {
+        "title": "Ps (w)",
+        "start": "2025-04-28T09:50:00",
+        "end": "2025-04-28T11:25:00",
+        "description": "Procesy stochastyczne\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: dr Lucjan Kowalski",
+        "allDay": false,
+        "color": "#5747B2"
+    },
+    {
+        "title": "Stg (L)",
+        "start": "2025-05-21T13:30:00",
+        "end": "2025-05-21T15:05:00",
+        "description": "Steganografia\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/7\nProwadzący: dr inż. Kamil Kaczyński",
+        "allDay": false,
+        "color": "#57B247"
+    },
+    {
+        "title": "Dtu (w)",
+        "start": "2025-04-10T09:50:00",
+        "end": "2025-04-10T11:25:00",
+        "description": "Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący:  Zbigniew Zielinski",
+        "allDay": false,
+        "color": "#B247AA"
+    },
+    {
+        "title": "BbD (L)",
+        "start": "2025-05-12T11:40:00",
+        "end": "2025-05-12T13:15:00",
+        "description": "Bezpieczeństwo baz danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: mgr inż. Józef Woźniak",
+        "allDay": false,
+        "color": "#B27847"
+    },
+    {
+        "title": "Ps (ć)",
+        "start": "2025-05-12T09:50:00",
+        "end": "2025-05-12T11:25:00",
+        "description": "Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: dr Lucjan Kowalski",
+        "allDay": false,
+        "color": "#5747B2"
+    },
+    {
+        "title": "Dtu (w)",
+        "start": "2025-05-13T09:50:00",
+        "end": "2025-05-13T11:25:00",
+        "description": "Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący:  Zbigniew Zielinski",
+        "allDay": false,
+        "color": "#B247AA"
+    },
+    {
+        "title": "Mnk (w)",
+        "start": "2025-03-27T11:40:00",
+        "end": "2025-03-27T13:15:00",
+        "description": "Metody numeryczne w kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący: dr hab. Marek Kojdecki",
+        "allDay": false,
+        "color": "#4799B2"
+    },
+    {
+        "title": "WIT (w)",
+        "start": "2025-03-04T08:00:00",
+        "end": "2025-03-04T09:35:00",
+        "description": "Wirtualizacja systemów IT\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Witold Żorski",
+        "allDay": false,
+        "color": "#8947B2"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2025-03-06T13:30:00",
+        "end": "2025-03-06T15:05:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B268"
+    },
+    {
+        "title": "Dtu (P)",
+        "start": "2025-06-12T11:40:00",
+        "end": "2025-06-12T13:15:00",
+        "description": "Diagnostyka i tolerowanie uszkodzeń\nRodzaj zajęć: Projekt\nNr zajęć: 7/7\nProwadzący: mgr inż. Michał Melaniuk",
+        "allDay": false,
+        "color": "#B247AA"
+    },
+    {
+        "title": "Ps (ć)",
+        "start": "2025-04-28T11:40:00",
+        "end": "2025-04-28T13:15:00",
+        "description": "Procesy stochastyczne\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący: dr Lucjan Kowalski",
+        "allDay": false,
+        "color": "#5747B2"
+    },
+    {
+        "title": "Mnk (w)",
+        "start": "2025-03-24T11:40:00",
+        "end": "2025-03-24T13:15:00",
+        "description": "Metody numeryczne w kryptologii\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: dr hab. Marek Kojdecki",
+        "allDay": false,
+        "color": "#4799B2"
+    },
+    {
+        "title": "Tal (L)",
+        "start": "2025-06-03T09:50:00",
+        "end": "2025-06-03T11:25:00",
+        "description": "Techniki algorytmiczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: mgr inż. Piotr Stąpor",
+        "allDay": false,
+        "color": "#47B299"
+    },
+    {
+        "title": "Tal (L)",
+        "start": "2025-04-29T13:30:00",
+        "end": "2025-04-29T15:05:00",
+        "description": "Techniki algorytmiczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: mgr inż. Piotr Stąpor",
+        "allDay": false,
+        "color": "#47B299"
+    },
+    {
+        "title": "Soc (ć)",
+        "start": "2025-06-03T13:30:00",
+        "end": "2025-06-03T15:05:00",
+        "description": "Socjologia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/3\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24778"
+    }
+]

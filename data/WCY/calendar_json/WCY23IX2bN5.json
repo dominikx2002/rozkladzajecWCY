@@ -1,0 +1,682 @@
+[
+    {
+        "title": "Eko (E)",
+        "start": "2024-06-23T08:00:00",
+        "end": "2024-06-23T09:35:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 14/8\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#47B284"
+    },
+    {
+        "title": "PNc (w)",
+        "start": "2024-05-25T08:00:00",
+        "end": "2024-05-25T09:35:00",
+        "description": "Polityka NATO w zakresie cyberbezpieczeństwa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#4784B2"
+    },
+    {
+        "title": "Sd. (w)",
+        "start": "2024-03-17T11:40:00",
+        "end": "2024-03-17T13:15:00",
+        "description": "Seminarium dyplomowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/2\nProwadzący: dr inż. Wiesław Barcikowski",
+        "allDay": false,
+        "color": "#66B247"
+    },
+    {
+        "title": "Ots (w)",
+        "start": "2024-03-02T11:40:00",
+        "end": "2024-03-02T13:15:00",
+        "description": "Ochrona transakcyjnych i statystycznych baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr hab. inż. Bolesław Szafrański",
+        "allDay": false,
+        "color": "#6547B2"
+    },
+    {
+        "title": "Twinf (w)",
+        "start": "2024-03-02T09:50:00",
+        "end": "2024-03-02T11:25:00",
+        "description": "Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#B247A3"
+    },
+    {
+        "title": "Sd. (Inne)",
+        "start": "2024-05-12T08:00:00",
+        "end": "2024-05-12T09:35:00",
+        "description": "Seminarium dyplomowe\nRodzaj zajęć:  - \nNr zajęć: 3/6\nProwadzący: dr inż. Wiesław Barcikowski",
+        "allDay": false,
+        "color": "#66B247"
+    },
+    {
+        "title": "Crm (w)",
+        "start": "2024-04-20T08:00:00",
+        "end": "2024-04-20T09:35:00",
+        "description": "Cyberkonflikty w relacjach międzynarodowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący:  Marcin Fronczak",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2024-06-22T08:00:00",
+        "end": "2024-06-22T09:35:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 1/8\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#47B284"
+    },
+    {
+        "title": "Sd. (Inne)",
+        "start": "2024-05-11T09:50:00",
+        "end": "2024-05-11T11:25:00",
+        "description": "Seminarium dyplomowe\nRodzaj zajęć:  - \nNr zajęć: 2/6\nProwadzący: dr inż. Wiesław Barcikowski",
+        "allDay": false,
+        "color": "#66B247"
+    },
+    {
+        "title": "Ots (w)",
+        "start": "2024-05-19T11:40:00",
+        "end": "2024-05-19T13:15:00",
+        "description": "Ochrona transakcyjnych i statystycznych baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr hab. inż. Bolesław Szafrański",
+        "allDay": false,
+        "color": "#6547B2"
+    },
+    {
+        "title": "Twinf (w)",
+        "start": "2024-04-06T09:50:00",
+        "end": "2024-04-06T11:25:00",
+        "description": "Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#B247A3"
+    },
+    {
+        "title": "ksc (w)",
+        "start": "2024-03-16T09:50:00",
+        "end": "2024-03-16T11:25:00",
+        "description": "Krajowy system cyberbezpieczeństwa\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący:  Krzysztof Silicki",
+        "allDay": false,
+        "color": "#B2A347"
+    },
+    {
+        "title": "Crm (L)",
+        "start": "2024-04-20T09:50:00",
+        "end": "2024-04-20T11:25:00",
+        "description": "Cyberkonflikty w relacjach międzynarodowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/3\nProwadzący:  Piotr Kępski",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "ksc (ć)",
+        "start": "2024-04-06T13:30:00",
+        "end": "2024-04-06T15:05:00",
+        "description": "Krajowy system cyberbezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/5\nProwadzący:  Filip Marczewski",
+        "allDay": false,
+        "color": "#B2A347"
+    },
+    {
+        "title": "PNc (P)",
+        "start": "2024-05-26T13:30:00",
+        "end": "2024-05-26T15:05:00",
+        "description": "Polityka NATO w zakresie cyberbezpieczeństwa - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 6/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#4784B2"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2024-06-23T13:30:00",
+        "end": "2024-06-23T15:05:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 24/8\nProwadzący: dr hab. inż. Bolesław Szafrański",
+        "allDay": false,
+        "color": "#47B284"
+    },
+    {
+        "title": "Twinf (L)",
+        "start": "2024-06-08T08:00:00",
+        "end": "2024-06-08T09:35:00",
+        "description": "Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#B247A3"
+    },
+    {
+        "title": "Twinf (L)",
+        "start": "2024-04-07T09:50:00",
+        "end": "2024-04-07T11:25:00",
+        "description": "Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#B247A3"
+    },
+    {
+        "title": "PNc (P)",
+        "start": "2024-05-25T11:40:00",
+        "end": "2024-05-25T13:15:00",
+        "description": "Polityka NATO w zakresie cyberbezpieczeństwa - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 3/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#4784B2"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2024-06-22T09:50:00",
+        "end": "2024-06-22T11:25:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 6/8\nProwadzący: dr hab. inż. Bolesław Szafrański",
+        "allDay": false,
+        "color": "#47B284"
+    },
+    {
+        "title": "Sd. (Inne)",
+        "start": "2024-05-12T13:30:00",
+        "end": "2024-05-12T15:05:00",
+        "description": "Seminarium dyplomowe\nRodzaj zajęć:  - \nNr zajęć: 6/6\nProwadzący: dr inż. Wiesław Barcikowski",
+        "allDay": false,
+        "color": "#66B247"
+    },
+    {
+        "title": "Twinf (L)",
+        "start": "2024-04-07T08:00:00",
+        "end": "2024-04-07T09:35:00",
+        "description": "Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#B247A3"
+    },
+    {
+        "title": "Sd. (Inne)",
+        "start": "2024-05-12T11:40:00",
+        "end": "2024-05-12T13:15:00",
+        "description": "Seminarium dyplomowe\nRodzaj zajęć:  - \nNr zajęć: 5/6\nProwadzący: dr inż. Wiesław Barcikowski",
+        "allDay": false,
+        "color": "#66B247"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2024-06-23T11:40:00",
+        "end": "2024-06-23T13:15:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 21/8\nProwadzący: dr hab. inż. Bolesław Szafrański",
+        "allDay": false,
+        "color": "#47B284"
+    },
+    {
+        "title": "Crm (w)",
+        "start": "2024-04-21T13:30:00",
+        "end": "2024-04-21T15:05:00",
+        "description": "Cyberkonflikty w relacjach międzynarodowych\nRodzaj zajęć: Wykład\nNr zajęć: 6/4\nProwadzący:  Mirosław Maj",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Ots (w)",
+        "start": "2024-03-03T08:00:00",
+        "end": "2024-03-03T09:35:00",
+        "description": "Ochrona transakcyjnych i statystycznych baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr hab. inż. Bolesław Szafrański",
+        "allDay": false,
+        "color": "#6547B2"
+    },
+    {
+        "title": "Twinf (w)",
+        "start": "2024-03-03T11:40:00",
+        "end": "2024-03-03T13:15:00",
+        "description": "Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#B247A3"
+    },
+    {
+        "title": "ksc (w)",
+        "start": "2024-05-18T09:50:00",
+        "end": "2024-05-18T11:25:00",
+        "description": "Krajowy system cyberbezpieczeństwa\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący:  Krzysztof Silicki",
+        "allDay": false,
+        "color": "#B2A347"
+    },
+    {
+        "title": "ksc (ć)",
+        "start": "2024-03-17T09:50:00",
+        "end": "2024-03-17T11:25:00",
+        "description": "Krajowy system cyberbezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/5\nProwadzący:  Filip Marczewski",
+        "allDay": false,
+        "color": "#B2A347"
+    },
+    {
+        "title": "Ots (w)",
+        "start": "2024-06-08T11:40:00",
+        "end": "2024-06-08T13:15:00",
+        "description": "Ochrona transakcyjnych i statystycznych baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr hab. inż. Bolesław Szafrański",
+        "allDay": false,
+        "color": "#6547B2"
+    },
+    {
+        "title": "Crm (w)",
+        "start": "2024-04-21T11:40:00",
+        "end": "2024-04-21T13:15:00",
+        "description": "Cyberkonflikty w relacjach międzynarodowych\nRodzaj zajęć: Wykład\nNr zajęć: 5/4\nProwadzący:  Mirosław Maj",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Sd. (Inne)",
+        "start": "2024-05-12T09:50:00",
+        "end": "2024-05-12T11:25:00",
+        "description": "Seminarium dyplomowe\nRodzaj zajęć:  - \nNr zajęć: 4/6\nProwadzący: dr inż. Wiesław Barcikowski",
+        "allDay": false,
+        "color": "#66B247"
+    },
+    {
+        "title": "PNc (w)",
+        "start": "2024-05-26T09:50:00",
+        "end": "2024-05-26T11:25:00",
+        "description": "Polityka NATO w zakresie cyberbezpieczeństwa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#4784B2"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2024-06-22T13:30:00",
+        "end": "2024-06-22T15:05:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 10/8\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#47B284"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2024-06-22T09:50:00",
+        "end": "2024-06-22T11:25:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 4/8\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#47B284"
+    },
+    {
+        "title": "Sd. (Inne)",
+        "start": "2024-05-11T08:00:00",
+        "end": "2024-05-11T09:35:00",
+        "description": "Seminarium dyplomowe\nRodzaj zajęć:  - \nNr zajęć: 1/6\nProwadzący: dr inż. Wiesław Barcikowski",
+        "allDay": false,
+        "color": "#66B247"
+    },
+    {
+        "title": "Twinf (w)",
+        "start": "2024-03-02T08:00:00",
+        "end": "2024-03-02T09:35:00",
+        "description": "Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#B247A3"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2024-06-23T09:50:00",
+        "end": "2024-06-23T11:25:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 18/8\nProwadzący: dr hab. inż. Bolesław Szafrański",
+        "allDay": false,
+        "color": "#47B284"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2024-06-23T11:40:00",
+        "end": "2024-06-23T13:15:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 20/8\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#47B284"
+    },
+    {
+        "title": "Twinf (L)",
+        "start": "2024-05-19T08:00:00",
+        "end": "2024-05-19T09:35:00",
+        "description": "Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#B247A3"
+    },
+    {
+        "title": "Ots (w)",
+        "start": "2024-03-02T13:30:00",
+        "end": "2024-03-02T15:05:00",
+        "description": "Ochrona transakcyjnych i statystycznych baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr hab. inż. Bolesław Szafrański",
+        "allDay": false,
+        "color": "#6547B2"
+    },
+    {
+        "title": "Sd. (w)",
+        "start": "2024-03-17T13:30:00",
+        "end": "2024-03-17T15:05:00",
+        "description": "Seminarium dyplomowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/2\nProwadzący: dr inż. Wiesław Barcikowski",
+        "allDay": false,
+        "color": "#66B247"
+    },
+    {
+        "title": "PNc (P)",
+        "start": "2024-05-26T11:40:00",
+        "end": "2024-05-26T13:15:00",
+        "description": "Polityka NATO w zakresie cyberbezpieczeństwa - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 5/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#4784B2"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2024-06-22T11:40:00",
+        "end": "2024-06-22T13:15:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 9/8\nProwadzący: dr hab. inż. Bolesław Szafrański",
+        "allDay": false,
+        "color": "#47B284"
+    },
+    {
+        "title": "Crm (L)",
+        "start": "2024-04-20T11:40:00",
+        "end": "2024-04-20T13:15:00",
+        "description": "Cyberkonflikty w relacjach międzynarodowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/3\nProwadzący:  Piotr Kępski",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "PNc (w)",
+        "start": "2024-03-16T13:30:00",
+        "end": "2024-03-16T15:05:00",
+        "description": "Polityka NATO w zakresie cyberbezpieczeństwa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#4784B2"
+    },
+    {
+        "title": "Twinf (L)",
+        "start": "2024-05-19T09:50:00",
+        "end": "2024-05-19T11:25:00",
+        "description": "Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#B247A3"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2024-06-22T13:30:00",
+        "end": "2024-06-22T15:05:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 12/8\nProwadzący: dr hab. inż. Bolesław Szafrański",
+        "allDay": false,
+        "color": "#47B284"
+    },
+    {
+        "title": "Twinf (L)",
+        "start": "2024-06-08T09:50:00",
+        "end": "2024-06-08T11:25:00",
+        "description": "Teoria wojny informacyjnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#B247A3"
+    },
+    {
+        "title": "Ots (ć)",
+        "start": "2024-06-08T13:30:00",
+        "end": "2024-06-08T15:05:00",
+        "description": "Ochrona transakcyjnych i statystycznych baz danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/3\nProwadzący: dr hab. inż. Bolesław Szafrański",
+        "allDay": false,
+        "color": "#6547B2"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2024-06-23T08:00:00",
+        "end": "2024-06-23T09:35:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 15/8\nProwadzący: dr hab. inż. Bolesław Szafrański",
+        "allDay": false,
+        "color": "#47B284"
+    },
+    {
+        "title": "ksc (w)",
+        "start": "2024-05-18T08:00:00",
+        "end": "2024-05-18T09:35:00",
+        "description": "Krajowy system cyberbezpieczeństwa\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący:  Krzysztof Silicki",
+        "allDay": false,
+        "color": "#B2A347"
+    },
+    {
+        "title": "ksc (ć)",
+        "start": "2024-04-07T13:30:00",
+        "end": "2024-04-07T15:05:00",
+        "description": "Krajowy system cyberbezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/5\nProwadzący:  Filip Marczewski",
+        "allDay": false,
+        "color": "#B2A347"
+    },
+    {
+        "title": "PNc (P)",
+        "start": "2024-05-25T13:30:00",
+        "end": "2024-05-25T15:05:00",
+        "description": "Polityka NATO w zakresie cyberbezpieczeństwa - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 4/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#4784B2"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2024-06-22T11:40:00",
+        "end": "2024-06-22T13:15:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 7/8\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#47B284"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2024-06-23T11:40:00",
+        "end": "2024-06-23T13:15:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 19/8\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#47B284"
+    },
+    {
+        "title": "ksc (w)",
+        "start": "2024-03-16T08:00:00",
+        "end": "2024-03-16T09:35:00",
+        "description": "Krajowy system cyberbezpieczeństwa\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący:  Krzysztof Silicki",
+        "allDay": false,
+        "color": "#B2A347"
+    },
+    {
+        "title": "ksc (ć)",
+        "start": "2024-04-06T11:40:00",
+        "end": "2024-04-06T13:15:00",
+        "description": "Krajowy system cyberbezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/5\nProwadzący:  Filip Marczewski",
+        "allDay": false,
+        "color": "#B2A347"
+    },
+    {
+        "title": "Twinf (w)",
+        "start": "2024-04-06T08:00:00",
+        "end": "2024-04-06T09:35:00",
+        "description": "Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#B247A3"
+    },
+    {
+        "title": "PNc (P)",
+        "start": "2024-05-11T11:40:00",
+        "end": "2024-05-11T13:15:00",
+        "description": "Polityka NATO w zakresie cyberbezpieczeństwa - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 1/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#4784B2"
+    },
+    {
+        "title": "PNc (P)",
+        "start": "2024-05-11T13:30:00",
+        "end": "2024-05-11T15:05:00",
+        "description": "Polityka NATO w zakresie cyberbezpieczeństwa - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 2/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#4784B2"
+    },
+    {
+        "title": "Ots (ć)",
+        "start": "2024-05-19T13:30:00",
+        "end": "2024-05-19T15:05:00",
+        "description": "Ochrona transakcyjnych i statystycznych baz danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/3\nProwadzący: dr hab. inż. Bolesław Szafrański",
+        "allDay": false,
+        "color": "#6547B2"
+    },
+    {
+        "title": "PNc (w)",
+        "start": "2024-05-25T09:50:00",
+        "end": "2024-05-25T11:25:00",
+        "description": "Polityka NATO w zakresie cyberbezpieczeństwa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#4784B2"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2024-06-22T08:00:00",
+        "end": "2024-06-22T09:35:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 3/8\nProwadzący: dr hab. inż. Bolesław Szafrański",
+        "allDay": false,
+        "color": "#47B284"
+    },
+    {
+        "title": "PNc (w)",
+        "start": "2024-05-26T08:00:00",
+        "end": "2024-05-26T09:35:00",
+        "description": "Polityka NATO w zakresie cyberbezpieczeństwa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#4784B2"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2024-06-22T13:30:00",
+        "end": "2024-06-22T15:05:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 11/8\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#47B284"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2024-06-22T09:50:00",
+        "end": "2024-06-22T11:25:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 5/8\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#47B284"
+    },
+    {
+        "title": "Crm (w)",
+        "start": "2024-04-21T09:50:00",
+        "end": "2024-04-21T11:25:00",
+        "description": "Cyberkonflikty w relacjach międzynarodowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący:  Mirosław Maj",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Crm (L)",
+        "start": "2024-04-20T13:30:00",
+        "end": "2024-04-20T15:05:00",
+        "description": "Cyberkonflikty w relacjach międzynarodowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/3\nProwadzący:  Piotr Kępski",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Ots (ć)",
+        "start": "2024-05-18T13:30:00",
+        "end": "2024-05-18T15:05:00",
+        "description": "Ochrona transakcyjnych i statystycznych baz danych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/3\nProwadzący: dr hab. inż. Bolesław Szafrański",
+        "allDay": false,
+        "color": "#6547B2"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2024-06-22T08:00:00",
+        "end": "2024-06-22T09:35:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 2/8\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#47B284"
+    },
+    {
+        "title": "PNc (w)",
+        "start": "2024-03-16T11:40:00",
+        "end": "2024-03-16T13:15:00",
+        "description": "Polityka NATO w zakresie cyberbezpieczeństwa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#4784B2"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2024-06-23T13:30:00",
+        "end": "2024-06-23T15:05:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 23/8\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#47B284"
+    },
+    {
+        "title": "ksc (ć)",
+        "start": "2024-04-07T11:40:00",
+        "end": "2024-04-07T13:15:00",
+        "description": "Krajowy system cyberbezpieczeństwa\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/5\nProwadzący:  Filip Marczewski",
+        "allDay": false,
+        "color": "#B2A347"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2024-06-22T11:40:00",
+        "end": "2024-06-22T13:15:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 8/8\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#47B284"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2024-06-23T09:50:00",
+        "end": "2024-06-23T11:25:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 16/8\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#47B284"
+    },
+    {
+        "title": "Crm (w)",
+        "start": "2024-04-20T08:00:00",
+        "end": "2024-04-20T09:35:00",
+        "description": "Cyberkonflikty w relacjach międzynarodowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący:  Piotr Kępski",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Crm (w)",
+        "start": "2024-04-21T08:00:00",
+        "end": "2024-04-21T09:35:00",
+        "description": "Cyberkonflikty w relacjach międzynarodowych\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący:  Mirosław Maj",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "ksc (w)",
+        "start": "2024-03-17T08:00:00",
+        "end": "2024-03-17T09:35:00",
+        "description": "Krajowy system cyberbezpieczeństwa\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący:  Krzysztof Silicki",
+        "allDay": false,
+        "color": "#B2A347"
+    },
+    {
+        "title": "Ots (w)",
+        "start": "2024-03-03T09:50:00",
+        "end": "2024-03-03T11:25:00",
+        "description": "Ochrona transakcyjnych i statystycznych baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr hab. inż. Bolesław Szafrański",
+        "allDay": false,
+        "color": "#6547B2"
+    },
+    {
+        "title": "Ots (w)",
+        "start": "2024-05-18T11:40:00",
+        "end": "2024-05-18T13:15:00",
+        "description": "Ochrona transakcyjnych i statystycznych baz danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr hab. inż. Bolesław Szafrański",
+        "allDay": false,
+        "color": "#6547B2"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2024-06-23T08:00:00",
+        "end": "2024-06-23T09:35:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 13/8\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#47B284"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2024-06-23T09:50:00",
+        "end": "2024-06-23T11:25:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 17/8\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#47B284"
+    },
+    {
+        "title": "Eko (E)",
+        "start": "2024-06-23T13:30:00",
+        "end": "2024-06-23T15:05:00",
+        "description": "Egzamin końcowy\nRodzaj zajęć:  - \nNr zajęć: 22/8\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#47B284"
+    },
+    {
+        "title": "Twinf (w)",
+        "start": "2024-03-03T13:30:00",
+        "end": "2024-03-03T15:05:00",
+        "description": "Teoria wojny informacyjnej\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#B247A3"
+    }
+]

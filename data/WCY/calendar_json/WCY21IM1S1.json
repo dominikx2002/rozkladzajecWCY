@@ -1,0 +1,2042 @@
+[
+    {
+        "title": "Sp (Inne)",
+        "start": "2024-05-28T13:30:00",
+        "end": "2024-05-28T15:05:00",
+        "description": "Seminarium przeddyplomowe\nRodzaj zajęć:  - \nNr zajęć: 8/10\nProwadzący: dr inż. Jan Chudzikiewicz",
+        "allDay": false,
+        "color": "#7247B2"
+    },
+    {
+        "title": "Psmo (L)",
+        "start": "2024-05-06T08:00:00",
+        "end": "2024-05-06T09:35:00",
+        "description": "Programowanie systemów mobilnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/17\nProwadzący:  Łukasz Czerniszewski",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "sd (L)",
+        "start": "2024-03-26T11:40:00",
+        "end": "2024-03-26T13:15:00",
+        "description": "Systemy dialogowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: mgr Jerzy Dorobisz",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "kdm (L)",
+        "start": "2024-04-30T17:50:00",
+        "end": "2024-04-30T19:25:00",
+        "description": "Kompresja danych multimedialnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/12\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski",
+        "allDay": false,
+        "color": "#72B247"
+    },
+    {
+        "title": "Pmsk (P)",
+        "start": "2024-11-26T08:00:00",
+        "end": "2024-11-26T09:35:00",
+        "description": "Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 21/22\nProwadzący: dr inż. Andrzej Stasiak",
+        "allDay": false,
+        "color": "#47B272"
+    },
+    {
+        "title": "Sp (Inne)",
+        "start": "2024-03-04T16:00:00",
+        "end": "2024-03-04T17:35:00",
+        "description": "Seminarium przeddyplomowe\nRodzaj zajęć:  - \nNr zajęć: 2/10\nProwadzący: dr inż. Jan Chudzikiewicz",
+        "allDay": false,
+        "color": "#7247B2"
+    },
+    {
+        "title": "kck (L)",
+        "start": "2024-05-27T13:30:00",
+        "end": "2024-05-27T15:05:00",
+        "description": "Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: mgr Jerzy Dorobisz",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "Psmo (L)",
+        "start": "2024-06-17T08:00:00",
+        "end": "2024-06-17T09:35:00",
+        "description": "Programowanie systemów mobilnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 16/17\nProwadzący:  Łukasz Czerniszewski",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "kdm (w)",
+        "start": "2024-03-26T08:00:00",
+        "end": "2024-03-26T09:35:00",
+        "description": "Kompresja danych multimedialnych\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski",
+        "allDay": false,
+        "color": "#72B247"
+    },
+    {
+        "title": "kdm (Inne)",
+        "start": "2024-09-20T08:00:00",
+        "end": "2024-09-20T09:35:00",
+        "description": "Kompresja danych multimedialnych\nRodzaj zajęć:  - \nNr zajęć: 1/4\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski",
+        "allDay": false,
+        "color": "#72B247"
+    },
+    {
+        "title": "sd (L)",
+        "start": "2024-04-19T09:50:00",
+        "end": "2024-04-19T11:25:00",
+        "description": "Systemy dialogowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: mgr Jerzy Dorobisz",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "Pmsk (P)",
+        "start": "2024-10-22T09:50:00",
+        "end": "2024-10-22T11:25:00",
+        "description": "Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 10/22\nProwadzący: dr inż. Andrzej Stasiak",
+        "allDay": false,
+        "color": "#47B272"
+    },
+    {
+        "title": "Nm (L)",
+        "start": "2024-10-10T13:30:00",
+        "end": "2024-10-10T15:05:00",
+        "description": "Niskopoziomowe moduły systemowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/12\nProwadzący: dr inż. Jan Chudzikiewicz",
+        "allDay": false,
+        "color": "#B27247"
+    },
+    {
+        "title": "Syt (L)",
+        "start": "2024-06-20T11:40:00",
+        "end": "2024-06-20T13:15:00",
+        "description": "Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący:  Tomasz Żentara",
+        "allDay": false,
+        "color": "#B29D47"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-04-18T11:40:00",
+        "end": "2024-04-18T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2479D"
+    },
+    {
+        "title": "Nm (L)",
+        "start": "2024-10-23T11:40:00",
+        "end": "2024-10-23T13:15:00",
+        "description": "Niskopoziomowe moduły systemowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/12\nProwadzący: dr inż. Jan Chudzikiewicz",
+        "allDay": false,
+        "color": "#B27247"
+    },
+    {
+        "title": "Ppz (L)",
+        "start": "2024-06-27T11:40:00",
+        "end": "2024-06-27T13:15:00",
+        "description": "Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: dr inż. Łukasz Strzelecki",
+        "allDay": false,
+        "color": "#9D47B2"
+    },
+    {
+        "title": "kdm (L)",
+        "start": "2024-04-30T16:00:00",
+        "end": "2024-04-30T17:35:00",
+        "description": "Kompresja danych multimedialnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/12\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski",
+        "allDay": false,
+        "color": "#72B247"
+    },
+    {
+        "title": "kdm (L)",
+        "start": "2024-06-19T09:50:00",
+        "end": "2024-06-19T11:25:00",
+        "description": "Kompresja danych multimedialnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/12\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski",
+        "allDay": false,
+        "color": "#72B247"
+    },
+    {
+        "title": "Sp (Inne)",
+        "start": "2024-06-19T11:40:00",
+        "end": "2024-06-19T13:15:00",
+        "description": "Seminarium przeddyplomowe\nRodzaj zajęć:  - \nNr zajęć: 9/10\nProwadzący: dr inż. Jan Chudzikiewicz",
+        "allDay": false,
+        "color": "#7247B2"
+    },
+    {
+        "title": "Psmo (L)",
+        "start": "2024-05-20T09:50:00",
+        "end": "2024-05-20T11:25:00",
+        "description": "Programowanie systemów mobilnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/17\nProwadzący:  Łukasz Czerniszewski",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "TpsT (L)",
+        "start": "2024-04-05T11:40:00",
+        "end": "2024-04-05T13:15:00",
+        "description": "Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/12\nProwadzący: dr Sławomir Machowski",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "TeIP (w)",
+        "start": "2024-02-26T09:50:00",
+        "end": "2024-02-26T11:25:00",
+        "description": "Telefonia IP\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr inż. Tomasz Malinowski",
+        "allDay": false,
+        "color": "#9DB247"
+    },
+    {
+        "title": "TeIP (w)",
+        "start": "2024-03-18T09:50:00",
+        "end": "2024-03-18T11:25:00",
+        "description": "Telefonia IP\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr inż. Tomasz Malinowski",
+        "allDay": false,
+        "color": "#9DB247"
+    },
+    {
+        "title": "zsw (w)",
+        "start": "2024-04-16T13:30:00",
+        "end": "2024-04-16T15:05:00",
+        "description": "Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący: mgr inż. Łukasz Mielniczuk",
+        "allDay": false,
+        "color": "#B24772"
+    },
+    {
+        "title": "TpsT (L)",
+        "start": "2024-06-07T11:40:00",
+        "end": "2024-06-07T13:15:00",
+        "description": "Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/12\nProwadzący: dr Sławomir Machowski",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "TeIP (L)",
+        "start": "2024-04-12T11:40:00",
+        "end": "2024-04-12T13:15:00",
+        "description": "Telefonia IP\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: mgr inż. Dagmara Mazur",
+        "allDay": false,
+        "color": "#9DB247"
+    },
+    {
+        "title": "kck (L)",
+        "start": "2024-06-12T09:50:00",
+        "end": "2024-06-12T11:25:00",
+        "description": "Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: mgr Jerzy Dorobisz",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "TpsT (L)",
+        "start": "2024-06-07T13:30:00",
+        "end": "2024-06-07T15:05:00",
+        "description": "Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/12\nProwadzący: dr Sławomir Machowski",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "zsw (L)",
+        "start": "2024-05-24T08:00:00",
+        "end": "2024-05-24T09:35:00",
+        "description": "Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/20\nProwadzący: mgr inż. Łukasz Mielniczuk",
+        "allDay": false,
+        "color": "#B24772"
+    },
+    {
+        "title": "zsw (Inne)",
+        "start": "2024-09-17T09:50:00",
+        "end": "2024-09-17T11:25:00",
+        "description": "Zarządzanie środowiskiem Windows\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: mgr inż. Łukasz Mielniczuk",
+        "allDay": false,
+        "color": "#B24772"
+    },
+    {
+        "title": "zsw (L)",
+        "start": "2024-04-08T11:40:00",
+        "end": "2024-04-08T13:15:00",
+        "description": "Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/20\nProwadzący: mgr inż. Łukasz Mielniczuk",
+        "allDay": false,
+        "color": "#B24772"
+    },
+    {
+        "title": "Psmo (L)",
+        "start": "2024-05-16T17:50:00",
+        "end": "2024-05-16T19:25:00",
+        "description": "Programowanie systemów mobilnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/17\nProwadzący:  Łukasz Czerniszewski",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "TpsT (L)",
+        "start": "2024-04-05T13:30:00",
+        "end": "2024-04-05T15:05:00",
+        "description": "Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/12\nProwadzący: dr Sławomir Machowski",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "TpsT (w)",
+        "start": "2024-04-08T08:00:00",
+        "end": "2024-04-08T09:35:00",
+        "description": "Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Andrzej Stasiak",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Syt (L)",
+        "start": "2024-05-07T16:00:00",
+        "end": "2024-05-07T17:35:00",
+        "description": "Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący:  Tomasz Żentara",
+        "allDay": false,
+        "color": "#B29D47"
+    },
+    {
+        "title": "sd (w)",
+        "start": "2024-04-16T11:40:00",
+        "end": "2024-04-16T13:15:00",
+        "description": "Systemy dialogowe\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Tomasz Pałys",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "zsw (L)",
+        "start": "2024-03-20T11:40:00",
+        "end": "2024-03-20T13:15:00",
+        "description": "Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/20\nProwadzący: mgr inż. Łukasz Mielniczuk",
+        "allDay": false,
+        "color": "#B24772"
+    },
+    {
+        "title": "Nm (w)",
+        "start": "2024-10-16T16:00:00",
+        "end": "2024-10-16T17:35:00",
+        "description": "Niskopoziomowe moduły systemowe\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący: dr inż. Jan Chudzikiewicz",
+        "allDay": false,
+        "color": "#B27247"
+    },
+    {
+        "title": "sd (L)",
+        "start": "2024-06-21T09:50:00",
+        "end": "2024-06-21T11:25:00",
+        "description": "Systemy dialogowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: mgr Jerzy Dorobisz",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "Pmsk (P)",
+        "start": "2024-11-12T08:00:00",
+        "end": "2024-11-12T09:35:00",
+        "description": "Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 17/22\nProwadzący: dr inż. Andrzej Stasiak",
+        "allDay": false,
+        "color": "#47B272"
+    },
+    {
+        "title": "Psmo (L)",
+        "start": "2024-06-06T11:40:00",
+        "end": "2024-06-06T13:15:00",
+        "description": "Programowanie systemów mobilnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 15/17\nProwadzący:  Łukasz Czerniszewski",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "TpsT (L)",
+        "start": "2024-05-10T16:00:00",
+        "end": "2024-05-10T17:35:00",
+        "description": "Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/12\nProwadzący: dr Sławomir Machowski",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "kck (w)",
+        "start": "2024-04-30T13:30:00",
+        "end": "2024-04-30T15:05:00",
+        "description": "Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Tomasz Pałys",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "Pmsk (P)",
+        "start": "2024-11-19T08:00:00",
+        "end": "2024-11-19T09:35:00",
+        "description": "Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 19/22\nProwadzący: dr inż. Andrzej Stasiak",
+        "allDay": false,
+        "color": "#47B272"
+    },
+    {
+        "title": "Ppz (L)",
+        "start": "2024-04-23T09:50:00",
+        "end": "2024-04-23T11:25:00",
+        "description": "Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: dr inż. Łukasz Strzelecki",
+        "allDay": false,
+        "color": "#9D47B2"
+    },
+    {
+        "title": "kdm (w)",
+        "start": "2024-04-16T08:00:00",
+        "end": "2024-04-16T09:35:00",
+        "description": "Kompresja danych multimedialnych\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski",
+        "allDay": false,
+        "color": "#72B247"
+    },
+    {
+        "title": "zsw (w)",
+        "start": "2024-02-28T13:30:00",
+        "end": "2024-02-28T15:05:00",
+        "description": "Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący: mgr inż. Łukasz Mielniczuk",
+        "allDay": false,
+        "color": "#B24772"
+    },
+    {
+        "title": "TeIP (L)",
+        "start": "2024-06-05T09:50:00",
+        "end": "2024-06-05T11:25:00",
+        "description": "Telefonia IP\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: mgr inż. Dagmara Mazur",
+        "allDay": false,
+        "color": "#9DB247"
+    },
+    {
+        "title": "zsw (w)",
+        "start": "2024-02-28T11:40:00",
+        "end": "2024-02-28T13:15:00",
+        "description": "Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący: mgr inż. Łukasz Mielniczuk",
+        "allDay": false,
+        "color": "#B24772"
+    },
+    {
+        "title": "kdm (w)",
+        "start": "2024-05-14T08:00:00",
+        "end": "2024-05-14T09:35:00",
+        "description": "Kompresja danych multimedialnych\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski",
+        "allDay": false,
+        "color": "#72B247"
+    },
+    {
+        "title": "zsw (L)",
+        "start": "2024-03-25T13:30:00",
+        "end": "2024-03-25T15:05:00",
+        "description": "Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/20\nProwadzący: mgr inż. Łukasz Mielniczuk",
+        "allDay": false,
+        "color": "#B24772"
+    },
+    {
+        "title": "kck (w)",
+        "start": "2024-04-30T09:50:00",
+        "end": "2024-04-30T11:25:00",
+        "description": "Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Tomasz Pałys",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "Psmo (w)",
+        "start": "2024-03-28T09:50:00",
+        "end": "2024-03-28T11:25:00",
+        "description": "Programowanie systemów mobilnych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Artur Arciuch",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "kdm (w)",
+        "start": "2024-04-09T08:00:00",
+        "end": "2024-04-09T09:35:00",
+        "description": "Kompresja danych multimedialnych\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski",
+        "allDay": false,
+        "color": "#72B247"
+    },
+    {
+        "title": "Psmo (w)",
+        "start": "2024-04-11T09:50:00",
+        "end": "2024-04-11T11:25:00",
+        "description": "Programowanie systemów mobilnych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Artur Arciuch",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "kdm (w)",
+        "start": "2024-04-23T08:00:00",
+        "end": "2024-04-23T09:35:00",
+        "description": "Kompresja danych multimedialnych\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski",
+        "allDay": false,
+        "color": "#72B247"
+    },
+    {
+        "title": "Psmo (Inne)",
+        "start": "2024-09-19T09:50:00",
+        "end": "2024-09-19T11:25:00",
+        "description": "Programowanie systemów mobilnych\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr inż. Artur Arciuch",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "Nm (L)",
+        "start": "2024-11-12T11:40:00",
+        "end": "2024-11-12T13:15:00",
+        "description": "Niskopoziomowe moduły systemowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/12\nProwadzący: dr inż. Jan Chudzikiewicz",
+        "allDay": false,
+        "color": "#B27247"
+    },
+    {
+        "title": "kdm (w)",
+        "start": "2024-04-30T08:00:00",
+        "end": "2024-04-30T09:35:00",
+        "description": "Kompresja danych multimedialnych\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski",
+        "allDay": false,
+        "color": "#72B247"
+    },
+    {
+        "title": "Pmsk (P)",
+        "start": "2024-10-24T08:00:00",
+        "end": "2024-10-24T09:35:00",
+        "description": "Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 11/22\nProwadzący: dr inż. Andrzej Stasiak",
+        "allDay": false,
+        "color": "#47B272"
+    },
+    {
+        "title": "kdm (L)",
+        "start": "2024-03-26T17:50:00",
+        "end": "2024-03-26T19:25:00",
+        "description": "Kompresja danych multimedialnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/12\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski",
+        "allDay": false,
+        "color": "#72B247"
+    },
+    {
+        "title": "TpsT (ć)",
+        "start": "2024-03-22T09:50:00",
+        "end": "2024-03-22T11:25:00",
+        "description": "Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/3\nProwadzący: dr Sławomir Machowski",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Psmo (Inne)",
+        "start": "2024-09-26T09:50:00",
+        "end": "2024-09-26T11:25:00",
+        "description": "Programowanie systemów mobilnych\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr inż. Artur Arciuch",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "Sws (Inne)",
+        "start": "2024-06-04T13:30:00",
+        "end": "2024-06-04T15:05:00",
+        "description": "Spotkanie organizacyjne - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 4/4\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B29D"
+    },
+    {
+        "title": "zsw (w)",
+        "start": "2024-05-08T09:50:00",
+        "end": "2024-05-08T11:25:00",
+        "description": "Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący: mgr inż. Łukasz Mielniczuk",
+        "allDay": false,
+        "color": "#B24772"
+    },
+    {
+        "title": "zsw (L)",
+        "start": "2024-03-20T09:50:00",
+        "end": "2024-03-20T11:25:00",
+        "description": "Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/20\nProwadzący: mgr inż. Łukasz Mielniczuk",
+        "allDay": false,
+        "color": "#B24772"
+    },
+    {
+        "title": "Syt (w)",
+        "start": "2024-03-19T13:30:00",
+        "end": "2024-03-19T15:05:00",
+        "description": "Systemy telemetryczne\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr inż. Jan Chudzikiewicz",
+        "allDay": false,
+        "color": "#B29D47"
+    },
+    {
+        "title": "TeIP (L)",
+        "start": "2024-05-10T09:50:00",
+        "end": "2024-05-10T11:25:00",
+        "description": "Telefonia IP\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: mgr inż. Dagmara Mazur",
+        "allDay": false,
+        "color": "#9DB247"
+    },
+    {
+        "title": "kdm (w)",
+        "start": "2024-05-07T08:00:00",
+        "end": "2024-05-07T09:35:00",
+        "description": "Kompresja danych multimedialnych\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski",
+        "allDay": false,
+        "color": "#72B247"
+    },
+    {
+        "title": "TeIP (L)",
+        "start": "2024-06-05T08:00:00",
+        "end": "2024-06-05T09:35:00",
+        "description": "Telefonia IP\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: mgr inż. Dagmara Mazur",
+        "allDay": false,
+        "color": "#9DB247"
+    },
+    {
+        "title": "Psmo (L)",
+        "start": "2024-05-16T19:40:00",
+        "end": "2024-05-16T21:15:00",
+        "description": "Programowanie systemów mobilnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/17\nProwadzący:  Łukasz Czerniszewski",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "sd (L)",
+        "start": "2024-06-21T11:40:00",
+        "end": "2024-06-21T13:15:00",
+        "description": "Systemy dialogowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: mgr Jerzy Dorobisz",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "TeIP (L)",
+        "start": "2024-04-22T13:30:00",
+        "end": "2024-04-22T15:05:00",
+        "description": "Telefonia IP\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: mgr inż. Dagmara Mazur",
+        "allDay": false,
+        "color": "#9DB247"
+    },
+    {
+        "title": "Nm (Inne)",
+        "start": "2025-01-08T09:50:00",
+        "end": "2025-01-08T11:25:00",
+        "description": "Niskopoziomowe moduły systemowe\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Jan Chudzikiewicz",
+        "allDay": false,
+        "color": "#B27247"
+    },
+    {
+        "title": "kdm (L)",
+        "start": "2024-05-21T17:50:00",
+        "end": "2024-05-21T19:25:00",
+        "description": "Kompresja danych multimedialnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/12\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski",
+        "allDay": false,
+        "color": "#72B247"
+    },
+    {
+        "title": "TpsT (L)",
+        "start": "2024-04-19T11:40:00",
+        "end": "2024-04-19T13:15:00",
+        "description": "Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/12\nProwadzący: dr Sławomir Machowski",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Sp (Inne)",
+        "start": "2024-04-04T09:50:00",
+        "end": "2024-04-04T11:25:00",
+        "description": "Seminarium przeddyplomowe\nRodzaj zajęć:  - \nNr zajęć: 3/10\nProwadzący: dr inż. Jan Chudzikiewicz",
+        "allDay": false,
+        "color": "#7247B2"
+    },
+    {
+        "title": "TpsT (w)",
+        "start": "2024-03-18T08:00:00",
+        "end": "2024-03-18T09:35:00",
+        "description": "Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Andrzej Stasiak",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "kdm (w)",
+        "start": "2024-03-05T08:00:00",
+        "end": "2024-03-05T09:35:00",
+        "description": "Kompresja danych multimedialnych\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski",
+        "allDay": false,
+        "color": "#72B247"
+    },
+    {
+        "title": "TpsT (L)",
+        "start": "2024-05-10T13:30:00",
+        "end": "2024-05-10T15:05:00",
+        "description": "Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/12\nProwadzący: dr Sławomir Machowski",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Nm (L)",
+        "start": "2024-10-17T11:40:00",
+        "end": "2024-10-17T13:15:00",
+        "description": "Niskopoziomowe moduły systemowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/12\nProwadzący: dr inż. Jan Chudzikiewicz",
+        "allDay": false,
+        "color": "#B27247"
+    },
+    {
+        "title": "zsw (L)",
+        "start": "2024-05-24T09:50:00",
+        "end": "2024-05-24T11:25:00",
+        "description": "Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/20\nProwadzący: mgr inż. Łukasz Mielniczuk",
+        "allDay": false,
+        "color": "#B24772"
+    },
+    {
+        "title": "sd (L)",
+        "start": "2024-04-19T08:00:00",
+        "end": "2024-04-19T09:35:00",
+        "description": "Systemy dialogowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: mgr Jerzy Dorobisz",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "sd (w)",
+        "start": "2024-03-14T11:40:00",
+        "end": "2024-03-14T13:15:00",
+        "description": "Systemy dialogowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Tomasz Pałys",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "TeIP (L)",
+        "start": "2024-05-10T11:40:00",
+        "end": "2024-05-10T13:15:00",
+        "description": "Telefonia IP\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: mgr inż. Dagmara Mazur",
+        "allDay": false,
+        "color": "#9DB247"
+    },
+    {
+        "title": "zsw (E)",
+        "start": "2024-07-04T08:00:00",
+        "end": "2024-07-04T09:35:00",
+        "description": "Zarządzanie środowiskiem Windows\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: mgr inż. Łukasz Mielniczuk",
+        "allDay": false,
+        "color": "#B24772"
+    },
+    {
+        "title": "kck (L)",
+        "start": "2024-06-12T08:00:00",
+        "end": "2024-06-12T09:35:00",
+        "description": "Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: mgr Jerzy Dorobisz",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "Sws (Inne)",
+        "start": "2024-05-07T13:30:00",
+        "end": "2024-05-07T15:05:00",
+        "description": "Spotkanie organizacyjne - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 3/4\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B29D"
+    },
+    {
+        "title": "Pmsk (P)",
+        "start": "2024-10-03T09:50:00",
+        "end": "2024-10-03T11:25:00",
+        "description": "Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 2/22\nProwadzący: dr inż. Andrzej Stasiak",
+        "allDay": false,
+        "color": "#47B272"
+    },
+    {
+        "title": "Ppz (w)",
+        "start": "2024-04-17T09:50:00",
+        "end": "2024-04-17T11:25:00",
+        "description": "Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr inż. Łukasz Strzelecki",
+        "allDay": false,
+        "color": "#9D47B2"
+    },
+    {
+        "title": "Wpp (Inne)",
+        "start": "2024-02-29T16:00:00",
+        "end": "2024-02-29T17:35:00",
+        "description": "Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr inż. Łukasz Laszko",
+        "allDay": false,
+        "color": "#479DB2"
+    },
+    {
+        "title": "Ppz (L)",
+        "start": "2024-05-13T13:30:00",
+        "end": "2024-05-13T15:05:00",
+        "description": "Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: dr inż. Łukasz Strzelecki",
+        "allDay": false,
+        "color": "#9D47B2"
+    },
+    {
+        "title": "TeIP (w)",
+        "start": "2024-03-25T09:50:00",
+        "end": "2024-03-25T11:25:00",
+        "description": "Telefonia IP\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr inż. Tomasz Malinowski",
+        "allDay": false,
+        "color": "#9DB247"
+    },
+    {
+        "title": "sd (L)",
+        "start": "2024-03-18T11:40:00",
+        "end": "2024-03-18T13:15:00",
+        "description": "Systemy dialogowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: mgr Jerzy Dorobisz",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "zsw (L)",
+        "start": "2024-06-10T08:00:00",
+        "end": "2024-06-10T09:35:00",
+        "description": "Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 17/20\nProwadzący: mgr inż. Łukasz Mielniczuk",
+        "allDay": false,
+        "color": "#B24772"
+    },
+    {
+        "title": "Nm (w)",
+        "start": "2024-10-30T16:00:00",
+        "end": "2024-10-30T17:35:00",
+        "description": "Niskopoziomowe moduły systemowe\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: dr inż. Jan Chudzikiewicz",
+        "allDay": false,
+        "color": "#B27247"
+    },
+    {
+        "title": "TeIP (L)",
+        "start": "2024-06-05T11:40:00",
+        "end": "2024-06-05T13:15:00",
+        "description": "Telefonia IP\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: mgr inż. Dagmara Mazur",
+        "allDay": false,
+        "color": "#9DB247"
+    },
+    {
+        "title": "kdm (L)",
+        "start": "2024-05-17T09:50:00",
+        "end": "2024-05-17T11:25:00",
+        "description": "Kompresja danych multimedialnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/12\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski",
+        "allDay": false,
+        "color": "#72B247"
+    },
+    {
+        "title": "Nm (E)",
+        "start": "2024-12-02T11:40:00",
+        "end": "2024-12-02T13:15:00",
+        "description": "Niskopoziomowe moduły systemowe\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Jan Chudzikiewicz",
+        "allDay": false,
+        "color": "#B27247"
+    },
+    {
+        "title": "kck (w)",
+        "start": "2024-06-04T09:50:00",
+        "end": "2024-06-04T11:25:00",
+        "description": "Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Tomasz Pałys",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "TpsT (w)",
+        "start": "2024-03-04T08:00:00",
+        "end": "2024-03-04T09:35:00",
+        "description": "Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Andrzej Stasiak",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Ppz (L)",
+        "start": "2024-05-13T11:40:00",
+        "end": "2024-05-13T13:15:00",
+        "description": "Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: dr inż. Łukasz Strzelecki",
+        "allDay": false,
+        "color": "#9D47B2"
+    },
+    {
+        "title": "Ppz (L)",
+        "start": "2024-04-23T11:40:00",
+        "end": "2024-04-23T13:15:00",
+        "description": "Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: dr inż. Łukasz Strzelecki",
+        "allDay": false,
+        "color": "#9D47B2"
+    },
+    {
+        "title": "TpsT (E)",
+        "start": "2024-06-28T13:30:00",
+        "end": "2024-06-28T15:05:00",
+        "description": "Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr inż. Andrzej Stasiak",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "zsw (L)",
+        "start": "2024-03-15T13:30:00",
+        "end": "2024-03-15T15:05:00",
+        "description": "Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/20\nProwadzący: mgr inż. Łukasz Mielniczuk",
+        "allDay": false,
+        "color": "#B24772"
+    },
+    {
+        "title": "Nm (w)",
+        "start": "2024-10-16T13:30:00",
+        "end": "2024-10-16T15:05:00",
+        "description": "Niskopoziomowe moduły systemowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący: dr inż. Jan Chudzikiewicz",
+        "allDay": false,
+        "color": "#B27247"
+    },
+    {
+        "title": "sd (w)",
+        "start": "2024-04-09T11:40:00",
+        "end": "2024-04-09T13:15:00",
+        "description": "Systemy dialogowe\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Tomasz Pałys",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "Sws (Inne)",
+        "start": "2024-03-05T13:30:00",
+        "end": "2024-03-05T15:05:00",
+        "description": "Spotkanie organizacyjne - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 1/4\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B29D"
+    },
+    {
+        "title": "kdm (L)",
+        "start": "2024-05-21T16:00:00",
+        "end": "2024-05-21T17:35:00",
+        "description": "Kompresja danych multimedialnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/12\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski",
+        "allDay": false,
+        "color": "#72B247"
+    },
+    {
+        "title": "Pmsk (P)",
+        "start": "2024-11-12T09:50:00",
+        "end": "2024-11-12T11:25:00",
+        "description": "Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 18/22\nProwadzący: dr inż. Andrzej Stasiak",
+        "allDay": false,
+        "color": "#47B272"
+    },
+    {
+        "title": "zsw (Inne)",
+        "start": "2024-09-24T09:50:00",
+        "end": "2024-09-24T11:25:00",
+        "description": "Zarządzanie środowiskiem Windows\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: mgr inż. Łukasz Mielniczuk",
+        "allDay": false,
+        "color": "#B24772"
+    },
+    {
+        "title": "Psmo (E)",
+        "start": "2024-06-27T08:00:00",
+        "end": "2024-06-27T09:35:00",
+        "description": "Programowanie systemów mobilnych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Artur Arciuch",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "sd (L)",
+        "start": "2024-04-25T08:00:00",
+        "end": "2024-04-25T09:35:00",
+        "description": "Systemy dialogowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: mgr Jerzy Dorobisz",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "Pmsk (P)",
+        "start": "2024-10-30T09:50:00",
+        "end": "2024-10-30T11:25:00",
+        "description": "Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 13/22\nProwadzący: dr inż. Andrzej Stasiak",
+        "allDay": false,
+        "color": "#47B272"
+    },
+    {
+        "title": "kck (L)",
+        "start": "2024-05-20T13:30:00",
+        "end": "2024-05-20T15:05:00",
+        "description": "Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: mgr Jerzy Dorobisz",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "Psmo (L)",
+        "start": "2024-05-20T08:00:00",
+        "end": "2024-05-20T09:35:00",
+        "description": "Programowanie systemów mobilnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/17\nProwadzący:  Łukasz Czerniszewski",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "kdm (w)",
+        "start": "2024-03-19T08:00:00",
+        "end": "2024-03-19T09:35:00",
+        "description": "Kompresja danych multimedialnych\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski",
+        "allDay": false,
+        "color": "#72B247"
+    },
+    {
+        "title": "Pmsk (P)",
+        "start": "2024-10-30T11:40:00",
+        "end": "2024-10-30T13:15:00",
+        "description": "Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 14/22\nProwadzący: dr inż. Andrzej Stasiak",
+        "allDay": false,
+        "color": "#47B272"
+    },
+    {
+        "title": "Pmsk (P)",
+        "start": "2024-10-22T08:00:00",
+        "end": "2024-10-22T09:35:00",
+        "description": "Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 9/22\nProwadzący: dr inż. Andrzej Stasiak",
+        "allDay": false,
+        "color": "#47B272"
+    },
+    {
+        "title": "TeIP (L)",
+        "start": "2024-05-10T08:00:00",
+        "end": "2024-05-10T09:35:00",
+        "description": "Telefonia IP\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: mgr inż. Dagmara Mazur",
+        "allDay": false,
+        "color": "#9DB247"
+    },
+    {
+        "title": "kck (L)",
+        "start": "2024-06-20T08:00:00",
+        "end": "2024-06-20T09:35:00",
+        "description": "Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: mgr Jerzy Dorobisz",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "Sws (Inne)",
+        "start": "2024-04-09T13:30:00",
+        "end": "2024-04-09T15:05:00",
+        "description": "Spotkanie organizacyjne - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 2/4\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B29D"
+    },
+    {
+        "title": "kck (w)",
+        "start": "2024-05-07T09:50:00",
+        "end": "2024-05-07T11:25:00",
+        "description": "Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Tomasz Pałys",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "Nm (w)",
+        "start": "2024-10-03T13:30:00",
+        "end": "2024-10-03T15:05:00",
+        "description": "Niskopoziomowe moduły systemowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący: dr inż. Jan Chudzikiewicz",
+        "allDay": false,
+        "color": "#B27247"
+    },
+    {
+        "title": "Pmsk (P)",
+        "start": "2024-10-17T08:00:00",
+        "end": "2024-10-17T09:35:00",
+        "description": "Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 7/22\nProwadzący: dr inż. Andrzej Stasiak",
+        "allDay": false,
+        "color": "#47B272"
+    },
+    {
+        "title": "Syt (L)",
+        "start": "2024-06-06T08:00:00",
+        "end": "2024-06-06T09:35:00",
+        "description": "Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący:  Tomasz Żentara",
+        "allDay": false,
+        "color": "#B29D47"
+    },
+    {
+        "title": "Syt (L)",
+        "start": "2024-06-03T16:00:00",
+        "end": "2024-06-03T17:35:00",
+        "description": "Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący:  Tomasz Żentara",
+        "allDay": false,
+        "color": "#B29D47"
+    },
+    {
+        "title": "Ppz (L)",
+        "start": "2024-05-09T11:40:00",
+        "end": "2024-05-09T13:15:00",
+        "description": "Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: dr inż. Łukasz Strzelecki",
+        "allDay": false,
+        "color": "#9D47B2"
+    },
+    {
+        "title": "Psmo (w)",
+        "start": "2024-03-21T09:50:00",
+        "end": "2024-03-21T11:25:00",
+        "description": "Programowanie systemów mobilnych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Artur Arciuch",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "sd (L)",
+        "start": "2024-03-18T13:30:00",
+        "end": "2024-03-18T15:05:00",
+        "description": "Systemy dialogowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: mgr Jerzy Dorobisz",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "Syt (L)",
+        "start": "2024-06-06T09:50:00",
+        "end": "2024-06-06T11:25:00",
+        "description": "Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący:  Tomasz Żentara",
+        "allDay": false,
+        "color": "#B29D47"
+    },
+    {
+        "title": "Nm (L)",
+        "start": "2024-10-29T11:40:00",
+        "end": "2024-10-29T13:15:00",
+        "description": "Niskopoziomowe moduły systemowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/12\nProwadzący: dr inż. Jan Chudzikiewicz",
+        "allDay": false,
+        "color": "#B27247"
+    },
+    {
+        "title": "Psmo (w)",
+        "start": "2024-03-07T09:50:00",
+        "end": "2024-03-07T11:25:00",
+        "description": "Programowanie systemów mobilnych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Artur Arciuch",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "TpsT (L)",
+        "start": "2024-05-24T11:40:00",
+        "end": "2024-05-24T13:15:00",
+        "description": "Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/12\nProwadzący: dr Sławomir Machowski",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Ppz (w)",
+        "start": "2024-03-13T09:50:00",
+        "end": "2024-03-13T11:25:00",
+        "description": "Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Łukasz Strzelecki",
+        "allDay": false,
+        "color": "#9D47B2"
+    },
+    {
+        "title": "Sp (Inne)",
+        "start": "2024-04-15T16:00:00",
+        "end": "2024-04-15T17:35:00",
+        "description": "Seminarium przeddyplomowe\nRodzaj zajęć:  - \nNr zajęć: 6/10\nProwadzący: dr inż. Jan Chudzikiewicz",
+        "allDay": false,
+        "color": "#7247B2"
+    },
+    {
+        "title": "Nm (w)",
+        "start": "2024-11-07T13:30:00",
+        "end": "2024-11-07T15:05:00",
+        "description": "Niskopoziomowe moduły systemowe\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: dr inż. Jan Chudzikiewicz",
+        "allDay": false,
+        "color": "#B27247"
+    },
+    {
+        "title": "zsw (L)",
+        "start": "2024-04-08T13:30:00",
+        "end": "2024-04-08T15:05:00",
+        "description": "Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/20\nProwadzący: mgr inż. Łukasz Mielniczuk",
+        "allDay": false,
+        "color": "#B24772"
+    },
+    {
+        "title": "Syt (w)",
+        "start": "2024-03-19T11:40:00",
+        "end": "2024-03-19T13:15:00",
+        "description": "Systemy telemetryczne\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr inż. Jan Chudzikiewicz",
+        "allDay": false,
+        "color": "#B29D47"
+    },
+    {
+        "title": "TeIP (L)",
+        "start": "2024-04-22T11:40:00",
+        "end": "2024-04-22T13:15:00",
+        "description": "Telefonia IP\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: mgr inż. Dagmara Mazur",
+        "allDay": false,
+        "color": "#9DB247"
+    },
+    {
+        "title": "kdm (L)",
+        "start": "2024-03-26T16:00:00",
+        "end": "2024-03-26T17:35:00",
+        "description": "Kompresja danych multimedialnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/12\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski",
+        "allDay": false,
+        "color": "#72B247"
+    },
+    {
+        "title": "kdm (w)",
+        "start": "2024-03-12T08:00:00",
+        "end": "2024-03-12T09:35:00",
+        "description": "Kompresja danych multimedialnych\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski",
+        "allDay": false,
+        "color": "#72B247"
+    },
+    {
+        "title": "zsw (L)",
+        "start": "2024-04-29T09:50:00",
+        "end": "2024-04-29T11:25:00",
+        "description": "Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/20\nProwadzący: mgr inż. Łukasz Mielniczuk",
+        "allDay": false,
+        "color": "#B24772"
+    },
+    {
+        "title": "Nm (w)",
+        "start": "2024-11-07T11:40:00",
+        "end": "2024-11-07T13:15:00",
+        "description": "Niskopoziomowe moduły systemowe\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący: dr inż. Jan Chudzikiewicz",
+        "allDay": false,
+        "color": "#B27247"
+    },
+    {
+        "title": "kdm (L)",
+        "start": "2024-05-17T08:00:00",
+        "end": "2024-05-17T09:35:00",
+        "description": "Kompresja danych multimedialnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/12\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski",
+        "allDay": false,
+        "color": "#72B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-04-17T11:40:00",
+        "end": "2024-04-17T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2479D"
+    },
+    {
+        "title": "TeIP (w)",
+        "start": "2024-03-11T09:50:00",
+        "end": "2024-03-11T11:25:00",
+        "description": "Telefonia IP\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Tomasz Malinowski",
+        "allDay": false,
+        "color": "#9DB247"
+    },
+    {
+        "title": "kck (L)",
+        "start": "2024-06-20T09:50:00",
+        "end": "2024-06-20T11:25:00",
+        "description": "Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr Jerzy Dorobisz",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "kdm (E)",
+        "start": "2024-06-25T11:40:00",
+        "end": "2024-06-25T13:15:00",
+        "description": "Kompresja danych multimedialnych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski",
+        "allDay": false,
+        "color": "#72B247"
+    },
+    {
+        "title": "TpsT (w)",
+        "start": "2024-06-17T09:50:00",
+        "end": "2024-06-17T11:25:00",
+        "description": "Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Andrzej Stasiak",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "kdm (Inne)",
+        "start": "2024-09-20T09:50:00",
+        "end": "2024-09-20T11:25:00",
+        "description": "Kompresja danych multimedialnych\nRodzaj zajęć:  - \nNr zajęć: 2/4\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski",
+        "allDay": false,
+        "color": "#72B247"
+    },
+    {
+        "title": "Syt (L)",
+        "start": "2024-06-03T17:50:00",
+        "end": "2024-06-03T19:25:00",
+        "description": "Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący:  Tomasz Żentara",
+        "allDay": false,
+        "color": "#B29D47"
+    },
+    {
+        "title": "Nm (L)",
+        "start": "2024-10-23T13:30:00",
+        "end": "2024-10-23T15:05:00",
+        "description": "Niskopoziomowe moduły systemowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/12\nProwadzący: dr inż. Jan Chudzikiewicz",
+        "allDay": false,
+        "color": "#B27247"
+    },
+    {
+        "title": "Psmo (w)",
+        "start": "2024-03-14T09:50:00",
+        "end": "2024-03-14T11:25:00",
+        "description": "Programowanie systemów mobilnych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Artur Arciuch",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "Psmo (L)",
+        "start": "2024-03-27T08:00:00",
+        "end": "2024-03-27T09:35:00",
+        "description": "Programowanie systemów mobilnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/17\nProwadzący:  Łukasz Czerniszewski",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "zsw (L)",
+        "start": "2024-05-27T09:50:00",
+        "end": "2024-05-27T11:25:00",
+        "description": "Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 14/20\nProwadzący: mgr inż. Łukasz Mielniczuk",
+        "allDay": false,
+        "color": "#B24772"
+    },
+    {
+        "title": "zsw (L)",
+        "start": "2024-06-03T09:50:00",
+        "end": "2024-06-03T11:25:00",
+        "description": "Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 16/20\nProwadzący: mgr inż. Łukasz Mielniczuk",
+        "allDay": false,
+        "color": "#B24772"
+    },
+    {
+        "title": "Syt (L)",
+        "start": "2024-05-07T17:50:00",
+        "end": "2024-05-07T19:25:00",
+        "description": "Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący:  Tomasz Żentara",
+        "allDay": false,
+        "color": "#B29D47"
+    },
+    {
+        "title": "kck (w)",
+        "start": "2024-06-11T09:50:00",
+        "end": "2024-06-11T11:25:00",
+        "description": "Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Tomasz Pałys",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "zsw (w)",
+        "start": "2024-05-22T09:50:00",
+        "end": "2024-05-22T11:25:00",
+        "description": "Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: mgr inż. Łukasz Mielniczuk",
+        "allDay": false,
+        "color": "#B24772"
+    },
+    {
+        "title": "sd (L)",
+        "start": "2024-03-26T09:50:00",
+        "end": "2024-03-26T11:25:00",
+        "description": "Systemy dialogowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: mgr Jerzy Dorobisz",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "Syt (w)",
+        "start": "2024-03-27T11:40:00",
+        "end": "2024-03-27T13:15:00",
+        "description": "Systemy telemetryczne\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Jan Chudzikiewicz",
+        "allDay": false,
+        "color": "#B29D47"
+    },
+    {
+        "title": "Pmsk (P)",
+        "start": "2024-11-07T08:00:00",
+        "end": "2024-11-07T09:35:00",
+        "description": "Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 15/22\nProwadzący: dr inż. Andrzej Stasiak",
+        "allDay": false,
+        "color": "#47B272"
+    },
+    {
+        "title": "TpsT (L)",
+        "start": "2024-05-24T13:30:00",
+        "end": "2024-05-24T15:05:00",
+        "description": "Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/12\nProwadzący: dr Sławomir Machowski",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "kck (w)",
+        "start": "2024-05-28T09:50:00",
+        "end": "2024-05-28T11:25:00",
+        "description": "Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Tomasz Pałys",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "TpsT (Inne)",
+        "start": "2024-09-23T08:00:00",
+        "end": "2024-09-23T09:35:00",
+        "description": "Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr inż. Andrzej Stasiak",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Ppz (w)",
+        "start": "2024-04-10T09:50:00",
+        "end": "2024-04-10T11:25:00",
+        "description": "Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr inż. Łukasz Strzelecki",
+        "allDay": false,
+        "color": "#9D47B2"
+    },
+    {
+        "title": "TpsT (ć)",
+        "start": "2024-04-05T09:50:00",
+        "end": "2024-04-05T11:25:00",
+        "description": "Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/3\nProwadzący: dr Sławomir Machowski",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "TpsT (w)",
+        "start": "2024-04-15T08:00:00",
+        "end": "2024-04-15T09:35:00",
+        "description": "Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Andrzej Stasiak",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Syt (Inne)",
+        "start": "2024-09-10T11:40:00",
+        "end": "2024-09-10T13:15:00",
+        "description": "Systemy telemetryczne\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Tomasz Żentara",
+        "allDay": false,
+        "color": "#B29D47"
+    },
+    {
+        "title": "Nm (L)",
+        "start": "2024-10-10T11:40:00",
+        "end": "2024-10-10T13:15:00",
+        "description": "Niskopoziomowe moduły systemowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/12\nProwadzący: dr inż. Jan Chudzikiewicz",
+        "allDay": false,
+        "color": "#B27247"
+    },
+    {
+        "title": "Pmsk (P)",
+        "start": "2024-11-07T09:50:00",
+        "end": "2024-11-07T11:25:00",
+        "description": "Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 16/22\nProwadzący: dr inż. Andrzej Stasiak",
+        "allDay": false,
+        "color": "#47B272"
+    },
+    {
+        "title": "zsw (E)",
+        "start": "2024-07-04T09:50:00",
+        "end": "2024-07-04T11:25:00",
+        "description": "Zarządzanie środowiskiem Windows\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: mgr inż. Łukasz Mielniczuk",
+        "allDay": false,
+        "color": "#B24772"
+    },
+    {
+        "title": "kdm (L)",
+        "start": "2024-05-14T17:50:00",
+        "end": "2024-05-14T19:25:00",
+        "description": "Kompresja danych multimedialnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/12\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski",
+        "allDay": false,
+        "color": "#72B247"
+    },
+    {
+        "title": "TeIP (w)",
+        "start": "2024-04-08T09:50:00",
+        "end": "2024-04-08T11:25:00",
+        "description": "Telefonia IP\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Tomasz Malinowski",
+        "allDay": false,
+        "color": "#9DB247"
+    },
+    {
+        "title": "Psmo (L)",
+        "start": "2024-03-22T11:40:00",
+        "end": "2024-03-22T13:15:00",
+        "description": "Programowanie systemów mobilnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/17\nProwadzący:  Łukasz Czerniszewski",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "Ppz (L)",
+        "start": "2024-06-27T09:50:00",
+        "end": "2024-06-27T11:25:00",
+        "description": "Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: dr inż. Łukasz Strzelecki",
+        "allDay": false,
+        "color": "#9D47B2"
+    },
+    {
+        "title": "TpsT (ć)",
+        "start": "2024-04-12T09:50:00",
+        "end": "2024-04-12T11:25:00",
+        "description": "Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/3\nProwadzący: dr Sławomir Machowski",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "sd (w)",
+        "start": "2024-03-28T11:40:00",
+        "end": "2024-03-28T13:15:00",
+        "description": "Systemy dialogowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Tomasz Pałys",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "Nm (w)",
+        "start": "2024-10-03T11:40:00",
+        "end": "2024-10-03T13:15:00",
+        "description": "Niskopoziomowe moduły systemowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący: dr inż. Jan Chudzikiewicz",
+        "allDay": false,
+        "color": "#B27247"
+    },
+    {
+        "title": "Psmo (L)",
+        "start": "2024-05-06T09:50:00",
+        "end": "2024-05-06T11:25:00",
+        "description": "Programowanie systemów mobilnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/17\nProwadzący:  Łukasz Czerniszewski",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "zsw (L)",
+        "start": "2024-06-20T17:50:00",
+        "end": "2024-06-20T19:25:00",
+        "description": "Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 20/20\nProwadzący: mgr inż. Łukasz Mielniczuk",
+        "allDay": false,
+        "color": "#B24772"
+    },
+    {
+        "title": "Pmsk (P)",
+        "start": "2024-10-03T08:00:00",
+        "end": "2024-10-03T09:35:00",
+        "description": "Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 1/22\nProwadzący: dr inż. Andrzej Stasiak",
+        "allDay": false,
+        "color": "#47B272"
+    },
+    {
+        "title": "Nm (L)",
+        "start": "2024-11-19T11:40:00",
+        "end": "2024-11-19T13:15:00",
+        "description": "Niskopoziomowe moduły systemowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/12\nProwadzący: dr inż. Jan Chudzikiewicz",
+        "allDay": false,
+        "color": "#B27247"
+    },
+    {
+        "title": "Psmo (L)",
+        "start": "2024-03-22T13:30:00",
+        "end": "2024-03-22T15:05:00",
+        "description": "Programowanie systemów mobilnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/17\nProwadzący:  Łukasz Czerniszewski",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "Psmo (L)",
+        "start": "2024-04-11T13:30:00",
+        "end": "2024-04-11T15:05:00",
+        "description": "Programowanie systemów mobilnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/17\nProwadzący:  Łukasz Czerniszewski",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "TpsT (L)",
+        "start": "2024-05-17T11:40:00",
+        "end": "2024-05-17T13:15:00",
+        "description": "Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/12\nProwadzący: dr Sławomir Machowski",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "TpsT (E)",
+        "start": "2024-06-28T11:40:00",
+        "end": "2024-06-28T13:15:00",
+        "description": "Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr inż. Andrzej Stasiak",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Sp (Inne)",
+        "start": "2024-06-19T13:30:00",
+        "end": "2024-06-19T15:05:00",
+        "description": "Seminarium przeddyplomowe\nRodzaj zajęć:  - \nNr zajęć: 10/10\nProwadzący: dr inż. Jan Chudzikiewicz",
+        "allDay": false,
+        "color": "#7247B2"
+    },
+    {
+        "title": "Nm (w)",
+        "start": "2024-10-09T13:30:00",
+        "end": "2024-10-09T15:05:00",
+        "description": "Niskopoziomowe moduły systemowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący: dr inż. Jan Chudzikiewicz",
+        "allDay": false,
+        "color": "#B27247"
+    },
+    {
+        "title": "Psmo (w)",
+        "start": "2024-04-18T09:50:00",
+        "end": "2024-04-18T11:25:00",
+        "description": "Programowanie systemów mobilnych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Artur Arciuch",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "Sp (Inne)",
+        "start": "2024-04-15T13:30:00",
+        "end": "2024-04-15T15:05:00",
+        "description": "Seminarium przeddyplomowe\nRodzaj zajęć:  - \nNr zajęć: 5/10\nProwadzący: dr inż. Jan Chudzikiewicz",
+        "allDay": false,
+        "color": "#7247B2"
+    },
+    {
+        "title": "Pmsk (P)",
+        "start": "2024-10-09T11:40:00",
+        "end": "2024-10-09T13:15:00",
+        "description": "Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 4/22\nProwadzący: dr inż. Andrzej Stasiak",
+        "allDay": false,
+        "color": "#47B272"
+    },
+    {
+        "title": "zsw (L)",
+        "start": "2024-04-29T08:00:00",
+        "end": "2024-04-29T09:35:00",
+        "description": "Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/20\nProwadzący: mgr inż. Łukasz Mielniczuk",
+        "allDay": false,
+        "color": "#B24772"
+    },
+    {
+        "title": "sd (L)",
+        "start": "2024-04-25T09:50:00",
+        "end": "2024-04-25T11:25:00",
+        "description": "Systemy dialogowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: mgr Jerzy Dorobisz",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "zsw (w)",
+        "start": "2024-03-06T08:00:00",
+        "end": "2024-03-06T09:35:00",
+        "description": "Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: mgr inż. Łukasz Mielniczuk",
+        "allDay": false,
+        "color": "#B24772"
+    },
+    {
+        "title": "Psmo (w)",
+        "start": "2024-02-29T09:50:00",
+        "end": "2024-02-29T11:25:00",
+        "description": "Programowanie systemów mobilnych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Artur Arciuch",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "Sp (Inne)",
+        "start": "2024-04-04T11:40:00",
+        "end": "2024-04-04T13:15:00",
+        "description": "Seminarium przeddyplomowe\nRodzaj zajęć:  - \nNr zajęć: 4/10\nProwadzący: dr inż. Jan Chudzikiewicz",
+        "allDay": false,
+        "color": "#7247B2"
+    },
+    {
+        "title": "Psmo (L)",
+        "start": "2024-03-27T09:50:00",
+        "end": "2024-03-27T11:25:00",
+        "description": "Programowanie systemów mobilnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/17\nProwadzący:  Łukasz Czerniszewski",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "zsw (L)",
+        "start": "2024-06-10T09:50:00",
+        "end": "2024-06-10T11:25:00",
+        "description": "Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 18/20\nProwadzący: mgr inż. Łukasz Mielniczuk",
+        "allDay": false,
+        "color": "#B24772"
+    },
+    {
+        "title": "Sp (Inne)",
+        "start": "2024-05-28T11:40:00",
+        "end": "2024-05-28T13:15:00",
+        "description": "Seminarium przeddyplomowe\nRodzaj zajęć:  - \nNr zajęć: 7/10\nProwadzący: dr inż. Jan Chudzikiewicz",
+        "allDay": false,
+        "color": "#7247B2"
+    },
+    {
+        "title": "TpsT (L)",
+        "start": "2024-05-17T13:30:00",
+        "end": "2024-05-17T15:05:00",
+        "description": "Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/12\nProwadzący: dr Sławomir Machowski",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Ppz (w)",
+        "start": "2024-04-24T09:50:00",
+        "end": "2024-04-24T11:25:00",
+        "description": "Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Łukasz Strzelecki",
+        "allDay": false,
+        "color": "#9D47B2"
+    },
+    {
+        "title": "Psmo (L)",
+        "start": "2024-04-15T09:50:00",
+        "end": "2024-04-15T11:25:00",
+        "description": "Programowanie systemów mobilnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/17\nProwadzący:  Łukasz Czerniszewski",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "zsw (L)",
+        "start": "2024-03-25T11:40:00",
+        "end": "2024-03-25T13:15:00",
+        "description": "Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/20\nProwadzący: mgr inż. Łukasz Mielniczuk",
+        "allDay": false,
+        "color": "#B24772"
+    },
+    {
+        "title": "Psmo (L)",
+        "start": "2024-04-15T11:40:00",
+        "end": "2024-04-15T13:15:00",
+        "description": "Programowanie systemów mobilnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/17\nProwadzący:  Łukasz Czerniszewski",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "kck (w)",
+        "start": "2024-05-21T09:50:00",
+        "end": "2024-05-21T11:25:00",
+        "description": "Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Tomasz Pałys",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "Nm (w)",
+        "start": "2024-10-30T13:30:00",
+        "end": "2024-10-30T15:05:00",
+        "description": "Niskopoziomowe moduły systemowe\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący: dr inż. Jan Chudzikiewicz",
+        "allDay": false,
+        "color": "#B27247"
+    },
+    {
+        "title": "Pmsk (P)",
+        "start": "2024-11-26T09:50:00",
+        "end": "2024-11-26T11:25:00",
+        "description": "Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 22/22\nProwadzący: dr inż. Andrzej Stasiak",
+        "allDay": false,
+        "color": "#47B272"
+    },
+    {
+        "title": "Nm (L)",
+        "start": "2024-11-19T13:30:00",
+        "end": "2024-11-19T15:05:00",
+        "description": "Niskopoziomowe moduły systemowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/12\nProwadzący: dr inż. Jan Chudzikiewicz",
+        "allDay": false,
+        "color": "#B27247"
+    },
+    {
+        "title": "kdm (L)",
+        "start": "2024-05-14T16:00:00",
+        "end": "2024-05-14T17:35:00",
+        "description": "Kompresja danych multimedialnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/12\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski",
+        "allDay": false,
+        "color": "#72B247"
+    },
+    {
+        "title": "Ppz (L)",
+        "start": "2024-05-23T13:30:00",
+        "end": "2024-05-23T15:05:00",
+        "description": "Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: dr inż. Łukasz Strzelecki",
+        "allDay": false,
+        "color": "#9D47B2"
+    },
+    {
+        "title": "zsw (L)",
+        "start": "2024-03-15T11:40:00",
+        "end": "2024-03-15T13:15:00",
+        "description": "Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/20\nProwadzący: mgr inż. Łukasz Mielniczuk",
+        "allDay": false,
+        "color": "#B24772"
+    },
+    {
+        "title": "Nm (L)",
+        "start": "2024-10-17T13:30:00",
+        "end": "2024-10-17T15:05:00",
+        "description": "Niskopoziomowe moduły systemowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/12\nProwadzący: dr inż. Jan Chudzikiewicz",
+        "allDay": false,
+        "color": "#B27247"
+    },
+    {
+        "title": "TpsT (Inne)",
+        "start": "2024-09-26T08:00:00",
+        "end": "2024-09-26T09:35:00",
+        "description": "Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr inż. Andrzej Stasiak",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "kdm (Inne)",
+        "start": "2024-09-27T09:50:00",
+        "end": "2024-09-27T11:25:00",
+        "description": "Kompresja danych multimedialnych\nRodzaj zajęć:  - \nNr zajęć: 4/4\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski",
+        "allDay": false,
+        "color": "#72B247"
+    },
+    {
+        "title": "TpsT (w)",
+        "start": "2024-03-25T08:00:00",
+        "end": "2024-03-25T09:35:00",
+        "description": "Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Andrzej Stasiak",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Syt (L)",
+        "start": "2024-04-25T13:30:00",
+        "end": "2024-04-25T15:05:00",
+        "description": "Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący:  Tomasz Żentara",
+        "allDay": false,
+        "color": "#B29D47"
+    },
+    {
+        "title": "kdm (L)",
+        "start": "2024-06-19T08:00:00",
+        "end": "2024-06-19T09:35:00",
+        "description": "Kompresja danych multimedialnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/12\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski",
+        "allDay": false,
+        "color": "#72B247"
+    },
+    {
+        "title": "Pmsk (P)",
+        "start": "2024-10-09T09:50:00",
+        "end": "2024-10-09T11:25:00",
+        "description": "Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 3/22\nProwadzący: dr inż. Andrzej Stasiak",
+        "allDay": false,
+        "color": "#47B272"
+    },
+    {
+        "title": "Syt (w)",
+        "start": "2024-03-11T13:30:00",
+        "end": "2024-03-11T15:05:00",
+        "description": "Systemy telemetryczne\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Jan Chudzikiewicz",
+        "allDay": false,
+        "color": "#B29D47"
+    },
+    {
+        "title": "zsw (L)",
+        "start": "2024-06-03T08:00:00",
+        "end": "2024-06-03T09:35:00",
+        "description": "Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 15/20\nProwadzący: mgr inż. Łukasz Mielniczuk",
+        "allDay": false,
+        "color": "#B24772"
+    },
+    {
+        "title": "Pmsk (P)",
+        "start": "2024-10-24T09:50:00",
+        "end": "2024-10-24T11:25:00",
+        "description": "Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 12/22\nProwadzący: dr inż. Andrzej Stasiak",
+        "allDay": false,
+        "color": "#47B272"
+    },
+    {
+        "title": "Psmo (L)",
+        "start": "2024-06-17T11:40:00",
+        "end": "2024-06-17T13:15:00",
+        "description": "Programowanie systemów mobilnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 17/17\nProwadzący:  Łukasz Czerniszewski",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "Psmo (L)",
+        "start": "2024-04-11T11:40:00",
+        "end": "2024-04-11T13:15:00",
+        "description": "Programowanie systemów mobilnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/17\nProwadzący:  Łukasz Czerniszewski",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "kck (L)",
+        "start": "2024-05-20T11:40:00",
+        "end": "2024-05-20T13:15:00",
+        "description": "Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: mgr Jerzy Dorobisz",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "zsw (w)",
+        "start": "2024-04-10T08:00:00",
+        "end": "2024-04-10T09:35:00",
+        "description": "Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący: mgr inż. Łukasz Mielniczuk",
+        "allDay": false,
+        "color": "#B24772"
+    },
+    {
+        "title": "zsw (w)",
+        "start": "2024-03-01T08:00:00",
+        "end": "2024-03-01T09:35:00",
+        "description": "Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący: mgr inż. Łukasz Mielniczuk",
+        "allDay": false,
+        "color": "#B24772"
+    },
+    {
+        "title": "Ppz (w)",
+        "start": "2024-03-06T09:50:00",
+        "end": "2024-03-06T11:25:00",
+        "description": "Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr inż. Łukasz Strzelecki",
+        "allDay": false,
+        "color": "#9D47B2"
+    },
+    {
+        "title": "sd (w)",
+        "start": "2024-03-05T11:40:00",
+        "end": "2024-03-05T13:15:00",
+        "description": "Systemy dialogowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Tomasz Pałys",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "Pmsk (P)",
+        "start": "2024-10-16T11:40:00",
+        "end": "2024-10-16T13:15:00",
+        "description": "Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 6/22\nProwadzący: dr inż. Andrzej Stasiak",
+        "allDay": false,
+        "color": "#47B272"
+    },
+    {
+        "title": "zsw (w)",
+        "start": "2024-03-20T08:00:00",
+        "end": "2024-03-20T09:35:00",
+        "description": "Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący: mgr inż. Łukasz Mielniczuk",
+        "allDay": false,
+        "color": "#B24772"
+    },
+    {
+        "title": "Syt (L)",
+        "start": "2024-04-25T11:40:00",
+        "end": "2024-04-25T13:15:00",
+        "description": "Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący:  Tomasz Żentara",
+        "allDay": false,
+        "color": "#B29D47"
+    },
+    {
+        "title": "TpsT (L)",
+        "start": "2024-04-19T13:30:00",
+        "end": "2024-04-19T15:05:00",
+        "description": "Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/12\nProwadzący: dr Sławomir Machowski",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Nm (L)",
+        "start": "2024-11-12T13:30:00",
+        "end": "2024-11-12T15:05:00",
+        "description": "Niskopoziomowe moduły systemowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/12\nProwadzący: dr inż. Jan Chudzikiewicz",
+        "allDay": false,
+        "color": "#B27247"
+    },
+    {
+        "title": "Nm (L)",
+        "start": "2024-10-29T13:30:00",
+        "end": "2024-10-29T15:05:00",
+        "description": "Niskopoziomowe moduły systemowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/12\nProwadzący: dr inż. Jan Chudzikiewicz",
+        "allDay": false,
+        "color": "#B27247"
+    },
+    {
+        "title": "Pmsk (P)",
+        "start": "2024-10-17T09:50:00",
+        "end": "2024-10-17T11:25:00",
+        "description": "Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 8/22\nProwadzący: dr inż. Andrzej Stasiak",
+        "allDay": false,
+        "color": "#47B272"
+    },
+    {
+        "title": "Ppz (L)",
+        "start": "2024-05-23T11:40:00",
+        "end": "2024-05-23T13:15:00",
+        "description": "Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: dr inż. Łukasz Strzelecki",
+        "allDay": false,
+        "color": "#9D47B2"
+    },
+    {
+        "title": "zsw (w)",
+        "start": "2024-04-24T08:00:00",
+        "end": "2024-04-24T09:35:00",
+        "description": "Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: mgr inż. Łukasz Mielniczuk",
+        "allDay": false,
+        "color": "#B24772"
+    },
+    {
+        "title": "TpsT (w)",
+        "start": "2024-04-22T08:00:00",
+        "end": "2024-04-22T09:35:00",
+        "description": "Technologie projektowania systemów teleinformatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Andrzej Stasiak",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Pmsk (P)",
+        "start": "2024-10-16T09:50:00",
+        "end": "2024-10-16T11:25:00",
+        "description": "Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 5/22\nProwadzący: dr inż. Andrzej Stasiak",
+        "allDay": false,
+        "color": "#47B272"
+    },
+    {
+        "title": "Pmsk (P)",
+        "start": "2024-11-19T09:50:00",
+        "end": "2024-11-19T11:25:00",
+        "description": "Projekt zespołowy MSK\nRodzaj zajęć: Projekt\nNr zajęć: 20/22\nProwadzący: dr inż. Andrzej Stasiak",
+        "allDay": false,
+        "color": "#47B272"
+    },
+    {
+        "title": "Ppz (L)",
+        "start": "2024-05-09T13:30:00",
+        "end": "2024-05-09T15:05:00",
+        "description": "Podstawy przetwarzania rozproszonego\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: dr inż. Łukasz Strzelecki",
+        "allDay": false,
+        "color": "#9D47B2"
+    },
+    {
+        "title": "kdm (Inne)",
+        "start": "2024-09-27T08:00:00",
+        "end": "2024-09-27T09:35:00",
+        "description": "Kompresja danych multimedialnych\nRodzaj zajęć:  - \nNr zajęć: 3/4\nProwadzący: prof. dr hab. inż. Włodzimierz Kwiatkowski",
+        "allDay": false,
+        "color": "#72B247"
+    },
+    {
+        "title": "zsw (L)",
+        "start": "2024-05-27T08:00:00",
+        "end": "2024-05-27T09:35:00",
+        "description": "Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/20\nProwadzący: mgr inż. Łukasz Mielniczuk",
+        "allDay": false,
+        "color": "#B24772"
+    },
+    {
+        "title": "Nm (w)",
+        "start": "2024-10-09T16:00:00",
+        "end": "2024-10-09T17:35:00",
+        "description": "Niskopoziomowe moduły systemowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: dr inż. Jan Chudzikiewicz",
+        "allDay": false,
+        "color": "#B27247"
+    },
+    {
+        "title": "sd (w)",
+        "start": "2024-03-19T09:50:00",
+        "end": "2024-03-19T11:25:00",
+        "description": "Systemy dialogowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Tomasz Pałys",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "Syt (L)",
+        "start": "2024-06-20T13:30:00",
+        "end": "2024-06-20T15:05:00",
+        "description": "Systemy telemetryczne\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący:  Tomasz Żentara",
+        "allDay": false,
+        "color": "#B29D47"
+    },
+    {
+        "title": "sd (w)",
+        "start": "2024-02-27T11:40:00",
+        "end": "2024-02-27T13:15:00",
+        "description": "Systemy dialogowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Tomasz Pałys",
+        "allDay": false,
+        "color": "#4772B2"
+    },
+    {
+        "title": "TeIP (L)",
+        "start": "2024-04-12T13:30:00",
+        "end": "2024-04-12T15:05:00",
+        "description": "Telefonia IP\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: mgr inż. Dagmara Mazur",
+        "allDay": false,
+        "color": "#9DB247"
+    },
+    {
+        "title": "Sp (Inne)",
+        "start": "2024-03-04T13:30:00",
+        "end": "2024-03-04T15:05:00",
+        "description": "Seminarium przeddyplomowe\nRodzaj zajęć:  - \nNr zajęć: 1/10\nProwadzący: dr inż. Jan Chudzikiewicz",
+        "allDay": false,
+        "color": "#7247B2"
+    },
+    {
+        "title": "zsw (L)",
+        "start": "2024-06-20T16:00:00",
+        "end": "2024-06-20T17:35:00",
+        "description": "Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 19/20\nProwadzący: mgr inż. Łukasz Mielniczuk",
+        "allDay": false,
+        "color": "#B24772"
+    },
+    {
+        "title": "kck (L)",
+        "start": "2024-05-27T11:40:00",
+        "end": "2024-05-27T13:15:00",
+        "description": "Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: mgr Jerzy Dorobisz",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "Syt (w)",
+        "start": "2024-03-11T11:40:00",
+        "end": "2024-03-11T13:15:00",
+        "description": "Systemy telemetryczne\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr inż. Jan Chudzikiewicz",
+        "allDay": false,
+        "color": "#B29D47"
+    }
+]

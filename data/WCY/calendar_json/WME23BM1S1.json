@@ -1,0 +1,3778 @@
+[
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-11T13:30:00",
+        "end": "2025-04-11T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 37/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-06-20T16:00:00",
+        "end": "2025-06-20T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 160/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-04T17:50:00",
+        "end": "2025-04-04T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 32/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Wdmu (w)",
+        "start": "2025-03-20T11:40:00",
+        "end": "2025-03-20T13:15:00",
+        "description": "Wstęp do modelowania układów biomechanicznych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący: -",
+        "allDay": false,
+        "color": "#B26D47"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-06-19T17:50:00",
+        "end": "2025-06-19T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 154/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "XFiz1 (ć)",
+        "start": "2025-04-13T11:40:00",
+        "end": "2025-04-13T13:15:00",
+        "description": "XFizyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-09T19:40:00",
+        "end": "2025-05-09T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 113/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Wzr. (w)",
+        "start": "2025-05-05T16:00:00",
+        "end": "2025-05-05T17:35:00",
+        "description": "Wybrane zagadnienia rehabilitacji - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-03-28T13:30:00",
+        "end": "2025-03-28T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 23/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "XMat3 (w)",
+        "start": "2025-06-14T13:30:00",
+        "end": "2025-06-14T15:05:00",
+        "description": "XMatematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 11/11\nProwadzący: dr Agnieszka Gdula",
+        "allDay": false,
+        "color": "#4779B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-22T17:50:00",
+        "end": "2025-04-22T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 74/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Wzr. (L)",
+        "start": "2025-05-20T16:00:00",
+        "end": "2025-05-20T17:35:00",
+        "description": "Wybrane zagadnienia rehabilitacji - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2025-04-07T17:50:00",
+        "end": "2025-04-07T19:25:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B29347"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-03-21T09:50:00",
+        "end": "2025-03-21T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 16/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-03-07T08:00:00",
+        "end": "2025-03-07T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Pps (ć)",
+        "start": "2025-03-27T08:00:00",
+        "end": "2025-03-27T09:35:00",
+        "description": "Podstawy przetwarzania sygnałów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/4\nProwadzący: -",
+        "allDay": false,
+        "color": "#6047B2"
+    },
+    {
+        "title": "Ebe (w)",
+        "start": "2025-03-27T09:50:00",
+        "end": "2025-03-27T11:25:00",
+        "description": "English in biomedical engineering - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#8647B2"
+    },
+    {
+        "title": "Sz.P (w)",
+        "start": "2025-03-20T08:00:00",
+        "end": "2025-03-20T09:35:00",
+        "description": "Szybkie prototypowanie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/2\nProwadzący: -",
+        "allDay": false,
+        "color": "#479FB2"
+    },
+    {
+        "title": "Pr.M (w)",
+        "start": "2025-03-03T09:50:00",
+        "end": "2025-03-03T11:25:00",
+        "description": "Propedeutyka medycyny - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B29F"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-03-14T09:50:00",
+        "end": "2025-03-14T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 9/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Po (L)",
+        "start": "2025-06-03T11:40:00",
+        "end": "2025-06-03T13:15:00",
+        "description": "Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: mgr inż. Paweł Pieczonka",
+        "allDay": false,
+        "color": "#4753B2"
+    },
+    {
+        "title": "Gśr.PSP (ć)",
+        "start": "2025-05-21T08:00:00",
+        "end": "2025-05-21T09:35:00",
+        "description": "Graficzne środowiska programowania systemów pomiarowych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#ACB247"
+    },
+    {
+        "title": "XFiz1 (ć)",
+        "start": "2025-06-01T11:40:00",
+        "end": "2025-06-01T13:15:00",
+        "description": "XFizyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "BiO (w)",
+        "start": "2025-03-31T11:40:00",
+        "end": "2025-03-31T13:15:00",
+        "description": "Biometria\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: dr inż. Leszek Grad",
+        "allDay": false,
+        "color": "#AC47B2"
+    },
+    {
+        "title": "Pps (Inne)",
+        "start": "2025-07-01T13:30:00",
+        "end": "2025-07-01T15:05:00",
+        "description": "Podstawy przetwarzania sygnałów - (Zaliczenie poprawkowe  lab.) -\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#6047B2"
+    },
+    {
+        "title": "Wm (E)",
+        "start": "2025-06-30T09:50:00",
+        "end": "2025-06-30T11:25:00",
+        "description": "Wytrzymałość materiałów - (Egzamin) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#60B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-06-22T19:40:00",
+        "end": "2025-06-22T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 176/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2025-04-28T13:30:00",
+        "end": "2025-04-28T15:05:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B279"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-06-13T08:00:00",
+        "end": "2025-06-13T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 142/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2025-03-17T13:30:00",
+        "end": "2025-03-17T15:05:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B279"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-06-06T13:30:00",
+        "end": "2025-06-06T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 138/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Po (L)",
+        "start": "2025-05-06T11:40:00",
+        "end": "2025-05-06T13:15:00",
+        "description": "Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: mgr inż. Paweł Pieczonka",
+        "allDay": false,
+        "color": "#4753B2"
+    },
+    {
+        "title": "Wdmu (L)",
+        "start": "2025-06-10T08:00:00",
+        "end": "2025-06-10T09:35:00",
+        "description": "Wstęp do modelowania układów biomechanicznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/12\nProwadzący: -",
+        "allDay": false,
+        "color": "#B26D47"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-25T08:00:00",
+        "end": "2025-04-25T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 76/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Wm (ć)",
+        "start": "2025-04-07T09:50:00",
+        "end": "2025-04-07T11:25:00",
+        "description": "Wytrzymałość materiałów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#60B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-02T17:50:00",
+        "end": "2025-05-02T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 98/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Wm (ć)",
+        "start": "2025-03-24T09:50:00",
+        "end": "2025-03-24T11:25:00",
+        "description": "Wytrzymałość materiałów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#60B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-06-13T16:00:00",
+        "end": "2025-06-13T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 146/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "BiO (L)",
+        "start": "2025-04-16T08:00:00",
+        "end": "2025-04-16T09:35:00",
+        "description": "Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/9\nProwadzący: dr inż. Leszek Grad",
+        "allDay": false,
+        "color": "#AC47B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-03T13:30:00",
+        "end": "2025-05-03T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 103/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2025-03-24T13:30:00",
+        "end": "2025-03-24T15:05:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B279"
+    },
+    {
+        "title": "Pr.M (Inne)",
+        "start": "2025-03-04T13:30:00",
+        "end": "2025-03-04T15:05:00",
+        "description": "Propedeutyka medycyny - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 2/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B29F"
+    },
+    {
+        "title": "Gśr.PSP (ć)",
+        "start": "2025-04-23T08:00:00",
+        "end": "2025-04-23T09:35:00",
+        "description": "Graficzne środowiska programowania systemów pomiarowych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#ACB247"
+    },
+    {
+        "title": "Wzr. (L)",
+        "start": "2025-05-06T17:50:00",
+        "end": "2025-05-06T19:25:00",
+        "description": "Wybrane zagadnienia rehabilitacji - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "Po (L)",
+        "start": "2025-05-20T11:40:00",
+        "end": "2025-05-20T13:15:00",
+        "description": "Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: mgr inż. Paweł Pieczonka",
+        "allDay": false,
+        "color": "#4753B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-11T09:50:00",
+        "end": "2025-04-11T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 35/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-06-22T11:40:00",
+        "end": "2025-06-22T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 172/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Sz.P (L)",
+        "start": "2025-04-15T08:00:00",
+        "end": "2025-04-15T09:35:00",
+        "description": "Szybkie prototypowanie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#479FB2"
+    },
+    {
+        "title": "Wzr. (w)",
+        "start": "2025-06-02T16:00:00",
+        "end": "2025-06-02T17:35:00",
+        "description": "Wybrane zagadnienia rehabilitacji - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "BiO (L)",
+        "start": "2025-04-30T11:40:00",
+        "end": "2025-04-30T13:15:00",
+        "description": "Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/9\nProwadzący: dr inż. Leszek Grad",
+        "allDay": false,
+        "color": "#AC47B2"
+    },
+    {
+        "title": "XMat3 (w)",
+        "start": "2025-06-07T11:40:00",
+        "end": "2025-06-07T13:15:00",
+        "description": "XMatematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 10/11\nProwadzący: dr Agnieszka Gdula",
+        "allDay": false,
+        "color": "#4779B2"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2025-06-16T13:30:00",
+        "end": "2025-06-16T15:05:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B279"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-25T19:40:00",
+        "end": "2025-04-25T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 82/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Rou (L)",
+        "start": "2025-05-27T11:40:00",
+        "end": "2025-05-27T13:15:00",
+        "description": "Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: mgr inż. Łukasz Skibniewski",
+        "allDay": false,
+        "color": "#47B254"
+    },
+    {
+        "title": "Wzr. (L)",
+        "start": "2025-05-27T16:00:00",
+        "end": "2025-05-27T17:35:00",
+        "description": "Wybrane zagadnienia rehabilitacji - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "Wdmu (L)",
+        "start": "2025-06-05T13:30:00",
+        "end": "2025-06-05T15:05:00",
+        "description": "Wstęp do modelowania układów biomechanicznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/12\nProwadzący: -",
+        "allDay": false,
+        "color": "#B26D47"
+    },
+    {
+        "title": "Wzr. (L)",
+        "start": "2025-04-29T17:50:00",
+        "end": "2025-04-29T19:25:00",
+        "description": "Wybrane zagadnienia rehabilitacji - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-01T19:40:00",
+        "end": "2025-05-01T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 92/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-30T17:50:00",
+        "end": "2025-05-30T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 133/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Ebe (w)",
+        "start": "2025-04-29T09:50:00",
+        "end": "2025-04-29T11:25:00",
+        "description": "English in biomedical engineering - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#8647B2"
+    },
+    {
+        "title": "Pr.M (Inne)",
+        "start": "2025-03-25T11:40:00",
+        "end": "2025-03-25T13:15:00",
+        "description": "Propedeutyka medycyny - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 7/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B29F"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-11T19:40:00",
+        "end": "2025-04-11T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 40/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-01T17:50:00",
+        "end": "2025-05-01T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 91/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "BiO (L)",
+        "start": "2025-05-14T11:40:00",
+        "end": "2025-05-14T13:15:00",
+        "description": "Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/9\nProwadzący: dr inż. Leszek Grad",
+        "allDay": false,
+        "color": "#AC47B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-18T09:50:00",
+        "end": "2025-04-18T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 42/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-06-06T08:00:00",
+        "end": "2025-06-06T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 135/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-03T16:00:00",
+        "end": "2025-05-03T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 104/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-19T13:30:00",
+        "end": "2025-04-19T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 51/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Sz.P (w)",
+        "start": "2025-03-13T08:00:00",
+        "end": "2025-03-13T09:35:00",
+        "description": "Szybkie prototypowanie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/2\nProwadzący: -",
+        "allDay": false,
+        "color": "#479FB2"
+    },
+    {
+        "title": "Rou (w)",
+        "start": "2025-03-11T09:50:00",
+        "end": "2025-03-11T11:25:00",
+        "description": "Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: mgr inż. Łukasz Skibniewski",
+        "allDay": false,
+        "color": "#47B254"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-19T11:40:00",
+        "end": "2025-04-19T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 50/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Gśr.PSP (ć)",
+        "start": "2025-05-07T08:00:00",
+        "end": "2025-05-07T09:35:00",
+        "description": "Graficzne środowiska programowania systemów pomiarowych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#ACB247"
+    },
+    {
+        "title": "Ebe (w)",
+        "start": "2025-03-20T09:50:00",
+        "end": "2025-03-20T11:25:00",
+        "description": "English in biomedical engineering - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#8647B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-04T08:00:00",
+        "end": "2025-04-04T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 27/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-02T08:00:00",
+        "end": "2025-05-02T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 93/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-25T11:40:00",
+        "end": "2025-04-25T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 78/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Ebe (w)",
+        "start": "2025-04-03T09:50:00",
+        "end": "2025-04-03T11:25:00",
+        "description": "English in biomedical engineering - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#8647B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-06-22T17:50:00",
+        "end": "2025-06-22T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 175/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Wzr. (L)",
+        "start": "2025-04-29T16:00:00",
+        "end": "2025-04-29T17:35:00",
+        "description": "Wybrane zagadnienia rehabilitacji - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-01T13:30:00",
+        "end": "2025-05-01T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 89/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Ebe (Inne)",
+        "start": "2025-06-25T13:30:00",
+        "end": "2025-06-25T15:05:00",
+        "description": "English in biomedical engineering - (Zaliczenie poprawkowe.) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#8647B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-23T19:40:00",
+        "end": "2025-05-23T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 127/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-03-07T13:30:00",
+        "end": "2025-03-07T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 4/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-30T16:00:00",
+        "end": "2025-05-30T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 132/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Wdmu (w)",
+        "start": "2025-03-13T11:40:00",
+        "end": "2025-03-13T13:15:00",
+        "description": "Wstęp do modelowania układów biomechanicznych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/3\nProwadzący: -",
+        "allDay": false,
+        "color": "#B26D47"
+    },
+    {
+        "title": "Pr.M (Inne)",
+        "start": "2025-06-30T11:40:00",
+        "end": "2025-06-30T13:15:00",
+        "description": "Propedeutyka medycyny - (Zaliczenie poprawkowe.) -\nRodzaj zajęć:  - \nNr zajęć: 9/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B29F"
+    },
+    {
+        "title": "WdPB (w)",
+        "start": "2025-04-03T08:00:00",
+        "end": "2025-04-03T09:35:00",
+        "description": "Wstęp do projektowania w biomechanice - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: -",
+        "allDay": false,
+        "color": "#86B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-04T16:00:00",
+        "end": "2025-04-04T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 31/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-25T16:00:00",
+        "end": "2025-04-25T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 80/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-03T19:40:00",
+        "end": "2025-05-03T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 106/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-30T08:00:00",
+        "end": "2025-05-30T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 128/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-22T19:40:00",
+        "end": "2025-04-22T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 75/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-20T13:30:00",
+        "end": "2025-04-20T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 58/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-11T11:40:00",
+        "end": "2025-04-11T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 36/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "XMat3 (ć)",
+        "start": "2025-06-08T13:30:00",
+        "end": "2025-06-08T15:05:00",
+        "description": "XMatematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/10\nProwadzący: dr Agnieszka Gdula",
+        "allDay": false,
+        "color": "#4779B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-06-21T16:00:00",
+        "end": "2025-06-21T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 167/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Pr.M (w)",
+        "start": "2025-03-17T09:50:00",
+        "end": "2025-03-17T11:25:00",
+        "description": "Propedeutyka medycyny - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B29F"
+    },
+    {
+        "title": "WdPB (L)",
+        "start": "2025-04-17T13:30:00",
+        "end": "2025-04-17T15:05:00",
+        "description": "Wstęp do projektowania w biomechanice - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#86B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-21T08:00:00",
+        "end": "2025-04-21T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 62/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "XMat3 (ć)",
+        "start": "2025-06-08T16:00:00",
+        "end": "2025-06-08T17:35:00",
+        "description": "XMatematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/10\nProwadzący: dr Agnieszka Gdula",
+        "allDay": false,
+        "color": "#4779B2"
+    },
+    {
+        "title": "Rou (w)",
+        "start": "2025-03-04T08:00:00",
+        "end": "2025-03-04T09:35:00",
+        "description": "Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: mgr inż. Łukasz Skibniewski",
+        "allDay": false,
+        "color": "#47B254"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2025-03-17T17:50:00",
+        "end": "2025-03-17T19:25:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B29347"
+    },
+    {
+        "title": "Wzr. (w)",
+        "start": "2025-06-09T16:00:00",
+        "end": "2025-06-09T17:35:00",
+        "description": "Wybrane zagadnienia rehabilitacji - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "Wdmu (L)",
+        "start": "2025-06-12T11:40:00",
+        "end": "2025-06-12T13:15:00",
+        "description": "Wstęp do modelowania układów biomechanicznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/12\nProwadzący: -",
+        "allDay": false,
+        "color": "#B26D47"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-20T09:50:00",
+        "end": "2025-04-20T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 56/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Pr.M (Inne)",
+        "start": "2025-03-11T13:30:00",
+        "end": "2025-03-11T15:05:00",
+        "description": "Propedeutyka medycyny - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 4/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B29F"
+    },
+    {
+        "title": "Wdmu (w)",
+        "start": "2025-03-27T11:40:00",
+        "end": "2025-03-27T13:15:00",
+        "description": "Wstęp do modelowania układów biomechanicznych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący: -",
+        "allDay": false,
+        "color": "#B26D47"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-03-14T13:30:00",
+        "end": "2025-03-14T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 11/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Pps (w)",
+        "start": "2025-04-02T09:50:00",
+        "end": "2025-04-02T11:25:00",
+        "description": "Podstawy przetwarzania sygnałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#6047B2"
+    },
+    {
+        "title": "Wzr. (L)",
+        "start": "2025-05-06T16:00:00",
+        "end": "2025-05-06T17:35:00",
+        "description": "Wybrane zagadnienia rehabilitacji - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "XFiz1 (w)",
+        "start": "2025-05-10T11:40:00",
+        "end": "2025-05-10T13:15:00",
+        "description": "XFizyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 7/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Wm (w)",
+        "start": "2025-04-10T09:50:00",
+        "end": "2025-04-10T11:25:00",
+        "description": "Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#60B247"
+    },
+    {
+        "title": "WdPB (L)",
+        "start": "2025-05-15T13:30:00",
+        "end": "2025-05-15T15:05:00",
+        "description": "Wstęp do projektowania w biomechanice - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#86B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-11T17:50:00",
+        "end": "2025-04-11T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 39/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Wm (w)",
+        "start": "2025-04-17T08:00:00",
+        "end": "2025-04-17T09:35:00",
+        "description": "Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#60B247"
+    },
+    {
+        "title": "XFiz1 (L)",
+        "start": "2025-04-06T08:00:00",
+        "end": "2025-04-06T09:35:00",
+        "description": "XFizyka 1\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-03-14T17:50:00",
+        "end": "2025-03-14T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 13/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "WdPB (w)",
+        "start": "2025-03-13T13:30:00",
+        "end": "2025-03-13T15:05:00",
+        "description": "Wstęp do projektowania w biomechanice - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: -",
+        "allDay": false,
+        "color": "#86B247"
+    },
+    {
+        "title": "Wdmu (Inne)",
+        "start": "2025-06-26T11:40:00",
+        "end": "2025-06-26T13:15:00",
+        "description": "Wstęp do modelowania układów biomechanicznych - (Zaliczenie poprawkowe  lab.) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B26D47"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-03-07T09:50:00",
+        "end": "2025-03-07T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Pps (ć)",
+        "start": "2025-04-09T13:30:00",
+        "end": "2025-04-09T15:05:00",
+        "description": "Podstawy przetwarzania sygnałów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący: -",
+        "allDay": false,
+        "color": "#6047B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-02T16:00:00",
+        "end": "2025-05-02T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 97/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-03-28T11:40:00",
+        "end": "2025-03-28T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 22/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-23T08:00:00",
+        "end": "2025-05-23T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 121/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-03-14T11:40:00",
+        "end": "2025-03-14T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 10/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-06-13T09:50:00",
+        "end": "2025-06-13T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 143/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-19T19:40:00",
+        "end": "2025-04-19T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 54/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "BiO (w)",
+        "start": "2025-03-03T11:40:00",
+        "end": "2025-03-03T13:15:00",
+        "description": "Biometria\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: dr inż. Leszek Grad",
+        "allDay": false,
+        "color": "#AC47B2"
+    },
+    {
+        "title": "Po (L)",
+        "start": "2025-06-10T11:40:00",
+        "end": "2025-06-10T13:15:00",
+        "description": "Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: mgr inż. Paweł Pieczonka",
+        "allDay": false,
+        "color": "#4753B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-06-21T08:00:00",
+        "end": "2025-06-21T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 163/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-18T13:30:00",
+        "end": "2025-04-18T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 44/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "BiO (Inne)",
+        "start": "2025-06-25T11:40:00",
+        "end": "2025-06-25T13:15:00",
+        "description": "Biometria\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Leszek Grad",
+        "allDay": false,
+        "color": "#AC47B2"
+    },
+    {
+        "title": "XFiz1 (w)",
+        "start": "2025-05-24T11:40:00",
+        "end": "2025-05-24T13:15:00",
+        "description": "XFizyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 11/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Pps (L)",
+        "start": "2025-05-15T08:00:00",
+        "end": "2025-05-15T09:35:00",
+        "description": "Podstawy przetwarzania sygnałów - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/4\nProwadzący: -",
+        "allDay": false,
+        "color": "#6047B2"
+    },
+    {
+        "title": "Sz.P (L)",
+        "start": "2025-05-06T09:50:00",
+        "end": "2025-05-06T11:25:00",
+        "description": "Szybkie prototypowanie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#479FB2"
+    },
+    {
+        "title": "XFiz1 (ć)",
+        "start": "2025-05-18T13:30:00",
+        "end": "2025-05-18T15:05:00",
+        "description": "XFizyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Pps (L)",
+        "start": "2025-04-23T13:30:00",
+        "end": "2025-04-23T15:05:00",
+        "description": "Podstawy przetwarzania sygnałów - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/4\nProwadzący: -",
+        "allDay": false,
+        "color": "#6047B2"
+    },
+    {
+        "title": "Wdmu (L)",
+        "start": "2025-06-05T09:50:00",
+        "end": "2025-06-05T11:25:00",
+        "description": "Wstęp do modelowania układów biomechanicznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/12\nProwadzący: -",
+        "allDay": false,
+        "color": "#B26D47"
+    },
+    {
+        "title": "Wdmu (L)",
+        "start": "2025-05-29T11:40:00",
+        "end": "2025-05-29T13:15:00",
+        "description": "Wstęp do modelowania układów biomechanicznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/12\nProwadzący: -",
+        "allDay": false,
+        "color": "#B26D47"
+    },
+    {
+        "title": "Sz.P (L)",
+        "start": "2025-04-17T09:50:00",
+        "end": "2025-04-17T11:25:00",
+        "description": "Szybkie prototypowanie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#479FB2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-30T09:50:00",
+        "end": "2025-05-30T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 129/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "BiO (L)",
+        "start": "2025-06-04T11:40:00",
+        "end": "2025-06-04T13:15:00",
+        "description": "Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący: dr inż. Leszek Grad",
+        "allDay": false,
+        "color": "#AC47B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-16T13:30:00",
+        "end": "2025-05-16T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 117/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Wm (ć)",
+        "start": "2025-06-02T11:40:00",
+        "end": "2025-06-02T13:15:00",
+        "description": "Wytrzymałość materiałów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#60B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-06-06T16:00:00",
+        "end": "2025-06-06T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 139/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Wzr. (L)",
+        "start": "2025-06-10T16:00:00",
+        "end": "2025-06-10T17:35:00",
+        "description": "Wybrane zagadnienia rehabilitacji - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "Wm (Inne)",
+        "start": "2025-06-23T11:40:00",
+        "end": "2025-06-23T13:15:00",
+        "description": "Wytrzymałość materiałów - (Zp. Ćw) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#60B247"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2025-05-19T13:30:00",
+        "end": "2025-05-19T15:05:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B279"
+    },
+    {
+        "title": "BiO (L)",
+        "start": "2025-05-28T11:40:00",
+        "end": "2025-05-28T13:15:00",
+        "description": "Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/9\nProwadzący: dr inż. Leszek Grad",
+        "allDay": false,
+        "color": "#AC47B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-06-20T17:50:00",
+        "end": "2025-06-20T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 161/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-03-14T19:40:00",
+        "end": "2025-03-14T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 14/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Rou (L)",
+        "start": "2025-04-29T11:40:00",
+        "end": "2025-04-29T13:15:00",
+        "description": "Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: mgr inż. Łukasz Skibniewski",
+        "allDay": false,
+        "color": "#47B254"
+    },
+    {
+        "title": "XMat3 (w)",
+        "start": "2025-05-11T13:30:00",
+        "end": "2025-05-11T15:05:00",
+        "description": "XMatematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 8/11\nProwadzący: dr Agnieszka Gdula",
+        "allDay": false,
+        "color": "#4779B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-03-21T08:00:00",
+        "end": "2025-03-21T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 15/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "XFiz1 (w)",
+        "start": "2025-04-26T13:30:00",
+        "end": "2025-04-26T15:05:00",
+        "description": "XFizyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 6/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-30T16:00:00",
+        "end": "2025-04-30T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 83/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "WdPB (L)",
+        "start": "2025-04-17T11:40:00",
+        "end": "2025-04-17T13:15:00",
+        "description": "Wstęp do projektowania w biomechanice - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#86B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-03-28T19:40:00",
+        "end": "2025-03-28T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 26/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2025-03-10T13:30:00",
+        "end": "2025-03-10T15:05:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B279"
+    },
+    {
+        "title": "Wdmu (Inne)",
+        "start": "2025-07-03T11:40:00",
+        "end": "2025-07-03T13:15:00",
+        "description": "Wstęp do modelowania układów biomechanicznych - (Zaliczenie poprawkowe.) -\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B26D47"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-03-21T17:50:00",
+        "end": "2025-03-21T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 20/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-23T16:00:00",
+        "end": "2025-05-23T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 125/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-21T13:30:00",
+        "end": "2025-04-21T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 65/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-06-19T16:00:00",
+        "end": "2025-06-19T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 153/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2025-06-02T13:30:00",
+        "end": "2025-06-02T15:05:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B279"
+    },
+    {
+        "title": "Wdmu (L)",
+        "start": "2025-06-12T09:50:00",
+        "end": "2025-06-12T11:25:00",
+        "description": "Wstęp do modelowania układów biomechanicznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/12\nProwadzący: -",
+        "allDay": false,
+        "color": "#B26D47"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2025-04-28T17:50:00",
+        "end": "2025-04-28T19:25:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B29347"
+    },
+    {
+        "title": "Rou (Inne)",
+        "start": "2025-06-24T11:40:00",
+        "end": "2025-06-24T13:15:00",
+        "description": "Routing w sieciach komputerowych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr inż. Łukasz Skibniewski",
+        "allDay": false,
+        "color": "#47B254"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2025-05-05T13:30:00",
+        "end": "2025-05-05T15:05:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B279"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-18T16:00:00",
+        "end": "2025-04-18T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 45/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-18T17:50:00",
+        "end": "2025-04-18T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 46/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Sz.P (L)",
+        "start": "2025-04-09T11:40:00",
+        "end": "2025-04-09T13:15:00",
+        "description": "Szybkie prototypowanie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#479FB2"
+    },
+    {
+        "title": "WdPB (L)",
+        "start": "2025-04-24T13:30:00",
+        "end": "2025-04-24T15:05:00",
+        "description": "Wstęp do projektowania w biomechanice - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#86B247"
+    },
+    {
+        "title": "Wm (w)",
+        "start": "2025-05-05T11:40:00",
+        "end": "2025-05-05T13:15:00",
+        "description": "Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#60B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-16T17:50:00",
+        "end": "2025-05-16T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 119/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "XFiz1 (w)",
+        "start": "2025-05-31T11:40:00",
+        "end": "2025-05-31T13:15:00",
+        "description": "XFizyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 13/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Ebe (w)",
+        "start": "2025-06-04T09:50:00",
+        "end": "2025-06-04T11:25:00",
+        "description": "English in biomedical engineering - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 14/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#8647B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-18T19:40:00",
+        "end": "2025-04-18T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 47/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "XMat3 (w)",
+        "start": "2025-03-15T16:00:00",
+        "end": "2025-03-15T17:35:00",
+        "description": "XMatematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 2/11\nProwadzący: dr Agnieszka Gdula",
+        "allDay": false,
+        "color": "#4779B2"
+    },
+    {
+        "title": "Rou (L)",
+        "start": "2025-04-08T11:40:00",
+        "end": "2025-04-08T13:15:00",
+        "description": "Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: mgr inż. Łukasz Skibniewski",
+        "allDay": false,
+        "color": "#47B254"
+    },
+    {
+        "title": "XFiz1 (ć)",
+        "start": "2025-05-25T11:40:00",
+        "end": "2025-05-25T13:15:00",
+        "description": "XFizyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Rou (L)",
+        "start": "2025-04-08T13:30:00",
+        "end": "2025-04-08T15:05:00",
+        "description": "Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: mgr inż. Łukasz Skibniewski",
+        "allDay": false,
+        "color": "#47B254"
+    },
+    {
+        "title": "XFiz1 (w)",
+        "start": "2025-05-24T13:30:00",
+        "end": "2025-05-24T15:05:00",
+        "description": "XFizyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 12/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-22T09:50:00",
+        "end": "2025-04-22T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 70/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Sz.P (L)",
+        "start": "2025-03-27T13:30:00",
+        "end": "2025-03-27T15:05:00",
+        "description": "Szybkie prototypowanie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#479FB2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-03-28T16:00:00",
+        "end": "2025-03-28T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 24/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-16T08:00:00",
+        "end": "2025-05-16T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 114/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-09T16:00:00",
+        "end": "2025-05-09T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 111/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Wzr. (L)",
+        "start": "2025-06-17T16:00:00",
+        "end": "2025-06-17T17:35:00",
+        "description": "Wybrane zagadnienia rehabilitacji - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "Pr.M (Inne)",
+        "start": "2025-03-25T13:30:00",
+        "end": "2025-03-25T15:05:00",
+        "description": "Propedeutyka medycyny - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 8/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B29F"
+    },
+    {
+        "title": "XFiz1 (ć)",
+        "start": "2025-04-06T11:40:00",
+        "end": "2025-04-06T13:15:00",
+        "description": "XFizyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-04T13:30:00",
+        "end": "2025-04-04T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 30/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "XMat3 (w)",
+        "start": "2025-03-15T13:30:00",
+        "end": "2025-03-15T15:05:00",
+        "description": "XMatematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 1/11\nProwadzący: dr Agnieszka Gdula",
+        "allDay": false,
+        "color": "#4779B2"
+    },
+    {
+        "title": "Pps (w)",
+        "start": "2025-03-26T09:50:00",
+        "end": "2025-03-26T11:25:00",
+        "description": "Podstawy przetwarzania sygnałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#6047B2"
+    },
+    {
+        "title": "WdPB (w)",
+        "start": "2025-03-20T13:30:00",
+        "end": "2025-03-20T15:05:00",
+        "description": "Wstęp do projektowania w biomechanice - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: -",
+        "allDay": false,
+        "color": "#86B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-06-13T19:40:00",
+        "end": "2025-06-13T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 148/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-03-21T11:40:00",
+        "end": "2025-03-21T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 17/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-06-13T17:50:00",
+        "end": "2025-06-13T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 147/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Pps (Inne)",
+        "start": "2025-06-23T13:30:00",
+        "end": "2025-06-23T15:05:00",
+        "description": "Podstawy przetwarzania sygnałów - (Zp. Ćw) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#6047B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-03-07T17:50:00",
+        "end": "2025-03-07T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 6/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2025-03-31T17:50:00",
+        "end": "2025-03-31T19:25:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B29347"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-09T13:30:00",
+        "end": "2025-05-09T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 110/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-06-19T11:40:00",
+        "end": "2025-06-19T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 151/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-18T08:00:00",
+        "end": "2025-04-18T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 41/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-02T11:40:00",
+        "end": "2025-05-02T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 95/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Wm (w)",
+        "start": "2025-03-05T08:00:00",
+        "end": "2025-03-05T09:35:00",
+        "description": "Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#60B247"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2025-03-10T17:50:00",
+        "end": "2025-03-10T19:25:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B29347"
+    },
+    {
+        "title": "WdPB (Inne)",
+        "start": "2025-06-26T13:30:00",
+        "end": "2025-06-26T15:05:00",
+        "description": "Wstęp do projektowania w biomechanice - (Zaliczenie poprawkowe  lab.) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#86B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-06-19T08:00:00",
+        "end": "2025-06-19T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 149/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Ebe (w)",
+        "start": "2025-05-21T13:30:00",
+        "end": "2025-05-21T15:05:00",
+        "description": "English in biomedical engineering - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 11/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#8647B2"
+    },
+    {
+        "title": "Wm (ć)",
+        "start": "2025-05-05T09:50:00",
+        "end": "2025-05-05T11:25:00",
+        "description": "Wytrzymałość materiałów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#60B247"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2025-04-07T13:30:00",
+        "end": "2025-04-07T15:05:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B279"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-06-22T16:00:00",
+        "end": "2025-06-22T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 174/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Sz.P (L)",
+        "start": "2025-05-06T08:00:00",
+        "end": "2025-05-06T09:35:00",
+        "description": "Szybkie prototypowanie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#479FB2"
+    },
+    {
+        "title": "Wzr. (L)",
+        "start": "2025-05-13T16:00:00",
+        "end": "2025-05-13T17:35:00",
+        "description": "Wybrane zagadnienia rehabilitacji - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "XFiz1 (ć)",
+        "start": "2025-05-18T11:40:00",
+        "end": "2025-05-18T13:15:00",
+        "description": "XFizyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-09T17:50:00",
+        "end": "2025-05-09T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 112/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Po (L)",
+        "start": "2025-05-06T13:30:00",
+        "end": "2025-05-06T15:05:00",
+        "description": "Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: mgr inż. Paweł Pieczonka",
+        "allDay": false,
+        "color": "#4753B2"
+    },
+    {
+        "title": "Po (Inne)",
+        "start": "2025-07-02T13:30:00",
+        "end": "2025-07-02T15:05:00",
+        "description": "Programowanie obiektowe\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: prof. dr hab. inż. Andrzej Walczak",
+        "allDay": false,
+        "color": "#4753B2"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2025-05-26T13:30:00",
+        "end": "2025-05-26T15:05:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B279"
+    },
+    {
+        "title": "Pr.M (w)",
+        "start": "2025-03-10T08:00:00",
+        "end": "2025-03-10T09:35:00",
+        "description": "Propedeutyka medycyny - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B29F"
+    },
+    {
+        "title": "WdPB (Inne)",
+        "start": "2025-07-03T13:30:00",
+        "end": "2025-07-03T15:05:00",
+        "description": "Wstęp do projektowania w biomechanice - (Zaliczenie poprawkowe.) -\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#86B247"
+    },
+    {
+        "title": "Rou (Inne)",
+        "start": "2025-07-01T11:40:00",
+        "end": "2025-07-01T13:15:00",
+        "description": "Routing w sieciach komputerowych\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: mgr inż. Łukasz Skibniewski",
+        "allDay": false,
+        "color": "#47B254"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-06-21T11:40:00",
+        "end": "2025-06-21T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 165/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-03-07T19:40:00",
+        "end": "2025-03-07T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 7/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2025-06-16T17:50:00",
+        "end": "2025-06-16T19:25:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B29347"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2025-05-12T13:30:00",
+        "end": "2025-05-12T15:05:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B279"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-30T13:30:00",
+        "end": "2025-05-30T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 131/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "XMat3 (w)",
+        "start": "2025-03-22T13:30:00",
+        "end": "2025-03-22T15:05:00",
+        "description": "XMatematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 3/11\nProwadzący: dr Agnieszka Gdula",
+        "allDay": false,
+        "color": "#4779B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-23T11:40:00",
+        "end": "2025-05-23T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 123/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "WdPB (L)",
+        "start": "2025-04-24T11:40:00",
+        "end": "2025-04-24T13:15:00",
+        "description": "Wstęp do projektowania w biomechanice - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#86B247"
+    },
+    {
+        "title": "Wzr. (Inne)",
+        "start": "2025-09-17T16:00:00",
+        "end": "2025-09-17T17:35:00",
+        "description": "Wybrane zagadnienia rehabilitacji - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "Pr.M (w)",
+        "start": "2025-03-10T09:50:00",
+        "end": "2025-03-10T11:25:00",
+        "description": "Propedeutyka medycyny - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B29F"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-06-21T13:30:00",
+        "end": "2025-06-21T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 166/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Po (w)",
+        "start": "2025-03-12T11:40:00",
+        "end": "2025-03-12T13:15:00",
+        "description": "Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: prof. dr hab. inż. Andrzej Walczak",
+        "allDay": false,
+        "color": "#4753B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-30T19:40:00",
+        "end": "2025-04-30T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 85/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-21T16:00:00",
+        "end": "2025-04-21T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 66/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-09T09:50:00",
+        "end": "2025-05-09T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 108/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2025-03-31T13:30:00",
+        "end": "2025-03-31T15:05:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B279"
+    },
+    {
+        "title": "Pr.M (Inne)",
+        "start": "2025-03-18T11:40:00",
+        "end": "2025-03-18T13:15:00",
+        "description": "Propedeutyka medycyny - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 5/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B29F"
+    },
+    {
+        "title": "BiO (L)",
+        "start": "2025-05-07T11:40:00",
+        "end": "2025-05-07T13:15:00",
+        "description": "Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/9\nProwadzący: dr inż. Leszek Grad",
+        "allDay": false,
+        "color": "#AC47B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-03T09:50:00",
+        "end": "2025-05-03T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 101/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-06-06T19:40:00",
+        "end": "2025-06-06T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 141/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-03T11:40:00",
+        "end": "2025-05-03T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 102/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-22T13:30:00",
+        "end": "2025-04-22T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 72/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "XFiz1 (L)",
+        "start": "2025-04-13T08:00:00",
+        "end": "2025-04-13T09:35:00",
+        "description": "XFizyka 1\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Ebe (w)",
+        "start": "2025-04-01T09:50:00",
+        "end": "2025-04-01T11:25:00",
+        "description": "English in biomedical engineering - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#8647B2"
+    },
+    {
+        "title": "Wdmu (L)",
+        "start": "2025-05-29T13:30:00",
+        "end": "2025-05-29T15:05:00",
+        "description": "Wstęp do modelowania układów biomechanicznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/12\nProwadzący: -",
+        "allDay": false,
+        "color": "#B26D47"
+    },
+    {
+        "title": "Ebe (w)",
+        "start": "2025-05-08T09:50:00",
+        "end": "2025-05-08T11:25:00",
+        "description": "English in biomedical engineering - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 9/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#8647B2"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2025-04-14T17:50:00",
+        "end": "2025-04-14T19:25:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B29347"
+    },
+    {
+        "title": "Wdmu (L)",
+        "start": "2025-03-28T08:00:00",
+        "end": "2025-03-28T09:35:00",
+        "description": "Wstęp do modelowania układów biomechanicznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/12\nProwadzący: -",
+        "allDay": false,
+        "color": "#B26D47"
+    },
+    {
+        "title": "Wzr. (w)",
+        "start": "2025-05-19T16:00:00",
+        "end": "2025-05-19T17:35:00",
+        "description": "Wybrane zagadnienia rehabilitacji - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "WdPB (L)",
+        "start": "2025-05-08T13:30:00",
+        "end": "2025-05-08T15:05:00",
+        "description": "Wstęp do projektowania w biomechanice - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#86B247"
+    },
+    {
+        "title": "Wzr. (w)",
+        "start": "2025-05-26T16:00:00",
+        "end": "2025-05-26T17:35:00",
+        "description": "Wybrane zagadnienia rehabilitacji - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "Wm (ć)",
+        "start": "2025-03-31T09:50:00",
+        "end": "2025-03-31T11:25:00",
+        "description": "Wytrzymałość materiałów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#60B247"
+    },
+    {
+        "title": "Wm (ć)",
+        "start": "2025-05-12T11:40:00",
+        "end": "2025-05-12T13:15:00",
+        "description": "Wytrzymałość materiałów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#60B247"
+    },
+    {
+        "title": "Pps (ć)",
+        "start": "2025-03-31T08:00:00",
+        "end": "2025-03-31T09:35:00",
+        "description": "Podstawy przetwarzania sygnałów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/4\nProwadzący: -",
+        "allDay": false,
+        "color": "#6047B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-06-13T13:30:00",
+        "end": "2025-06-13T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 145/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Wzr. (L)",
+        "start": "2025-06-17T17:50:00",
+        "end": "2025-06-17T19:25:00",
+        "description": "Wybrane zagadnienia rehabilitacji - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "Wm (ć)",
+        "start": "2025-06-16T11:40:00",
+        "end": "2025-06-16T13:15:00",
+        "description": "Wytrzymałość materiałów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#60B247"
+    },
+    {
+        "title": "Po (w)",
+        "start": "2025-03-26T11:40:00",
+        "end": "2025-03-26T13:15:00",
+        "description": "Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: prof. dr hab. inż. Andrzej Walczak",
+        "allDay": false,
+        "color": "#4753B2"
+    },
+    {
+        "title": "Sz.P (L)",
+        "start": "2025-04-15T09:50:00",
+        "end": "2025-04-15T11:25:00",
+        "description": "Szybkie prototypowanie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#479FB2"
+    },
+    {
+        "title": "Rou (L)",
+        "start": "2025-04-29T13:30:00",
+        "end": "2025-04-29T15:05:00",
+        "description": "Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: mgr inż. Łukasz Skibniewski",
+        "allDay": false,
+        "color": "#47B254"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-09T11:40:00",
+        "end": "2025-05-09T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 109/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Gśr.PSP (w)",
+        "start": "2025-03-26T13:30:00",
+        "end": "2025-03-26T15:05:00",
+        "description": "Graficzne środowiska programowania systemów pomiarowych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: -",
+        "allDay": false,
+        "color": "#ACB247"
+    },
+    {
+        "title": "Wm (w)",
+        "start": "2025-04-09T08:00:00",
+        "end": "2025-04-09T09:35:00",
+        "description": "Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#60B247"
+    },
+    {
+        "title": "Sz.P (Inne)",
+        "start": "2025-07-03T09:50:00",
+        "end": "2025-07-03T11:25:00",
+        "description": "Szybkie prototypowanie - (Zaliczenie poprawkowe.) -\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#479FB2"
+    },
+    {
+        "title": "WdPB (w)",
+        "start": "2025-06-12T13:30:00",
+        "end": "2025-06-12T15:05:00",
+        "description": "Wstęp do projektowania w biomechanice - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: -",
+        "allDay": false,
+        "color": "#86B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-03-21T13:30:00",
+        "end": "2025-03-21T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 18/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "BiO (L)",
+        "start": "2025-05-21T11:40:00",
+        "end": "2025-05-21T13:15:00",
+        "description": "Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/9\nProwadzący: dr inż. Leszek Grad",
+        "allDay": false,
+        "color": "#AC47B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-20T19:40:00",
+        "end": "2025-04-20T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 61/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "BiO (w)",
+        "start": "2025-03-10T11:40:00",
+        "end": "2025-03-10T13:15:00",
+        "description": "Biometria\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: dr inż. Leszek Grad",
+        "allDay": false,
+        "color": "#AC47B2"
+    },
+    {
+        "title": "Pps (w)",
+        "start": "2025-03-19T09:50:00",
+        "end": "2025-03-19T11:25:00",
+        "description": "Podstawy przetwarzania sygnałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#6047B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-30T19:40:00",
+        "end": "2025-05-30T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 134/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Wm (ć)",
+        "start": "2025-04-14T09:50:00",
+        "end": "2025-04-14T11:25:00",
+        "description": "Wytrzymałość materiałów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#60B247"
+    },
+    {
+        "title": "XMat3 (w)",
+        "start": "2025-03-29T16:00:00",
+        "end": "2025-03-29T17:35:00",
+        "description": "XMatematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 6/11\nProwadzący: dr Agnieszka Gdula",
+        "allDay": false,
+        "color": "#4779B2"
+    },
+    {
+        "title": "Gśr.PSP (w)",
+        "start": "2025-03-05T09:50:00",
+        "end": "2025-03-05T11:25:00",
+        "description": "Graficzne środowiska programowania systemów pomiarowych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: -",
+        "allDay": false,
+        "color": "#ACB247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-19T08:00:00",
+        "end": "2025-04-19T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 48/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Wdmu (L)",
+        "start": "2025-06-05T11:40:00",
+        "end": "2025-06-05T13:15:00",
+        "description": "Wstęp do modelowania układów biomechanicznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/12\nProwadzący: -",
+        "allDay": false,
+        "color": "#B26D47"
+    },
+    {
+        "title": "Po (w)",
+        "start": "2025-03-19T11:40:00",
+        "end": "2025-03-19T13:15:00",
+        "description": "Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: prof. dr hab. inż. Andrzej Walczak",
+        "allDay": false,
+        "color": "#4753B2"
+    },
+    {
+        "title": "Wm (ć)",
+        "start": "2025-04-28T09:50:00",
+        "end": "2025-04-28T11:25:00",
+        "description": "Wytrzymałość materiałów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#60B247"
+    },
+    {
+        "title": "Wm (w)",
+        "start": "2025-03-26T08:00:00",
+        "end": "2025-03-26T09:35:00",
+        "description": "Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#60B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-23T13:30:00",
+        "end": "2025-05-23T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 124/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-11T08:00:00",
+        "end": "2025-04-11T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 34/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-06-20T19:40:00",
+        "end": "2025-06-20T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 162/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-25T13:30:00",
+        "end": "2025-04-25T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 79/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Pps (w)",
+        "start": "2025-03-12T09:50:00",
+        "end": "2025-03-12T11:25:00",
+        "description": "Podstawy przetwarzania sygnałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#6047B2"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2025-05-05T17:50:00",
+        "end": "2025-05-05T19:25:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B29347"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-06-06T17:50:00",
+        "end": "2025-06-06T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 140/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-06-19T09:50:00",
+        "end": "2025-06-19T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 150/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "XFiz1 (w)",
+        "start": "2025-04-26T11:40:00",
+        "end": "2025-04-26T13:15:00",
+        "description": "XFizyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 5/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "XMat3 (ć)",
+        "start": "2025-05-31T13:30:00",
+        "end": "2025-05-31T15:05:00",
+        "description": "XMatematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/10\nProwadzący: dr Agnieszka Gdula",
+        "allDay": false,
+        "color": "#4779B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-16T16:00:00",
+        "end": "2025-05-16T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 118/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-20T08:00:00",
+        "end": "2025-04-20T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 55/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-02T13:30:00",
+        "end": "2025-05-02T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 96/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-16T19:40:00",
+        "end": "2025-05-16T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 120/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-30T17:50:00",
+        "end": "2025-04-30T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 84/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-03T08:00:00",
+        "end": "2025-05-03T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 100/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-04T11:40:00",
+        "end": "2025-04-04T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 29/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-19T17:50:00",
+        "end": "2025-04-19T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 53/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Rou (L)",
+        "start": "2025-05-13T13:30:00",
+        "end": "2025-05-13T15:05:00",
+        "description": "Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: mgr inż. Łukasz Skibniewski",
+        "allDay": false,
+        "color": "#47B254"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2025-06-09T13:30:00",
+        "end": "2025-06-09T15:05:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B279"
+    },
+    {
+        "title": "Pps (L)",
+        "start": "2025-03-25T08:00:00",
+        "end": "2025-03-25T09:35:00",
+        "description": "Podstawy przetwarzania sygnałów - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/4\nProwadzący: -",
+        "allDay": false,
+        "color": "#6047B2"
+    },
+    {
+        "title": "BiO (L)",
+        "start": "2025-04-23T11:40:00",
+        "end": "2025-04-23T13:15:00",
+        "description": "Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/9\nProwadzący: dr inż. Leszek Grad",
+        "allDay": false,
+        "color": "#AC47B2"
+    },
+    {
+        "title": "BiO (w)",
+        "start": "2025-04-07T11:40:00",
+        "end": "2025-04-07T13:15:00",
+        "description": "Biometria\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: dr inż. Leszek Grad",
+        "allDay": false,
+        "color": "#AC47B2"
+    },
+    {
+        "title": "Rou (w)",
+        "start": "2025-03-18T09:50:00",
+        "end": "2025-03-18T11:25:00",
+        "description": "Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: mgr inż. Łukasz Skibniewski",
+        "allDay": false,
+        "color": "#47B254"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-23T17:50:00",
+        "end": "2025-05-23T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 126/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "XMat3 (w)",
+        "start": "2025-03-22T16:00:00",
+        "end": "2025-03-22T17:35:00",
+        "description": "XMatematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 4/11\nProwadzący: dr Agnieszka Gdula",
+        "allDay": false,
+        "color": "#4779B2"
+    },
+    {
+        "title": "Pps (ć)",
+        "start": "2025-03-19T13:30:00",
+        "end": "2025-03-19T15:05:00",
+        "description": "Podstawy przetwarzania sygnałów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/4\nProwadzący: -",
+        "allDay": false,
+        "color": "#6047B2"
+    },
+    {
+        "title": "Wm (ć)",
+        "start": "2025-05-19T11:40:00",
+        "end": "2025-05-19T13:15:00",
+        "description": "Wytrzymałość materiałów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#60B247"
+    },
+    {
+        "title": "WdPB (L)",
+        "start": "2025-05-22T11:40:00",
+        "end": "2025-05-22T13:15:00",
+        "description": "Wstęp do projektowania w biomechanice - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#86B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-03-21T19:40:00",
+        "end": "2025-03-21T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 21/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Gśr.PSP (ć)",
+        "start": "2025-05-14T09:50:00",
+        "end": "2025-05-14T11:25:00",
+        "description": "Graficzne środowiska programowania systemów pomiarowych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#ACB247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-03T17:50:00",
+        "end": "2025-05-03T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 105/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "XFiz1 (L)",
+        "start": "2025-04-13T09:50:00",
+        "end": "2025-04-13T11:25:00",
+        "description": "XFizyka 1\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-03-07T16:00:00",
+        "end": "2025-03-07T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 5/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Pr.M (w)",
+        "start": "2025-03-24T08:00:00",
+        "end": "2025-03-24T09:35:00",
+        "description": "Propedeutyka medycyny - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B29F"
+    },
+    {
+        "title": "Gśr.PSP (Inne)",
+        "start": "2025-07-03T08:00:00",
+        "end": "2025-07-03T09:35:00",
+        "description": "Graficzne środowiska programowania systemów pomiarowych - (Zaliczenie poprawkowe.) -\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#ACB247"
+    },
+    {
+        "title": "Ebe (w)",
+        "start": "2025-05-15T09:50:00",
+        "end": "2025-05-15T11:25:00",
+        "description": "English in biomedical engineering - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 10/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#8647B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-22T16:00:00",
+        "end": "2025-04-22T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 73/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Po (L)",
+        "start": "2025-06-10T13:30:00",
+        "end": "2025-06-10T15:05:00",
+        "description": "Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: mgr inż. Paweł Pieczonka",
+        "allDay": false,
+        "color": "#4753B2"
+    },
+    {
+        "title": "Ebe (w)",
+        "start": "2025-06-03T09:50:00",
+        "end": "2025-06-03T11:25:00",
+        "description": "English in biomedical engineering - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 13/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#8647B2"
+    },
+    {
+        "title": "Pps (L)",
+        "start": "2025-04-10T11:40:00",
+        "end": "2025-04-10T13:15:00",
+        "description": "Podstawy przetwarzania sygnałów - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/4\nProwadzący: -",
+        "allDay": false,
+        "color": "#6047B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-25T09:50:00",
+        "end": "2025-04-25T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 77/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "XMat3 (ć)",
+        "start": "2025-03-16T13:30:00",
+        "end": "2025-03-16T15:05:00",
+        "description": "XMatematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/10\nProwadzący: dr Agnieszka Gdula",
+        "allDay": false,
+        "color": "#4779B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-06-06T11:40:00",
+        "end": "2025-06-06T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 137/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Wzr. (w)",
+        "start": "2025-04-28T16:00:00",
+        "end": "2025-04-28T17:35:00",
+        "description": "Wybrane zagadnienia rehabilitacji - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-20T17:50:00",
+        "end": "2025-04-20T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 60/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-03-28T17:50:00",
+        "end": "2025-03-28T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 25/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Rou (L)",
+        "start": "2025-05-27T13:30:00",
+        "end": "2025-05-27T15:05:00",
+        "description": "Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr inż. Łukasz Skibniewski",
+        "allDay": false,
+        "color": "#47B254"
+    },
+    {
+        "title": "BiO (w)",
+        "start": "2025-03-24T11:40:00",
+        "end": "2025-03-24T13:15:00",
+        "description": "Biometria\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: dr inż. Leszek Grad",
+        "allDay": false,
+        "color": "#AC47B2"
+    },
+    {
+        "title": "Po (L)",
+        "start": "2025-06-17T11:40:00",
+        "end": "2025-06-17T13:15:00",
+        "description": "Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: mgr inż. Paweł Pieczonka",
+        "allDay": false,
+        "color": "#4753B2"
+    },
+    {
+        "title": "Wzr. (L)",
+        "start": "2025-05-27T17:50:00",
+        "end": "2025-05-27T19:25:00",
+        "description": "Wybrane zagadnienia rehabilitacji - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-01T09:50:00",
+        "end": "2025-05-01T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 87/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Gśr.PSP (w)",
+        "start": "2025-04-02T13:30:00",
+        "end": "2025-04-02T15:05:00",
+        "description": "Graficzne środowiska programowania systemów pomiarowych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: -",
+        "allDay": false,
+        "color": "#ACB247"
+    },
+    {
+        "title": "Wzr. (L)",
+        "start": "2025-06-03T16:00:00",
+        "end": "2025-06-03T17:35:00",
+        "description": "Wybrane zagadnienia rehabilitacji - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "Wm (w)",
+        "start": "2025-04-24T08:00:00",
+        "end": "2025-04-24T09:35:00",
+        "description": "Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#60B247"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2025-04-14T13:30:00",
+        "end": "2025-04-14T15:05:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B279"
+    },
+    {
+        "title": "Wm (w)",
+        "start": "2025-04-02T08:00:00",
+        "end": "2025-04-02T09:35:00",
+        "description": "Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#60B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-30T11:40:00",
+        "end": "2025-05-30T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 130/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "XFiz1 (ć)",
+        "start": "2025-04-27T09:50:00",
+        "end": "2025-04-27T11:25:00",
+        "description": "XFizyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "XMat3 (ć)",
+        "start": "2025-04-27T11:40:00",
+        "end": "2025-04-27T13:15:00",
+        "description": "XMatematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/10\nProwadzący: dr Agnieszka Gdula",
+        "allDay": false,
+        "color": "#4779B2"
+    },
+    {
+        "title": "Po (L)",
+        "start": "2025-06-03T13:30:00",
+        "end": "2025-06-03T15:05:00",
+        "description": "Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: mgr inż. Paweł Pieczonka",
+        "allDay": false,
+        "color": "#4753B2"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2025-05-12T17:50:00",
+        "end": "2025-05-12T19:25:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B29347"
+    },
+    {
+        "title": "Wm (w)",
+        "start": "2025-04-28T11:40:00",
+        "end": "2025-04-28T13:15:00",
+        "description": "Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#60B247"
+    },
+    {
+        "title": "Gśr.PSP (ć)",
+        "start": "2025-04-30T09:50:00",
+        "end": "2025-04-30T11:25:00",
+        "description": "Graficzne środowiska programowania systemów pomiarowych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#ACB247"
+    },
+    {
+        "title": "XMat3 (ć)",
+        "start": "2025-03-23T13:30:00",
+        "end": "2025-03-23T15:05:00",
+        "description": "XMatematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/10\nProwadzący: dr Agnieszka Gdula",
+        "allDay": false,
+        "color": "#4779B2"
+    },
+    {
+        "title": "Pr.M (w)",
+        "start": "2025-03-03T08:00:00",
+        "end": "2025-03-03T09:35:00",
+        "description": "Propedeutyka medycyny - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B29F"
+    },
+    {
+        "title": "Wm (ć)",
+        "start": "2025-05-26T11:40:00",
+        "end": "2025-05-26T13:15:00",
+        "description": "Wytrzymałość materiałów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#60B247"
+    },
+    {
+        "title": "XMat3 (w)",
+        "start": "2025-06-07T09:50:00",
+        "end": "2025-06-07T11:25:00",
+        "description": "XMatematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 9/11\nProwadzący: dr Agnieszka Gdula",
+        "allDay": false,
+        "color": "#4779B2"
+    },
+    {
+        "title": "Pr.M (Inne)",
+        "start": "2025-03-18T13:30:00",
+        "end": "2025-03-18T15:05:00",
+        "description": "Propedeutyka medycyny - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 6/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B29F"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-06-22T09:50:00",
+        "end": "2025-06-22T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 171/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-21T19:40:00",
+        "end": "2025-04-21T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 68/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Rou (w)",
+        "start": "2025-03-18T08:00:00",
+        "end": "2025-03-18T09:35:00",
+        "description": "Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: mgr inż. Łukasz Skibniewski",
+        "allDay": false,
+        "color": "#47B254"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-06-21T17:50:00",
+        "end": "2025-06-21T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 168/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "XFiz1 (L)",
+        "start": "2025-04-06T09:50:00",
+        "end": "2025-04-06T11:25:00",
+        "description": "XFizyka 1\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Po (w)",
+        "start": "2025-03-05T11:40:00",
+        "end": "2025-03-05T13:15:00",
+        "description": "Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: prof. dr hab. inż. Andrzej Walczak",
+        "allDay": false,
+        "color": "#4753B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-03-14T16:00:00",
+        "end": "2025-03-14T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 12/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-18T11:40:00",
+        "end": "2025-04-18T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 43/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-06-19T13:30:00",
+        "end": "2025-06-19T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 152/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Wdmu (L)",
+        "start": "2025-05-29T09:50:00",
+        "end": "2025-05-29T11:25:00",
+        "description": "Wstęp do modelowania układów biomechanicznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/12\nProwadzący: -",
+        "allDay": false,
+        "color": "#B26D47"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-04T19:40:00",
+        "end": "2025-04-04T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 33/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Wm (ć)",
+        "start": "2025-06-09T11:40:00",
+        "end": "2025-06-09T13:15:00",
+        "description": "Wytrzymałość materiałów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#60B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-20T16:00:00",
+        "end": "2025-04-20T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 59/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "XFiz1 (w)",
+        "start": "2025-04-12T13:30:00",
+        "end": "2025-04-12T15:05:00",
+        "description": "XFizyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 4/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-03-07T11:40:00",
+        "end": "2025-03-07T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 3/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-01T08:00:00",
+        "end": "2025-05-01T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 86/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-22T11:40:00",
+        "end": "2025-04-22T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 71/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "XFiz1 (ć)",
+        "start": "2025-04-06T13:30:00",
+        "end": "2025-04-06T15:05:00",
+        "description": "XFizyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Wzr. (w)",
+        "start": "2025-05-12T16:00:00",
+        "end": "2025-05-12T17:35:00",
+        "description": "Wybrane zagadnienia rehabilitacji - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2025-03-03T13:30:00",
+        "end": "2025-03-03T15:05:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B279"
+    },
+    {
+        "title": "XFiz1 (w)",
+        "start": "2025-05-17T13:30:00",
+        "end": "2025-05-17T15:05:00",
+        "description": "XFizyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 10/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Po (Inne)",
+        "start": "2025-06-24T13:30:00",
+        "end": "2025-06-24T15:05:00",
+        "description": "Programowanie obiektowe\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr inż. Paweł Pieczonka",
+        "allDay": false,
+        "color": "#4753B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-02T09:50:00",
+        "end": "2025-05-02T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 94/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-21T11:40:00",
+        "end": "2025-04-21T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 64/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-02T19:40:00",
+        "end": "2025-05-02T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 99/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "XMat3 (ć)",
+        "start": "2025-03-16T11:40:00",
+        "end": "2025-03-16T13:15:00",
+        "description": "XMatematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/10\nProwadzący: dr Agnieszka Gdula",
+        "allDay": false,
+        "color": "#4779B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-19T09:50:00",
+        "end": "2025-04-19T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 49/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-01T11:40:00",
+        "end": "2025-05-01T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 88/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "BiO (L)",
+        "start": "2025-04-16T11:40:00",
+        "end": "2025-04-16T13:15:00",
+        "description": "Biometria\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/9\nProwadzący: dr inż. Leszek Grad",
+        "allDay": false,
+        "color": "#AC47B2"
+    },
+    {
+        "title": "XFiz1 (w)",
+        "start": "2025-04-05T13:30:00",
+        "end": "2025-04-05T15:05:00",
+        "description": "XFizyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 2/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Sz.P (L)",
+        "start": "2025-04-01T08:00:00",
+        "end": "2025-04-01T09:35:00",
+        "description": "Szybkie prototypowanie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#479FB2"
+    },
+    {
+        "title": "Gśr.PSP (ć)",
+        "start": "2025-05-07T09:50:00",
+        "end": "2025-05-07T11:25:00",
+        "description": "Graficzne środowiska programowania systemów pomiarowych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#ACB247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-06-06T09:50:00",
+        "end": "2025-06-06T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 136/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Wm (ć)",
+        "start": "2025-03-17T11:40:00",
+        "end": "2025-03-17T13:15:00",
+        "description": "Wytrzymałość materiałów - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#60B247"
+    },
+    {
+        "title": "Rou (w)",
+        "start": "2025-03-04T09:50:00",
+        "end": "2025-03-04T11:25:00",
+        "description": "Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: mgr inż. Łukasz Skibniewski",
+        "allDay": false,
+        "color": "#47B254"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2025-03-24T17:50:00",
+        "end": "2025-03-24T19:25:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B29347"
+    },
+    {
+        "title": "Gśr.PSP (ć)",
+        "start": "2025-05-14T08:00:00",
+        "end": "2025-05-14T09:35:00",
+        "description": "Graficzne środowiska programowania systemów pomiarowych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#ACB247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-11T16:00:00",
+        "end": "2025-04-11T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 38/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "WdPB (L)",
+        "start": "2025-05-22T13:30:00",
+        "end": "2025-05-22T15:05:00",
+        "description": "Wstęp do projektowania w biomechanice - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#86B247"
+    },
+    {
+        "title": "Rou (w)",
+        "start": "2025-03-25T09:50:00",
+        "end": "2025-03-25T11:25:00",
+        "description": "Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: mgr inż. Łukasz Skibniewski",
+        "allDay": false,
+        "color": "#47B254"
+    },
+    {
+        "title": "XFiz1 (w)",
+        "start": "2025-05-17T11:40:00",
+        "end": "2025-05-17T13:15:00",
+        "description": "XFizyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 9/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-21T17:50:00",
+        "end": "2025-04-21T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 67/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-16T09:50:00",
+        "end": "2025-05-16T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 115/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Ebe (w)",
+        "start": "2025-06-11T09:50:00",
+        "end": "2025-06-11T11:25:00",
+        "description": "English in biomedical engineering - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 15/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#8647B2"
+    },
+    {
+        "title": "Po (w)",
+        "start": "2025-04-02T11:40:00",
+        "end": "2025-04-02T13:15:00",
+        "description": "Programowanie obiektowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: prof. dr hab. inż. Andrzej Walczak",
+        "allDay": false,
+        "color": "#4753B2"
+    },
+    {
+        "title": "XFiz1 (w)",
+        "start": "2025-04-12T11:40:00",
+        "end": "2025-04-12T13:15:00",
+        "description": "XFizyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 3/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Rou (L)",
+        "start": "2025-05-13T11:40:00",
+        "end": "2025-05-13T13:15:00",
+        "description": "Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: mgr inż. Łukasz Skibniewski",
+        "allDay": false,
+        "color": "#47B254"
+    },
+    {
+        "title": "Sz.P (L)",
+        "start": "2025-06-11T11:40:00",
+        "end": "2025-06-11T13:15:00",
+        "description": "Szybkie prototypowanie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#479FB2"
+    },
+    {
+        "title": "XMat3 (ć)",
+        "start": "2025-03-23T11:40:00",
+        "end": "2025-03-23T13:15:00",
+        "description": "XMatematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/10\nProwadzący: dr Agnieszka Gdula",
+        "allDay": false,
+        "color": "#4779B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-06-20T13:30:00",
+        "end": "2025-06-20T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 159/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2025-06-02T17:50:00",
+        "end": "2025-06-02T19:25:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B29347"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-06-20T09:50:00",
+        "end": "2025-06-20T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 157/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Wdmu (L)",
+        "start": "2025-03-28T09:50:00",
+        "end": "2025-03-28T11:25:00",
+        "description": "Wstęp do modelowania układów biomechanicznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/12\nProwadzący: -",
+        "allDay": false,
+        "color": "#B26D47"
+    },
+    {
+        "title": "WdPB (L)",
+        "start": "2025-05-15T11:40:00",
+        "end": "2025-05-15T13:15:00",
+        "description": "Wstęp do projektowania w biomechanice - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#86B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-06-13T11:40:00",
+        "end": "2025-06-13T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 144/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "XMat3 (ć)",
+        "start": "2025-04-27T13:30:00",
+        "end": "2025-04-27T15:05:00",
+        "description": "XMatematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/10\nProwadzący: dr Agnieszka Gdula",
+        "allDay": false,
+        "color": "#4779B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-03-21T16:00:00",
+        "end": "2025-03-21T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 19/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Gśr.PSP (w)",
+        "start": "2025-03-12T13:30:00",
+        "end": "2025-03-12T15:05:00",
+        "description": "Graficzne środowiska programowania systemów pomiarowych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: -",
+        "allDay": false,
+        "color": "#ACB247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-20T11:40:00",
+        "end": "2025-04-20T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 57/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Sz.P (L)",
+        "start": "2025-05-13T09:50:00",
+        "end": "2025-05-13T11:25:00",
+        "description": "Szybkie prototypowanie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#479FB2"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2025-05-19T17:50:00",
+        "end": "2025-05-19T19:25:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B29347"
+    },
+    {
+        "title": "Sz.P (Inne)",
+        "start": "2025-06-26T09:50:00",
+        "end": "2025-06-26T11:25:00",
+        "description": "Szybkie prototypowanie - (Zaliczenie poprawkowe  lab.) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#479FB2"
+    },
+    {
+        "title": "XFiz1 (w)",
+        "start": "2025-04-05T11:40:00",
+        "end": "2025-04-05T13:15:00",
+        "description": "XFizyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 1/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Sz.P (L)",
+        "start": "2025-05-13T08:00:00",
+        "end": "2025-05-13T09:35:00",
+        "description": "Szybkie prototypowanie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#479FB2"
+    },
+    {
+        "title": "BiO (Inne)",
+        "start": "2025-06-30T13:30:00",
+        "end": "2025-06-30T15:05:00",
+        "description": "Biometria\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr inż. Leszek Grad",
+        "allDay": false,
+        "color": "#AC47B2"
+    },
+    {
+        "title": "Rou (w)",
+        "start": "2025-03-11T08:00:00",
+        "end": "2025-03-11T09:35:00",
+        "description": "Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: mgr inż. Łukasz Skibniewski",
+        "allDay": false,
+        "color": "#47B254"
+    },
+    {
+        "title": "Sz.P (L)",
+        "start": "2025-05-28T08:00:00",
+        "end": "2025-05-28T09:35:00",
+        "description": "Szybkie prototypowanie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#479FB2"
+    },
+    {
+        "title": "Pr.M (Inne)",
+        "start": "2025-03-11T11:40:00",
+        "end": "2025-03-11T13:15:00",
+        "description": "Propedeutyka medycyny - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 3/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B29F"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-09T08:00:00",
+        "end": "2025-05-09T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 107/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "XFiz1 (w)",
+        "start": "2025-05-10T13:30:00",
+        "end": "2025-05-10T15:05:00",
+        "description": "XFizyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 8/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Wzr. (L)",
+        "start": "2025-06-10T17:50:00",
+        "end": "2025-06-10T19:25:00",
+        "description": "Wybrane zagadnienia rehabilitacji - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "Pps (w)",
+        "start": "2025-04-09T09:50:00",
+        "end": "2025-04-09T11:25:00",
+        "description": "Podstawy przetwarzania sygnałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#6047B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-25T17:50:00",
+        "end": "2025-04-25T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 81/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "XFiz1 (ć)",
+        "start": "2025-04-13T13:30:00",
+        "end": "2025-04-13T15:05:00",
+        "description": "XFizyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-21T09:50:00",
+        "end": "2025-04-21T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 63/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "BiO (w)",
+        "start": "2025-04-14T11:40:00",
+        "end": "2025-04-14T13:15:00",
+        "description": "Biometria\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: dr inż. Leszek Grad",
+        "allDay": false,
+        "color": "#AC47B2"
+    },
+    {
+        "title": "Pps (w)",
+        "start": "2025-04-14T16:00:00",
+        "end": "2025-04-14T17:35:00",
+        "description": "Podstawy przetwarzania sygnałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#6047B2"
+    },
+    {
+        "title": "Pr.M (Inne)",
+        "start": "2025-03-04T11:40:00",
+        "end": "2025-03-04T13:15:00",
+        "description": "Propedeutyka medycyny - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 1/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B29F"
+    },
+    {
+        "title": "Po (L)",
+        "start": "2025-06-17T13:30:00",
+        "end": "2025-06-17T15:05:00",
+        "description": "Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: mgr inż. Paweł Pieczonka",
+        "allDay": false,
+        "color": "#4753B2"
+    },
+    {
+        "title": "Ebe (w)",
+        "start": "2025-04-08T09:50:00",
+        "end": "2025-04-08T11:25:00",
+        "description": "English in biomedical engineering - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#8647B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-06-20T08:00:00",
+        "end": "2025-06-20T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 156/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Pps (Inne)",
+        "start": "2025-07-02T11:40:00",
+        "end": "2025-07-02T13:15:00",
+        "description": "Podstawy przetwarzania sygnałów - (Zaliczenie poprawkowe.) -\nRodzaj zajęć:  - \nNr zajęć: 3/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#6047B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-23T09:50:00",
+        "end": "2025-05-23T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 122/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "XFiz1 (L)",
+        "start": "2025-05-25T13:30:00",
+        "end": "2025-05-25T15:05:00",
+        "description": "XFizyka 1\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-16T11:40:00",
+        "end": "2025-05-16T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 116/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Sz.P (L)",
+        "start": "2025-05-08T08:00:00",
+        "end": "2025-05-08T09:35:00",
+        "description": "Szybkie prototypowanie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#479FB2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-06-20T11:40:00",
+        "end": "2025-06-20T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 158/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "WdPB (L)",
+        "start": "2025-05-08T11:40:00",
+        "end": "2025-05-08T13:15:00",
+        "description": "Wstęp do projektowania w biomechanice - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#86B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-03-14T08:00:00",
+        "end": "2025-03-14T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 8/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Wm (w)",
+        "start": "2025-03-12T08:00:00",
+        "end": "2025-03-12T09:35:00",
+        "description": "Wytrzymałość materiałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#60B247"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2025-03-03T17:50:00",
+        "end": "2025-03-03T19:25:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B29347"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2025-05-26T17:50:00",
+        "end": "2025-05-26T19:25:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B29347"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-01T16:00:00",
+        "end": "2025-05-01T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 90/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Ebe (w)",
+        "start": "2025-05-28T09:50:00",
+        "end": "2025-05-28T11:25:00",
+        "description": "English in biomedical engineering - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 12/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#8647B2"
+    },
+    {
+        "title": "Wm (Inne)",
+        "start": "2025-09-15T09:50:00",
+        "end": "2025-09-15T11:25:00",
+        "description": "Wytrzymałość materiałów - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#60B247"
+    },
+    {
+        "title": "Gśr.PSP (ć)",
+        "start": "2025-05-21T09:50:00",
+        "end": "2025-05-21T11:25:00",
+        "description": "Graficzne środowiska programowania systemów pomiarowych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#ACB247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-22T08:00:00",
+        "end": "2025-04-22T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 69/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-06-21T19:40:00",
+        "end": "2025-06-21T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 169/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "XMat3 (ć)",
+        "start": "2025-05-31T16:00:00",
+        "end": "2025-05-31T17:35:00",
+        "description": "XMatematyka 3\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/10\nProwadzący: dr Agnieszka Gdula",
+        "allDay": false,
+        "color": "#4779B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-19T16:00:00",
+        "end": "2025-04-19T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 52/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Wzr. (E)",
+        "start": "2025-06-25T16:00:00",
+        "end": "2025-06-25T17:35:00",
+        "description": "Wybrane zagadnienia rehabilitacji - (Egzamin) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2025-06-09T17:50:00",
+        "end": "2025-06-09T19:25:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B29347"
+    },
+    {
+        "title": "Pps (w)",
+        "start": "2025-04-16T09:50:00",
+        "end": "2025-04-16T11:25:00",
+        "description": "Podstawy przetwarzania sygnałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#6047B2"
+    },
+    {
+        "title": "WdPB (w)",
+        "start": "2025-04-10T08:00:00",
+        "end": "2025-04-10T09:35:00",
+        "description": "Wstęp do projektowania w biomechanice - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: -",
+        "allDay": false,
+        "color": "#86B247"
+    },
+    {
+        "title": "Pr.M (w)",
+        "start": "2025-03-17T08:00:00",
+        "end": "2025-03-17T09:35:00",
+        "description": "Propedeutyka medycyny - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B29F"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-06-22T13:30:00",
+        "end": "2025-06-22T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 173/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Ebe (w)",
+        "start": "2025-03-13T09:50:00",
+        "end": "2025-03-13T11:25:00",
+        "description": "English in biomedical engineering - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#8647B2"
+    },
+    {
+        "title": "Gśr.PSP (ć)",
+        "start": "2025-04-23T09:50:00",
+        "end": "2025-04-23T11:25:00",
+        "description": "Graficzne środowiska programowania systemów pomiarowych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#ACB247"
+    },
+    {
+        "title": "Gśr.PSP (ć)",
+        "start": "2025-04-30T08:00:00",
+        "end": "2025-04-30T09:35:00",
+        "description": "Graficzne środowiska programowania systemów pomiarowych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#ACB247"
+    },
+    {
+        "title": "Ebe (w)",
+        "start": "2025-04-24T09:50:00",
+        "end": "2025-04-24T11:25:00",
+        "description": "English in biomedical engineering - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#8647B2"
+    },
+    {
+        "title": "Wdmu (L)",
+        "start": "2025-06-10T09:50:00",
+        "end": "2025-06-10T11:25:00",
+        "description": "Wstęp do modelowania układów biomechanicznych - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/12\nProwadzący: -",
+        "allDay": false,
+        "color": "#B26D47"
+    },
+    {
+        "title": "Gśr.PSP (w)",
+        "start": "2025-03-19T08:00:00",
+        "end": "2025-03-19T09:35:00",
+        "description": "Graficzne środowiska programowania systemów pomiarowych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: -",
+        "allDay": false,
+        "color": "#ACB247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-04T09:50:00",
+        "end": "2025-04-04T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 28/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "XMat3 (w)",
+        "start": "2025-05-11T11:40:00",
+        "end": "2025-05-11T13:15:00",
+        "description": "XMatematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 7/11\nProwadzący: dr Agnieszka Gdula",
+        "allDay": false,
+        "color": "#4779B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-06-21T09:50:00",
+        "end": "2025-06-21T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 164/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-06-22T08:00:00",
+        "end": "2025-06-22T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 170/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "XMat3 (w)",
+        "start": "2025-03-29T13:30:00",
+        "end": "2025-03-29T15:05:00",
+        "description": "XMatematyka 3\nRodzaj zajęć: Wykład\nNr zajęć: 5/11\nProwadzący: dr Agnieszka Gdula",
+        "allDay": false,
+        "color": "#4779B2"
+    },
+    {
+        "title": "Po (L)",
+        "start": "2025-05-20T13:30:00",
+        "end": "2025-05-20T15:05:00",
+        "description": "Programowanie obiektowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: mgr inż. Paweł Pieczonka",
+        "allDay": false,
+        "color": "#4753B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-06-19T19:40:00",
+        "end": "2025-06-19T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 155/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "XFiz1 (ć)",
+        "start": "2025-04-27T08:00:00",
+        "end": "2025-04-27T09:35:00",
+        "description": "XFizyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Gśr.PSP (Inne)",
+        "start": "2025-06-25T08:00:00",
+        "end": "2025-06-25T09:35:00",
+        "description": "Graficzne środowiska programowania systemów pomiarowych - (Zp. Ćw) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#ACB247"
+    }
+]

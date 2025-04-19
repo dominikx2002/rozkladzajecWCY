@@ -119,7 +119,7 @@ document.addEventListener('DOMContentLoaded', function() {
     setTimeout(() => {
         const downloadBtn = document.querySelector('.fc-download-button');
         if (downloadBtn) {
-            downloadBtn.innerHTML = `<img src="/rozkladzajecWCY/data/icons/download_icon.png" alt="Pobierz kalendarz " width="20" height="20" style="vertical-align: middle;">`;
+            downloadBtn.innerHTML = `<img src="/rozkladzajecWCY/data/WCY" alt="Pobierz kalendarz " width="20" height="20" style="vertical-align: middle;">`;
         }
     }, 100);
 
@@ -127,7 +127,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     async function loadGroups() {
         try {
-            const response = await fetch("/rozkladzajecWCY/data/calendars/WCY/groups.txt");
+            const response = await fetch("/rozkladzajecWCY/data/WCY/groups.txt");
             const text = await response.text();
             const groups = text.split("\n").map(g => g.trim()).filter(g => g !== "");
 
@@ -159,7 +159,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
         let fixedGroupName = selectedGroup.replace(/\*/g, "_"); 
 
-        let icsFileUrl = `/rozkladzajecWCY/data/calendars/WCY/calendar_ics/${encodeURIComponent(fixedGroupName)}.ics`;
+        let icsFileUrl = `/rozkladzajecWCY/data/WCY/calendar_ics/${encodeURIComponent(fixedGroupName)}.ics`;
         console.log("Pobieranie:", icsFileUrl);
         window.location.href = icsFileUrl;
     }
@@ -182,7 +182,7 @@ document.addEventListener('DOMContentLoaded', function() {
         calendar.removeAllEventSources();
 
         // Dodanie nowego źródła eventów
-        let jsonPath = `/rozkladzajecWCY/data/calendars/WCY/calendar_json/${encodeURIComponent(fixedGroupName)}.json`;
+        let jsonPath = `/rozkladzajecWCY/data/WCY/calendar_json/${encodeURIComponent(fixedGroupName)}.json`;
         console.log(`📂 Ładowanie: ${jsonPath}`);
         calendar.addEventSource(jsonPath);
 
@@ -191,7 +191,7 @@ document.addEventListener('DOMContentLoaded', function() {
             download: {
                 text: '',
                 click: function() {
-                    const icsPath = `/rozkladzajecWCY/data/calendars/WCY/calendar_ics/${encodeURIComponent(fixedGroupName)}.ics`;
+                    const icsPath = `/rozkladzajecWCY/data/WCY/calendar_ics/${encodeURIComponent(fixedGroupName)}.ics`;
                     console.log("⬇ Pobieranie:", icsPath);
                     window.location.href = icsPath;
                 }

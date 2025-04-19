@@ -1,0 +1,4922 @@
+[
+    {
+        "title": "S (Inne)",
+        "start": "2024-12-17T17:50:00",
+        "end": "2024-12-17T19:25:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 13/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "XMass (w)",
+        "start": "2024-11-15T11:40:00",
+        "end": "2024-11-15T13:15:00",
+        "description": "XMetody analizy i syntezy sygnałów\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: prof. dr hab. inż. Andrzej Walczak",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "PRo (L)",
+        "start": "2024-05-21T08:00:00",
+        "end": "2024-05-21T09:35:00",
+        "description": "Podstawy rejestracji i przetwarzania obrazów w medycynie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#4778B2"
+    },
+    {
+        "title": "TC (w)",
+        "start": "2024-04-04T11:40:00",
+        "end": "2024-04-04T13:15:00",
+        "description": "Technika cyfrowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24781"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-25T09:50:00",
+        "end": "2024-12-25T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 156/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "Ult (w)",
+        "start": "2024-10-22T08:00:00",
+        "end": "2024-10-22T09:35:00",
+        "description": "Ultrasonografia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B295"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-03-30T13:30:00",
+        "end": "2024-03-30T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 11/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "Wzf (w)",
+        "start": "2024-04-05T08:00:00",
+        "end": "2024-04-05T09:35:00",
+        "description": "Wybrane zagadnienia fizyki kwantowej  - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2479F"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2024-12-16T17:50:00",
+        "end": "2024-12-16T19:25:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 6/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-02T09:50:00",
+        "end": "2024-11-02T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 121/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2024-12-20T19:40:00",
+        "end": "2024-12-20T21:15:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 32/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "ToiS (L)",
+        "start": "2024-05-07T13:30:00",
+        "end": "2024-05-07T15:05:00",
+        "description": "Technika obliczeniowa i symulacyjna - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#5147B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-25T08:00:00",
+        "end": "2024-12-25T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 155/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "PRo (L)",
+        "start": "2024-05-21T09:50:00",
+        "end": "2024-05-21T11:25:00",
+        "description": "Podstawy rejestracji i przetwarzania obrazów w medycynie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#4778B2"
+    },
+    {
+        "title": "XMass (Inne)",
+        "start": "2025-01-10T11:40:00",
+        "end": "2025-01-10T13:15:00",
+        "description": "XMetody analizy i syntezy sygnałów\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: prof. dr hab. inż. Andrzej Walczak",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-30T09:50:00",
+        "end": "2024-12-30T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 191/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "TC (w)",
+        "start": "2024-04-22T11:40:00",
+        "end": "2024-04-22T13:15:00",
+        "description": "Technika cyfrowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24781"
+    },
+    {
+        "title": "ToiS (L)",
+        "start": "2024-06-06T09:50:00",
+        "end": "2024-06-06T11:25:00",
+        "description": "Technika obliczeniowa i symulacyjna - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#5147B2"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-08T17:50:00",
+        "end": "2025-01-08T19:25:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 43/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-09-30T16:00:00",
+        "end": "2024-09-30T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 103/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-02T19:40:00",
+        "end": "2024-11-02T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 126/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "Wkm (ć)",
+        "start": "2024-10-23T09:50:00",
+        "end": "2024-10-23T11:25:00",
+        "description": "Wizja komputerowa w medycynie - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/3\nProwadzący: -",
+        "allDay": false,
+        "color": "#8BB247"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-13T19:40:00",
+        "end": "2025-01-13T21:15:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 76/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "Eam (w)",
+        "start": "2024-03-12T13:30:00",
+        "end": "2024-03-12T15:05:00",
+        "description": "Elektroniczna aparatura medyczna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24764"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-04-01T11:40:00",
+        "end": "2024-04-01T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 24/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "Eam (L)",
+        "start": "2024-05-28T11:40:00",
+        "end": "2024-05-28T13:15:00",
+        "description": "Elektroniczna aparatura medyczna - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24764"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-11T08:00:00",
+        "end": "2024-11-11T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 134/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-03-29T08:00:00",
+        "end": "2024-03-29T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "PrSt (w)",
+        "start": "2024-03-19T16:00:00",
+        "end": "2024-03-19T17:35:00",
+        "description": "Programowanie strukturalne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#6E47B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-30T08:00:00",
+        "end": "2024-12-30T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 190/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-01T19:40:00",
+        "end": "2024-11-01T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 119/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-08T11:40:00",
+        "end": "2025-01-08T13:15:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 40/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "SsO (L)",
+        "start": "2024-04-25T08:00:00",
+        "end": "2024-04-25T09:35:00",
+        "description": "Sensory i systemy optoelektroniczne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/12\nProwadzący: -",
+        "allDay": false,
+        "color": "#A8B247"
+    },
+    {
+        "title": "Sdwel (Inne)",
+        "start": "2024-11-28T09:50:00",
+        "end": "2024-11-28T11:25:00",
+        "description": "Seminaria dyplomowe wel - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 8/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#A847B2"
+    },
+    {
+        "title": "PrSt (P)",
+        "start": "2024-06-14T09:50:00",
+        "end": "2024-06-14T11:25:00",
+        "description": "Programowanie strukturalne - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 2/3\nProwadzący: -",
+        "allDay": false,
+        "color": "#6E47B2"
+    },
+    {
+        "title": "TeAn (w)",
+        "start": "2024-04-12T09:50:00",
+        "end": "2024-04-12T11:25:00",
+        "description": "Technika analogowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B25A"
+    },
+    {
+        "title": "SsO (Inne)",
+        "start": "2024-09-19T08:00:00",
+        "end": "2024-09-19T09:35:00",
+        "description": "Sensory i systemy optoelektroniczne - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#A8B247"
+    },
+    {
+        "title": "Wzf (ć)",
+        "start": "2024-06-05T09:50:00",
+        "end": "2024-06-05T11:25:00",
+        "description": "Wybrane zagadnienia fizyki kwantowej  - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2479F"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-05-01T13:30:00",
+        "end": "2024-05-01T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 39/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-09-30T08:00:00",
+        "end": "2024-09-30T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 99/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-05-01T09:50:00",
+        "end": "2024-05-01T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 37/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-28T13:30:00",
+        "end": "2024-12-28T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 179/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-05-04T19:40:00",
+        "end": "2024-05-04T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 63/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "DSp (ć)",
+        "start": "2024-04-26T08:00:00",
+        "end": "2024-04-26T09:35:00",
+        "description": "Dzień sportu\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#B29F47"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-02T13:30:00",
+        "end": "2024-11-02T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 123/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-15T16:00:00",
+        "end": "2025-01-15T17:35:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 88/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-06-01T13:30:00",
+        "end": "2024-06-01T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 88/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "TC (w)",
+        "start": "2024-04-04T09:50:00",
+        "end": "2024-04-04T11:25:00",
+        "description": "Technika cyfrowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24781"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-02T17:50:00",
+        "end": "2025-01-02T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 216/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-29T17:50:00",
+        "end": "2024-12-29T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 188/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2024-12-19T16:00:00",
+        "end": "2024-12-19T17:35:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 26/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "SsO (ć)",
+        "start": "2024-04-04T08:00:00",
+        "end": "2024-04-04T09:35:00",
+        "description": "Sensory i systemy optoelektroniczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący: -",
+        "allDay": false,
+        "color": "#A8B247"
+    },
+    {
+        "title": "Ult (w)",
+        "start": "2024-10-08T08:00:00",
+        "end": "2024-10-08T09:35:00",
+        "description": "Ultrasonografia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B295"
+    },
+    {
+        "title": "XMass (L)",
+        "start": "2024-11-20T17:50:00",
+        "end": "2024-11-20T19:25:00",
+        "description": "XMetody analizy i syntezy sygnałów\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący: mgr inż. Piotr Bączyk",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-28T09:50:00",
+        "end": "2024-12-28T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 177/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "XMass (L)",
+        "start": "2024-11-27T19:40:00",
+        "end": "2024-11-27T21:15:00",
+        "description": "XMetody analizy i syntezy sygnałów\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący: mgr inż. Piotr Bączyk",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "PRo (Inne)",
+        "start": "2024-09-18T08:00:00",
+        "end": "2024-09-18T09:35:00",
+        "description": "Podstawy rejestracji i przetwarzania obrazów w medycynie - (Zaliczenie poprawkowe.) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4778B2"
+    },
+    {
+        "title": "SsO (w)",
+        "start": "2024-03-07T09:50:00",
+        "end": "2024-03-07T11:25:00",
+        "description": "Sensory i systemy optoelektroniczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#A8B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-02T17:50:00",
+        "end": "2024-11-02T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 125/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2024-12-16T09:50:00",
+        "end": "2024-12-16T11:25:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 2/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-11T19:40:00",
+        "end": "2025-01-11T21:15:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 62/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-10T17:50:00",
+        "end": "2025-01-10T19:25:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 54/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-05-05T11:40:00",
+        "end": "2024-05-05T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 66/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2024-12-16T08:00:00",
+        "end": "2024-12-16T09:35:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 1/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-11T09:50:00",
+        "end": "2025-01-11T11:25:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 57/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "Wkm (L)",
+        "start": "2024-11-13T08:00:00",
+        "end": "2024-11-13T09:35:00",
+        "description": "Wizja komputerowa w medycynie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#8BB247"
+    },
+    {
+        "title": "ToiS (L)",
+        "start": "2024-06-05T11:40:00",
+        "end": "2024-06-05T13:15:00",
+        "description": "Technika obliczeniowa i symulacyjna - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#5147B2"
+    },
+    {
+        "title": "Rspr (w)",
+        "start": "2024-11-12T09:50:00",
+        "end": "2024-11-12T11:25:00",
+        "description": "Remote sensing principles  - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#B28147"
+    },
+    {
+        "title": "Wzf (w)",
+        "start": "2024-06-18T13:30:00",
+        "end": "2024-06-18T15:05:00",
+        "description": "Wybrane zagadnienia fizyki kwantowej  - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2479F"
+    },
+    {
+        "title": "PrSt (w)",
+        "start": "2024-02-28T08:00:00",
+        "end": "2024-02-28T09:35:00",
+        "description": "Programowanie strukturalne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#6E47B2"
+    },
+    {
+        "title": "Wkm (w)",
+        "start": "2024-12-03T11:40:00",
+        "end": "2024-12-03T13:15:00",
+        "description": "Wizja komputerowa w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#8BB247"
+    },
+    {
+        "title": "Rspr (w)",
+        "start": "2024-11-13T13:30:00",
+        "end": "2024-11-13T15:05:00",
+        "description": "Remote sensing principles  - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#B28147"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-11T11:40:00",
+        "end": "2024-11-11T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 136/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-09-30T17:50:00",
+        "end": "2024-09-30T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 104/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "SsO (w)",
+        "start": "2024-03-22T09:50:00",
+        "end": "2024-03-22T11:25:00",
+        "description": "Sensory i systemy optoelektroniczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#A8B247"
+    },
+    {
+        "title": "TeAn (L)",
+        "start": "2024-06-10T11:40:00",
+        "end": "2024-06-10T13:15:00",
+        "description": "Technika analogowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B25A"
+    },
+    {
+        "title": "Rspr (w)",
+        "start": "2024-11-27T11:40:00",
+        "end": "2024-11-27T13:15:00",
+        "description": "Remote sensing principles  - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#B28147"
+    },
+    {
+        "title": "TeMi (w)",
+        "start": "2024-03-20T11:40:00",
+        "end": "2024-03-20T13:15:00",
+        "description": "Termografia mikrofalowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B278"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2024-12-20T08:00:00",
+        "end": "2024-12-20T09:35:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 28/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "PrSt (L)",
+        "start": "2024-04-19T13:30:00",
+        "end": "2024-04-19T15:05:00",
+        "description": "Programowanie strukturalne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#6E47B2"
+    },
+    {
+        "title": "Ult (w)",
+        "start": "2024-10-01T08:00:00",
+        "end": "2024-10-01T09:35:00",
+        "description": "Ultrasonografia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B295"
+    },
+    {
+        "title": "Wkm (L)",
+        "start": "2024-11-20T13:30:00",
+        "end": "2024-11-20T15:05:00",
+        "description": "Wizja komputerowa w medycynie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#8BB247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-02T09:50:00",
+        "end": "2025-01-02T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 212/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2024-12-17T16:00:00",
+        "end": "2024-12-17T17:35:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 12/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "TeAn (L)",
+        "start": "2024-04-22T09:50:00",
+        "end": "2024-04-22T11:25:00",
+        "description": "Technika analogowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B25A"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-06-02T17:50:00",
+        "end": "2024-06-02T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 97/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "Eam (w)",
+        "start": "2024-04-09T16:00:00",
+        "end": "2024-04-09T17:35:00",
+        "description": "Elektroniczna aparatura medyczna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24764"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-16T16:00:00",
+        "end": "2025-01-16T17:35:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 93/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-09T17:50:00",
+        "end": "2025-01-09T19:25:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 50/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-03T17:50:00",
+        "end": "2025-01-03T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 223/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "PRo (L)",
+        "start": "2024-04-11T09:50:00",
+        "end": "2024-04-11T11:25:00",
+        "description": "Podstawy rejestracji i przetwarzania obrazów w medycynie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#4778B2"
+    },
+    {
+        "title": "Ult (ć)",
+        "start": "2024-11-06T11:40:00",
+        "end": "2024-11-06T13:15:00",
+        "description": "Ultrasonografia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/5\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B295"
+    },
+    {
+        "title": "PrSt (L)",
+        "start": "2024-06-21T09:50:00",
+        "end": "2024-06-21T11:25:00",
+        "description": "Programowanie strukturalne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 13/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#6E47B2"
+    },
+    {
+        "title": "ToiS (L)",
+        "start": "2024-05-21T11:40:00",
+        "end": "2024-05-21T13:15:00",
+        "description": "Technika obliczeniowa i symulacyjna - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#5147B2"
+    },
+    {
+        "title": "Eam (ć)",
+        "start": "2024-04-30T11:40:00",
+        "end": "2024-04-30T13:15:00",
+        "description": "Elektroniczna aparatura medyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/3\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24764"
+    },
+    {
+        "title": "ToiS (w)",
+        "start": "2024-04-08T13:30:00",
+        "end": "2024-04-08T15:05:00",
+        "description": "Technika obliczeniowa i symulacyjna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#5147B2"
+    },
+    {
+        "title": "Piab (w)",
+        "start": "2024-04-09T13:30:00",
+        "end": "2024-04-09T15:05:00",
+        "description": "Pomiary i analiza biosygnałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B26447"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-05-30T11:40:00",
+        "end": "2024-05-30T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 73/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "Rspr (w)",
+        "start": "2024-10-29T09:50:00",
+        "end": "2024-10-29T11:25:00",
+        "description": "Remote sensing principles  - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#B28147"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2024-12-17T11:40:00",
+        "end": "2024-12-17T13:15:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 10/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "PrSt (w)",
+        "start": "2024-03-06T09:50:00",
+        "end": "2024-03-06T11:25:00",
+        "description": "Programowanie strukturalne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#6E47B2"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-12T09:50:00",
+        "end": "2025-01-12T11:25:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 64/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-16T17:50:00",
+        "end": "2025-01-16T19:25:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 94/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-04-02T11:40:00",
+        "end": "2024-04-02T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 31/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-05-03T16:00:00",
+        "end": "2024-05-03T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 54/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-03-29T11:40:00",
+        "end": "2024-03-29T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 3/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-29T13:30:00",
+        "end": "2024-12-29T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 186/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "PrSt (L)",
+        "start": "2024-05-27T13:30:00",
+        "end": "2024-05-27T15:05:00",
+        "description": "Programowanie strukturalne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#6E47B2"
+    },
+    {
+        "title": "TeAn (L)",
+        "start": "2024-05-13T08:00:00",
+        "end": "2024-05-13T09:35:00",
+        "description": "Technika analogowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B25A"
+    },
+    {
+        "title": "TeMi (w)",
+        "start": "2024-03-06T11:40:00",
+        "end": "2024-03-06T13:15:00",
+        "description": "Termografia mikrofalowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B278"
+    },
+    {
+        "title": "Wzf (ć)",
+        "start": "2024-05-24T08:00:00",
+        "end": "2024-05-24T09:35:00",
+        "description": "Wybrane zagadnienia fizyki kwantowej  - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2479F"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-05-31T08:00:00",
+        "end": "2024-05-31T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 78/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-11T16:00:00",
+        "end": "2024-11-11T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 138/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-23T17:50:00",
+        "end": "2024-12-23T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 146/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-14T19:40:00",
+        "end": "2025-01-14T21:15:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 83/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "Wzf (w)",
+        "start": "2024-03-22T08:00:00",
+        "end": "2024-03-22T09:35:00",
+        "description": "Wybrane zagadnienia fizyki kwantowej  - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2479F"
+    },
+    {
+        "title": "PrSt (L)",
+        "start": "2024-03-26T13:30:00",
+        "end": "2024-03-26T15:05:00",
+        "description": "Programowanie strukturalne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#6E47B2"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-14T13:30:00",
+        "end": "2025-01-14T15:05:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 80/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-25T11:40:00",
+        "end": "2024-12-25T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 157/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-04-02T13:30:00",
+        "end": "2024-04-02T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 32/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-05-30T09:50:00",
+        "end": "2024-05-30T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 72/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-06-01T16:00:00",
+        "end": "2024-06-01T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 89/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "TeMi (ć)",
+        "start": "2024-05-20T11:40:00",
+        "end": "2024-05-20T13:15:00",
+        "description": "Termografia mikrofalowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/3\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B278"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-13T11:40:00",
+        "end": "2025-01-13T13:15:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 72/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "Piab (L)",
+        "start": "2024-05-08T08:00:00",
+        "end": "2024-05-08T09:35:00",
+        "description": "Pomiary i analiza biosygnałów - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B26447"
+    },
+    {
+        "title": "Swb (Inne)",
+        "start": "2024-04-03T19:40:00",
+        "end": "2024-04-03T21:15:00",
+        "description": "Systemy wbudowane\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Karol Szczepanowski",
+        "allDay": false,
+        "color": "#6EB247"
+    },
+    {
+        "title": "PrSt (L)",
+        "start": "2024-04-05T11:40:00",
+        "end": "2024-04-05T13:15:00",
+        "description": "Programowanie strukturalne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#6E47B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-24T13:30:00",
+        "end": "2024-12-24T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 151/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "SsO (L)",
+        "start": "2024-05-06T11:40:00",
+        "end": "2024-05-06T13:15:00",
+        "description": "Sensory i systemy optoelektroniczne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/12\nProwadzący: -",
+        "allDay": false,
+        "color": "#A8B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-30T19:40:00",
+        "end": "2024-12-30T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 196/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2024-12-18T16:00:00",
+        "end": "2024-12-18T17:35:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 19/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-02T11:40:00",
+        "end": "2025-01-02T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 213/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "PrSt (L)",
+        "start": "2024-04-24T08:00:00",
+        "end": "2024-04-24T09:35:00",
+        "description": "Programowanie strukturalne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#6E47B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-03-30T17:50:00",
+        "end": "2024-03-30T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 13/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-06T19:40:00",
+        "end": "2025-01-06T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 245/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2024-12-18T19:40:00",
+        "end": "2024-12-18T21:15:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 21/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2024-12-17T19:40:00",
+        "end": "2024-12-17T21:15:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 14/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-05-03T19:40:00",
+        "end": "2024-05-03T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 56/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-05-31T16:00:00",
+        "end": "2024-05-31T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 82/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-03T08:00:00",
+        "end": "2024-11-03T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 127/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "Piab (Inne)",
+        "start": "2024-06-10T08:00:00",
+        "end": "2024-06-10T09:35:00",
+        "description": "Pomiary i analiza biosygnałów - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 1/3\nProwadzący: -",
+        "allDay": false,
+        "color": "#B26447"
+    },
+    {
+        "title": "Piab (Inne)",
+        "start": "2024-06-18T09:50:00",
+        "end": "2024-06-18T11:25:00",
+        "description": "Pomiary i analiza biosygnałów - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 3/3\nProwadzący: -",
+        "allDay": false,
+        "color": "#B26447"
+    },
+    {
+        "title": "Wkm (Inne)",
+        "start": "2024-11-20T09:50:00",
+        "end": "2024-11-20T11:25:00",
+        "description": "Wizja komputerowa w medycynie - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 3/5\nProwadzący: -",
+        "allDay": false,
+        "color": "#8BB247"
+    },
+    {
+        "title": "SsO (L)",
+        "start": "2024-06-03T09:50:00",
+        "end": "2024-06-03T11:25:00",
+        "description": "Sensory i systemy optoelektroniczne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/12\nProwadzący: -",
+        "allDay": false,
+        "color": "#A8B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-23T13:30:00",
+        "end": "2024-12-23T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 144/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "PRo (L)",
+        "start": "2024-04-23T08:00:00",
+        "end": "2024-04-23T09:35:00",
+        "description": "Podstawy rejestracji i przetwarzania obrazów w medycynie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#4778B2"
+    },
+    {
+        "title": "TeMi (w)",
+        "start": "2024-04-03T11:40:00",
+        "end": "2024-04-03T13:15:00",
+        "description": "Termografia mikrofalowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B278"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-04T17:50:00",
+        "end": "2025-01-04T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 230/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-06-02T19:40:00",
+        "end": "2024-06-02T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 98/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "Wzf (w)",
+        "start": "2024-04-19T08:00:00",
+        "end": "2024-04-19T09:35:00",
+        "description": "Wybrane zagadnienia fizyki kwantowej  - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2479F"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-12T19:40:00",
+        "end": "2025-01-12T21:15:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 69/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-28T19:40:00",
+        "end": "2024-12-28T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 182/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-06-02T08:00:00",
+        "end": "2024-06-02T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 92/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "Wkm (Inne)",
+        "start": "2024-11-20T08:00:00",
+        "end": "2024-11-20T09:35:00",
+        "description": "Wizja komputerowa w medycynie - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 2/5\nProwadzący: -",
+        "allDay": false,
+        "color": "#8BB247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-02T13:30:00",
+        "end": "2025-01-02T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 214/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-05-02T16:00:00",
+        "end": "2024-05-02T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 47/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-05-04T11:40:00",
+        "end": "2024-05-04T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 59/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-03T17:50:00",
+        "end": "2024-11-03T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 132/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-03T19:40:00",
+        "end": "2024-11-03T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 133/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-04T09:50:00",
+        "end": "2025-01-04T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 226/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-17T16:00:00",
+        "end": "2025-01-17T17:35:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 100/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-10T16:00:00",
+        "end": "2025-01-10T17:35:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 53/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "Piab (w)",
+        "start": "2024-04-18T08:00:00",
+        "end": "2024-04-18T09:35:00",
+        "description": "Pomiary i analiza biosygnałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B26447"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-04T08:00:00",
+        "end": "2025-01-04T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 225/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-03-31T19:40:00",
+        "end": "2024-03-31T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 21/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-03-29T09:50:00",
+        "end": "2024-03-29T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-14T11:40:00",
+        "end": "2025-01-14T13:15:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 79/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-08T13:30:00",
+        "end": "2025-01-08T15:05:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 41/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-03T19:40:00",
+        "end": "2025-01-03T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 224/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "Eam (E)",
+        "start": "2024-07-01T09:50:00",
+        "end": "2024-07-01T11:25:00",
+        "description": "Elektroniczna aparatura medyczna - (Egzamin) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24764"
+    },
+    {
+        "title": "SsO (L)",
+        "start": "2024-05-16T11:40:00",
+        "end": "2024-05-16T13:15:00",
+        "description": "Sensory i systemy optoelektroniczne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/12\nProwadzący: -",
+        "allDay": false,
+        "color": "#A8B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-04-01T16:00:00",
+        "end": "2024-04-01T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 26/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2024-12-16T16:00:00",
+        "end": "2024-12-16T17:35:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 5/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2024-12-18T13:30:00",
+        "end": "2024-12-18T15:05:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 18/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2024-12-20T16:00:00",
+        "end": "2024-12-20T17:35:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 30/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-11T17:50:00",
+        "end": "2024-11-11T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 139/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "Piab (L)",
+        "start": "2024-05-22T08:00:00",
+        "end": "2024-05-22T09:35:00",
+        "description": "Pomiary i analiza biosygnałów - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B26447"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-05T16:00:00",
+        "end": "2025-01-05T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 236/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-05-04T16:00:00",
+        "end": "2024-05-04T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 61/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "XMass (L)",
+        "start": "2024-12-04T17:50:00",
+        "end": "2024-12-04T19:25:00",
+        "description": "XMetody analizy i syntezy sygnałów\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący: mgr inż. Piotr Bączyk",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "PRo (L)",
+        "start": "2024-04-11T08:00:00",
+        "end": "2024-04-11T09:35:00",
+        "description": "Podstawy rejestracji i przetwarzania obrazów w medycynie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#4778B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-23T11:40:00",
+        "end": "2024-12-23T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 143/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-05-05T09:50:00",
+        "end": "2024-05-05T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 65/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "PrSt (L)",
+        "start": "2024-03-26T11:40:00",
+        "end": "2024-03-26T13:15:00",
+        "description": "Programowanie strukturalne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#6E47B2"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-14T08:00:00",
+        "end": "2025-01-14T09:35:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 77/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "Wzf (w)",
+        "start": "2024-03-08T08:00:00",
+        "end": "2024-03-08T09:35:00",
+        "description": "Wybrane zagadnienia fizyki kwantowej  - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2479F"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-15T13:30:00",
+        "end": "2025-01-15T15:05:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 87/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "TC (L)",
+        "start": "2024-05-14T09:50:00",
+        "end": "2024-05-14T11:25:00",
+        "description": "Technika cyfrowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24781"
+    },
+    {
+        "title": "Ult (ć)",
+        "start": "2024-10-16T11:40:00",
+        "end": "2024-10-16T13:15:00",
+        "description": "Ultrasonografia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/5\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B295"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-05-01T08:00:00",
+        "end": "2024-05-01T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 36/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-12T08:00:00",
+        "end": "2025-01-12T09:35:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 63/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2024-12-18T09:50:00",
+        "end": "2024-12-18T11:25:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 16/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-12T11:40:00",
+        "end": "2025-01-12T13:15:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 65/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-06T09:50:00",
+        "end": "2025-01-06T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 240/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "XMass (L)",
+        "start": "2024-11-27T17:50:00",
+        "end": "2024-11-27T19:25:00",
+        "description": "XMetody analizy i syntezy sygnałów\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący: mgr inż. Piotr Bączyk",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Piab (w)",
+        "start": "2024-04-23T13:30:00",
+        "end": "2024-04-23T15:05:00",
+        "description": "Pomiary i analiza biosygnałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B26447"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-02T08:00:00",
+        "end": "2024-11-02T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 120/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-23T19:40:00",
+        "end": "2024-12-23T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 147/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-13T13:30:00",
+        "end": "2025-01-13T15:05:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 73/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "Eam (L)",
+        "start": "2024-05-14T13:30:00",
+        "end": "2024-05-14T15:05:00",
+        "description": "Elektroniczna aparatura medyczna - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24764"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-30T17:50:00",
+        "end": "2024-12-30T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 195/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-26T08:00:00",
+        "end": "2024-12-26T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 162/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "Ult (ć)",
+        "start": "2024-11-13T11:40:00",
+        "end": "2024-11-13T13:15:00",
+        "description": "Ultrasonografia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/5\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B295"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-03T08:00:00",
+        "end": "2025-01-03T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 218/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "SsO (E)",
+        "start": "2024-06-27T11:40:00",
+        "end": "2024-06-27T13:15:00",
+        "description": "Sensory i systemy optoelektroniczne - (Egzamin) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#A8B247"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-10T08:00:00",
+        "end": "2025-01-10T09:35:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 52/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-05-05T17:50:00",
+        "end": "2024-05-05T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 69/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-05-03T09:50:00",
+        "end": "2024-05-03T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 51/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-11T13:30:00",
+        "end": "2024-11-11T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 137/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "Wkm (w)",
+        "start": "2024-10-22T11:40:00",
+        "end": "2024-10-22T13:15:00",
+        "description": "Wizja komputerowa w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#8BB247"
+    },
+    {
+        "title": "Wkm (w)",
+        "start": "2024-10-23T08:00:00",
+        "end": "2024-10-23T09:35:00",
+        "description": "Wizja komputerowa w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#8BB247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-06-01T08:00:00",
+        "end": "2024-06-01T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 85/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-10-31T13:30:00",
+        "end": "2024-10-31T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 109/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2024-12-18T08:00:00",
+        "end": "2024-12-18T09:35:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 15/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "SsO (w)",
+        "start": "2024-03-01T09:50:00",
+        "end": "2024-03-01T11:25:00",
+        "description": "Sensory i systemy optoelektroniczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#A8B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-29T09:50:00",
+        "end": "2024-12-29T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 184/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-02T08:00:00",
+        "end": "2025-01-02T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 211/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-05-30T17:50:00",
+        "end": "2024-05-30T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 76/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "Wkm (w)",
+        "start": "2024-10-16T09:50:00",
+        "end": "2024-10-16T11:25:00",
+        "description": "Wizja komputerowa w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#8BB247"
+    },
+    {
+        "title": "TeMi (w)",
+        "start": "2024-03-27T11:40:00",
+        "end": "2024-03-27T13:15:00",
+        "description": "Termografia mikrofalowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B278"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-06-01T19:40:00",
+        "end": "2024-06-01T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 91/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-27T16:00:00",
+        "end": "2024-12-27T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 173/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "Ult (ć)",
+        "start": "2024-11-26T09:50:00",
+        "end": "2024-11-26T11:25:00",
+        "description": "Ultrasonografia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/5\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B295"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2024-12-19T09:50:00",
+        "end": "2024-12-19T11:25:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 23/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2024-12-19T13:30:00",
+        "end": "2024-12-19T15:05:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 25/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "TC (L)",
+        "start": "2024-05-28T09:50:00",
+        "end": "2024-05-28T11:25:00",
+        "description": "Technika cyfrowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24781"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-14T16:00:00",
+        "end": "2025-01-14T17:35:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 81/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "TeMi (w)",
+        "start": "2024-04-22T16:00:00",
+        "end": "2024-04-22T17:35:00",
+        "description": "Termografia mikrofalowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B278"
+    },
+    {
+        "title": "Eam (L)",
+        "start": "2024-05-28T13:30:00",
+        "end": "2024-05-28T15:05:00",
+        "description": "Elektroniczna aparatura medyczna - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24764"
+    },
+    {
+        "title": "Wkm (Inne)",
+        "start": "2024-11-06T09:50:00",
+        "end": "2024-11-06T11:25:00",
+        "description": "Wizja komputerowa w medycynie - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 1/5\nProwadzący: -",
+        "allDay": false,
+        "color": "#8BB247"
+    },
+    {
+        "title": "SsO (L)",
+        "start": "2024-05-20T09:50:00",
+        "end": "2024-05-20T11:25:00",
+        "description": "Sensory i systemy optoelektroniczne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/12\nProwadzący: -",
+        "allDay": false,
+        "color": "#A8B247"
+    },
+    {
+        "title": "Ult (w)",
+        "start": "2024-11-12T08:00:00",
+        "end": "2024-11-12T09:35:00",
+        "description": "Ultrasonografia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B295"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-05-31T17:50:00",
+        "end": "2024-05-31T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 83/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "Wkm (ć)",
+        "start": "2024-10-30T09:50:00",
+        "end": "2024-10-30T11:25:00",
+        "description": "Wizja komputerowa w medycynie - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/3\nProwadzący: -",
+        "allDay": false,
+        "color": "#8BB247"
+    },
+    {
+        "title": "DSp (ć)",
+        "start": "2024-04-26T11:40:00",
+        "end": "2024-04-26T13:15:00",
+        "description": "Dzień sportu\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#B29F47"
+    },
+    {
+        "title": "Piab (E)",
+        "start": "2024-07-03T09:50:00",
+        "end": "2024-07-03T11:25:00",
+        "description": "Pomiary i analiza biosygnałów - (Egzamin) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B26447"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-05-05T13:30:00",
+        "end": "2024-05-05T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 67/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-17T13:30:00",
+        "end": "2025-01-17T15:05:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 99/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-10-31T09:50:00",
+        "end": "2024-10-31T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 107/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-09-30T19:40:00",
+        "end": "2024-09-30T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 105/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-05-03T08:00:00",
+        "end": "2024-05-03T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 50/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-12T13:30:00",
+        "end": "2025-01-12T15:05:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 66/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "TeAn (L)",
+        "start": "2024-03-26T08:00:00",
+        "end": "2024-03-26T09:35:00",
+        "description": "Technika analogowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B25A"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2024-12-17T09:50:00",
+        "end": "2024-12-17T11:25:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 9/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "Eam (w)",
+        "start": "2024-04-16T09:50:00",
+        "end": "2024-04-16T11:25:00",
+        "description": "Elektroniczna aparatura medyczna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24764"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-05T17:50:00",
+        "end": "2025-01-05T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 237/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "Wkm (L)",
+        "start": "2024-11-13T09:50:00",
+        "end": "2024-11-13T11:25:00",
+        "description": "Wizja komputerowa w medycynie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#8BB247"
+    },
+    {
+        "title": "Ult (w)",
+        "start": "2024-10-29T08:00:00",
+        "end": "2024-10-29T09:35:00",
+        "description": "Ultrasonografia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B295"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-16T11:40:00",
+        "end": "2025-01-16T13:15:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 91/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-11T13:30:00",
+        "end": "2025-01-11T15:05:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 59/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "SsO (L)",
+        "start": "2024-04-25T09:50:00",
+        "end": "2024-04-25T11:25:00",
+        "description": "Sensory i systemy optoelektroniczne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/12\nProwadzący: -",
+        "allDay": false,
+        "color": "#A8B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-04-01T09:50:00",
+        "end": "2024-04-01T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 23/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "Wzf (ć)",
+        "start": "2024-06-14T08:00:00",
+        "end": "2024-06-14T09:35:00",
+        "description": "Wybrane zagadnienia fizyki kwantowej  - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2479F"
+    },
+    {
+        "title": "ToiS (L)",
+        "start": "2024-05-07T11:40:00",
+        "end": "2024-05-07T13:15:00",
+        "description": "Technika obliczeniowa i symulacyjna - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#5147B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-05-30T13:30:00",
+        "end": "2024-05-30T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 74/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "ToiS (w)",
+        "start": "2024-03-27T09:50:00",
+        "end": "2024-03-27T11:25:00",
+        "description": "Technika obliczeniowa i symulacyjna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#5147B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-27T17:50:00",
+        "end": "2024-12-27T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 174/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-29T11:40:00",
+        "end": "2024-12-29T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 185/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-26T13:30:00",
+        "end": "2024-12-26T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 165/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-03T09:50:00",
+        "end": "2024-11-03T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 128/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-26T17:50:00",
+        "end": "2024-12-26T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 167/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-05T09:50:00",
+        "end": "2025-01-05T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 233/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-25T17:50:00",
+        "end": "2024-12-25T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 160/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "DSp (ć)",
+        "start": "2024-04-26T09:50:00",
+        "end": "2024-04-26T11:25:00",
+        "description": "Dzień sportu\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#B29F47"
+    },
+    {
+        "title": "PrSt (w)",
+        "start": "2024-02-27T16:00:00",
+        "end": "2024-02-27T17:35:00",
+        "description": "Programowanie strukturalne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#6E47B2"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2024-12-19T11:40:00",
+        "end": "2024-12-19T13:15:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 24/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-26T11:40:00",
+        "end": "2024-12-26T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 164/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "TeMi (L)",
+        "start": "2024-06-03T17:50:00",
+        "end": "2024-06-03T19:25:00",
+        "description": "Termografia mikrofalowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/4\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B278"
+    },
+    {
+        "title": "Rspr (ć)",
+        "start": "2024-10-29T11:40:00",
+        "end": "2024-10-29T13:15:00",
+        "description": "Remote sensing principles  - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/4\nProwadzący: -",
+        "allDay": false,
+        "color": "#B28147"
+    },
+    {
+        "title": "Wkm (w)",
+        "start": "2024-10-07T09:50:00",
+        "end": "2024-10-07T11:25:00",
+        "description": "Wizja komputerowa w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#8BB247"
+    },
+    {
+        "title": "Sdwel (Inne)",
+        "start": "2024-10-07T13:30:00",
+        "end": "2024-10-07T15:05:00",
+        "description": "Seminaria dyplomowe wel - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 2/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#A847B2"
+    },
+    {
+        "title": "PRo (w)",
+        "start": "2024-04-03T13:30:00",
+        "end": "2024-04-03T15:05:00",
+        "description": "Podstawy rejestracji i przetwarzania obrazów w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#4778B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-28T17:50:00",
+        "end": "2024-12-28T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 181/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-06-02T13:30:00",
+        "end": "2024-06-02T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 95/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "Piab (L)",
+        "start": "2024-06-03T13:30:00",
+        "end": "2024-06-03T15:05:00",
+        "description": "Pomiary i analiza biosygnałów - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B26447"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-12T17:50:00",
+        "end": "2025-01-12T19:25:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 68/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "ToiS (L)",
+        "start": "2024-06-06T08:00:00",
+        "end": "2024-06-06T09:35:00",
+        "description": "Technika obliczeniowa i symulacyjna - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#5147B2"
+    },
+    {
+        "title": "XMass (L)",
+        "start": "2024-12-04T19:40:00",
+        "end": "2024-12-04T21:15:00",
+        "description": "XMetody analizy i syntezy sygnałów\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: mgr inż. Piotr Bączyk",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-03-30T19:40:00",
+        "end": "2024-03-30T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 14/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "SsO (w)",
+        "start": "2024-03-08T09:50:00",
+        "end": "2024-03-08T11:25:00",
+        "description": "Sensory i systemy optoelektroniczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#A8B247"
+    },
+    {
+        "title": "TeAn (L)",
+        "start": "2024-05-13T09:50:00",
+        "end": "2024-05-13T11:25:00",
+        "description": "Technika analogowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B25A"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-15T09:50:00",
+        "end": "2025-01-15T11:25:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 85/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "XMass (w)",
+        "start": "2024-11-08T11:40:00",
+        "end": "2024-11-08T13:15:00",
+        "description": "XMetody analizy i syntezy sygnałów\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: prof. dr hab. inż. Andrzej Walczak",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-24T08:00:00",
+        "end": "2024-12-24T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 148/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "Wkm (L)",
+        "start": "2024-10-30T11:40:00",
+        "end": "2024-10-30T13:15:00",
+        "description": "Wizja komputerowa w medycynie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#8BB247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-03-31T13:30:00",
+        "end": "2024-03-31T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 18/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-14T17:50:00",
+        "end": "2025-01-14T19:25:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 82/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "DSp (ć)",
+        "start": "2024-04-26T17:50:00",
+        "end": "2024-04-26T19:25:00",
+        "description": "Dzień sportu\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#B29F47"
+    },
+    {
+        "title": "XMass (w)",
+        "start": "2024-11-22T09:50:00",
+        "end": "2024-11-22T11:25:00",
+        "description": "XMetody analizy i syntezy sygnałów\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: prof. dr hab. inż. Andrzej Walczak",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-06T16:00:00",
+        "end": "2025-01-06T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 243/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-05-03T17:50:00",
+        "end": "2024-05-03T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 55/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "ToiS (w)",
+        "start": "2024-03-01T11:40:00",
+        "end": "2024-03-01T13:15:00",
+        "description": "Technika obliczeniowa i symulacyjna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#5147B2"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-11T17:50:00",
+        "end": "2025-01-11T19:25:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 61/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "Rspr (w)",
+        "start": "2024-10-01T09:50:00",
+        "end": "2024-10-01T11:25:00",
+        "description": "Remote sensing principles  - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#B28147"
+    },
+    {
+        "title": "TC (L)",
+        "start": "2024-06-11T08:00:00",
+        "end": "2024-06-11T09:35:00",
+        "description": "Technika cyfrowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24781"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-03T13:30:00",
+        "end": "2024-11-03T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 130/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "SsO (L)",
+        "start": "2024-05-16T13:30:00",
+        "end": "2024-05-16T15:05:00",
+        "description": "Sensory i systemy optoelektroniczne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/12\nProwadzący: -",
+        "allDay": false,
+        "color": "#A8B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-04T13:30:00",
+        "end": "2025-01-04T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 228/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "TC (L)",
+        "start": "2024-04-30T09:50:00",
+        "end": "2024-04-30T11:25:00",
+        "description": "Technika cyfrowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24781"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-13T16:00:00",
+        "end": "2025-01-13T17:35:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 74/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-06-01T09:50:00",
+        "end": "2024-06-01T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 86/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-05-30T16:00:00",
+        "end": "2024-05-30T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 75/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2024-12-16T11:40:00",
+        "end": "2024-12-16T13:15:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 3/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "SsO (w)",
+        "start": "2024-03-15T09:50:00",
+        "end": "2024-03-15T11:25:00",
+        "description": "Sensory i systemy optoelektroniczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#A8B247"
+    },
+    {
+        "title": "ToiS (Inne)",
+        "start": "2024-09-17T11:40:00",
+        "end": "2024-09-17T13:15:00",
+        "description": "Technika obliczeniowa i symulacyjna - (Zaliczenie poprawkowe.) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#5147B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-09-30T13:30:00",
+        "end": "2024-09-30T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 102/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "SsO (L)",
+        "start": "2024-05-20T08:00:00",
+        "end": "2024-05-20T09:35:00",
+        "description": "Sensory i systemy optoelektroniczne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/12\nProwadzący: -",
+        "allDay": false,
+        "color": "#A8B247"
+    },
+    {
+        "title": "PRo (w)",
+        "start": "2024-03-06T13:30:00",
+        "end": "2024-03-06T15:05:00",
+        "description": "Podstawy rejestracji i przetwarzania obrazów w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#4778B2"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-09T11:40:00",
+        "end": "2025-01-09T13:15:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 47/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "ToiS (L)",
+        "start": "2024-05-21T13:30:00",
+        "end": "2024-05-21T15:05:00",
+        "description": "Technika obliczeniowa i symulacyjna - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#5147B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-04-02T08:00:00",
+        "end": "2024-04-02T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 29/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "PrSt (P)",
+        "start": "2024-06-07T09:50:00",
+        "end": "2024-06-07T11:25:00",
+        "description": "Programowanie strukturalne - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 1/3\nProwadzący: -",
+        "allDay": false,
+        "color": "#6E47B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-05T13:30:00",
+        "end": "2025-01-05T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 235/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-05-30T08:00:00",
+        "end": "2024-05-30T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 71/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "TeAn (w)",
+        "start": "2024-04-10T13:30:00",
+        "end": "2024-04-10T15:05:00",
+        "description": "Technika analogowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B25A"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-04-01T08:00:00",
+        "end": "2024-04-01T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 22/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-27T08:00:00",
+        "end": "2024-12-27T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 169/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-06-02T16:00:00",
+        "end": "2024-06-02T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 96/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "TC (w)",
+        "start": "2024-04-15T09:50:00",
+        "end": "2024-04-15T11:25:00",
+        "description": "Technika cyfrowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24781"
+    },
+    {
+        "title": "PrSt (L)",
+        "start": "2024-06-10T09:50:00",
+        "end": "2024-06-10T11:25:00",
+        "description": "Programowanie strukturalne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#6E47B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-05-05T19:40:00",
+        "end": "2024-05-05T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 70/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "TeMi (w)",
+        "start": "2024-04-10T11:40:00",
+        "end": "2024-04-10T13:15:00",
+        "description": "Termografia mikrofalowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B278"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-26T09:50:00",
+        "end": "2024-12-26T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 163/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-03-31T16:00:00",
+        "end": "2024-03-31T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 19/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "TC (Inne)",
+        "start": "2024-09-19T11:40:00",
+        "end": "2024-09-19T13:15:00",
+        "description": "Technika cyfrowa - (Zaliczenie poprawkowe.) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24781"
+    },
+    {
+        "title": "Rspr (ć)",
+        "start": "2024-12-10T09:50:00",
+        "end": "2024-12-10T11:25:00",
+        "description": "Remote sensing principles  - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący: -",
+        "allDay": false,
+        "color": "#B28147"
+    },
+    {
+        "title": "PrSt (L)",
+        "start": "2024-04-19T11:40:00",
+        "end": "2024-04-19T13:15:00",
+        "description": "Programowanie strukturalne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#6E47B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-03T16:00:00",
+        "end": "2025-01-03T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 222/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "Sdwel (Inne)",
+        "start": "2024-11-14T09:50:00",
+        "end": "2024-11-14T11:25:00",
+        "description": "Seminaria dyplomowe wel - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 6/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#A847B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-05-01T19:40:00",
+        "end": "2024-05-01T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 42/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "PRo (w)",
+        "start": "2024-03-20T13:30:00",
+        "end": "2024-03-20T15:05:00",
+        "description": "Podstawy rejestracji i przetwarzania obrazów w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#4778B2"
+    },
+    {
+        "title": "TeAn (w)",
+        "start": "2024-03-05T11:40:00",
+        "end": "2024-03-05T13:15:00",
+        "description": "Technika analogowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B25A"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-05T11:40:00",
+        "end": "2025-01-05T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 234/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "Wkm (L)",
+        "start": "2024-10-30T13:30:00",
+        "end": "2024-10-30T15:05:00",
+        "description": "Wizja komputerowa w medycynie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#8BB247"
+    },
+    {
+        "title": "PRo (w)",
+        "start": "2024-06-11T13:30:00",
+        "end": "2024-06-11T15:05:00",
+        "description": "Podstawy rejestracji i przetwarzania obrazów w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#4778B2"
+    },
+    {
+        "title": "Piab (w)",
+        "start": "2024-03-07T08:00:00",
+        "end": "2024-03-07T09:35:00",
+        "description": "Pomiary i analiza biosygnałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B26447"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-09T19:40:00",
+        "end": "2025-01-09T21:15:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 51/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2024-12-17T08:00:00",
+        "end": "2024-12-17T09:35:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 8/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-28T11:40:00",
+        "end": "2024-12-28T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 178/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "Ult (w)",
+        "start": "2024-12-03T08:00:00",
+        "end": "2024-12-03T09:35:00",
+        "description": "Ultrasonografia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 10/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B295"
+    },
+    {
+        "title": "PrSt (w)",
+        "start": "2024-03-12T16:00:00",
+        "end": "2024-03-12T17:35:00",
+        "description": "Programowanie strukturalne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#6E47B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-05-02T19:40:00",
+        "end": "2024-05-02T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 49/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-10-31T11:40:00",
+        "end": "2024-10-31T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 108/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "PrSt (P)",
+        "start": "2024-06-18T11:40:00",
+        "end": "2024-06-18T13:15:00",
+        "description": "Programowanie strukturalne - (Projekt) -\nRodzaj zajęć: Projekt\nNr zajęć: 3/3\nProwadzący: -",
+        "allDay": false,
+        "color": "#6E47B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-23T08:00:00",
+        "end": "2024-12-23T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 141/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-05-04T08:00:00",
+        "end": "2024-05-04T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 57/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "Wzf (Inne)",
+        "start": "2024-09-20T09:50:00",
+        "end": "2024-09-20T11:25:00",
+        "description": "Wybrane zagadnienia fizyki kwantowej  - (Zaliczenie poprawkowe.) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2479F"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-26T19:40:00",
+        "end": "2024-12-26T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 168/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "DSp (ć)",
+        "start": "2024-04-26T13:30:00",
+        "end": "2024-04-26T15:05:00",
+        "description": "Dzień sportu\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#B29F47"
+    },
+    {
+        "title": "XMass (w)",
+        "start": "2024-11-22T11:40:00",
+        "end": "2024-11-22T13:15:00",
+        "description": "XMetody analizy i syntezy sygnałów\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: prof. dr hab. inż. Andrzej Walczak",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Rspr (ć)",
+        "start": "2024-11-12T11:40:00",
+        "end": "2024-11-12T13:15:00",
+        "description": "Remote sensing principles  - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/4\nProwadzący: -",
+        "allDay": false,
+        "color": "#B28147"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-04-01T17:50:00",
+        "end": "2024-04-01T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 27/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-05-02T13:30:00",
+        "end": "2024-05-02T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 46/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "TeMi (w)",
+        "start": "2024-03-13T11:40:00",
+        "end": "2024-03-13T13:15:00",
+        "description": "Termografia mikrofalowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B278"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-07T17:50:00",
+        "end": "2025-01-07T19:25:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 37/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "TC (w)",
+        "start": "2024-04-11T11:40:00",
+        "end": "2024-04-11T13:15:00",
+        "description": "Technika cyfrowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24781"
+    },
+    {
+        "title": "DSp (ć)",
+        "start": "2024-04-26T19:40:00",
+        "end": "2024-04-26T21:15:00",
+        "description": "Dzień sportu\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#B29F47"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-29T16:00:00",
+        "end": "2024-12-29T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 187/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "Sdwel (Inne)",
+        "start": "2024-10-07T11:40:00",
+        "end": "2024-10-07T13:15:00",
+        "description": "Seminaria dyplomowe wel - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 1/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#A847B2"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-15T11:40:00",
+        "end": "2025-01-15T13:15:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 86/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-10-31T16:00:00",
+        "end": "2024-10-31T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 110/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "Piab (Inne)",
+        "start": "2024-09-20T13:30:00",
+        "end": "2024-09-20T15:05:00",
+        "description": "Pomiary i analiza biosygnałów - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 4/3\nProwadzący: -",
+        "allDay": false,
+        "color": "#B26447"
+    },
+    {
+        "title": "Eam (w)",
+        "start": "2024-03-19T13:30:00",
+        "end": "2024-03-19T15:05:00",
+        "description": "Elektroniczna aparatura medyczna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24764"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-08T19:40:00",
+        "end": "2025-01-08T21:15:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 44/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-09T09:50:00",
+        "end": "2025-01-09T11:25:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 46/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "TeAn (L)",
+        "start": "2024-03-26T09:50:00",
+        "end": "2024-03-26T11:25:00",
+        "description": "Technika analogowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B25A"
+    },
+    {
+        "title": "PRo (w)",
+        "start": "2024-03-13T13:30:00",
+        "end": "2024-03-13T15:05:00",
+        "description": "Podstawy rejestracji i przetwarzania obrazów w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#4778B2"
+    },
+    {
+        "title": "Rspr (L)",
+        "start": "2024-11-14T13:30:00",
+        "end": "2024-11-14T15:05:00",
+        "description": "Remote sensing principles  - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/3\nProwadzący: -",
+        "allDay": false,
+        "color": "#B28147"
+    },
+    {
+        "title": "PRo (w)",
+        "start": "2024-02-28T13:30:00",
+        "end": "2024-02-28T15:05:00",
+        "description": "Podstawy rejestracji i przetwarzania obrazów w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#4778B2"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2024-12-19T17:50:00",
+        "end": "2024-12-19T19:25:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 27/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "Sdwel (Inne)",
+        "start": "2024-10-24T09:50:00",
+        "end": "2024-10-24T11:25:00",
+        "description": "Seminaria dyplomowe wel - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 4/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#A847B2"
+    },
+    {
+        "title": "DSp (ć)",
+        "start": "2024-04-26T16:00:00",
+        "end": "2024-04-26T17:35:00",
+        "description": "Dzień sportu\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#B29F47"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-31T11:40:00",
+        "end": "2024-12-31T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 199/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-06-02T11:40:00",
+        "end": "2024-06-02T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 94/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "Wzf (w)",
+        "start": "2024-03-14T11:40:00",
+        "end": "2024-03-14T13:15:00",
+        "description": "Wybrane zagadnienia fizyki kwantowej  - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2479F"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-01T09:50:00",
+        "end": "2024-11-01T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 114/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-15T17:50:00",
+        "end": "2025-01-15T19:25:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 89/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-04-02T17:50:00",
+        "end": "2024-04-02T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 34/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-02T11:40:00",
+        "end": "2024-11-02T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 122/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-01T16:00:00",
+        "end": "2024-11-01T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 117/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-03-31T11:40:00",
+        "end": "2024-03-31T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 17/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-07T08:00:00",
+        "end": "2025-01-07T09:35:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 33/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-03-31T08:00:00",
+        "end": "2024-03-31T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 15/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-03T13:30:00",
+        "end": "2025-01-03T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 221/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "Eam (L)",
+        "start": "2024-05-14T11:40:00",
+        "end": "2024-05-14T13:15:00",
+        "description": "Elektroniczna aparatura medyczna - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24764"
+    },
+    {
+        "title": "TC (w)",
+        "start": "2024-04-15T11:40:00",
+        "end": "2024-04-15T13:15:00",
+        "description": "Technika cyfrowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24781"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-17T19:40:00",
+        "end": "2025-01-17T21:15:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 102/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-05-31T19:40:00",
+        "end": "2024-05-31T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 84/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "SsO (L)",
+        "start": "2024-06-03T08:00:00",
+        "end": "2024-06-03T09:35:00",
+        "description": "Sensory i systemy optoelektroniczne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/12\nProwadzący: -",
+        "allDay": false,
+        "color": "#A8B247"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-08T08:00:00",
+        "end": "2025-01-08T09:35:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 39/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-17T17:50:00",
+        "end": "2025-01-17T19:25:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 101/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-08T16:00:00",
+        "end": "2025-01-08T17:35:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 42/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-27T13:30:00",
+        "end": "2024-12-27T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 172/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-30T16:00:00",
+        "end": "2024-12-30T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 194/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-07T11:40:00",
+        "end": "2025-01-07T13:15:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 35/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-04-01T13:30:00",
+        "end": "2024-04-01T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 25/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-03-30T08:00:00",
+        "end": "2024-03-30T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 8/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "Wzf (w)",
+        "start": "2024-03-15T08:00:00",
+        "end": "2024-03-15T09:35:00",
+        "description": "Wybrane zagadnienia fizyki kwantowej  - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2479F"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-05-01T17:50:00",
+        "end": "2024-05-01T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 41/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "SsO (L)",
+        "start": "2024-05-27T09:50:00",
+        "end": "2024-05-27T11:25:00",
+        "description": "Sensory i systemy optoelektroniczne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/12\nProwadzący: -",
+        "allDay": false,
+        "color": "#A8B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-05-02T09:50:00",
+        "end": "2024-05-02T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 44/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "Wkm (L)",
+        "start": "2024-11-20T11:40:00",
+        "end": "2024-11-20T13:15:00",
+        "description": "Wizja komputerowa w medycynie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#8BB247"
+    },
+    {
+        "title": "Ult (ć)",
+        "start": "2024-12-03T09:50:00",
+        "end": "2024-12-03T11:25:00",
+        "description": "Ultrasonografia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/5\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B295"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-03-29T19:40:00",
+        "end": "2024-03-29T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 7/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-06T13:30:00",
+        "end": "2025-01-06T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 242/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-03-31T09:50:00",
+        "end": "2024-03-31T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 16/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2024-12-20T17:50:00",
+        "end": "2024-12-20T19:25:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 31/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "Wkm (Inne)",
+        "start": "2024-11-27T08:00:00",
+        "end": "2024-11-27T09:35:00",
+        "description": "Wizja komputerowa w medycynie - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 4/5\nProwadzący: -",
+        "allDay": false,
+        "color": "#8BB247"
+    },
+    {
+        "title": "PRo (L)",
+        "start": "2024-04-23T09:50:00",
+        "end": "2024-04-23T11:25:00",
+        "description": "Podstawy rejestracji i przetwarzania obrazów w medycynie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#4778B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-31T08:00:00",
+        "end": "2024-12-31T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 197/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-01T16:00:00",
+        "end": "2025-01-01T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 208/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-01T08:00:00",
+        "end": "2025-01-01T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 204/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-10-31T19:40:00",
+        "end": "2024-10-31T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 112/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "ToiS (w)",
+        "start": "2024-04-22T13:30:00",
+        "end": "2024-04-22T15:05:00",
+        "description": "Technika obliczeniowa i symulacyjna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#5147B2"
+    },
+    {
+        "title": "Sdwel (Inne)",
+        "start": "2024-10-24T08:00:00",
+        "end": "2024-10-24T09:35:00",
+        "description": "Seminaria dyplomowe wel - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 3/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#A847B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-27T09:50:00",
+        "end": "2024-12-27T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 170/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-04-02T16:00:00",
+        "end": "2024-04-02T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 33/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "Rspr (ć)",
+        "start": "2024-11-19T11:40:00",
+        "end": "2024-11-19T13:15:00",
+        "description": "Remote sensing principles  - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/4\nProwadzący: -",
+        "allDay": false,
+        "color": "#B28147"
+    },
+    {
+        "title": "Rspr (Inne)",
+        "start": "2025-01-08T09:50:00",
+        "end": "2025-01-08T11:25:00",
+        "description": "Remote sensing principles  - (Zaliczenie poprawkowe.) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B28147"
+    },
+    {
+        "title": "TC (w)",
+        "start": "2024-03-22T11:40:00",
+        "end": "2024-03-22T13:15:00",
+        "description": "Technika cyfrowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24781"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-06T11:40:00",
+        "end": "2025-01-06T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 241/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-30T11:40:00",
+        "end": "2024-12-30T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 192/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "XMass (L)",
+        "start": "2024-11-20T19:40:00",
+        "end": "2024-11-20T21:15:00",
+        "description": "XMetody analizy i syntezy sygnałów\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący: mgr inż. Piotr Bączyk",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Piab (L)",
+        "start": "2024-05-08T09:50:00",
+        "end": "2024-05-08T11:25:00",
+        "description": "Pomiary i analiza biosygnałów - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B26447"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-06T17:50:00",
+        "end": "2025-01-06T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 244/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2024-12-16T19:40:00",
+        "end": "2024-12-16T21:15:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 7/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "Rspr (w)",
+        "start": "2024-12-10T08:00:00",
+        "end": "2024-12-10T09:35:00",
+        "description": "Remote sensing principles  - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#B28147"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-04-02T09:50:00",
+        "end": "2024-04-02T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 30/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "TP (Inne)",
+        "start": "2024-04-17T09:50:00",
+        "end": "2024-04-17T11:25:00",
+        "description": "Targi pracy WAT\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Piab (L)",
+        "start": "2024-05-22T09:50:00",
+        "end": "2024-05-22T11:25:00",
+        "description": "Pomiary i analiza biosygnałów - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B26447"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-03T09:50:00",
+        "end": "2025-01-03T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 219/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-09T16:00:00",
+        "end": "2025-01-09T17:35:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 49/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "Sdwel (Inne)",
+        "start": "2024-11-14T08:00:00",
+        "end": "2024-11-14T09:35:00",
+        "description": "Seminaria dyplomowe wel - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 5/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#A847B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-01T19:40:00",
+        "end": "2025-01-01T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 210/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-06-02T09:50:00",
+        "end": "2024-06-02T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 93/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "TeAn (Inne)",
+        "start": "2024-09-16T13:30:00",
+        "end": "2024-09-16T15:05:00",
+        "description": "Technika analogowa - (Zaliczenie poprawkowe.) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B25A"
+    },
+    {
+        "title": "PRo (w)",
+        "start": "2024-06-11T16:00:00",
+        "end": "2024-06-11T17:35:00",
+        "description": "Podstawy rejestracji i przetwarzania obrazów w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#4778B2"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-11T11:40:00",
+        "end": "2025-01-11T13:15:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 58/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "Wkm (w)",
+        "start": "2024-10-15T11:40:00",
+        "end": "2024-10-15T13:15:00",
+        "description": "Wizja komputerowa w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#8BB247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-31T16:00:00",
+        "end": "2024-12-31T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 201/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-05-01T11:40:00",
+        "end": "2024-05-01T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 38/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-05T19:40:00",
+        "end": "2025-01-05T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 238/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-03-29T16:00:00",
+        "end": "2024-03-29T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 5/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "TeMi (L)",
+        "start": "2024-06-03T16:00:00",
+        "end": "2024-06-03T17:35:00",
+        "description": "Termografia mikrofalowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/4\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B278"
+    },
+    {
+        "title": "TC (L)",
+        "start": "2024-04-30T08:00:00",
+        "end": "2024-04-30T09:35:00",
+        "description": "Technika cyfrowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24781"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-11T19:40:00",
+        "end": "2024-11-11T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 140/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "SwSP (Inne)",
+        "start": "2024-03-07T13:30:00",
+        "end": "2024-03-07T15:05:00",
+        "description": "Obowiązkowe spotkanie w sprawie praktyk - (Inne) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#475AB2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-09-30T09:50:00",
+        "end": "2024-09-30T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 100/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2024-12-18T11:40:00",
+        "end": "2024-12-18T13:15:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 17/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "XMass (w)",
+        "start": "2024-10-25T11:40:00",
+        "end": "2024-10-25T13:15:00",
+        "description": "XMetody analizy i syntezy sygnałów\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: prof. dr hab. inż. Andrzej Walczak",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "SsO (w)",
+        "start": "2024-03-21T11:40:00",
+        "end": "2024-03-21T13:15:00",
+        "description": "Sensory i systemy optoelektroniczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#A8B247"
+    },
+    {
+        "title": "TeMi (w)",
+        "start": "2024-02-28T11:40:00",
+        "end": "2024-02-28T13:15:00",
+        "description": "Termografia mikrofalowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B278"
+    },
+    {
+        "title": "Wkm (w)",
+        "start": "2024-10-08T11:40:00",
+        "end": "2024-10-08T13:15:00",
+        "description": "Wizja komputerowa w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#8BB247"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-07T16:00:00",
+        "end": "2025-01-07T17:35:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 36/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "Piab (w)",
+        "start": "2024-03-08T13:30:00",
+        "end": "2024-03-08T15:05:00",
+        "description": "Pomiary i analiza biosygnałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B26447"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-24T16:00:00",
+        "end": "2024-12-24T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 152/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "Eam (L)",
+        "start": "2024-05-15T11:40:00",
+        "end": "2024-05-15T13:15:00",
+        "description": "Elektroniczna aparatura medyczna - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24764"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-05-04T17:50:00",
+        "end": "2024-05-04T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 62/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-24T17:50:00",
+        "end": "2024-12-24T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 153/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "TeAn (L)",
+        "start": "2024-04-22T08:00:00",
+        "end": "2024-04-22T09:35:00",
+        "description": "Technika analogowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B25A"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-29T08:00:00",
+        "end": "2024-12-29T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 183/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-31T19:40:00",
+        "end": "2024-12-31T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 203/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "Piab (Inne)",
+        "start": "2024-06-14T11:40:00",
+        "end": "2024-06-14T13:15:00",
+        "description": "Pomiary i analiza biosygnałów - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 2/3\nProwadzący: -",
+        "allDay": false,
+        "color": "#B26447"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-25T19:40:00",
+        "end": "2024-12-25T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 161/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-05-03T13:30:00",
+        "end": "2024-05-03T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 53/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "PrSt (L)",
+        "start": "2024-05-27T11:40:00",
+        "end": "2024-05-27T13:15:00",
+        "description": "Programowanie strukturalne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#6E47B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-03-29T17:50:00",
+        "end": "2024-03-29T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 6/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "XMass (E)",
+        "start": "2024-12-20T11:40:00",
+        "end": "2024-12-20T13:15:00",
+        "description": "XMetody analizy i syntezy sygnałów\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: prof. dr hab. inż. Andrzej Walczak",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-13T17:50:00",
+        "end": "2025-01-13T19:25:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 75/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-14T09:50:00",
+        "end": "2025-01-14T11:25:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 78/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "ToiS (w)",
+        "start": "2024-04-12T13:30:00",
+        "end": "2024-04-12T15:05:00",
+        "description": "Technika obliczeniowa i symulacyjna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#5147B2"
+    },
+    {
+        "title": "TeMi (ć)",
+        "start": "2024-04-18T11:40:00",
+        "end": "2024-04-18T13:15:00",
+        "description": "Termografia mikrofalowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/3\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B278"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-13T08:00:00",
+        "end": "2025-01-13T09:35:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 70/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-03-31T17:50:00",
+        "end": "2024-03-31T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 20/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "Ult (Inne)",
+        "start": "2025-01-07T13:30:00",
+        "end": "2025-01-07T15:05:00",
+        "description": "Ultrasonografia - (Zaliczenie poprawkowe.) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B295"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-13T09:50:00",
+        "end": "2025-01-13T11:25:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 71/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-27T11:40:00",
+        "end": "2024-12-27T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 171/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-31T13:30:00",
+        "end": "2024-12-31T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 200/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "ToiS (L)",
+        "start": "2024-06-05T13:30:00",
+        "end": "2024-06-05T15:05:00",
+        "description": "Technika obliczeniowa i symulacyjna - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#5147B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-24T11:40:00",
+        "end": "2024-12-24T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 150/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "Wkm (Inne)",
+        "start": "2025-01-10T09:50:00",
+        "end": "2025-01-10T11:25:00",
+        "description": "Wizja komputerowa w medycynie - (Zaliczenie poprawkowe.) -\nRodzaj zajęć:  - \nNr zajęć: 6/5\nProwadzący: -",
+        "allDay": false,
+        "color": "#8BB247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-31T09:50:00",
+        "end": "2024-12-31T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 198/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-10-31T08:00:00",
+        "end": "2024-10-31T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 106/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-05-05T16:00:00",
+        "end": "2024-05-05T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 68/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-05-01T16:00:00",
+        "end": "2024-05-01T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 40/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "PrSt (w)",
+        "start": "2024-03-26T16:00:00",
+        "end": "2024-03-26T17:35:00",
+        "description": "Programowanie strukturalne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#6E47B2"
+    },
+    {
+        "title": "Wzf (ć)",
+        "start": "2024-04-23T11:40:00",
+        "end": "2024-04-23T13:15:00",
+        "description": "Wybrane zagadnienia fizyki kwantowej  - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2479F"
+    },
+    {
+        "title": "TeMi (ć)",
+        "start": "2024-05-20T13:30:00",
+        "end": "2024-05-20T15:05:00",
+        "description": "Termografia mikrofalowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/3\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B278"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-02T19:40:00",
+        "end": "2025-01-02T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 217/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "XMass (Inne)",
+        "start": "2024-12-19T19:40:00",
+        "end": "2024-12-19T21:15:00",
+        "description": "XMetody analizy i syntezy sygnałów\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr inż. Piotr Bączyk",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-11T08:00:00",
+        "end": "2025-01-11T09:35:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 56/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2024-12-18T17:50:00",
+        "end": "2024-12-18T19:25:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 20/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-05-31T09:50:00",
+        "end": "2024-05-31T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 79/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2024-12-17T13:30:00",
+        "end": "2024-12-17T15:05:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 11/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-04-01T19:40:00",
+        "end": "2024-04-01T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 28/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2024-12-19T08:00:00",
+        "end": "2024-12-19T09:35:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 22/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "Rspr (L)",
+        "start": "2024-11-14T11:40:00",
+        "end": "2024-11-14T13:15:00",
+        "description": "Remote sensing principles  - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/3\nProwadzący: -",
+        "allDay": false,
+        "color": "#B28147"
+    },
+    {
+        "title": "Ult (w)",
+        "start": "2024-11-05T08:00:00",
+        "end": "2024-11-05T09:35:00",
+        "description": "Ultrasonografia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B295"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-03-30T09:50:00",
+        "end": "2024-03-30T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 9/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "Wkm (Inne)",
+        "start": "2024-11-27T09:50:00",
+        "end": "2024-11-27T11:25:00",
+        "description": "Wizja komputerowa w medycynie - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 5/5\nProwadzący: -",
+        "allDay": false,
+        "color": "#8BB247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-28T16:00:00",
+        "end": "2024-12-28T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 180/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-05-02T11:40:00",
+        "end": "2024-05-02T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 45/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-01T08:00:00",
+        "end": "2024-11-01T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 113/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "TeAn (w)",
+        "start": "2024-02-28T09:50:00",
+        "end": "2024-02-28T11:25:00",
+        "description": "Technika analogowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B25A"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-15T19:40:00",
+        "end": "2025-01-15T21:15:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 90/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "Eam (L)",
+        "start": "2024-05-15T13:30:00",
+        "end": "2024-05-15T15:05:00",
+        "description": "Elektroniczna aparatura medyczna - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24764"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-02T16:00:00",
+        "end": "2024-11-02T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 124/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "PrSt (w)",
+        "start": "2024-03-05T16:00:00",
+        "end": "2024-03-05T17:35:00",
+        "description": "Programowanie strukturalne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#6E47B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-09-30T11:40:00",
+        "end": "2024-09-30T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 101/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2024-12-16T13:30:00",
+        "end": "2024-12-16T15:05:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 4/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "Wkm (w)",
+        "start": "2024-10-01T11:40:00",
+        "end": "2024-10-01T13:15:00",
+        "description": "Wizja komputerowa w medycynie - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#8BB247"
+    },
+    {
+        "title": "SsO (L)",
+        "start": "2024-05-27T08:00:00",
+        "end": "2024-05-27T09:35:00",
+        "description": "Sensory i systemy optoelektroniczne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/12\nProwadzący: -",
+        "allDay": false,
+        "color": "#A8B247"
+    },
+    {
+        "title": "Ult (w)",
+        "start": "2024-11-19T08:00:00",
+        "end": "2024-11-19T09:35:00",
+        "description": "Ultrasonografia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B295"
+    },
+    {
+        "title": "Wzf (ć)",
+        "start": "2024-04-19T09:50:00",
+        "end": "2024-04-19T11:25:00",
+        "description": "Wybrane zagadnienia fizyki kwantowej  - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2479F"
+    },
+    {
+        "title": "Eam (Inne)",
+        "start": "2024-09-16T09:50:00",
+        "end": "2024-09-16T11:25:00",
+        "description": "Elektroniczna aparatura medyczna - (Egzamin poprawkowy) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24764"
+    },
+    {
+        "title": "TC (L)",
+        "start": "2024-05-28T08:00:00",
+        "end": "2024-05-28T09:35:00",
+        "description": "Technika cyfrowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24781"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-06T08:00:00",
+        "end": "2025-01-06T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 239/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "Rspr (L)",
+        "start": "2024-11-07T08:00:00",
+        "end": "2024-11-07T09:35:00",
+        "description": "Remote sensing principles  - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/3\nProwadzący: -",
+        "allDay": false,
+        "color": "#B28147"
+    },
+    {
+        "title": "PRo (L)",
+        "start": "2024-05-07T09:50:00",
+        "end": "2024-05-07T11:25:00",
+        "description": "Podstawy rejestracji i przetwarzania obrazów w medycynie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#4778B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-03T16:00:00",
+        "end": "2024-11-03T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 131/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "Eam (ć)",
+        "start": "2024-04-16T11:40:00",
+        "end": "2024-04-16T13:15:00",
+        "description": "Elektroniczna aparatura medyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/3\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24764"
+    },
+    {
+        "title": "Wzf (ć)",
+        "start": "2024-06-11T11:40:00",
+        "end": "2024-06-11T13:15:00",
+        "description": "Wybrane zagadnienia fizyki kwantowej  - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2479F"
+    },
+    {
+        "title": "Rspr (w)",
+        "start": "2024-11-19T09:50:00",
+        "end": "2024-11-19T11:25:00",
+        "description": "Remote sensing principles  - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#B28147"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-05-04T13:30:00",
+        "end": "2024-05-04T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 60/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-25T16:00:00",
+        "end": "2024-12-25T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 159/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-05-05T08:00:00",
+        "end": "2024-05-05T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 64/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-10T19:40:00",
+        "end": "2025-01-10T21:15:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 55/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "Wzf (ć)",
+        "start": "2024-06-07T08:00:00",
+        "end": "2024-06-07T09:35:00",
+        "description": "Wybrane zagadnienia fizyki kwantowej  - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2479F"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-25T13:30:00",
+        "end": "2024-12-25T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 158/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "Eam (w)",
+        "start": "2024-03-05T13:30:00",
+        "end": "2024-03-05T15:05:00",
+        "description": "Elektroniczna aparatura medyczna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24764"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-04-02T19:40:00",
+        "end": "2024-04-02T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 35/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "Rspr (w)",
+        "start": "2024-10-15T09:50:00",
+        "end": "2024-10-15T11:25:00",
+        "description": "Remote sensing principles  - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#B28147"
+    },
+    {
+        "title": "SsO (ć)",
+        "start": "2024-04-18T09:50:00",
+        "end": "2024-04-18T11:25:00",
+        "description": "Sensory i systemy optoelektroniczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący: -",
+        "allDay": false,
+        "color": "#A8B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-01T17:50:00",
+        "end": "2024-11-01T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 118/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "PrSt (L)",
+        "start": "2024-04-24T09:50:00",
+        "end": "2024-04-24T11:25:00",
+        "description": "Programowanie strukturalne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#6E47B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-03T11:40:00",
+        "end": "2024-11-03T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 129/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "Piab (w)",
+        "start": "2024-03-27T08:00:00",
+        "end": "2024-03-27T09:35:00",
+        "description": "Pomiary i analiza biosygnałów - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B26447"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-06-01T17:50:00",
+        "end": "2024-06-01T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 90/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "TC (L)",
+        "start": "2024-05-14T08:00:00",
+        "end": "2024-05-14T09:35:00",
+        "description": "Technika cyfrowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24781"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-01T11:40:00",
+        "end": "2025-01-01T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 206/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "Ult (w)",
+        "start": "2024-11-26T08:00:00",
+        "end": "2024-11-26T09:35:00",
+        "description": "Ultrasonografia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 9/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B295"
+    },
+    {
+        "title": "TeAn (w)",
+        "start": "2024-04-05T09:50:00",
+        "end": "2024-04-05T11:25:00",
+        "description": "Technika analogowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B25A"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-05-30T19:40:00",
+        "end": "2024-05-30T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 77/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-01T09:50:00",
+        "end": "2025-01-01T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 205/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "Sdwel (Inne)",
+        "start": "2024-12-11T09:50:00",
+        "end": "2024-12-11T11:25:00",
+        "description": "Seminaria dyplomowe wel - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 9/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#A847B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-06-01T11:40:00",
+        "end": "2024-06-01T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 87/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-16T13:30:00",
+        "end": "2025-01-16T15:05:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 92/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "TeMi (Inne)",
+        "start": "2024-09-18T11:40:00",
+        "end": "2024-09-18T13:15:00",
+        "description": "Termografia mikrofalowa - (Zaliczenie poprawkowe.) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B278"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-09T08:00:00",
+        "end": "2025-01-09T09:35:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 45/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "PrSt (Inne)",
+        "start": "2024-09-17T08:00:00",
+        "end": "2024-09-17T09:35:00",
+        "description": "Programowanie strukturalne - (Zaliczenie poprawkowe.) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#6E47B2"
+    },
+    {
+        "title": "ToiS (w)",
+        "start": "2024-04-15T13:30:00",
+        "end": "2024-04-15T15:05:00",
+        "description": "Technika obliczeniowa i symulacyjna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#5147B2"
+    },
+    {
+        "title": "TeAn (w)",
+        "start": "2024-03-27T13:30:00",
+        "end": "2024-03-27T15:05:00",
+        "description": "Technika analogowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B25A"
+    },
+    {
+        "title": "SsO (w)",
+        "start": "2024-03-21T09:50:00",
+        "end": "2024-03-21T11:25:00",
+        "description": "Sensory i systemy optoelektroniczne - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#A8B247"
+    },
+    {
+        "title": "Sdwel (Inne)",
+        "start": "2024-12-11T11:40:00",
+        "end": "2024-12-11T13:15:00",
+        "description": "Seminaria dyplomowe wel - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 10/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#A847B2"
+    },
+    {
+        "title": "S.OP (Inne)",
+        "start": "2024-03-14T16:00:00",
+        "end": "2024-03-14T17:35:00",
+        "description": "Spotkanie z opiekunami praktyk - (Inne) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#8B47B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-03-29T13:30:00",
+        "end": "2024-03-29T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 4/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-27T19:40:00",
+        "end": "2024-12-27T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 175/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "PrSt (L)",
+        "start": "2024-04-05T13:30:00",
+        "end": "2024-04-05T15:05:00",
+        "description": "Programowanie strukturalne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#6E47B2"
+    },
+    {
+        "title": "SsO (L)",
+        "start": "2024-05-06T13:30:00",
+        "end": "2024-05-06T15:05:00",
+        "description": "Sensory i systemy optoelektroniczne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/12\nProwadzący: -",
+        "allDay": false,
+        "color": "#A8B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-04T19:40:00",
+        "end": "2025-01-04T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 231/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "Sdwel (Inne)",
+        "start": "2024-11-28T08:00:00",
+        "end": "2024-11-28T09:35:00",
+        "description": "Seminaria dyplomowe wel - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 7/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#A847B2"
+    },
+    {
+        "title": "Eam (ć)",
+        "start": "2024-04-10T09:50:00",
+        "end": "2024-04-10T11:25:00",
+        "description": "Elektroniczna aparatura medyczna - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/3\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24764"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-17T11:40:00",
+        "end": "2025-01-17T13:15:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 98/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2024-12-20T13:30:00",
+        "end": "2024-12-20T15:05:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 29/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-05-03T11:40:00",
+        "end": "2024-05-03T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 52/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-03-30T16:00:00",
+        "end": "2024-03-30T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 12/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-01T13:30:00",
+        "end": "2024-11-01T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 116/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-30T13:30:00",
+        "end": "2024-12-30T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 193/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-24T19:40:00",
+        "end": "2024-12-24T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 154/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-23T09:50:00",
+        "end": "2024-12-23T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 142/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-15T08:00:00",
+        "end": "2025-01-15T09:35:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 84/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "TeAn (w)",
+        "start": "2024-03-01T08:00:00",
+        "end": "2024-03-01T09:35:00",
+        "description": "Technika analogowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B25A"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-16T19:40:00",
+        "end": "2025-01-16T21:15:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 95/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-24T09:50:00",
+        "end": "2024-12-24T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 149/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-05-04T09:50:00",
+        "end": "2024-05-04T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 58/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "TeMi (L)",
+        "start": "2024-05-10T11:40:00",
+        "end": "2024-05-10T13:15:00",
+        "description": "Termografia mikrofalowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/4\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B278"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-09T13:30:00",
+        "end": "2025-01-09T15:05:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 48/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "TC (L)",
+        "start": "2024-06-11T09:50:00",
+        "end": "2024-06-11T11:25:00",
+        "description": "Technika cyfrowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24781"
+    },
+    {
+        "title": "Piab (L)",
+        "start": "2024-06-03T11:40:00",
+        "end": "2024-06-03T13:15:00",
+        "description": "Pomiary i analiza biosygnałów - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B26447"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-07T19:40:00",
+        "end": "2025-01-07T21:15:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 38/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "Wkm (ć)",
+        "start": "2024-11-06T08:00:00",
+        "end": "2024-11-06T09:35:00",
+        "description": "Wizja komputerowa w medycynie - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/3\nProwadzący: -",
+        "allDay": false,
+        "color": "#8BB247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-05-31T11:40:00",
+        "end": "2024-05-31T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 80/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-04T16:00:00",
+        "end": "2025-01-04T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 229/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "ToiS (w)",
+        "start": "2024-05-06T09:50:00",
+        "end": "2024-05-06T11:25:00",
+        "description": "Technika obliczeniowa i symulacyjna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#5147B2"
+    },
+    {
+        "title": "TeAn (L)",
+        "start": "2024-06-10T13:30:00",
+        "end": "2024-06-10T15:05:00",
+        "description": "Technika analogowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B25A"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-07T09:50:00",
+        "end": "2025-01-07T11:25:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 34/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-02T16:00:00",
+        "end": "2025-01-02T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 215/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "Wzf (ć)",
+        "start": "2024-05-10T08:00:00",
+        "end": "2024-05-10T09:35:00",
+        "description": "Wybrane zagadnienia fizyki kwantowej  - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2479F"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-05T08:00:00",
+        "end": "2025-01-05T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 232/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-05-02T08:00:00",
+        "end": "2024-05-02T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 43/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-26T16:00:00",
+        "end": "2024-12-26T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 166/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-04T11:40:00",
+        "end": "2025-01-04T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 227/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "PrSt (L)",
+        "start": "2024-06-21T08:00:00",
+        "end": "2024-06-21T09:35:00",
+        "description": "Programowanie strukturalne - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 12/13\nProwadzący: -",
+        "allDay": false,
+        "color": "#6E47B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-23T16:00:00",
+        "end": "2024-12-23T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 145/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-10-31T17:50:00",
+        "end": "2024-10-31T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 111/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "Ult (w)",
+        "start": "2024-10-15T08:00:00",
+        "end": "2024-10-15T09:35:00",
+        "description": "Ultrasonografia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/10\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B295"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-11T16:00:00",
+        "end": "2025-01-11T17:35:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 60/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-31T17:50:00",
+        "end": "2024-12-31T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 202/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "PRo (L)",
+        "start": "2024-05-07T08:00:00",
+        "end": "2024-05-07T09:35:00",
+        "description": "Podstawy rejestracji i przetwarzania obrazów w medycynie - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#4778B2"
+    },
+    {
+        "title": "Eam (w)",
+        "start": "2024-02-27T13:30:00",
+        "end": "2024-02-27T15:05:00",
+        "description": "Elektroniczna aparatura medyczna - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24764"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-01T11:40:00",
+        "end": "2024-11-01T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 115/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-05-31T13:30:00",
+        "end": "2024-05-31T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 81/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "TeMi (L)",
+        "start": "2024-05-10T13:30:00",
+        "end": "2024-05-10T15:05:00",
+        "description": "Termografia mikrofalowa - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/4\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B278"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-03T11:40:00",
+        "end": "2025-01-03T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 220/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "TP (Inne)",
+        "start": "2024-04-17T11:40:00",
+        "end": "2024-04-17T13:15:00",
+        "description": "Targi pracy WAT\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-17T09:50:00",
+        "end": "2025-01-17T11:25:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 97/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-01T13:30:00",
+        "end": "2025-01-01T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 207/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-01T17:50:00",
+        "end": "2025-01-01T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 209/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-29T19:40:00",
+        "end": "2024-12-29T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 189/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-05-02T17:50:00",
+        "end": "2024-05-02T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 48/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-17T08:00:00",
+        "end": "2025-01-17T09:35:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 96/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-03-30T11:40:00",
+        "end": "2024-03-30T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 10/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-28T08:00:00",
+        "end": "2024-12-28T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 176/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-11T09:50:00",
+        "end": "2024-11-11T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 135/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "S (Inne)",
+        "start": "2025-01-12T16:00:00",
+        "end": "2025-01-12T17:35:00",
+        "description": "Sesja\nRodzaj zajęć:  - \nNr zajęć: 67/44\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    }
+]

@@ -2,7 +2,22 @@ section.how-it-works1 {
     position: relative;
     min-height: 100vh;
     z-index: -3;
-    background-image: linear-gradient( 180deg, hsl(143deg 58% 23%) 0%, hsl(139deg 39% 30%) 4%, hsl(137deg 28% 36%) 7%, hsl(136deg 22% 43%) 11%, hsl(134deg 17% 49%) 14%, hsl(134deg 16% 55%) 18%, hsl(133deg 16% 61%) 22%, hsl(132deg 16% 68%) 27%, hsl(132deg 16% 74%) 32%, hsl(132deg 16% 80%) 40%, hsl(131deg 16% 87%) 53%, hsl(131deg 17% 93%) 73%, hsl(0deg 0% 100%) 100% );
+    background-image: linear-gradient(
+        0deg,
+        hsl(0deg 0% 100%) 13%,
+        hsl(143deg 10% 96%) 49%,
+        hsl(143deg 10% 92%) 62%,
+        hsl(143deg 10% 88%) 72%,
+        hsl(143deg 10% 84%) 78%,
+        hsl(144deg 11% 79%) 83%,
+        hsl(144deg 11% 74%) 87%,
+        hsl(144deg 12% 69%) 90%,
+        hsl(144deg 12% 64%) 93%,
+        hsl(145deg 13% 57%) 95%,
+        hsl(145deg 14% 50%) 96%,
+        hsl(146deg 22% 42%) 98%,
+        hsl(150deg 48% 30%) 99%
+        );
     color: #111;
 }
 
@@ -45,4 +60,42 @@ section.how-it-works1 .footer span {
     letter-spacing: 0px;
     white-space: nowrap;
     font-weight: 600;
+}
+
+.wave3 {
+    position: absolute;
+    top: -40px;
+    left: -50px;
+    width: 110vw;
+    height: auto;
+    z-index: 0;
+    pointer-events: none;
+    filter: blur(30px);
+    mask-image: linear-gradient(to top, transparent 0%, black 30%, black 100%);
+    -webkit-mask-image: linear-gradient(to top, transparent 0%, black 30%, black 100%);
+}
+
+.bar2 {
+    position: absolute;
+    pointer-events: none;
+    top: -30px;
+    left: 0px;
+    width: 110vw;
+    height: auto;
+    z-index: 1;
+    filter: blur(40px);
+    mask-image: linear-gradient(to top, transparent 0%, black 30%, black 100%);
+    -webkit-mask-image: linear-gradient(to top, transparent 0%, black 30%, black 100%);
+}
+
+.wave6 {
+    position: absolute;
+    bottom: 0;
+    width: 100vw;
+    height: 350px;
+    mask-image: linear-gradient(to bottom, transparent 0%, black 70%, black 100%);
+    -webkit-mask-image: linear-gradient(to bottom, transparent 0%, black 70%, black 100%);
+    transform: translateY(0px);
+    z-index: -2;
+    filter: blur(20px);
 }

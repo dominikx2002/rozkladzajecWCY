@@ -1,0 +1,2330 @@
+[
+    {
+        "title": "AM (L)",
+        "start": "2025-05-25T16:00:00",
+        "end": "2025-05-25T17:35:00",
+        "description": "Aplikacje mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący: mgr inż. Tomasz Derski",
+        "allDay": false,
+        "color": "#8B47B2"
+    },
+    {
+        "title": "Gk (Inne)",
+        "start": "2025-02-15T08:00:00",
+        "end": "2025-02-15T09:35:00",
+        "description": "Grafika komputerowa\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Marek Salamon",
+        "allDay": false,
+        "color": "#47B278"
+    },
+    {
+        "title": "Wdis (L)",
+        "start": "2025-01-26T19:40:00",
+        "end": "2025-01-26T21:15:00",
+        "description": "Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#B28147"
+    },
+    {
+        "title": "Wdis (L)",
+        "start": "2024-12-21T17:50:00",
+        "end": "2024-12-21T19:25:00",
+        "description": "Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#B28147"
+    },
+    {
+        "title": "SQL (L)",
+        "start": "2025-03-23T11:40:00",
+        "end": "2025-03-23T13:15:00",
+        "description": "Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/3\nProwadzący: dr inż. Jarosław Koszela",
+        "allDay": false,
+        "color": "#47B25A"
+    },
+    {
+        "title": "Hd (w)",
+        "start": "2024-11-09T09:50:00",
+        "end": "2024-11-09T11:25:00",
+        "description": "Hurtownie danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr inż. Stefan Rozmus",
+        "allDay": false,
+        "color": "#6E47B2"
+    },
+    {
+        "title": "Jtp (L)",
+        "start": "2025-03-30T09:50:00",
+        "end": "2025-03-30T11:25:00",
+        "description": "Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/7\nProwadzący: mgr inż. Piotr Adamczyk",
+        "allDay": false,
+        "color": "#B29F47"
+    },
+    {
+        "title": "PZ (P)",
+        "start": "2025-03-02T13:30:00",
+        "end": "2025-03-02T15:05:00",
+        "description": "Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 2/15\nProwadzący: mgr inż. Jarosław Napiórkowski",
+        "allDay": false,
+        "color": "#A8B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-31T11:40:00",
+        "end": "2025-05-31T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 52/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-04T16:00:00",
+        "end": "2025-05-04T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 33/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-17T08:00:00",
+        "end": "2025-05-17T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 36/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "BPiE (w)",
+        "start": "2024-12-07T09:50:00",
+        "end": "2024-12-07T11:25:00",
+        "description": "Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: mgr inż. Leszek Kalman",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "AM (w)",
+        "start": "2025-03-23T13:30:00",
+        "end": "2025-03-23T15:05:00",
+        "description": "Aplikacje mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr inż. Mariusz Chmielewski",
+        "allDay": false,
+        "color": "#8B47B2"
+    },
+    {
+        "title": "PSy (L)",
+        "start": "2025-01-19T09:50:00",
+        "end": "2025-01-19T11:25:00",
+        "description": "Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: dr inż. Dariusz Pierzchała",
+        "allDay": false,
+        "color": "#B2479F"
+    },
+    {
+        "title": "PZiP (w)",
+        "start": "2024-12-01T13:30:00",
+        "end": "2024-12-01T15:05:00",
+        "description": "Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#4778B2"
+    },
+    {
+        "title": "Med (L)",
+        "start": "2024-11-09T17:50:00",
+        "end": "2024-11-09T19:25:00",
+        "description": "Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący: dr inż. Romuald Hoffmann",
+        "allDay": false,
+        "color": "#A847B2"
+    },
+    {
+        "title": "PZ (P)",
+        "start": "2025-05-11T13:30:00",
+        "end": "2025-05-11T15:05:00",
+        "description": "Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 11/15\nProwadzący: mgr inż. Jarosław Napiórkowski",
+        "allDay": false,
+        "color": "#A8B247"
+    },
+    {
+        "title": "PZ (P)",
+        "start": "2025-04-12T13:30:00",
+        "end": "2025-04-12T15:05:00",
+        "description": "Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 7/15\nProwadzący: mgr inż. Jarosław Napiórkowski",
+        "allDay": false,
+        "color": "#A8B247"
+    },
+    {
+        "title": "Gk (w)",
+        "start": "2024-10-19T11:40:00",
+        "end": "2024-10-19T13:15:00",
+        "description": "Grafika komputerowa\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Marek Salamon",
+        "allDay": false,
+        "color": "#47B278"
+    },
+    {
+        "title": "SQL (w)",
+        "start": "2025-03-08T17:50:00",
+        "end": "2025-03-08T19:25:00",
+        "description": "Bazy danych NoSQL\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr inż. Jarosław Koszela",
+        "allDay": false,
+        "color": "#47B25A"
+    },
+    {
+        "title": "AM (L)",
+        "start": "2025-05-25T19:40:00",
+        "end": "2025-05-25T21:15:00",
+        "description": "Aplikacje mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: mgr inż. Tomasz Derski",
+        "allDay": false,
+        "color": "#8B47B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-05T16:00:00",
+        "end": "2025-04-05T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 19/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "SQL (L)",
+        "start": "2025-06-08T13:30:00",
+        "end": "2025-06-08T15:05:00",
+        "description": "Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/3\nProwadzący:  Arkadiusz Orzeł",
+        "allDay": false,
+        "color": "#47B25A"
+    },
+    {
+        "title": "AM (w)",
+        "start": "2025-03-23T16:00:00",
+        "end": "2025-03-23T17:35:00",
+        "description": "Aplikacje mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Mariusz Chmielewski",
+        "allDay": false,
+        "color": "#8B47B2"
+    },
+    {
+        "title": "PBI (w)",
+        "start": "2024-10-19T09:50:00",
+        "end": "2024-10-19T11:25:00",
+        "description": "Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Krzysztof Liderman",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "kck (L)",
+        "start": "2025-03-22T11:40:00",
+        "end": "2025-03-22T13:15:00",
+        "description": "Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący: mgr Jerzy Dorobisz",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-31T16:00:00",
+        "end": "2025-05-31T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 54/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Gk (w)",
+        "start": "2024-10-05T08:00:00",
+        "end": "2024-10-05T09:35:00",
+        "description": "Grafika komputerowa\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr inż. Marek Salamon",
+        "allDay": false,
+        "color": "#47B278"
+    },
+    {
+        "title": "PZiP (ć)",
+        "start": "2025-01-19T13:30:00",
+        "end": "2025-01-19T15:05:00",
+        "description": "Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący: -",
+        "allDay": false,
+        "color": "#4778B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-05T19:40:00",
+        "end": "2025-04-05T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 21/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Nsk (ć)",
+        "start": "2025-01-12T08:00:00",
+        "end": "2025-01-12T09:35:00",
+        "description": "Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/5\nProwadzący: dr hab. inż. Tadeusz Nowicki",
+        "allDay": false,
+        "color": "#47B295"
+    },
+    {
+        "title": "Sn (L)",
+        "start": "2025-05-25T11:40:00",
+        "end": "2025-05-25T13:15:00",
+        "description": "Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący: mgr inż. Przemysław Czuba",
+        "allDay": false,
+        "color": "#B24764"
+    },
+    {
+        "title": "Gk (L)",
+        "start": "2024-11-23T16:00:00",
+        "end": "2024-11-23T17:35:00",
+        "description": "Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: dr inż. Marek Salamon",
+        "allDay": false,
+        "color": "#47B278"
+    },
+    {
+        "title": "PWSI (P)",
+        "start": "2025-05-10T19:40:00",
+        "end": "2025-05-10T21:15:00",
+        "description": "Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 4/10\nProwadzący: mgr inż. Tomasz Gumowski",
+        "allDay": false,
+        "color": "#B26447"
+    },
+    {
+        "title": "kck (w)",
+        "start": "2025-03-22T09:50:00",
+        "end": "2025-03-22T11:25:00",
+        "description": "Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr inż. Tomasz Pałys",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "Mipb (L)",
+        "start": "2024-11-30T09:50:00",
+        "end": "2024-11-30T11:25:00",
+        "description": "Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: dr inż. Robert Waszkowski",
+        "allDay": false,
+        "color": "#475AB2"
+    },
+    {
+        "title": "Psy (w)",
+        "start": "2024-10-06T09:50:00",
+        "end": "2024-10-06T11:25:00",
+        "description": "Psychologia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#5147B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-18T09:50:00",
+        "end": "2025-05-18T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 44/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-05T13:30:00",
+        "end": "2025-04-05T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 18/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Jtp (L)",
+        "start": "2025-03-30T11:40:00",
+        "end": "2025-03-30T13:15:00",
+        "description": "Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/7\nProwadzący: mgr inż. Piotr Adamczyk",
+        "allDay": false,
+        "color": "#B29F47"
+    },
+    {
+        "title": "PZ (P)",
+        "start": "2025-04-27T09:50:00",
+        "end": "2025-04-27T11:25:00",
+        "description": "Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 10/15\nProwadzący: mgr inż. Jarosław Napiórkowski",
+        "allDay": false,
+        "color": "#A8B247"
+    },
+    {
+        "title": "Nsk (Inne)",
+        "start": "2025-02-15T16:00:00",
+        "end": "2025-02-15T17:35:00",
+        "description": "Niezawodność systemów komputerowych\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr hab. inż. Tadeusz Nowicki",
+        "allDay": false,
+        "color": "#47B295"
+    },
+    {
+        "title": "kck (w)",
+        "start": "2025-03-08T09:50:00",
+        "end": "2025-03-08T11:25:00",
+        "description": "Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Tomasz Pałys",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "Med (w)",
+        "start": "2024-10-06T17:50:00",
+        "end": "2024-10-06T19:25:00",
+        "description": "Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: dr inż. Romuald Hoffmann",
+        "allDay": false,
+        "color": "#A847B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-18T19:40:00",
+        "end": "2025-05-18T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 49/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Sp (Inne)",
+        "start": "2025-03-09T17:50:00",
+        "end": "2025-03-09T19:25:00",
+        "description": "Seminarium przeddyplomowe\nRodzaj zajęć:  - \nNr zajęć: 1/5\nProwadzący: dr inż. Wiesław Barcikowski",
+        "allDay": false,
+        "color": "#B24781"
+    },
+    {
+        "title": "PSy (Inne)",
+        "start": "2025-02-15T13:30:00",
+        "end": "2025-02-15T15:05:00",
+        "description": "Podstawy symulacji\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Dariusz Pierzchała",
+        "allDay": false,
+        "color": "#B2479F"
+    },
+    {
+        "title": "PZ (P)",
+        "start": "2025-03-30T13:30:00",
+        "end": "2025-03-30T15:05:00",
+        "description": "Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 5/15\nProwadzący: mgr inż. Jarosław Napiórkowski",
+        "allDay": false,
+        "color": "#A8B247"
+    },
+    {
+        "title": "Mipb (L)",
+        "start": "2024-12-08T16:00:00",
+        "end": "2024-12-08T17:35:00",
+        "description": "Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący: dr inż. Robert Waszkowski",
+        "allDay": false,
+        "color": "#475AB2"
+    },
+    {
+        "title": "PSy (w)",
+        "start": "2024-12-01T08:00:00",
+        "end": "2024-12-01T09:35:00",
+        "description": "Podstawy symulacji\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący: dr inż. Dariusz Pierzchała",
+        "allDay": false,
+        "color": "#B2479F"
+    },
+    {
+        "title": "Pjf (L)",
+        "start": "2024-11-24T17:50:00",
+        "end": "2024-11-24T19:25:00",
+        "description": "Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: mgr inż. Piotr Adamczyk",
+        "allDay": false,
+        "color": "#6EB247"
+    },
+    {
+        "title": "Med (E)",
+        "start": "2025-02-01T08:00:00",
+        "end": "2025-02-01T09:35:00",
+        "description": "Metody eksploracji danych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Romuald Hoffmann",
+        "allDay": false,
+        "color": "#A847B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-06-01T11:40:00",
+        "end": "2025-06-01T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 59/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Gk (w)",
+        "start": "2024-10-19T13:30:00",
+        "end": "2024-10-19T15:05:00",
+        "description": "Grafika komputerowa\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr inż. Marek Salamon",
+        "allDay": false,
+        "color": "#47B278"
+    },
+    {
+        "title": "Jtp (w)",
+        "start": "2025-04-26T13:30:00",
+        "end": "2025-04-26T15:05:00",
+        "description": "Języki i techniki programowania\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący: dr hab. Piotr Kosiuczenko",
+        "allDay": false,
+        "color": "#B29F47"
+    },
+    {
+        "title": "Sn (w)",
+        "start": "2025-03-09T11:40:00",
+        "end": "2025-03-09T13:15:00",
+        "description": "Sieci neuronowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24764"
+    },
+    {
+        "title": "PSy (L)",
+        "start": "2025-01-19T08:00:00",
+        "end": "2025-01-19T09:35:00",
+        "description": "Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący: dr inż. Dariusz Pierzchała",
+        "allDay": false,
+        "color": "#B2479F"
+    },
+    {
+        "title": "PSy (L)",
+        "start": "2025-01-11T13:30:00",
+        "end": "2025-01-11T15:05:00",
+        "description": "Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: dr inż. Dariusz Pierzchała",
+        "allDay": false,
+        "color": "#B2479F"
+    },
+    {
+        "title": "PZ (P)",
+        "start": "2025-04-12T16:00:00",
+        "end": "2025-04-12T17:35:00",
+        "description": "Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 8/15\nProwadzący: mgr inż. Jarosław Napiórkowski",
+        "allDay": false,
+        "color": "#A8B247"
+    },
+    {
+        "title": "AM (L)",
+        "start": "2025-05-24T09:50:00",
+        "end": "2025-05-24T11:25:00",
+        "description": "Aplikacje mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: mgr inż. Tomasz Derski",
+        "allDay": false,
+        "color": "#8B47B2"
+    },
+    {
+        "title": "Pjf (L)",
+        "start": "2024-11-24T16:00:00",
+        "end": "2024-11-24T17:35:00",
+        "description": "Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący: mgr inż. Piotr Adamczyk",
+        "allDay": false,
+        "color": "#6EB247"
+    },
+    {
+        "title": "Gk (w)",
+        "start": "2024-11-16T09:50:00",
+        "end": "2024-11-16T11:25:00",
+        "description": "Grafika komputerowa\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Marek Salamon",
+        "allDay": false,
+        "color": "#47B278"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-18T11:40:00",
+        "end": "2025-05-18T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 45/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Hd (w)",
+        "start": "2024-11-23T09:50:00",
+        "end": "2024-11-23T11:25:00",
+        "description": "Hurtownie danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Stefan Rozmus",
+        "allDay": false,
+        "color": "#6E47B2"
+    },
+    {
+        "title": "PZ (P)",
+        "start": "2025-03-30T16:00:00",
+        "end": "2025-03-30T17:35:00",
+        "description": "Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 6/15\nProwadzący: mgr inż. Jarosław Napiórkowski",
+        "allDay": false,
+        "color": "#A8B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-03-15T16:00:00",
+        "end": "2025-03-15T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 5/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "PBI (w)",
+        "start": "2024-11-10T17:50:00",
+        "end": "2024-11-10T19:25:00",
+        "description": "Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Krzysztof Liderman",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Mipb (L)",
+        "start": "2025-01-18T08:00:00",
+        "end": "2025-01-18T09:35:00",
+        "description": "Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: dr inż. Robert Waszkowski",
+        "allDay": false,
+        "color": "#475AB2"
+    },
+    {
+        "title": "Muma (L)",
+        "start": "2025-03-29T13:30:00",
+        "end": "2025-03-29T15:05:00",
+        "description": "Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący: dr Jarosław Olejniczak",
+        "allDay": false,
+        "color": "#8BB247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-03-16T13:30:00",
+        "end": "2025-03-16T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 11/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Med (w)",
+        "start": "2024-10-19T16:00:00",
+        "end": "2024-10-19T17:35:00",
+        "description": "Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: dr inż. Romuald Hoffmann",
+        "allDay": false,
+        "color": "#A847B2"
+    },
+    {
+        "title": "PWSI (w)",
+        "start": "2025-03-08T08:00:00",
+        "end": "2025-03-08T09:35:00",
+        "description": "Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: dr inż. Tomasz Gzik",
+        "allDay": false,
+        "color": "#B26447"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-03-16T08:00:00",
+        "end": "2025-03-16T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 8/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Gk (L)",
+        "start": "2024-12-07T13:30:00",
+        "end": "2024-12-07T15:05:00",
+        "description": "Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: dr inż. Marek Salamon",
+        "allDay": false,
+        "color": "#47B278"
+    },
+    {
+        "title": "Hd (w)",
+        "start": "2024-10-05T09:50:00",
+        "end": "2024-10-05T11:25:00",
+        "description": "Hurtownie danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr inż. Stefan Rozmus",
+        "allDay": false,
+        "color": "#6E47B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-06-01T19:40:00",
+        "end": "2025-06-01T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 63/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-06T11:40:00",
+        "end": "2025-04-06T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 24/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "AM (w)",
+        "start": "2025-04-13T13:30:00",
+        "end": "2025-04-13T15:05:00",
+        "description": "Aplikacje mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr inż. Mariusz Chmielewski",
+        "allDay": false,
+        "color": "#8B47B2"
+    },
+    {
+        "title": "PWSI (P)",
+        "start": "2025-06-14T13:30:00",
+        "end": "2025-06-14T15:05:00",
+        "description": "Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 9/10\nProwadzący: mgr inż. Tomasz Gumowski",
+        "allDay": false,
+        "color": "#B26447"
+    },
+    {
+        "title": "PZ (P)",
+        "start": "2025-04-27T08:00:00",
+        "end": "2025-04-27T09:35:00",
+        "description": "Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 9/15\nProwadzący: mgr inż. Jarosław Napiórkowski",
+        "allDay": false,
+        "color": "#A8B247"
+    },
+    {
+        "title": "PZiP (w)",
+        "start": "2024-12-22T13:30:00",
+        "end": "2024-12-22T15:05:00",
+        "description": "Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#4778B2"
+    },
+    {
+        "title": "kck (L)",
+        "start": "2025-04-13T11:40:00",
+        "end": "2025-04-13T13:15:00",
+        "description": "Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: mgr Jerzy Dorobisz",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "Sn (L)",
+        "start": "2025-06-15T11:40:00",
+        "end": "2025-06-15T13:15:00",
+        "description": "Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący: mgr inż. Przemysław Czuba",
+        "allDay": false,
+        "color": "#B24764"
+    },
+    {
+        "title": "PWSI (L)",
+        "start": "2025-04-12T08:00:00",
+        "end": "2025-04-12T09:35:00",
+        "description": "Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący: mgr inż. Tomasz Gumowski",
+        "allDay": false,
+        "color": "#B26447"
+    },
+    {
+        "title": "Gk (L)",
+        "start": "2025-01-12T13:30:00",
+        "end": "2025-01-12T15:05:00",
+        "description": "Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: dr inż. Marek Salamon",
+        "allDay": false,
+        "color": "#47B278"
+    },
+    {
+        "title": "PSy (L)",
+        "start": "2025-01-11T11:40:00",
+        "end": "2025-01-11T13:15:00",
+        "description": "Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący: dr inż. Dariusz Pierzchała",
+        "allDay": false,
+        "color": "#B2479F"
+    },
+    {
+        "title": "PBI (L)",
+        "start": "2024-11-24T09:50:00",
+        "end": "2024-11-24T11:25:00",
+        "description": "Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/2\nProwadzący: mgr inż. Leszek Kalman",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Mipb (w)",
+        "start": "2024-10-27T16:00:00",
+        "end": "2024-10-27T17:35:00",
+        "description": "Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Robert Waszkowski",
+        "allDay": false,
+        "color": "#475AB2"
+    },
+    {
+        "title": "PZ (P)",
+        "start": "2025-06-08T09:50:00",
+        "end": "2025-06-08T11:25:00",
+        "description": "Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 12/15\nProwadzący: mgr inż. Jarosław Napiórkowski",
+        "allDay": false,
+        "color": "#A8B247"
+    },
+    {
+        "title": "Sn (L)",
+        "start": "2025-05-11T11:40:00",
+        "end": "2025-05-11T13:15:00",
+        "description": "Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący: mgr inż. Przemysław Czuba",
+        "allDay": false,
+        "color": "#B24764"
+    },
+    {
+        "title": "PZ (P)",
+        "start": "2025-06-08T11:40:00",
+        "end": "2025-06-08T13:15:00",
+        "description": "Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 13/15\nProwadzący: mgr inż. Jarosław Napiórkowski",
+        "allDay": false,
+        "color": "#A8B247"
+    },
+    {
+        "title": "PZiP (w)",
+        "start": "2024-12-01T11:40:00",
+        "end": "2024-12-01T13:15:00",
+        "description": "Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#4778B2"
+    },
+    {
+        "title": "Nsk (ć)",
+        "start": "2024-11-17T13:30:00",
+        "end": "2024-11-17T15:05:00",
+        "description": "Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/5\nProwadzący: dr hab. inż. Tadeusz Nowicki",
+        "allDay": false,
+        "color": "#47B295"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-17T16:00:00",
+        "end": "2025-05-17T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 40/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "PBI (w)",
+        "start": "2024-10-05T17:50:00",
+        "end": "2024-10-05T19:25:00",
+        "description": "Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Krzysztof Liderman",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-05T08:00:00",
+        "end": "2025-04-05T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 15/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Sp (Inne)",
+        "start": "2025-06-07T13:30:00",
+        "end": "2025-06-07T15:05:00",
+        "description": "Seminarium przeddyplomowe\nRodzaj zajęć:  - \nNr zajęć: 3/5\nProwadzący: dr inż. Wiesław Barcikowski",
+        "allDay": false,
+        "color": "#B24781"
+    },
+    {
+        "title": "PWSI (P)",
+        "start": "2025-05-10T17:50:00",
+        "end": "2025-05-10T19:25:00",
+        "description": "Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 3/10\nProwadzący: mgr inż. Tomasz Gumowski",
+        "allDay": false,
+        "color": "#B26447"
+    },
+    {
+        "title": "PWSI (w)",
+        "start": "2025-03-29T08:00:00",
+        "end": "2025-03-29T09:35:00",
+        "description": "Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: dr inż. Tomasz Gzik",
+        "allDay": false,
+        "color": "#B26447"
+    },
+    {
+        "title": "Hd (L)",
+        "start": "2025-01-18T17:50:00",
+        "end": "2025-01-18T19:25:00",
+        "description": "Hurtownie danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: dr inż. Stefan Rozmus",
+        "allDay": false,
+        "color": "#6E47B2"
+    },
+    {
+        "title": "Muma (w)",
+        "start": "2025-03-08T13:30:00",
+        "end": "2025-03-08T15:05:00",
+        "description": "Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr Jarosław Olejniczak",
+        "allDay": false,
+        "color": "#8BB247"
+    },
+    {
+        "title": "Psy (w)",
+        "start": "2024-11-17T08:00:00",
+        "end": "2024-11-17T09:35:00",
+        "description": "Psychologia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#5147B2"
+    },
+    {
+        "title": "Wdis (w)",
+        "start": "2024-11-30T16:00:00",
+        "end": "2024-11-30T17:35:00",
+        "description": "Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#B28147"
+    },
+    {
+        "title": "Med (w)",
+        "start": "2024-10-06T16:00:00",
+        "end": "2024-10-06T17:35:00",
+        "description": "Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: dr inż. Romuald Hoffmann",
+        "allDay": false,
+        "color": "#A847B2"
+    },
+    {
+        "title": "Mipb (w)",
+        "start": "2024-12-21T08:00:00",
+        "end": "2024-12-21T09:35:00",
+        "description": "Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Robert Waszkowski",
+        "allDay": false,
+        "color": "#475AB2"
+    },
+    {
+        "title": "PWSI (P)",
+        "start": "2025-06-14T16:00:00",
+        "end": "2025-06-14T17:35:00",
+        "description": "Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 10/10\nProwadzący: mgr inż. Tomasz Gumowski",
+        "allDay": false,
+        "color": "#B26447"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-06-01T08:00:00",
+        "end": "2025-06-01T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 57/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Med (L)",
+        "start": "2025-01-11T09:50:00",
+        "end": "2025-01-11T11:25:00",
+        "description": "Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: dr inż. Romuald Hoffmann",
+        "allDay": false,
+        "color": "#A847B2"
+    },
+    {
+        "title": "PSy (L)",
+        "start": "2025-01-18T11:40:00",
+        "end": "2025-01-18T13:15:00",
+        "description": "Podstawy symulacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący: dr inż. Dariusz Pierzchała",
+        "allDay": false,
+        "color": "#B2479F"
+    },
+    {
+        "title": "BPiE (L)",
+        "start": "2024-11-17T16:00:00",
+        "end": "2024-11-17T17:35:00",
+        "description": "Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/2\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-17T11:40:00",
+        "end": "2025-05-17T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 38/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Muma (w)",
+        "start": "2025-03-01T17:50:00",
+        "end": "2025-03-01T19:25:00",
+        "description": "Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr Jarosław Olejniczak",
+        "allDay": false,
+        "color": "#8BB247"
+    },
+    {
+        "title": "Pjf (w)",
+        "start": "2024-10-20T09:50:00",
+        "end": "2024-10-20T11:25:00",
+        "description": "Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: prof. dr hab. inż. Andrzej Walczak",
+        "allDay": false,
+        "color": "#6EB247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-18T16:00:00",
+        "end": "2025-05-18T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 47/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-31T17:50:00",
+        "end": "2025-05-31T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 55/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Jtp (L)",
+        "start": "2025-03-29T11:40:00",
+        "end": "2025-03-29T13:15:00",
+        "description": "Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/7\nProwadzący: mgr inż. Piotr Adamczyk",
+        "allDay": false,
+        "color": "#B29F47"
+    },
+    {
+        "title": "PZ (P)",
+        "start": "2025-03-02T11:40:00",
+        "end": "2025-03-02T13:15:00",
+        "description": "Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 1/15\nProwadzący: mgr inż. Jarosław Napiórkowski",
+        "allDay": false,
+        "color": "#A8B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-06T17:50:00",
+        "end": "2025-04-06T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 27/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-04T09:50:00",
+        "end": "2025-05-04T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 30/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Med (Inne)",
+        "start": "2025-02-15T09:50:00",
+        "end": "2025-02-15T11:25:00",
+        "description": "Metody eksploracji danych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Romuald Hoffmann",
+        "allDay": false,
+        "color": "#A847B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-18T17:50:00",
+        "end": "2025-05-18T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 48/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "PWSI (w)",
+        "start": "2025-03-22T08:00:00",
+        "end": "2025-03-22T09:35:00",
+        "description": "Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: dr inż. Tomasz Gzik",
+        "allDay": false,
+        "color": "#B26447"
+    },
+    {
+        "title": "Jtp (L)",
+        "start": "2025-05-10T11:40:00",
+        "end": "2025-05-10T13:15:00",
+        "description": "Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/7\nProwadzący: mgr inż. Piotr Adamczyk",
+        "allDay": false,
+        "color": "#B29F47"
+    },
+    {
+        "title": "PWSI (P)",
+        "start": "2025-04-27T17:50:00",
+        "end": "2025-04-27T19:25:00",
+        "description": "Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 2/10\nProwadzący: mgr inż. Tomasz Gumowski",
+        "allDay": false,
+        "color": "#B26447"
+    },
+    {
+        "title": "kck (w)",
+        "start": "2025-03-01T09:50:00",
+        "end": "2025-03-01T11:25:00",
+        "description": "Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr inż. Tomasz Pałys",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "Nsk (ć)",
+        "start": "2024-12-08T13:30:00",
+        "end": "2024-12-08T15:05:00",
+        "description": "Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/5\nProwadzący: dr hab. inż. Tadeusz Nowicki",
+        "allDay": false,
+        "color": "#47B295"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-31T09:50:00",
+        "end": "2025-05-31T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 51/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "BPiE (w)",
+        "start": "2024-12-07T08:00:00",
+        "end": "2024-12-07T09:35:00",
+        "description": "Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: mgr inż. Leszek Kalman",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-06-01T17:50:00",
+        "end": "2025-06-01T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 62/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Pjf (L)",
+        "start": "2025-01-18T09:50:00",
+        "end": "2025-01-18T11:25:00",
+        "description": "Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: mgr inż. Piotr Adamczyk",
+        "allDay": false,
+        "color": "#6EB247"
+    },
+    {
+        "title": "PBI (L)",
+        "start": "2024-11-24T11:40:00",
+        "end": "2024-11-24T13:15:00",
+        "description": "Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/2\nProwadzący: mgr inż. Leszek Kalman",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-03-15T19:40:00",
+        "end": "2025-03-15T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 7/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Hd (L)",
+        "start": "2024-11-24T08:00:00",
+        "end": "2024-11-24T09:35:00",
+        "description": "Hurtownie danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: dr inż. Stefan Rozmus",
+        "allDay": false,
+        "color": "#6E47B2"
+    },
+    {
+        "title": "Mipb (w)",
+        "start": "2024-11-09T11:40:00",
+        "end": "2024-11-09T13:15:00",
+        "description": "Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr inż. Robert Waszkowski",
+        "allDay": false,
+        "color": "#475AB2"
+    },
+    {
+        "title": "Jtp (w)",
+        "start": "2025-03-01T11:40:00",
+        "end": "2025-03-01T13:15:00",
+        "description": "Języki i techniki programowania\nRodzaj zajęć: Wykład\nNr zajęć: 1/3\nProwadzący: dr hab. Piotr Kosiuczenko",
+        "allDay": false,
+        "color": "#B29F47"
+    },
+    {
+        "title": "Mipb (w)",
+        "start": "2024-10-27T13:30:00",
+        "end": "2024-10-27T15:05:00",
+        "description": "Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr inż. Robert Waszkowski",
+        "allDay": false,
+        "color": "#475AB2"
+    },
+    {
+        "title": "BPiE (w)",
+        "start": "2024-10-05T13:30:00",
+        "end": "2024-10-05T15:05:00",
+        "description": "Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: mgr inż. Leszek Kalman",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "Sn (L)",
+        "start": "2025-05-11T09:50:00",
+        "end": "2025-05-11T11:25:00",
+        "description": "Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący: mgr inż. Przemysław Czuba",
+        "allDay": false,
+        "color": "#B24764"
+    },
+    {
+        "title": "Sn (L)",
+        "start": "2025-06-15T13:30:00",
+        "end": "2025-06-15T15:05:00",
+        "description": "Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: mgr inż. Przemysław Czuba",
+        "allDay": false,
+        "color": "#B24764"
+    },
+    {
+        "title": "Wdis (L)",
+        "start": "2025-01-26T17:50:00",
+        "end": "2025-01-26T19:25:00",
+        "description": "Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#B28147"
+    },
+    {
+        "title": "Jtp (L)",
+        "start": "2025-05-10T09:50:00",
+        "end": "2025-05-10T11:25:00",
+        "description": "Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/7\nProwadzący: mgr inż. Piotr Adamczyk",
+        "allDay": false,
+        "color": "#B29F47"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-04T17:50:00",
+        "end": "2025-05-04T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 34/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "kck (w)",
+        "start": "2025-04-26T11:40:00",
+        "end": "2025-04-26T13:15:00",
+        "description": "Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Tomasz Pałys",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "SQL (w)",
+        "start": "2025-03-02T09:50:00",
+        "end": "2025-03-02T11:25:00",
+        "description": "Bazy danych NoSQL\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Jarosław Koszela",
+        "allDay": false,
+        "color": "#47B25A"
+    },
+    {
+        "title": "SQL (L)",
+        "start": "2025-06-08T16:00:00",
+        "end": "2025-06-08T17:35:00",
+        "description": "Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/3\nProwadzący:  Arkadiusz Orzeł",
+        "allDay": false,
+        "color": "#47B25A"
+    },
+    {
+        "title": "PWSI (P)",
+        "start": "2025-04-27T16:00:00",
+        "end": "2025-04-27T17:35:00",
+        "description": "Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 1/10\nProwadzący: mgr inż. Tomasz Gumowski",
+        "allDay": false,
+        "color": "#B26447"
+    },
+    {
+        "title": "Mipb (L)",
+        "start": "2024-11-30T08:00:00",
+        "end": "2024-11-30T09:35:00",
+        "description": "Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący: dr inż. Robert Waszkowski",
+        "allDay": false,
+        "color": "#475AB2"
+    },
+    {
+        "title": "Pjf (w)",
+        "start": "2024-11-23T08:00:00",
+        "end": "2024-11-23T09:35:00",
+        "description": "Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: prof. dr hab. inż. Andrzej Walczak",
+        "allDay": false,
+        "color": "#6EB247"
+    },
+    {
+        "title": "Jtp (L)",
+        "start": "2025-05-25T08:00:00",
+        "end": "2025-05-25T09:35:00",
+        "description": "Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/7\nProwadzący: mgr inż. Piotr Adamczyk",
+        "allDay": false,
+        "color": "#B29F47"
+    },
+    {
+        "title": "PZiP (ć)",
+        "start": "2025-01-19T11:40:00",
+        "end": "2025-01-19T13:15:00",
+        "description": "Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/4\nProwadzący: -",
+        "allDay": false,
+        "color": "#4778B2"
+    },
+    {
+        "title": "PZiP (ć)",
+        "start": "2025-01-11T17:50:00",
+        "end": "2025-01-11T19:25:00",
+        "description": "Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/4\nProwadzący: -",
+        "allDay": false,
+        "color": "#4778B2"
+    },
+    {
+        "title": "BPiE (L)",
+        "start": "2024-12-22T16:00:00",
+        "end": "2024-12-22T17:35:00",
+        "description": "Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/2\nProwadzący: -",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "Muma (w)",
+        "start": "2025-05-24T11:40:00",
+        "end": "2025-05-24T13:15:00",
+        "description": "Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr Jarosław Olejniczak",
+        "allDay": false,
+        "color": "#8BB247"
+    },
+    {
+        "title": "PZ (P)",
+        "start": "2025-03-09T16:00:00",
+        "end": "2025-03-09T17:35:00",
+        "description": "Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 4/15\nProwadzący: mgr inż. Jarosław Napiórkowski",
+        "allDay": false,
+        "color": "#A8B247"
+    },
+    {
+        "title": "PBI (L)",
+        "start": "2024-12-22T17:50:00",
+        "end": "2024-12-22T19:25:00",
+        "description": "Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/2\nProwadzący: dr inż. Krzysztof Liderman",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "SQL (w)",
+        "start": "2025-06-14T09:50:00",
+        "end": "2025-06-14T11:25:00",
+        "description": "Bazy danych NoSQL\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Jarosław Koszela",
+        "allDay": false,
+        "color": "#47B25A"
+    },
+    {
+        "title": "PWSI (L)",
+        "start": "2025-04-26T09:50:00",
+        "end": "2025-04-26T11:25:00",
+        "description": "Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący: mgr inż. Tomasz Gumowski",
+        "allDay": false,
+        "color": "#B26447"
+    },
+    {
+        "title": "PWSI (w)",
+        "start": "2025-03-01T08:00:00",
+        "end": "2025-03-01T09:35:00",
+        "description": "Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: dr inż. Tomasz Gzik",
+        "allDay": false,
+        "color": "#B26447"
+    },
+    {
+        "title": "PBI (Inne)",
+        "start": "2025-02-15T11:40:00",
+        "end": "2025-02-15T13:15:00",
+        "description": "Podstawy bezpieczeństwa informacji\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Krzysztof Liderman",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Med (L)",
+        "start": "2025-01-11T08:00:00",
+        "end": "2025-01-11T09:35:00",
+        "description": "Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący: dr inż. Romuald Hoffmann",
+        "allDay": false,
+        "color": "#A847B2"
+    },
+    {
+        "title": "kck (L)",
+        "start": "2025-04-27T11:40:00",
+        "end": "2025-04-27T13:15:00",
+        "description": "Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący: mgr Jerzy Dorobisz",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "PSy (w)",
+        "start": "2024-12-08T11:40:00",
+        "end": "2024-12-08T13:15:00",
+        "description": "Podstawy symulacji\nRodzaj zajęć: Wykład\nNr zajęć: 5/3\nProwadzący: dr hab. inż. Andrzej Najgebauer",
+        "allDay": false,
+        "color": "#B2479F"
+    },
+    {
+        "title": "Muma (w)",
+        "start": "2025-05-24T13:30:00",
+        "end": "2025-05-24T15:05:00",
+        "description": "Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr Jarosław Olejniczak",
+        "allDay": false,
+        "color": "#8BB247"
+    },
+    {
+        "title": "Psy (w)",
+        "start": "2024-10-06T08:00:00",
+        "end": "2024-10-06T09:35:00",
+        "description": "Psychologia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#5147B2"
+    },
+    {
+        "title": "PWSI (L)",
+        "start": "2025-06-07T09:50:00",
+        "end": "2025-06-07T11:25:00",
+        "description": "Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/6\nProwadzący: mgr inż. Tomasz Gumowski",
+        "allDay": false,
+        "color": "#B26447"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-06T13:30:00",
+        "end": "2025-04-06T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 25/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Gk (E)",
+        "start": "2025-02-08T08:00:00",
+        "end": "2025-02-08T09:35:00",
+        "description": "Grafika komputerowa\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Marek Salamon",
+        "allDay": false,
+        "color": "#47B278"
+    },
+    {
+        "title": "Pjf (L)",
+        "start": "2024-12-07T16:00:00",
+        "end": "2024-12-07T17:35:00",
+        "description": "Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący: mgr inż. Piotr Adamczyk",
+        "allDay": false,
+        "color": "#6EB247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-31T08:00:00",
+        "end": "2025-05-31T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 50/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Mipb (L)",
+        "start": "2024-12-08T17:50:00",
+        "end": "2024-12-08T19:25:00",
+        "description": "Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący: dr inż. Robert Waszkowski",
+        "allDay": false,
+        "color": "#475AB2"
+    },
+    {
+        "title": "BPiE (w)",
+        "start": "2024-10-26T08:00:00",
+        "end": "2024-10-26T09:35:00",
+        "description": "Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: mgr inż. Leszek Kalman",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "Hd (L)",
+        "start": "2024-11-16T13:30:00",
+        "end": "2024-11-16T15:05:00",
+        "description": "Hurtownie danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący: dr inż. Stefan Rozmus",
+        "allDay": false,
+        "color": "#6E47B2"
+    },
+    {
+        "title": "Nsk (w)",
+        "start": "2024-10-06T13:30:00",
+        "end": "2024-10-06T15:05:00",
+        "description": "Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr hab. inż. Tadeusz Nowicki",
+        "allDay": false,
+        "color": "#47B295"
+    },
+    {
+        "title": "Sp (Inne)",
+        "start": "2025-06-07T16:00:00",
+        "end": "2025-06-07T17:35:00",
+        "description": "Seminarium przeddyplomowe\nRodzaj zajęć:  - \nNr zajęć: 4/5\nProwadzący: dr inż. Wiesław Barcikowski",
+        "allDay": false,
+        "color": "#B24781"
+    },
+    {
+        "title": "Gk (L)",
+        "start": "2024-11-23T13:30:00",
+        "end": "2024-11-23T15:05:00",
+        "description": "Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: dr inż. Marek Salamon",
+        "allDay": false,
+        "color": "#47B278"
+    },
+    {
+        "title": "Nsk (w)",
+        "start": "2024-10-20T13:30:00",
+        "end": "2024-10-20T15:05:00",
+        "description": "Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr hab. inż. Tadeusz Nowicki",
+        "allDay": false,
+        "color": "#47B295"
+    },
+    {
+        "title": "Med (w)",
+        "start": "2024-10-19T17:50:00",
+        "end": "2024-10-19T19:25:00",
+        "description": "Metody eksploracji danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: dr inż. Romuald Hoffmann",
+        "allDay": false,
+        "color": "#A847B2"
+    },
+    {
+        "title": "AM (w)",
+        "start": "2025-04-27T13:30:00",
+        "end": "2025-04-27T15:05:00",
+        "description": "Aplikacje mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Mariusz Chmielewski",
+        "allDay": false,
+        "color": "#8B47B2"
+    },
+    {
+        "title": "Med (L)",
+        "start": "2024-11-30T13:30:00",
+        "end": "2024-11-30T15:05:00",
+        "description": "Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący: dr inż. Romuald Hoffmann",
+        "allDay": false,
+        "color": "#A847B2"
+    },
+    {
+        "title": "BPiE (w)",
+        "start": "2024-10-26T09:50:00",
+        "end": "2024-10-26T11:25:00",
+        "description": "Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: mgr inż. Leszek Kalman",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "Pjf (w)",
+        "start": "2024-12-21T11:40:00",
+        "end": "2024-12-21T13:15:00",
+        "description": "Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: prof. dr hab. inż. Andrzej Walczak",
+        "allDay": false,
+        "color": "#6EB247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-17T09:50:00",
+        "end": "2025-05-17T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 37/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Muma (L)",
+        "start": "2025-04-12T11:40:00",
+        "end": "2025-04-12T13:15:00",
+        "description": "Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/5\nProwadzący: dr Jarosław Olejniczak",
+        "allDay": false,
+        "color": "#8BB247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-03-16T16:00:00",
+        "end": "2025-03-16T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 12/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "PZiP (ć)",
+        "start": "2025-01-11T19:40:00",
+        "end": "2025-01-11T21:15:00",
+        "description": "Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/4\nProwadzący: -",
+        "allDay": false,
+        "color": "#4778B2"
+    },
+    {
+        "title": "Wdis (w)",
+        "start": "2024-11-30T17:50:00",
+        "end": "2024-11-30T19:25:00",
+        "description": "Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#B28147"
+    },
+    {
+        "title": "Nsk (w)",
+        "start": "2024-10-20T11:40:00",
+        "end": "2024-10-20T13:15:00",
+        "description": "Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr hab. inż. Tadeusz Nowicki",
+        "allDay": false,
+        "color": "#47B295"
+    },
+    {
+        "title": "Pjf (L)",
+        "start": "2024-12-07T17:50:00",
+        "end": "2024-12-07T19:25:00",
+        "description": "Programowanie w językach funkcyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący: mgr inż. Piotr Adamczyk",
+        "allDay": false,
+        "color": "#6EB247"
+    },
+    {
+        "title": "Wdis (w)",
+        "start": "2024-12-21T13:30:00",
+        "end": "2024-12-21T15:05:00",
+        "description": "Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#B28147"
+    },
+    {
+        "title": "SQL (L)",
+        "start": "2025-03-23T09:50:00",
+        "end": "2025-03-23T11:25:00",
+        "description": "Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/3\nProwadzący: dr inż. Jarosław Koszela",
+        "allDay": false,
+        "color": "#47B25A"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-05T11:40:00",
+        "end": "2025-04-05T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 17/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-17T19:40:00",
+        "end": "2025-05-17T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 42/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "PWSI (L)",
+        "start": "2025-06-07T08:00:00",
+        "end": "2025-06-07T09:35:00",
+        "description": "Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/6\nProwadzący: mgr inż. Tomasz Gumowski",
+        "allDay": false,
+        "color": "#B26447"
+    },
+    {
+        "title": "PZ (P)",
+        "start": "2025-06-15T16:00:00",
+        "end": "2025-06-15T17:35:00",
+        "description": "Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 14/15\nProwadzący: mgr inż. Jarosław Napiórkowski",
+        "allDay": false,
+        "color": "#A8B247"
+    },
+    {
+        "title": "Gk (L)",
+        "start": "2025-01-12T09:50:00",
+        "end": "2025-01-12T11:25:00",
+        "description": "Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: dr inż. Marek Salamon",
+        "allDay": false,
+        "color": "#47B278"
+    },
+    {
+        "title": "Pjf (w)",
+        "start": "2024-12-21T09:50:00",
+        "end": "2024-12-21T11:25:00",
+        "description": "Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: prof. dr hab. inż. Andrzej Walczak",
+        "allDay": false,
+        "color": "#6EB247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-04T11:40:00",
+        "end": "2025-05-04T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 31/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "PBI (w)",
+        "start": "2024-10-05T16:00:00",
+        "end": "2024-10-05T17:35:00",
+        "description": "Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Krzysztof Liderman",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-03-15T09:50:00",
+        "end": "2025-03-15T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-17T17:50:00",
+        "end": "2025-05-17T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 41/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-03-15T08:00:00",
+        "end": "2025-03-15T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Gk (L)",
+        "start": "2024-12-07T11:40:00",
+        "end": "2024-12-07T13:15:00",
+        "description": "Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: dr inż. Marek Salamon",
+        "allDay": false,
+        "color": "#47B278"
+    },
+    {
+        "title": "Pjf (w)",
+        "start": "2024-11-10T09:50:00",
+        "end": "2024-11-10T11:25:00",
+        "description": "Programowanie w językach funkcyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: prof. dr hab. inż. Andrzej Walczak",
+        "allDay": false,
+        "color": "#6EB247"
+    },
+    {
+        "title": "PBI (w)",
+        "start": "2024-11-10T16:00:00",
+        "end": "2024-11-10T17:35:00",
+        "description": "Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Krzysztof Liderman",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Psy (w)",
+        "start": "2024-10-27T09:50:00",
+        "end": "2024-10-27T11:25:00",
+        "description": "Psychologia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#5147B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-06-01T09:50:00",
+        "end": "2025-06-01T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 58/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "PSy (w)",
+        "start": "2024-12-01T09:50:00",
+        "end": "2024-12-01T11:25:00",
+        "description": "Podstawy symulacji\nRodzaj zajęć: Wykład\nNr zajęć: 4/3\nProwadzący: dr inż. Dariusz Pierzchała",
+        "allDay": false,
+        "color": "#B2479F"
+    },
+    {
+        "title": "Med (L)",
+        "start": "2024-11-09T16:00:00",
+        "end": "2024-11-09T17:35:00",
+        "description": "Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący: dr inż. Romuald Hoffmann",
+        "allDay": false,
+        "color": "#A847B2"
+    },
+    {
+        "title": "SQL (L)",
+        "start": "2025-06-08T17:50:00",
+        "end": "2025-06-08T19:25:00",
+        "description": "Bazy danych NoSQL\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/3\nProwadzący:  Arkadiusz Orzeł",
+        "allDay": false,
+        "color": "#47B25A"
+    },
+    {
+        "title": "Gk (L)",
+        "start": "2024-11-23T11:40:00",
+        "end": "2024-11-23T13:15:00",
+        "description": "Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: dr inż. Marek Salamon",
+        "allDay": false,
+        "color": "#47B278"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-04T08:00:00",
+        "end": "2025-05-04T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 29/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-06T08:00:00",
+        "end": "2025-04-06T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 22/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "SQL (w)",
+        "start": "2025-03-02T08:00:00",
+        "end": "2025-03-02T09:35:00",
+        "description": "Bazy danych NoSQL\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr inż. Jarosław Koszela",
+        "allDay": false,
+        "color": "#47B25A"
+    },
+    {
+        "title": "Hd (L)",
+        "start": "2024-12-22T09:50:00",
+        "end": "2024-12-22T11:25:00",
+        "description": "Hurtownie danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący: dr inż. Stefan Rozmus",
+        "allDay": false,
+        "color": "#6E47B2"
+    },
+    {
+        "title": "SQL (w)",
+        "start": "2025-03-08T16:00:00",
+        "end": "2025-03-08T17:35:00",
+        "description": "Bazy danych NoSQL\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr inż. Jarosław Koszela",
+        "allDay": false,
+        "color": "#47B25A"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-04T13:30:00",
+        "end": "2025-05-04T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 32/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Hd (L)",
+        "start": "2025-01-11T16:00:00",
+        "end": "2025-01-11T17:35:00",
+        "description": "Hurtownie danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący: dr inż. Stefan Rozmus",
+        "allDay": false,
+        "color": "#6E47B2"
+    },
+    {
+        "title": "PZiP (w)",
+        "start": "2024-10-20T16:00:00",
+        "end": "2024-10-20T17:35:00",
+        "description": "Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#4778B2"
+    },
+    {
+        "title": "Sn (w)",
+        "start": "2025-03-09T08:00:00",
+        "end": "2025-03-09T09:35:00",
+        "description": "Sieci neuronowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24764"
+    },
+    {
+        "title": "PWSI (P)",
+        "start": "2025-05-11T17:50:00",
+        "end": "2025-05-11T19:25:00",
+        "description": "Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 6/10\nProwadzący: mgr inż. Tomasz Gumowski",
+        "allDay": false,
+        "color": "#B26447"
+    },
+    {
+        "title": "Med (L)",
+        "start": "2024-11-30T11:40:00",
+        "end": "2024-11-30T13:15:00",
+        "description": "Metody eksploracji danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący: dr inż. Romuald Hoffmann",
+        "allDay": false,
+        "color": "#A847B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-18T08:00:00",
+        "end": "2025-05-18T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 43/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Wdis (w)",
+        "start": "2024-10-27T17:50:00",
+        "end": "2024-10-27T19:25:00",
+        "description": "Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#B28147"
+    },
+    {
+        "title": "Hd (w)",
+        "start": "2024-10-27T11:40:00",
+        "end": "2024-10-27T13:15:00",
+        "description": "Hurtownie danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Stefan Rozmus",
+        "allDay": false,
+        "color": "#6E47B2"
+    },
+    {
+        "title": "Muma (L)",
+        "start": "2025-05-10T16:00:00",
+        "end": "2025-05-10T17:35:00",
+        "description": "Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: dr Jarosław Olejniczak",
+        "allDay": false,
+        "color": "#8BB247"
+    },
+    {
+        "title": "PBI (w)",
+        "start": "2024-10-19T08:00:00",
+        "end": "2024-10-19T09:35:00",
+        "description": "Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Krzysztof Liderman",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Muma (L)",
+        "start": "2025-05-10T13:30:00",
+        "end": "2025-05-10T15:05:00",
+        "description": "Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący: dr Jarosław Olejniczak",
+        "allDay": false,
+        "color": "#8BB247"
+    },
+    {
+        "title": "Nsk (w)",
+        "start": "2024-11-10T13:30:00",
+        "end": "2024-11-10T15:05:00",
+        "description": "Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr hab. inż. Tadeusz Nowicki",
+        "allDay": false,
+        "color": "#47B295"
+    },
+    {
+        "title": "Hd (w)",
+        "start": "2024-11-16T11:40:00",
+        "end": "2024-11-16T13:15:00",
+        "description": "Hurtownie danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr inż. Stefan Rozmus",
+        "allDay": false,
+        "color": "#6E47B2"
+    },
+    {
+        "title": "Jtp (L)",
+        "start": "2025-05-25T09:50:00",
+        "end": "2025-05-25T11:25:00",
+        "description": "Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/7\nProwadzący: mgr inż. Piotr Adamczyk",
+        "allDay": false,
+        "color": "#B29F47"
+    },
+    {
+        "title": "PWSI (P)",
+        "start": "2025-05-11T16:00:00",
+        "end": "2025-05-11T17:35:00",
+        "description": "Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 5/10\nProwadzący: mgr inż. Tomasz Gumowski",
+        "allDay": false,
+        "color": "#B26447"
+    },
+    {
+        "title": "Gk (L)",
+        "start": "2025-01-12T11:40:00",
+        "end": "2025-01-12T13:15:00",
+        "description": "Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: dr inż. Marek Salamon",
+        "allDay": false,
+        "color": "#47B278"
+    },
+    {
+        "title": "AM (L)",
+        "start": "2025-03-30T08:00:00",
+        "end": "2025-03-30T09:35:00",
+        "description": "Aplikacje mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/5\nProwadzący: mgr inż. Tomasz Derski",
+        "allDay": false,
+        "color": "#8B47B2"
+    },
+    {
+        "title": "Wdis (L)",
+        "start": "2024-12-21T16:00:00",
+        "end": "2024-12-21T17:35:00",
+        "description": "Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/6\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#B28147"
+    },
+    {
+        "title": "PBI (w)",
+        "start": "2024-11-16T08:00:00",
+        "end": "2024-11-16T09:35:00",
+        "description": "Podstawy bezpieczeństwa informacji\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Krzysztof Liderman",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "AM (L)",
+        "start": "2025-05-25T17:50:00",
+        "end": "2025-05-25T19:25:00",
+        "description": "Aplikacje mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący: mgr inż. Tomasz Derski",
+        "allDay": false,
+        "color": "#8B47B2"
+    },
+    {
+        "title": "AM (w)",
+        "start": "2025-04-13T16:00:00",
+        "end": "2025-04-13T17:35:00",
+        "description": "Aplikacje mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr inż. Mariusz Chmielewski",
+        "allDay": false,
+        "color": "#8B47B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-03-16T09:50:00",
+        "end": "2025-03-16T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 9/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "PZiP (w)",
+        "start": "2024-11-10T08:00:00",
+        "end": "2024-11-10T09:35:00",
+        "description": "Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#4778B2"
+    },
+    {
+        "title": "PWSI (P)",
+        "start": "2025-05-24T16:00:00",
+        "end": "2025-05-24T17:35:00",
+        "description": "Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 7/10\nProwadzący: mgr inż. Tomasz Gumowski",
+        "allDay": false,
+        "color": "#B26447"
+    },
+    {
+        "title": "kck (w)",
+        "start": "2025-03-29T09:50:00",
+        "end": "2025-03-29T11:25:00",
+        "description": "Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr inż. Tomasz Pałys",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "PWSI (L)",
+        "start": "2025-04-12T09:50:00",
+        "end": "2025-04-12T11:25:00",
+        "description": "Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/6\nProwadzący: mgr inż. Tomasz Gumowski",
+        "allDay": false,
+        "color": "#B26447"
+    },
+    {
+        "title": "PZ (P)",
+        "start": "2025-03-09T13:30:00",
+        "end": "2025-03-09T15:05:00",
+        "description": "Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 3/15\nProwadzący: mgr inż. Jarosław Napiórkowski",
+        "allDay": false,
+        "color": "#A8B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-06T09:50:00",
+        "end": "2025-04-06T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 23/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "PZ (P)",
+        "start": "2025-06-15T17:50:00",
+        "end": "2025-06-15T19:25:00",
+        "description": "Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 15/15\nProwadzący: mgr inż. Jarosław Napiórkowski",
+        "allDay": false,
+        "color": "#A8B247"
+    },
+    {
+        "title": "Sn (w)",
+        "start": "2025-03-09T09:50:00",
+        "end": "2025-03-09T11:25:00",
+        "description": "Sieci neuronowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24764"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-06T19:40:00",
+        "end": "2025-04-06T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 28/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Wdis (L)",
+        "start": "2025-01-19T16:00:00",
+        "end": "2025-01-19T17:35:00",
+        "description": "Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#B28147"
+    },
+    {
+        "title": "Psy (w)",
+        "start": "2024-10-27T08:00:00",
+        "end": "2024-10-27T09:35:00",
+        "description": "Psychologia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#5147B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-04T19:40:00",
+        "end": "2025-05-04T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 35/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "PSy (w)",
+        "start": "2024-10-06T11:40:00",
+        "end": "2024-10-06T13:15:00",
+        "description": "Podstawy symulacji\nRodzaj zajęć: Wykład\nNr zajęć: 1/3\nProwadzący: dr hab. inż. Andrzej Najgebauer",
+        "allDay": false,
+        "color": "#B2479F"
+    },
+    {
+        "title": "Mipb (w)",
+        "start": "2024-11-09T13:30:00",
+        "end": "2024-11-09T15:05:00",
+        "description": "Modelowanie i implementacja procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr inż. Robert Waszkowski",
+        "allDay": false,
+        "color": "#475AB2"
+    },
+    {
+        "title": "BPiE (w)",
+        "start": "2024-10-05T11:40:00",
+        "end": "2024-10-05T13:15:00",
+        "description": "Bezpieczeństwo pracy i ergonomia\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: mgr inż. Leszek Kalman",
+        "allDay": false,
+        "color": "#51B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-03-16T11:40:00",
+        "end": "2025-03-16T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 10/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Sn (L)",
+        "start": "2025-05-25T13:30:00",
+        "end": "2025-05-25T15:05:00",
+        "description": "Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący: mgr inż. Przemysław Czuba",
+        "allDay": false,
+        "color": "#B24764"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-06-01T16:00:00",
+        "end": "2025-06-01T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 61/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-03-15T13:30:00",
+        "end": "2025-03-15T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 4/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-03-15T11:40:00",
+        "end": "2025-03-15T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 3/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Sp (Inne)",
+        "start": "2025-06-07T11:40:00",
+        "end": "2025-06-07T13:15:00",
+        "description": "Seminarium przeddyplomowe\nRodzaj zajęć:  - \nNr zajęć: 2/5\nProwadzący: dr inż. Wiesław Barcikowski",
+        "allDay": false,
+        "color": "#B24781"
+    },
+    {
+        "title": "Nsk (Inne)",
+        "start": "2025-03-02T16:00:00",
+        "end": "2025-03-02T17:35:00",
+        "description": "Niezawodność systemów komputerowych\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr hab. inż. Tadeusz Nowicki",
+        "allDay": false,
+        "color": "#47B295"
+    },
+    {
+        "title": "Gk (L)",
+        "start": "2025-01-18T13:30:00",
+        "end": "2025-01-18T15:05:00",
+        "description": "Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: dr inż. Marek Salamon",
+        "allDay": false,
+        "color": "#47B278"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-05T17:50:00",
+        "end": "2025-04-05T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 20/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Sn (w)",
+        "start": "2025-06-14T08:00:00",
+        "end": "2025-06-14T09:35:00",
+        "description": "Sieci neuronowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24764"
+    },
+    {
+        "title": "Nsk (w)",
+        "start": "2024-11-10T11:40:00",
+        "end": "2024-11-10T13:15:00",
+        "description": "Niezawodność systemów komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr hab. inż. Tadeusz Nowicki",
+        "allDay": false,
+        "color": "#47B295"
+    },
+    {
+        "title": "PZiP (w)",
+        "start": "2024-12-22T11:40:00",
+        "end": "2024-12-22T13:15:00",
+        "description": "Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#4778B2"
+    },
+    {
+        "title": "Nsk (ć)",
+        "start": "2024-11-24T13:30:00",
+        "end": "2024-11-24T15:05:00",
+        "description": "Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/5\nProwadzący: dr hab. inż. Tadeusz Nowicki",
+        "allDay": false,
+        "color": "#47B295"
+    },
+    {
+        "title": "Jtp (w)",
+        "start": "2025-03-01T13:30:00",
+        "end": "2025-03-01T15:05:00",
+        "description": "Języki i techniki programowania\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący: dr hab. Piotr Kosiuczenko",
+        "allDay": false,
+        "color": "#B29F47"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-17T13:30:00",
+        "end": "2025-05-17T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 39/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Gk (L)",
+        "start": "2025-01-18T16:00:00",
+        "end": "2025-01-18T17:35:00",
+        "description": "Grafika komputerowa\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: dr inż. Marek Salamon",
+        "allDay": false,
+        "color": "#47B278"
+    },
+    {
+        "title": "Nsk (ć)",
+        "start": "2024-12-22T08:00:00",
+        "end": "2024-12-22T09:35:00",
+        "description": "Niezawodność systemów komputerowych\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/5\nProwadzący: dr hab. inż. Tadeusz Nowicki",
+        "allDay": false,
+        "color": "#47B295"
+    },
+    {
+        "title": "Muma (w)",
+        "start": "2025-04-26T16:00:00",
+        "end": "2025-04-26T17:35:00",
+        "description": "Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr Jarosław Olejniczak",
+        "allDay": false,
+        "color": "#8BB247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-18T13:30:00",
+        "end": "2025-05-18T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 46/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-03-15T17:50:00",
+        "end": "2025-03-15T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 6/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Gk (w)",
+        "start": "2024-11-09T08:00:00",
+        "end": "2024-11-09T09:35:00",
+        "description": "Grafika komputerowa\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr inż. Marek Salamon",
+        "allDay": false,
+        "color": "#47B278"
+    },
+    {
+        "title": "PWSI (P)",
+        "start": "2025-05-24T17:50:00",
+        "end": "2025-05-24T19:25:00",
+        "description": "Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 8/10\nProwadzący: mgr inż. Tomasz Gumowski",
+        "allDay": false,
+        "color": "#B26447"
+    },
+    {
+        "title": "PWSI (L)",
+        "start": "2025-04-26T08:00:00",
+        "end": "2025-04-26T09:35:00",
+        "description": "Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/6\nProwadzący: mgr inż. Tomasz Gumowski",
+        "allDay": false,
+        "color": "#B26447"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-05T09:50:00",
+        "end": "2025-04-05T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 16/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Psy (w)",
+        "start": "2024-11-17T09:50:00",
+        "end": "2024-11-17T11:25:00",
+        "description": "Psychologia - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#5147B2"
+    },
+    {
+        "title": "Psy (ć)",
+        "start": "2024-12-08T09:50:00",
+        "end": "2024-12-08T11:25:00",
+        "description": "Psychologia - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#5147B2"
+    },
+    {
+        "title": "kck (L)",
+        "start": "2025-06-15T08:00:00",
+        "end": "2025-06-15T09:35:00",
+        "description": "Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/5\nProwadzący: mgr Jerzy Dorobisz",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-31T13:30:00",
+        "end": "2025-05-31T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 53/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Muma (L)",
+        "start": "2025-04-26T17:50:00",
+        "end": "2025-04-26T19:25:00",
+        "description": "Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/5\nProwadzący: dr Jarosław Olejniczak",
+        "allDay": false,
+        "color": "#8BB247"
+    },
+    {
+        "title": "Wdis (L)",
+        "start": "2025-01-19T17:50:00",
+        "end": "2025-01-19T19:25:00",
+        "description": "Wprowadzenie do inżynierii systemów\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/6\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#B28147"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-03-16T19:40:00",
+        "end": "2025-03-16T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 14/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-06-01T13:30:00",
+        "end": "2025-06-01T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 60/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Sp (Inne)",
+        "start": "2025-06-07T17:50:00",
+        "end": "2025-06-07T19:25:00",
+        "description": "Seminarium przeddyplomowe\nRodzaj zajęć:  - \nNr zajęć: 5/5\nProwadzący: dr inż. Wiesław Barcikowski",
+        "allDay": false,
+        "color": "#B24781"
+    },
+    {
+        "title": "PSy (w)",
+        "start": "2024-11-17T11:40:00",
+        "end": "2024-11-17T13:15:00",
+        "description": "Podstawy symulacji\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący: dr hab. inż. Andrzej Najgebauer",
+        "allDay": false,
+        "color": "#B2479F"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-04-06T16:00:00",
+        "end": "2025-04-06T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 26/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-05-31T19:40:00",
+        "end": "2025-05-31T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 56/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "kck (L)",
+        "start": "2025-06-15T09:50:00",
+        "end": "2025-06-15T11:25:00",
+        "description": "Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/5\nProwadzący: mgr Jerzy Dorobisz",
+        "allDay": false,
+        "color": "#4795B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-03-16T17:50:00",
+        "end": "2025-03-16T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 13/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    }
+]

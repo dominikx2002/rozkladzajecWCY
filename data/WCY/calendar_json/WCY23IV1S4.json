@@ -1,0 +1,1362 @@
+[
+    {
+        "title": "Assp (L)",
+        "start": "2025-04-16T08:00:00",
+        "end": "2025-04-16T09:35:00",
+        "description": "Analiza sieci społecznościowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: mgr inż. Marcin Perka",
+        "allDay": false,
+        "color": "#B247B2"
+    },
+    {
+        "title": "Assp (w)",
+        "start": "2025-04-15T09:50:00",
+        "end": "2025-04-15T11:25:00",
+        "description": "Analiza sieci społecznościowych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#B247B2"
+    },
+    {
+        "title": "Miob (L)",
+        "start": "2025-04-01T08:00:00",
+        "end": "2025-04-01T09:35:00",
+        "description": "Metody inteligencji obliczeniowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: mgr inż. Przemysław Czuba",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "Clc (w)",
+        "start": "2024-10-16T08:00:00",
+        "end": "2024-10-16T09:35:00",
+        "description": "Cloud computing\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący:  Tomasz Gutowski",
+        "allDay": false,
+        "color": "#7C47B2"
+    },
+    {
+        "title": "Gum (w)",
+        "start": "2024-10-10T11:40:00",
+        "end": "2024-10-10T13:15:00",
+        "description": "Głębokie uczenie maszynowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "Sbay (w)",
+        "start": "2024-12-06T13:30:00",
+        "end": "2024-12-06T15:05:00",
+        "description": "Sieci bayesowskie\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: dr hab. inż. Ryszard Antkiewicz",
+        "allDay": false,
+        "color": "#477CB2"
+    },
+    {
+        "title": "Wmo (w)",
+        "start": "2024-10-03T09:50:00",
+        "end": "2024-10-03T11:25:00",
+        "description": "Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: prof. dr hab. inż. Andrzej Ameljańczyk",
+        "allDay": false,
+        "color": "#B2B247"
+    },
+    {
+        "title": "Muma (w)",
+        "start": "2024-10-04T09:50:00",
+        "end": "2024-10-04T11:25:00",
+        "description": "Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: dr Jarosław Olejniczak",
+        "allDay": false,
+        "color": "#B27C47"
+    },
+    {
+        "title": "Assp (L)",
+        "start": "2025-03-12T09:50:00",
+        "end": "2025-03-12T11:25:00",
+        "description": "Analiza sieci społecznościowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: mgr inż. Marcin Perka",
+        "allDay": false,
+        "color": "#B247B2"
+    },
+    {
+        "title": "Assp (w)",
+        "start": "2025-03-11T13:30:00",
+        "end": "2025-03-11T15:05:00",
+        "description": "Analiza sieci społecznościowych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#B247B2"
+    },
+    {
+        "title": "Miob (L)",
+        "start": "2025-03-18T08:00:00",
+        "end": "2025-03-18T09:35:00",
+        "description": "Metody inteligencji obliczeniowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: mgr inż. Przemysław Czuba",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "Assp (w)",
+        "start": "2025-04-15T08:00:00",
+        "end": "2025-04-15T09:35:00",
+        "description": "Analiza sieci społecznościowych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#B247B2"
+    },
+    {
+        "title": "Clc (w)",
+        "start": "2024-10-04T13:30:00",
+        "end": "2024-10-04T15:05:00",
+        "description": "Cloud computing\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący:  Tomasz Gutowski",
+        "allDay": false,
+        "color": "#7C47B2"
+    },
+    {
+        "title": "UML (w)",
+        "start": "2025-03-11T11:40:00",
+        "end": "2025-03-11T13:15:00",
+        "description": "Business modelling in UML\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr inż. Robert Waszkowski",
+        "allDay": false,
+        "color": "#B2477C"
+    },
+    {
+        "title": "UML (w)",
+        "start": "2025-04-08T09:50:00",
+        "end": "2025-04-08T11:25:00",
+        "description": "Business modelling in UML\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr inż. Robert Waszkowski",
+        "allDay": false,
+        "color": "#B2477C"
+    },
+    {
+        "title": "No (w)",
+        "start": "2024-11-08T08:00:00",
+        "end": "2024-11-08T09:35:00",
+        "description": "Niezawodność oprogramowania\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr hab. inż. Kazimierz Worwa",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Clc (w)",
+        "start": "2024-10-04T11:40:00",
+        "end": "2024-10-04T13:15:00",
+        "description": "Cloud computing\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący:  Tomasz Gutowski",
+        "allDay": false,
+        "color": "#7C47B2"
+    },
+    {
+        "title": "Sbay (L)",
+        "start": "2025-01-24T08:00:00",
+        "end": "2025-01-24T09:35:00",
+        "description": "Sieci bayesowskie\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/9\nProwadzący:  Tomasz Gutowski",
+        "allDay": false,
+        "color": "#477CB2"
+    },
+    {
+        "title": "Sbay (L)",
+        "start": "2025-01-29T08:00:00",
+        "end": "2025-01-29T09:35:00",
+        "description": "Sieci bayesowskie\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/9\nProwadzący:  Tomasz Gutowski",
+        "allDay": false,
+        "color": "#477CB2"
+    },
+    {
+        "title": "Sbay (w)",
+        "start": "2024-12-12T09:50:00",
+        "end": "2024-12-12T11:25:00",
+        "description": "Sieci bayesowskie\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: dr hab. inż. Ryszard Antkiewicz",
+        "allDay": false,
+        "color": "#477CB2"
+    },
+    {
+        "title": "Muma (L)",
+        "start": "2024-12-20T11:40:00",
+        "end": "2024-12-20T13:15:00",
+        "description": "Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/9\nProwadzący: dr Jarosław Olejniczak",
+        "allDay": false,
+        "color": "#B27C47"
+    },
+    {
+        "title": "Miob (w)",
+        "start": "2025-04-07T13:30:00",
+        "end": "2025-04-07T15:05:00",
+        "description": "Metody inteligencji obliczeniowej\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr hab. inż. Andrzej Najgebauer",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "Muma (L)",
+        "start": "2025-01-17T13:30:00",
+        "end": "2025-01-17T15:05:00",
+        "description": "Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/9\nProwadzący: dr Jarosław Olejniczak",
+        "allDay": false,
+        "color": "#B27C47"
+    },
+    {
+        "title": "Sbay (w)",
+        "start": "2024-12-06T11:40:00",
+        "end": "2024-12-06T13:15:00",
+        "description": "Sieci bayesowskie\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: dr hab. inż. Ryszard Antkiewicz",
+        "allDay": false,
+        "color": "#477CB2"
+    },
+    {
+        "title": "UML (L)",
+        "start": "2025-04-02T13:30:00",
+        "end": "2025-04-02T15:05:00",
+        "description": "Business modelling in UML\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: dr inż. Robert Waszkowski",
+        "allDay": false,
+        "color": "#B2477C"
+    },
+    {
+        "title": "Sbay (L)",
+        "start": "2025-01-15T13:30:00",
+        "end": "2025-01-15T15:05:00",
+        "description": "Sieci bayesowskie\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/9\nProwadzący:  Tomasz Gutowski",
+        "allDay": false,
+        "color": "#477CB2"
+    },
+    {
+        "title": "Clc (w)",
+        "start": "2024-10-11T11:40:00",
+        "end": "2024-10-11T13:15:00",
+        "description": "Cloud computing\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący:  Tomasz Gutowski",
+        "allDay": false,
+        "color": "#7C47B2"
+    },
+    {
+        "title": "Mia (w)",
+        "start": "2024-10-24T13:30:00",
+        "end": "2024-10-24T15:05:00",
+        "description": "Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Robert Waszkowski",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "Mia (w)",
+        "start": "2024-10-17T13:30:00",
+        "end": "2024-10-17T15:05:00",
+        "description": "Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Robert Waszkowski",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "Mia (P)",
+        "start": "2025-01-16T16:00:00",
+        "end": "2025-01-16T17:35:00",
+        "description": "Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Projekt\nNr zajęć: 4/8\nProwadzący: dr inż. Robert Waszkowski",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "Assp (L)",
+        "start": "2025-04-02T08:00:00",
+        "end": "2025-04-02T09:35:00",
+        "description": "Analiza sieci społecznościowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: mgr inż. Marcin Perka",
+        "allDay": false,
+        "color": "#B247B2"
+    },
+    {
+        "title": "No (E)",
+        "start": "2025-02-04T08:00:00",
+        "end": "2025-02-04T09:35:00",
+        "description": "Niezawodność oprogramowania\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Kazimierz Worwa",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Muma (L)",
+        "start": "2025-01-17T11:40:00",
+        "end": "2025-01-17T13:15:00",
+        "description": "Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/9\nProwadzący: dr Jarosław Olejniczak",
+        "allDay": false,
+        "color": "#B27C47"
+    },
+    {
+        "title": "Gum (w)",
+        "start": "2024-10-03T11:40:00",
+        "end": "2024-10-03T13:15:00",
+        "description": "Głębokie uczenie maszynowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "Clc (L)",
+        "start": "2025-01-24T09:50:00",
+        "end": "2025-01-24T11:25:00",
+        "description": "Cloud computing\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/9\nProwadzący:  Tomasz Gutowski",
+        "allDay": false,
+        "color": "#7C47B2"
+    },
+    {
+        "title": "Muma (L)",
+        "start": "2024-11-15T13:30:00",
+        "end": "2024-11-15T15:05:00",
+        "description": "Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/9\nProwadzący: dr Jarosław Olejniczak",
+        "allDay": false,
+        "color": "#B27C47"
+    },
+    {
+        "title": "Assp (L)",
+        "start": "2025-04-02T09:50:00",
+        "end": "2025-04-02T11:25:00",
+        "description": "Analiza sieci społecznościowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: mgr inż. Marcin Perka",
+        "allDay": false,
+        "color": "#B247B2"
+    },
+    {
+        "title": "Assp (w)",
+        "start": "2025-04-01T13:30:00",
+        "end": "2025-04-01T15:05:00",
+        "description": "Analiza sieci społecznościowych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#B247B2"
+    },
+    {
+        "title": "Wmo (ć)",
+        "start": "2024-12-05T11:40:00",
+        "end": "2024-12-05T13:15:00",
+        "description": "Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/8\nProwadzący: prof. dr hab. inż. Andrzej Ameljańczyk",
+        "allDay": false,
+        "color": "#B2B247"
+    },
+    {
+        "title": "Assp (w)",
+        "start": "2025-03-03T13:30:00",
+        "end": "2025-03-03T15:05:00",
+        "description": "Analiza sieci społecznościowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#B247B2"
+    },
+    {
+        "title": "UML (L)",
+        "start": "2025-03-25T13:30:00",
+        "end": "2025-03-25T15:05:00",
+        "description": "Business modelling in UML\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: dr inż. Robert Waszkowski",
+        "allDay": false,
+        "color": "#B2477C"
+    },
+    {
+        "title": "Wmo (ć)",
+        "start": "2025-01-09T11:40:00",
+        "end": "2025-01-09T13:15:00",
+        "description": "Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/8\nProwadzący: prof. dr hab. inż. Andrzej Ameljańczyk",
+        "allDay": false,
+        "color": "#B2B247"
+    },
+    {
+        "title": "Miob (w)",
+        "start": "2025-03-10T13:30:00",
+        "end": "2025-03-10T15:05:00",
+        "description": "Metody inteligencji obliczeniowej\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr hab. inż. Andrzej Najgebauer",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "Muma (w)",
+        "start": "2025-01-22T11:40:00",
+        "end": "2025-01-22T13:15:00",
+        "description": "Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: dr Jarosław Olejniczak",
+        "allDay": false,
+        "color": "#B27C47"
+    },
+    {
+        "title": "Muma (w)",
+        "start": "2024-10-25T09:50:00",
+        "end": "2024-10-25T11:25:00",
+        "description": "Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: dr Jarosław Olejniczak",
+        "allDay": false,
+        "color": "#B27C47"
+    },
+    {
+        "title": "No (w)",
+        "start": "2024-11-15T09:50:00",
+        "end": "2024-11-15T11:25:00",
+        "description": "Niezawodność oprogramowania\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr hab. inż. Kazimierz Worwa",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "UML (L)",
+        "start": "2025-04-08T13:30:00",
+        "end": "2025-04-08T15:05:00",
+        "description": "Business modelling in UML\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: dr inż. Robert Waszkowski",
+        "allDay": false,
+        "color": "#B2477C"
+    },
+    {
+        "title": "Assp (L)",
+        "start": "2025-03-19T08:00:00",
+        "end": "2025-03-19T09:35:00",
+        "description": "Analiza sieci społecznościowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: mgr inż. Marcin Perka",
+        "allDay": false,
+        "color": "#B247B2"
+    },
+    {
+        "title": "Sbay (L)",
+        "start": "2024-12-13T11:40:00",
+        "end": "2024-12-13T13:15:00",
+        "description": "Sieci bayesowskie\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/9\nProwadzący:  Tomasz Gutowski",
+        "allDay": false,
+        "color": "#477CB2"
+    },
+    {
+        "title": "Muma (L)",
+        "start": "2024-12-20T13:30:00",
+        "end": "2024-12-20T15:05:00",
+        "description": "Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/9\nProwadzący: dr Jarosław Olejniczak",
+        "allDay": false,
+        "color": "#B27C47"
+    },
+    {
+        "title": "Muma (w)",
+        "start": "2024-10-11T09:50:00",
+        "end": "2024-10-11T11:25:00",
+        "description": "Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: dr Jarosław Olejniczak",
+        "allDay": false,
+        "color": "#B27C47"
+    },
+    {
+        "title": "Assp (L)",
+        "start": "2025-03-12T08:00:00",
+        "end": "2025-03-12T09:35:00",
+        "description": "Analiza sieci społecznościowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: mgr inż. Marcin Perka",
+        "allDay": false,
+        "color": "#B247B2"
+    },
+    {
+        "title": "Mia (w)",
+        "start": "2024-11-07T13:30:00",
+        "end": "2024-11-07T15:05:00",
+        "description": "Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Robert Waszkowski",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "Mia (E)",
+        "start": "2025-02-06T08:00:00",
+        "end": "2025-02-06T09:35:00",
+        "description": "Modelowanie i analiza procesów biznesowych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Robert Waszkowski",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "Muma (L)",
+        "start": "2025-01-31T11:40:00",
+        "end": "2025-01-31T13:15:00",
+        "description": "Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący: dr Jarosław Olejniczak",
+        "allDay": false,
+        "color": "#B27C47"
+    },
+    {
+        "title": "Clc (L)",
+        "start": "2025-01-29T11:40:00",
+        "end": "2025-01-29T13:15:00",
+        "description": "Cloud computing\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/9\nProwadzący:  Tomasz Gutowski",
+        "allDay": false,
+        "color": "#7C47B2"
+    },
+    {
+        "title": "No (L)",
+        "start": "2024-12-18T11:40:00",
+        "end": "2024-12-18T13:15:00",
+        "description": "Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: dr hab. inż. Kazimierz Worwa",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Clc (L)",
+        "start": "2024-12-06T08:00:00",
+        "end": "2024-12-06T09:35:00",
+        "description": "Cloud computing\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/9\nProwadzący:  Tomasz Gutowski",
+        "allDay": false,
+        "color": "#7C47B2"
+    },
+    {
+        "title": "No (w)",
+        "start": "2025-01-22T08:00:00",
+        "end": "2025-01-22T09:35:00",
+        "description": "Niezawodność oprogramowania\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr hab. inż. Kazimierz Worwa",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "UzW (L)",
+        "start": "2025-01-09T16:00:00",
+        "end": "2025-01-09T17:35:00",
+        "description": "Uczenie ze wzmocnieniem\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#47B27C"
+    },
+    {
+        "title": "Sbay (L)",
+        "start": "2025-01-08T13:30:00",
+        "end": "2025-01-08T15:05:00",
+        "description": "Sieci bayesowskie\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/9\nProwadzący:  Tomasz Gutowski",
+        "allDay": false,
+        "color": "#477CB2"
+    },
+    {
+        "title": "Gum (L)",
+        "start": "2025-01-09T08:00:00",
+        "end": "2025-01-09T09:35:00",
+        "description": "Głębokie uczenie maszynowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/9\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "Sbay (w)",
+        "start": "2024-12-05T16:00:00",
+        "end": "2024-12-05T17:35:00",
+        "description": "Sieci bayesowskie\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: dr hab. inż. Ryszard Antkiewicz",
+        "allDay": false,
+        "color": "#477CB2"
+    },
+    {
+        "title": "Gum (w)",
+        "start": "2024-11-21T13:30:00",
+        "end": "2024-11-21T15:05:00",
+        "description": "Głębokie uczenie maszynowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "Miob (L)",
+        "start": "2025-03-11T09:50:00",
+        "end": "2025-03-11T11:25:00",
+        "description": "Metody inteligencji obliczeniowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: mgr inż. Przemysław Czuba",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "Wmo (w)",
+        "start": "2024-10-24T09:50:00",
+        "end": "2024-10-24T11:25:00",
+        "description": "Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: prof. dr hab. inż. Andrzej Ameljańczyk",
+        "allDay": false,
+        "color": "#B2B247"
+    },
+    {
+        "title": "Mia (Inne)",
+        "start": "2025-02-20T08:00:00",
+        "end": "2025-02-20T09:35:00",
+        "description": "Modelowanie i analiza procesów biznesowych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Robert Waszkowski",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "Gum (w)",
+        "start": "2024-11-28T09:50:00",
+        "end": "2024-11-28T11:25:00",
+        "description": "Głębokie uczenie maszynowe\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "UzW (L)",
+        "start": "2025-01-09T13:30:00",
+        "end": "2025-01-09T15:05:00",
+        "description": "Uczenie ze wzmocnieniem\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#47B27C"
+    },
+    {
+        "title": "No (Inne)",
+        "start": "2025-02-18T08:00:00",
+        "end": "2025-02-18T09:35:00",
+        "description": "Niezawodność oprogramowania\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. inż. Kazimierz Worwa",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Miob (L)",
+        "start": "2025-03-25T09:50:00",
+        "end": "2025-03-25T11:25:00",
+        "description": "Metody inteligencji obliczeniowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: mgr inż. Przemysław Czuba",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "Wmo (ć)",
+        "start": "2024-12-12T11:40:00",
+        "end": "2024-12-12T13:15:00",
+        "description": "Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/8\nProwadzący: prof. dr hab. inż. Andrzej Ameljańczyk",
+        "allDay": false,
+        "color": "#B2B247"
+    },
+    {
+        "title": "UzW (L)",
+        "start": "2025-01-16T09:50:00",
+        "end": "2025-01-16T11:25:00",
+        "description": "Uczenie ze wzmocnieniem\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#47B27C"
+    },
+    {
+        "title": "UzW (w)",
+        "start": "2024-11-21T16:00:00",
+        "end": "2024-11-21T17:35:00",
+        "description": "Uczenie ze wzmocnieniem\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#47B27C"
+    },
+    {
+        "title": "Miob (L)",
+        "start": "2025-03-25T08:00:00",
+        "end": "2025-03-25T09:35:00",
+        "description": "Metody inteligencji obliczeniowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: mgr inż. Przemysław Czuba",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "Wmo (ć)",
+        "start": "2024-12-19T11:40:00",
+        "end": "2024-12-19T13:15:00",
+        "description": "Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/8\nProwadzący: prof. dr hab. inż. Andrzej Ameljańczyk",
+        "allDay": false,
+        "color": "#B2B247"
+    },
+    {
+        "title": "UzW (L)",
+        "start": "2025-01-30T08:00:00",
+        "end": "2025-01-30T09:35:00",
+        "description": "Uczenie ze wzmocnieniem\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#47B27C"
+    },
+    {
+        "title": "Assp (L)",
+        "start": "2025-03-19T09:50:00",
+        "end": "2025-03-19T11:25:00",
+        "description": "Analiza sieci społecznościowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: mgr inż. Marcin Perka",
+        "allDay": false,
+        "color": "#B247B2"
+    },
+    {
+        "title": "Clc (w)",
+        "start": "2024-10-11T13:30:00",
+        "end": "2024-10-11T15:05:00",
+        "description": "Cloud computing\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący:  Tomasz Gutowski",
+        "allDay": false,
+        "color": "#7C47B2"
+    },
+    {
+        "title": "Clc (L)",
+        "start": "2025-01-29T13:30:00",
+        "end": "2025-01-29T15:05:00",
+        "description": "Cloud computing\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący:  Tomasz Gutowski",
+        "allDay": false,
+        "color": "#7C47B2"
+    },
+    {
+        "title": "No (L)",
+        "start": "2025-01-24T13:30:00",
+        "end": "2025-01-24T15:05:00",
+        "description": "Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: dr hab. inż. Kazimierz Worwa",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Mia (P)",
+        "start": "2025-01-23T13:30:00",
+        "end": "2025-01-23T15:05:00",
+        "description": "Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Projekt\nNr zajęć: 6/8\nProwadzący: dr inż. Robert Waszkowski",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "Mia (w)",
+        "start": "2024-10-24T11:40:00",
+        "end": "2024-10-24T13:15:00",
+        "description": "Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Robert Waszkowski",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "No (w)",
+        "start": "2024-11-08T09:50:00",
+        "end": "2024-11-08T11:25:00",
+        "description": "Niezawodność oprogramowania\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr hab. inż. Kazimierz Worwa",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "No (w)",
+        "start": "2024-11-15T08:00:00",
+        "end": "2024-11-15T09:35:00",
+        "description": "Niezawodność oprogramowania\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr hab. inż. Kazimierz Worwa",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "UML (L)",
+        "start": "2025-03-19T13:30:00",
+        "end": "2025-03-19T15:05:00",
+        "description": "Business modelling in UML\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: dr inż. Robert Waszkowski",
+        "allDay": false,
+        "color": "#B2477C"
+    },
+    {
+        "title": "Sbay (w)",
+        "start": "2024-11-14T08:00:00",
+        "end": "2024-11-14T09:35:00",
+        "description": "Sieci bayesowskie\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: dr hab. inż. Ryszard Antkiewicz",
+        "allDay": false,
+        "color": "#477CB2"
+    },
+    {
+        "title": "Muma (L)",
+        "start": "2024-10-25T13:30:00",
+        "end": "2024-10-25T15:05:00",
+        "description": "Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/9\nProwadzący: dr Jarosław Olejniczak",
+        "allDay": false,
+        "color": "#B27C47"
+    },
+    {
+        "title": "Gum (L)",
+        "start": "2025-01-23T09:50:00",
+        "end": "2025-01-23T11:25:00",
+        "description": "Głębokie uczenie maszynowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "TP (Inne)",
+        "start": "2025-04-10T11:40:00",
+        "end": "2025-04-10T13:15:00",
+        "description": "Targi pracy WAT\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "No (w)",
+        "start": "2024-10-31T08:00:00",
+        "end": "2024-10-31T09:35:00",
+        "description": "Niezawodność oprogramowania\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr hab. inż. Kazimierz Worwa",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "UML (L)",
+        "start": "2025-03-19T11:40:00",
+        "end": "2025-03-19T13:15:00",
+        "description": "Business modelling in UML\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: dr inż. Robert Waszkowski",
+        "allDay": false,
+        "color": "#B2477C"
+    },
+    {
+        "title": "Assp (L)",
+        "start": "2025-04-16T09:50:00",
+        "end": "2025-04-16T11:25:00",
+        "description": "Analiza sieci społecznościowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr inż. Marcin Perka",
+        "allDay": false,
+        "color": "#B247B2"
+    },
+    {
+        "title": "Gum (L)",
+        "start": "2025-01-09T09:50:00",
+        "end": "2025-01-09T11:25:00",
+        "description": "Głębokie uczenie maszynowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/9\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "Sbay (L)",
+        "start": "2024-12-13T13:30:00",
+        "end": "2024-12-13T15:05:00",
+        "description": "Sieci bayesowskie\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/9\nProwadzący:  Tomasz Gutowski",
+        "allDay": false,
+        "color": "#477CB2"
+    },
+    {
+        "title": "UzW (L)",
+        "start": "2024-12-19T16:00:00",
+        "end": "2024-12-19T17:35:00",
+        "description": "Uczenie ze wzmocnieniem\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#47B27C"
+    },
+    {
+        "title": "Miob (w)",
+        "start": "2025-03-10T16:00:00",
+        "end": "2025-03-10T17:35:00",
+        "description": "Metody inteligencji obliczeniowej\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr hab. inż. Andrzej Najgebauer",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "UzW (w)",
+        "start": "2024-12-05T13:30:00",
+        "end": "2024-12-05T15:05:00",
+        "description": "Uczenie ze wzmocnieniem\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#47B27C"
+    },
+    {
+        "title": "Miob (L)",
+        "start": "2025-03-18T09:50:00",
+        "end": "2025-03-18T11:25:00",
+        "description": "Metody inteligencji obliczeniowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: mgr inż. Przemysław Czuba",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "Muma (L)",
+        "start": "2024-10-25T11:40:00",
+        "end": "2024-10-25T13:15:00",
+        "description": "Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/9\nProwadzący: dr Jarosław Olejniczak",
+        "allDay": false,
+        "color": "#B27C47"
+    },
+    {
+        "title": "Miob (w)",
+        "start": "2025-03-31T13:30:00",
+        "end": "2025-03-31T15:05:00",
+        "description": "Metody inteligencji obliczeniowej\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr hab. inż. Andrzej Najgebauer",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "UzW (L)",
+        "start": "2025-01-16T08:00:00",
+        "end": "2025-01-16T09:35:00",
+        "description": "Uczenie ze wzmocnieniem\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#47B27C"
+    },
+    {
+        "title": "Wmo (w)",
+        "start": "2024-11-07T09:50:00",
+        "end": "2024-11-07T11:25:00",
+        "description": "Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: prof. dr hab. inż. Andrzej Ameljańczyk",
+        "allDay": false,
+        "color": "#B2B247"
+    },
+    {
+        "title": "Sbay (L)",
+        "start": "2025-01-08T11:40:00",
+        "end": "2025-01-08T13:15:00",
+        "description": "Sieci bayesowskie\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/9\nProwadzący:  Tomasz Gutowski",
+        "allDay": false,
+        "color": "#477CB2"
+    },
+    {
+        "title": "Wmo (ć)",
+        "start": "2024-11-21T11:40:00",
+        "end": "2024-11-21T13:15:00",
+        "description": "Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/8\nProwadzący: prof. dr hab. inż. Andrzej Ameljańczyk",
+        "allDay": false,
+        "color": "#B2B247"
+    },
+    {
+        "title": "Wmo (w)",
+        "start": "2024-11-14T09:50:00",
+        "end": "2024-11-14T11:25:00",
+        "description": "Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: prof. dr hab. inż. Andrzej Ameljańczyk",
+        "allDay": false,
+        "color": "#B2B247"
+    },
+    {
+        "title": "UML (w)",
+        "start": "2025-03-18T11:40:00",
+        "end": "2025-03-18T13:15:00",
+        "description": "Business modelling in UML\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr inż. Robert Waszkowski",
+        "allDay": false,
+        "color": "#B2477C"
+    },
+    {
+        "title": "Sbay (w)",
+        "start": "2024-12-12T08:00:00",
+        "end": "2024-12-12T09:35:00",
+        "description": "Sieci bayesowskie\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: dr hab. inż. Ryszard Antkiewicz",
+        "allDay": false,
+        "color": "#477CB2"
+    },
+    {
+        "title": "Wmo (w)",
+        "start": "2024-10-17T09:50:00",
+        "end": "2024-10-17T11:25:00",
+        "description": "Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: prof. dr hab. inż. Andrzej Ameljańczyk",
+        "allDay": false,
+        "color": "#B2B247"
+    },
+    {
+        "title": "No (L)",
+        "start": "2024-12-18T09:50:00",
+        "end": "2024-12-18T11:25:00",
+        "description": "Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: dr hab. inż. Kazimierz Worwa",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "UzW (w)",
+        "start": "2024-11-28T16:00:00",
+        "end": "2024-11-28T17:35:00",
+        "description": "Uczenie ze wzmocnieniem\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#47B27C"
+    },
+    {
+        "title": "UzW (w)",
+        "start": "2024-11-07T16:00:00",
+        "end": "2024-11-07T17:35:00",
+        "description": "Uczenie ze wzmocnieniem\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#47B27C"
+    },
+    {
+        "title": "UzW (L)",
+        "start": "2025-01-30T09:50:00",
+        "end": "2025-01-30T11:25:00",
+        "description": "Uczenie ze wzmocnieniem\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#47B27C"
+    },
+    {
+        "title": "Mia (P)",
+        "start": "2025-01-30T11:40:00",
+        "end": "2025-01-30T13:15:00",
+        "description": "Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Projekt\nNr zajęć: 7/8\nProwadzący: dr inż. Robert Waszkowski",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "Sbay (L)",
+        "start": "2025-01-15T11:40:00",
+        "end": "2025-01-15T13:15:00",
+        "description": "Sieci bayesowskie\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/9\nProwadzący:  Tomasz Gutowski",
+        "allDay": false,
+        "color": "#477CB2"
+    },
+    {
+        "title": "Wmo (ć)",
+        "start": "2025-01-16T11:40:00",
+        "end": "2025-01-16T13:15:00",
+        "description": "Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/8\nProwadzący: prof. dr hab. inż. Andrzej Ameljańczyk",
+        "allDay": false,
+        "color": "#B2B247"
+    },
+    {
+        "title": "Gum (w)",
+        "start": "2024-11-14T13:30:00",
+        "end": "2024-11-14T15:05:00",
+        "description": "Głębokie uczenie maszynowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "Gum (L)",
+        "start": "2024-12-19T09:50:00",
+        "end": "2024-12-19T11:25:00",
+        "description": "Głębokie uczenie maszynowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/9\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "No (L)",
+        "start": "2024-12-20T08:00:00",
+        "end": "2024-12-20T09:35:00",
+        "description": "Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: dr hab. inż. Kazimierz Worwa",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Mia (w)",
+        "start": "2024-11-21T09:50:00",
+        "end": "2024-11-21T11:25:00",
+        "description": "Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Robert Waszkowski",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "Gum (w)",
+        "start": "2024-10-31T11:40:00",
+        "end": "2024-10-31T13:15:00",
+        "description": "Głębokie uczenie maszynowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "No (w)",
+        "start": "2024-11-28T08:00:00",
+        "end": "2024-11-28T09:35:00",
+        "description": "Niezawodność oprogramowania\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr hab. inż. Kazimierz Worwa",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Wmo (w)",
+        "start": "2024-10-10T09:50:00",
+        "end": "2024-10-10T11:25:00",
+        "description": "Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: prof. dr hab. inż. Andrzej Ameljańczyk",
+        "allDay": false,
+        "color": "#B2B247"
+    },
+    {
+        "title": "No (L)",
+        "start": "2025-01-10T11:40:00",
+        "end": "2025-01-10T13:15:00",
+        "description": "Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: dr hab. inż. Kazimierz Worwa",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Mia (P)",
+        "start": "2024-12-12T13:30:00",
+        "end": "2024-12-12T15:05:00",
+        "description": "Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Projekt\nNr zajęć: 1/8\nProwadzący: dr inż. Robert Waszkowski",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "Gum (L)",
+        "start": "2024-11-28T13:30:00",
+        "end": "2024-11-28T15:05:00",
+        "description": "Głębokie uczenie maszynowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/9\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "Miob (L)",
+        "start": "2025-04-01T09:50:00",
+        "end": "2025-04-01T11:25:00",
+        "description": "Metody inteligencji obliczeniowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: mgr inż. Przemysław Czuba",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "Muma (w)",
+        "start": "2025-01-22T13:30:00",
+        "end": "2025-01-22T15:05:00",
+        "description": "Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: dr Jarosław Olejniczak",
+        "allDay": false,
+        "color": "#B27C47"
+    },
+    {
+        "title": "No (L)",
+        "start": "2025-01-10T13:30:00",
+        "end": "2025-01-10T15:05:00",
+        "description": "Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: dr hab. inż. Kazimierz Worwa",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Wmo (ć)",
+        "start": "2024-11-14T11:40:00",
+        "end": "2024-11-14T13:15:00",
+        "description": "Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/8\nProwadzący: prof. dr hab. inż. Andrzej Ameljańczyk",
+        "allDay": false,
+        "color": "#B2B247"
+    },
+    {
+        "title": "Mia (w)",
+        "start": "2024-11-07T11:40:00",
+        "end": "2024-11-07T13:15:00",
+        "description": "Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Robert Waszkowski",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "Muma (L)",
+        "start": "2024-11-15T16:00:00",
+        "end": "2024-11-15T17:35:00",
+        "description": "Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/9\nProwadzący: dr Jarosław Olejniczak",
+        "allDay": false,
+        "color": "#B27C47"
+    },
+    {
+        "title": "Miob (w)",
+        "start": "2025-03-17T13:30:00",
+        "end": "2025-03-17T15:05:00",
+        "description": "Metody inteligencji obliczeniowej\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr hab. inż. Andrzej Najgebauer",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "Sbay (L)",
+        "start": "2025-01-29T09:50:00",
+        "end": "2025-01-29T11:25:00",
+        "description": "Sieci bayesowskie\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący:  Tomasz Gutowski",
+        "allDay": false,
+        "color": "#477CB2"
+    },
+    {
+        "title": "Clc (w)",
+        "start": "2024-10-16T09:50:00",
+        "end": "2024-10-16T11:25:00",
+        "description": "Cloud computing\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący:  Tomasz Gutowski",
+        "allDay": false,
+        "color": "#7C47B2"
+    },
+    {
+        "title": "Gum (L)",
+        "start": "2025-01-23T08:00:00",
+        "end": "2025-01-23T09:35:00",
+        "description": "Głębokie uczenie maszynowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/9\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "Mia (P)",
+        "start": "2025-01-30T13:30:00",
+        "end": "2025-01-30T15:05:00",
+        "description": "Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Projekt\nNr zajęć: 8/8\nProwadzący: dr inż. Robert Waszkowski",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "UML (L)",
+        "start": "2025-03-25T11:40:00",
+        "end": "2025-03-25T13:15:00",
+        "description": "Business modelling in UML\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: dr inż. Robert Waszkowski",
+        "allDay": false,
+        "color": "#B2477C"
+    },
+    {
+        "title": "Assp (w)",
+        "start": "2025-03-03T11:40:00",
+        "end": "2025-03-03T13:15:00",
+        "description": "Analiza sieci społecznościowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#B247B2"
+    },
+    {
+        "title": "UML (L)",
+        "start": "2025-04-02T11:40:00",
+        "end": "2025-04-02T13:15:00",
+        "description": "Business modelling in UML\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: dr inż. Robert Waszkowski",
+        "allDay": false,
+        "color": "#B2477C"
+    },
+    {
+        "title": "Mia (P)",
+        "start": "2024-12-12T16:00:00",
+        "end": "2024-12-12T17:35:00",
+        "description": "Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Projekt\nNr zajęć: 2/8\nProwadzący: dr inż. Robert Waszkowski",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "Miob (L)",
+        "start": "2025-04-08T08:00:00",
+        "end": "2025-04-08T09:35:00",
+        "description": "Metody inteligencji obliczeniowej\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr inż. Przemysław Czuba",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "UML (L)",
+        "start": "2025-04-15T13:30:00",
+        "end": "2025-04-15T15:05:00",
+        "description": "Business modelling in UML\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: dr inż. Robert Waszkowski",
+        "allDay": false,
+        "color": "#B2477C"
+    },
+    {
+        "title": "Clc (L)",
+        "start": "2025-01-10T09:50:00",
+        "end": "2025-01-10T11:25:00",
+        "description": "Cloud computing\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/9\nProwadzący:  Tomasz Gutowski",
+        "allDay": false,
+        "color": "#7C47B2"
+    },
+    {
+        "title": "Mia (P)",
+        "start": "2025-01-16T13:30:00",
+        "end": "2025-01-16T15:05:00",
+        "description": "Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Projekt\nNr zajęć: 3/8\nProwadzący: dr inż. Robert Waszkowski",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "Miob (w)",
+        "start": "2025-03-24T13:30:00",
+        "end": "2025-03-24T15:05:00",
+        "description": "Metody inteligencji obliczeniowej\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr hab. inż. Andrzej Najgebauer",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "Gum (L)",
+        "start": "2024-12-19T08:00:00",
+        "end": "2024-12-19T09:35:00",
+        "description": "Głębokie uczenie maszynowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/9\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "Miob (w)",
+        "start": "2025-04-14T13:30:00",
+        "end": "2025-04-14T15:05:00",
+        "description": "Metody inteligencji obliczeniowej\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr hab. inż. Andrzej Najgebauer",
+        "allDay": false,
+        "color": "#7CB247"
+    },
+    {
+        "title": "Clc (L)",
+        "start": "2025-01-17T08:00:00",
+        "end": "2025-01-17T09:35:00",
+        "description": "Cloud computing\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/9\nProwadzący:  Tomasz Gutowski",
+        "allDay": false,
+        "color": "#7C47B2"
+    },
+    {
+        "title": "Gum (L)",
+        "start": "2024-12-05T08:00:00",
+        "end": "2024-12-05T09:35:00",
+        "description": "Głębokie uczenie maszynowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/9\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "Mia (w)",
+        "start": "2024-10-17T11:40:00",
+        "end": "2024-10-17T13:15:00",
+        "description": "Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Robert Waszkowski",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "Wmo (w)",
+        "start": "2024-10-31T09:50:00",
+        "end": "2024-10-31T11:25:00",
+        "description": "Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: prof. dr hab. inż. Andrzej Ameljańczyk",
+        "allDay": false,
+        "color": "#B2B247"
+    },
+    {
+        "title": "UML (L)",
+        "start": "2025-04-08T11:40:00",
+        "end": "2025-04-08T13:15:00",
+        "description": "Business modelling in UML\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: dr inż. Robert Waszkowski",
+        "allDay": false,
+        "color": "#B2477C"
+    },
+    {
+        "title": "Assp (w)",
+        "start": "2025-03-18T13:30:00",
+        "end": "2025-03-18T15:05:00",
+        "description": "Analiza sieci społecznościowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący:  Rafał Kasprzyk",
+        "allDay": false,
+        "color": "#B247B2"
+    },
+    {
+        "title": "Muma (w)",
+        "start": "2024-11-15T11:40:00",
+        "end": "2024-11-15T13:15:00",
+        "description": "Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: dr Jarosław Olejniczak",
+        "allDay": false,
+        "color": "#B27C47"
+    },
+    {
+        "title": "Wmo (ć)",
+        "start": "2024-11-28T11:40:00",
+        "end": "2024-11-28T13:15:00",
+        "description": "Wielokr. metody oceny i optymalizacji\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/8\nProwadzący: prof. dr hab. inż. Andrzej Ameljańczyk",
+        "allDay": false,
+        "color": "#B2B247"
+    },
+    {
+        "title": "No (L)",
+        "start": "2025-01-24T11:40:00",
+        "end": "2025-01-24T13:15:00",
+        "description": "Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: dr hab. inż. Kazimierz Worwa",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Clc (L)",
+        "start": "2025-01-17T09:50:00",
+        "end": "2025-01-17T11:25:00",
+        "description": "Cloud computing\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/9\nProwadzący:  Tomasz Gutowski",
+        "allDay": false,
+        "color": "#7C47B2"
+    },
+    {
+        "title": "No (L)",
+        "start": "2024-12-20T09:50:00",
+        "end": "2024-12-20T11:25:00",
+        "description": "Niezawodność oprogramowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: dr hab. inż. Kazimierz Worwa",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "UML (w)",
+        "start": "2025-04-01T11:40:00",
+        "end": "2025-04-01T13:15:00",
+        "description": "Business modelling in UML\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr inż. Robert Waszkowski",
+        "allDay": false,
+        "color": "#B2477C"
+    },
+    {
+        "title": "UzW (w)",
+        "start": "2024-10-03T13:30:00",
+        "end": "2024-10-03T15:05:00",
+        "description": "Uczenie ze wzmocnieniem\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#47B27C"
+    },
+    {
+        "title": "UzW (w)",
+        "start": "2024-11-14T16:00:00",
+        "end": "2024-11-14T17:35:00",
+        "description": "Uczenie ze wzmocnieniem\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#47B27C"
+    },
+    {
+        "title": "Mia (P)",
+        "start": "2025-01-23T11:40:00",
+        "end": "2025-01-23T13:15:00",
+        "description": "Modelowanie i analiza procesów biznesowych\nRodzaj zajęć: Projekt\nNr zajęć: 5/8\nProwadzący: dr inż. Robert Waszkowski",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "Clc (L)",
+        "start": "2024-12-06T09:50:00",
+        "end": "2024-12-06T11:25:00",
+        "description": "Cloud computing\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/9\nProwadzący:  Tomasz Gutowski",
+        "allDay": false,
+        "color": "#7C47B2"
+    },
+    {
+        "title": "UML (w)",
+        "start": "2025-04-15T11:40:00",
+        "end": "2025-04-15T13:15:00",
+        "description": "Business modelling in UML\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr inż. Robert Waszkowski",
+        "allDay": false,
+        "color": "#B2477C"
+    },
+    {
+        "title": "UzW (L)",
+        "start": "2024-12-19T13:30:00",
+        "end": "2024-12-19T15:05:00",
+        "description": "Uczenie ze wzmocnieniem\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#47B27C"
+    },
+    {
+        "title": "Gum (L)",
+        "start": "2024-12-05T09:50:00",
+        "end": "2024-12-05T11:25:00",
+        "description": "Głębokie uczenie maszynowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/9\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "Clc (L)",
+        "start": "2025-01-10T08:00:00",
+        "end": "2025-01-10T09:35:00",
+        "description": "Cloud computing\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/9\nProwadzący:  Tomasz Gutowski",
+        "allDay": false,
+        "color": "#7C47B2"
+    },
+    {
+        "title": "UML (L)",
+        "start": "2025-04-15T16:00:00",
+        "end": "2025-04-15T17:35:00",
+        "description": "Business modelling in UML\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: dr inż. Robert Waszkowski",
+        "allDay": false,
+        "color": "#B2477C"
+    },
+    {
+        "title": "UzW (w)",
+        "start": "2024-10-10T13:30:00",
+        "end": "2024-10-10T15:05:00",
+        "description": "Uczenie ze wzmocnieniem\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#47B27C"
+    }
+]

@@ -1,0 +1,3138 @@
+[
+    {
+        "title": "WF (ć)",
+        "start": "2025-01-15T09:50:00",
+        "end": "2025-01-15T11:25:00",
+        "description": "Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B247B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-30T19:40:00",
+        "end": "2024-12-30T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 116/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "WdS (w)",
+        "start": "2024-11-15T11:40:00",
+        "end": "2024-11-15T13:15:00",
+        "description": "Wprowadzenie do studiowania\nRodzaj zajęć: Wykład\nNr zajęć: 3/3\nProwadzący: dr Ewa Łakoma",
+        "allDay": false,
+        "color": "#B26B47"
+    },
+    {
+        "title": "WDM (ć)",
+        "start": "2024-12-02T13:30:00",
+        "end": "2024-12-02T15:05:00",
+        "description": "Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476B"
+    },
+    {
+        "title": "WF (ć)",
+        "start": "2024-11-13T09:50:00",
+        "end": "2024-11-13T11:25:00",
+        "description": "Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B247B2"
+    },
+    {
+        "title": "M1 (ć)",
+        "start": "2024-12-03T08:00:00",
+        "end": "2024-12-03T09:35:00",
+        "description": "Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/19\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#476BB2"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2024-10-24T19:40:00",
+        "end": "2024-10-24T21:15:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-01T09:50:00",
+        "end": "2024-11-01T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 27/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-09-29T16:00:00",
+        "end": "2024-09-29T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 12/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2025-01-23T16:00:00",
+        "end": "2025-01-23T17:35:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B28E47"
+    },
+    {
+        "title": "WF (ć)",
+        "start": "2024-10-23T09:50:00",
+        "end": "2024-10-23T11:25:00",
+        "description": "Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B247B2"
+    },
+    {
+        "title": "Mat2 (ć)",
+        "start": "2025-01-14T13:30:00",
+        "end": "2025-01-14T15:05:00",
+        "description": "Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/17\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#6B47B2"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2024-11-28T19:40:00",
+        "end": "2024-11-28T21:15:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "M1 (ć)",
+        "start": "2024-10-29T09:50:00",
+        "end": "2024-10-29T11:25:00",
+        "description": "Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/19\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#476BB2"
+    },
+    {
+        "title": "PGI (w)",
+        "start": "2024-11-04T13:30:00",
+        "end": "2024-11-04T15:05:00",
+        "description": "Podstawy grafiki inżynierskiej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-29T19:40:00",
+        "end": "2024-11-29T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 60/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "M1 (w)",
+        "start": "2024-11-13T08:00:00",
+        "end": "2024-11-13T09:35:00",
+        "description": "Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 12/15\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#476BB2"
+    },
+    {
+        "title": "Mat2 (w)",
+        "start": "2024-12-04T08:00:00",
+        "end": "2024-12-04T09:35:00",
+        "description": "Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 4/17\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#6B47B2"
+    },
+    {
+        "title": "M1 (w)",
+        "start": "2024-11-20T08:00:00",
+        "end": "2024-11-20T09:35:00",
+        "description": "Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 14/15\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#476BB2"
+    },
+    {
+        "title": ".BHP. (w)",
+        "start": "2024-10-09T17:50:00",
+        "end": "2024-10-09T19:25:00",
+        "description": ".Bezpieczeństwo i higiena pracy.\nRodzaj zajęć: Wykład\nNr zajęć: 1/2\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-30T16:00:00",
+        "end": "2024-12-30T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 114/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "PZiP (w)",
+        "start": "2024-11-19T16:00:00",
+        "end": "2024-11-19T17:35:00",
+        "description": "Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B28E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-24T17:50:00",
+        "end": "2024-12-24T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 73/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-11T09:50:00",
+        "end": "2024-11-11T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 48/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "WF (ć)",
+        "start": "2024-11-27T09:50:00",
+        "end": "2024-11-27T11:25:00",
+        "description": "Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B247B2"
+    },
+    {
+        "title": "PzPRS (Inne)",
+        "start": "2024-11-04T09:50:00",
+        "end": "2024-11-04T11:25:00",
+        "description": "Poniedziałek z PRS\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Ez (w)",
+        "start": "2024-11-05T11:40:00",
+        "end": "2024-11-05T13:15:00",
+        "description": "Etyka zawodowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#8EB247"
+    },
+    {
+        "title": "M1 (w)",
+        "start": "2024-10-23T08:00:00",
+        "end": "2024-10-23T09:35:00",
+        "description": "Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 8/15\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#476BB2"
+    },
+    {
+        "title": "Ez (w)",
+        "start": "2024-10-15T11:40:00",
+        "end": "2024-10-15T13:15:00",
+        "description": "Etyka zawodowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#8EB247"
+    },
+    {
+        "title": "PGI (ć)",
+        "start": "2024-12-16T11:40:00",
+        "end": "2024-12-16T13:15:00",
+        "description": "Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/9\nProwadzący: -",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "WdS (w)",
+        "start": "2024-11-15T09:50:00",
+        "end": "2024-11-15T11:25:00",
+        "description": "Wprowadzenie do studiowania\nRodzaj zajęć: Wykład\nNr zajęć: 2/3\nProwadzący: dr Ewa Łakoma",
+        "allDay": false,
+        "color": "#B26B47"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-06T19:40:00",
+        "end": "2025-01-06T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 165/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "WF (ć)",
+        "start": "2024-10-09T09:50:00",
+        "end": "2024-10-09T11:25:00",
+        "description": "Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B247B2"
+    },
+    {
+        "title": "M1 (w)",
+        "start": "2024-10-07T09:50:00",
+        "end": "2024-10-07T11:25:00",
+        "description": "Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 3/15\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#476BB2"
+    },
+    {
+        "title": "PGI (w)",
+        "start": "2024-11-18T08:00:00",
+        "end": "2024-11-18T09:35:00",
+        "description": "Podstawy grafiki inżynierskiej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "WF (ć)",
+        "start": "2024-10-16T09:50:00",
+        "end": "2024-10-16T11:25:00",
+        "description": "Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B247B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-23T16:00:00",
+        "end": "2024-12-23T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 65/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "Wzp (ć)",
+        "start": "2024-11-06T11:40:00",
+        "end": "2024-11-06T13:15:00",
+        "description": "Wybrane zagadnienia prawa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący: -",
+        "allDay": false,
+        "color": "#478EB2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-28T11:40:00",
+        "end": "2024-12-28T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 98/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "Owi (Inne)",
+        "start": "2025-02-20T11:40:00",
+        "end": "2025-02-20T13:15:00",
+        "description": "Ochrona własności intelektualnych - (Zaliczenie poprawkowe.) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#8E47B2"
+    },
+    {
+        "title": "Wdi. (L)",
+        "start": "2024-11-07T13:30:00",
+        "end": "2024-11-07T15:05:00",
+        "description": "Wprowadzenie do informatyki. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/11\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B26B"
+    },
+    {
+        "title": "Owi (w)",
+        "start": "2024-11-14T11:40:00",
+        "end": "2024-11-14T13:15:00",
+        "description": "Ochrona własności intelektualnych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#8E47B2"
+    },
+    {
+        "title": "PGI (Inne)",
+        "start": "2025-02-11T08:00:00",
+        "end": "2025-02-11T09:35:00",
+        "description": "Podstawy grafiki inżynierskiej - (Zaliczenie poprawkowe.) -\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-23T19:40:00",
+        "end": "2024-12-23T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 67/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-09-28T17:50:00",
+        "end": "2024-09-28T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 6/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "Wdi. (L)",
+        "start": "2024-11-18T13:30:00",
+        "end": "2024-11-18T15:05:00",
+        "description": "Wprowadzenie do informatyki. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/11\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B26B"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-28T09:50:00",
+        "end": "2024-12-28T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 97/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "Wzp (ć)",
+        "start": "2024-10-30T11:40:00",
+        "end": "2024-10-30T13:15:00",
+        "description": "Wybrane zagadnienia prawa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący: -",
+        "allDay": false,
+        "color": "#478EB2"
+    },
+    {
+        "title": "M1 (Inne)",
+        "start": "2025-02-17T11:40:00",
+        "end": "2025-02-17T13:15:00",
+        "description": "Matematyka 1\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#476BB2"
+    },
+    {
+        "title": "Wdi. (L)",
+        "start": "2025-01-07T11:40:00",
+        "end": "2025-01-07T13:15:00",
+        "description": "Wprowadzenie do informatyki. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/11\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B26B"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-01T09:50:00",
+        "end": "2025-01-01T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 125/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-30T13:30:00",
+        "end": "2024-12-30T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 113/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-04T08:00:00",
+        "end": "2025-01-04T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 145/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-30T08:00:00",
+        "end": "2024-12-30T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 110/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-24T16:00:00",
+        "end": "2024-12-24T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 72/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-04T13:30:00",
+        "end": "2025-01-04T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 148/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-26T19:40:00",
+        "end": "2024-12-26T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 88/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "PGI (ć)",
+        "start": "2024-11-20T11:40:00",
+        "end": "2024-11-20T13:15:00",
+        "description": "Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/9\nProwadzący: -",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "Ez (ć)",
+        "start": "2024-12-10T11:40:00",
+        "end": "2024-12-10T13:15:00",
+        "description": "Etyka zawodowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/2\nProwadzący: -",
+        "allDay": false,
+        "color": "#8EB247"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2024-10-31T16:00:00",
+        "end": "2024-10-31T17:35:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B28E47"
+    },
+    {
+        "title": "Wdi. (w)",
+        "start": "2024-10-21T11:40:00",
+        "end": "2024-10-21T13:15:00",
+        "description": "Wprowadzenie do informatyki. - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B26B"
+    },
+    {
+        "title": "M1 (E)",
+        "start": "2025-02-03T11:40:00",
+        "end": "2025-02-03T13:15:00",
+        "description": "Matematyka 1\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#476BB2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-23T17:50:00",
+        "end": "2024-12-23T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 66/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "Mat2 (ć)",
+        "start": "2025-01-15T11:40:00",
+        "end": "2025-01-15T13:15:00",
+        "description": "Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/17\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#6B47B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-05T13:30:00",
+        "end": "2025-01-05T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 155/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-09-28T13:30:00",
+        "end": "2024-09-28T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 4/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2025-01-09T19:40:00",
+        "end": "2025-01-09T21:15:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-25T08:00:00",
+        "end": "2024-12-25T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 75/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "PZiP (w)",
+        "start": "2024-10-15T16:00:00",
+        "end": "2024-10-15T17:35:00",
+        "description": "Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B28E"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2024-12-19T16:00:00",
+        "end": "2024-12-19T17:35:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B28E47"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2024-12-05T16:00:00",
+        "end": "2024-12-05T17:35:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B28E47"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-03T16:00:00",
+        "end": "2024-11-03T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 44/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "PGI (ć)",
+        "start": "2024-12-09T11:40:00",
+        "end": "2024-12-09T13:15:00",
+        "description": "Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/9\nProwadzący: -",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "WF (ć)",
+        "start": "2025-01-08T09:50:00",
+        "end": "2025-01-08T11:25:00",
+        "description": "Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B247B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-04T19:40:00",
+        "end": "2025-01-04T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 151/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2025-01-16T16:00:00",
+        "end": "2025-01-16T17:35:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B28E47"
+    },
+    {
+        "title": "WF (ć)",
+        "start": "2025-01-22T09:50:00",
+        "end": "2025-01-22T11:25:00",
+        "description": "Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B247B2"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2024-12-05T19:40:00",
+        "end": "2024-12-05T21:15:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-27T16:00:00",
+        "end": "2024-12-27T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 93/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-23T09:50:00",
+        "end": "2024-12-23T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 62/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "Wzp (w)",
+        "start": "2024-11-12T13:30:00",
+        "end": "2024-11-12T15:05:00",
+        "description": "Wybrane zagadnienia prawa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#478EB2"
+    },
+    {
+        "title": "Owi (w)",
+        "start": "2024-10-24T11:40:00",
+        "end": "2024-10-24T13:15:00",
+        "description": "Ochrona własności intelektualnych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#8E47B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-11T11:40:00",
+        "end": "2024-11-11T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 49/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "Wdi. (w)",
+        "start": "2024-10-14T11:40:00",
+        "end": "2024-10-14T13:15:00",
+        "description": "Wprowadzenie do informatyki. - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B26B"
+    },
+    {
+        "title": "Mat2 (w)",
+        "start": "2025-01-22T08:00:00",
+        "end": "2025-01-22T09:35:00",
+        "description": "Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 15/17\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#6B47B2"
+    },
+    {
+        "title": "Wzp (w)",
+        "start": "2024-10-15T13:30:00",
+        "end": "2024-10-15T15:05:00",
+        "description": "Wybrane zagadnienia prawa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#478EB2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-02T09:50:00",
+        "end": "2025-01-02T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 132/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-27T19:40:00",
+        "end": "2024-12-27T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 95/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-26T08:00:00",
+        "end": "2024-12-26T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 82/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-03T11:40:00",
+        "end": "2024-11-03T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 42/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "WF (ć)",
+        "start": "2024-10-30T09:50:00",
+        "end": "2024-10-30T11:25:00",
+        "description": "Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B247B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-01T13:30:00",
+        "end": "2024-11-01T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 29/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-01T11:40:00",
+        "end": "2025-01-01T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 126/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2024-10-17T19:40:00",
+        "end": "2024-10-17T21:15:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-25T13:30:00",
+        "end": "2024-12-25T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 78/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "Ez (w)",
+        "start": "2024-10-22T11:40:00",
+        "end": "2024-10-22T13:15:00",
+        "description": "Etyka zawodowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#8EB247"
+    },
+    {
+        "title": "Mat2 (E)",
+        "start": "2025-02-05T09:50:00",
+        "end": "2025-02-05T11:25:00",
+        "description": "Matematyka 2\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#6B47B2"
+    },
+    {
+        "title": "Mat2 (ć)",
+        "start": "2025-01-13T09:50:00",
+        "end": "2025-01-13T11:25:00",
+        "description": "Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/17\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#6B47B2"
+    },
+    {
+        "title": "WDM (ć)",
+        "start": "2024-11-13T11:40:00",
+        "end": "2024-11-13T13:15:00",
+        "description": "Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476B"
+    },
+    {
+        "title": "WF (ć)",
+        "start": "2024-11-20T09:50:00",
+        "end": "2024-11-20T11:25:00",
+        "description": "Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B247B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-29T08:00:00",
+        "end": "2024-11-29T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 54/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-26T09:50:00",
+        "end": "2024-12-26T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 83/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "Mat2 (w)",
+        "start": "2025-01-20T08:00:00",
+        "end": "2025-01-20T09:35:00",
+        "description": "Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 14/17\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#6B47B2"
+    },
+    {
+        "title": "PZiP (w)",
+        "start": "2024-10-29T16:00:00",
+        "end": "2024-10-29T17:35:00",
+        "description": "Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B28E"
+    },
+    {
+        "title": "Mat2 (ć)",
+        "start": "2025-01-22T11:40:00",
+        "end": "2025-01-22T13:15:00",
+        "description": "Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/17\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#6B47B2"
+    },
+    {
+        "title": "Wzp (w)",
+        "start": "2024-11-05T13:30:00",
+        "end": "2024-11-05T15:05:00",
+        "description": "Wybrane zagadnienia prawa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#478EB2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-11T13:30:00",
+        "end": "2024-11-11T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 50/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-03T13:30:00",
+        "end": "2025-01-03T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 141/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-09-30T13:30:00",
+        "end": "2024-09-30T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 18/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "Ez (Inne)",
+        "start": "2025-02-11T09:50:00",
+        "end": "2025-02-11T11:25:00",
+        "description": "Etyka zawodowa - (Zaliczenie poprawkowe.) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#8EB247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-03T17:50:00",
+        "end": "2025-01-03T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 143/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "PZiP (w)",
+        "start": "2024-11-12T16:00:00",
+        "end": "2024-11-12T17:35:00",
+        "description": "Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B28E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-04T09:50:00",
+        "end": "2025-01-04T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 146/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-03T08:00:00",
+        "end": "2024-11-03T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 40/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "PZiP (ć)",
+        "start": "2025-01-21T09:50:00",
+        "end": "2025-01-21T11:25:00",
+        "description": "Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B28E"
+    },
+    {
+        "title": "Mat2 (w)",
+        "start": "2025-01-13T08:00:00",
+        "end": "2025-01-13T09:35:00",
+        "description": "Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 12/17\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#6B47B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-28T13:30:00",
+        "end": "2024-12-28T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 99/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "Wdi. (L)",
+        "start": "2024-10-24T13:30:00",
+        "end": "2024-10-24T15:05:00",
+        "description": "Wprowadzenie do informatyki. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/11\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B26B"
+    },
+    {
+        "title": "PGI (ć)",
+        "start": "2024-11-12T08:00:00",
+        "end": "2024-11-12T09:35:00",
+        "description": "Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/9\nProwadzący: -",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-09-30T19:40:00",
+        "end": "2024-09-30T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 21/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-02T13:30:00",
+        "end": "2025-01-02T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 134/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "M1 (ć)",
+        "start": "2024-12-10T08:00:00",
+        "end": "2024-12-10T09:35:00",
+        "description": "Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17/19\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#476BB2"
+    },
+    {
+        "title": "Mat2 (w)",
+        "start": "2024-12-09T08:00:00",
+        "end": "2024-12-09T09:35:00",
+        "description": "Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 5/17\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#6B47B2"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2024-12-12T16:00:00",
+        "end": "2024-12-12T17:35:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B28E47"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-06T09:50:00",
+        "end": "2025-01-06T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 160/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "WDM (w)",
+        "start": "2024-10-07T08:00:00",
+        "end": "2024-10-07T09:35:00",
+        "description": "Wprowadzenie do metrologii - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476B"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-09-28T09:50:00",
+        "end": "2024-09-28T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-03T08:00:00",
+        "end": "2025-01-03T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 138/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "Mat2 (ć)",
+        "start": "2024-11-26T08:00:00",
+        "end": "2024-11-26T09:35:00",
+        "description": "Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/17\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#6B47B2"
+    },
+    {
+        "title": "PZiP (w)",
+        "start": "2024-11-05T16:00:00",
+        "end": "2024-11-05T17:35:00",
+        "description": "Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B28E"
+    },
+    {
+        "title": "Wdi. (L)",
+        "start": "2024-11-28T09:50:00",
+        "end": "2024-11-28T11:25:00",
+        "description": "Wprowadzenie do informatyki. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/11\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B26B"
+    },
+    {
+        "title": "Mat2 (ć)",
+        "start": "2025-01-28T11:40:00",
+        "end": "2025-01-28T13:15:00",
+        "description": "Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16/17\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#6B47B2"
+    },
+    {
+        "title": "PZiP (ć)",
+        "start": "2025-01-28T09:50:00",
+        "end": "2025-01-28T11:25:00",
+        "description": "Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B28E"
+    },
+    {
+        "title": "WF (ć)",
+        "start": "2025-01-28T13:30:00",
+        "end": "2025-01-28T15:05:00",
+        "description": "Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B247B2"
+    },
+    {
+        "title": "M1 (w)",
+        "start": "2024-11-18T09:50:00",
+        "end": "2024-11-18T11:25:00",
+        "description": "Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 13/15\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#476BB2"
+    },
+    {
+        "title": "M1 (E)",
+        "start": "2025-02-03T09:50:00",
+        "end": "2025-02-03T11:25:00",
+        "description": "Matematyka 1\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#476BB2"
+    },
+    {
+        "title": "WDM (w)",
+        "start": "2025-01-27T09:50:00",
+        "end": "2025-01-27T11:25:00",
+        "description": "Wprowadzenie do metrologii - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476B"
+    },
+    {
+        "title": "Mat2 (w)",
+        "start": "2024-11-27T08:00:00",
+        "end": "2024-11-27T09:35:00",
+        "description": "Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 2/17\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#6B47B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-01T17:50:00",
+        "end": "2025-01-01T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 129/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "Wdi. (w)",
+        "start": "2024-11-25T11:40:00",
+        "end": "2024-11-25T13:15:00",
+        "description": "Wprowadzenie do informatyki. - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B26B"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-01T16:00:00",
+        "end": "2024-11-01T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 30/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-02T16:00:00",
+        "end": "2025-01-02T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 135/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-28T19:40:00",
+        "end": "2024-12-28T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 102/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-31T16:00:00",
+        "end": "2024-12-31T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 121/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "WF (ć)",
+        "start": "2025-01-29T09:50:00",
+        "end": "2025-01-29T11:25:00",
+        "description": "Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B247B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-27T11:40:00",
+        "end": "2024-12-27T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 91/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-29T17:50:00",
+        "end": "2024-12-29T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 108/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "M1 (w)",
+        "start": "2024-11-06T08:00:00",
+        "end": "2024-11-06T09:35:00",
+        "description": "Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 11/15\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#476BB2"
+    },
+    {
+        "title": "Wdi. (w)",
+        "start": "2024-10-07T11:40:00",
+        "end": "2024-10-07T13:15:00",
+        "description": "Wprowadzenie do informatyki. - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B26B"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-24T09:50:00",
+        "end": "2024-12-24T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 69/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "PGI (w)",
+        "start": "2024-10-07T13:30:00",
+        "end": "2024-10-07T15:05:00",
+        "description": "Podstawy grafiki inżynierskiej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "WF (ć)",
+        "start": "2024-12-04T09:50:00",
+        "end": "2024-12-04T11:25:00",
+        "description": "Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B247B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-29T19:40:00",
+        "end": "2024-12-29T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 109/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "Owi (ć)",
+        "start": "2024-11-28T13:30:00",
+        "end": "2024-11-28T15:05:00",
+        "description": "Ochrona własności intelektualnych - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#8E47B2"
+    },
+    {
+        "title": "Mat2 (w)",
+        "start": "2024-11-25T08:00:00",
+        "end": "2024-11-25T09:35:00",
+        "description": "Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 1/17\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#6B47B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-02T11:40:00",
+        "end": "2024-11-02T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 35/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "PZiP (w)",
+        "start": "2024-10-22T16:00:00",
+        "end": "2024-10-22T17:35:00",
+        "description": "Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B28E"
+    },
+    {
+        "title": "WDM (ć)",
+        "start": "2024-11-21T13:30:00",
+        "end": "2024-11-21T15:05:00",
+        "description": "Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476B"
+    },
+    {
+        "title": "PGI (w)",
+        "start": "2024-10-28T13:30:00",
+        "end": "2024-10-28T15:05:00",
+        "description": "Podstawy grafiki inżynierskiej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-26T16:00:00",
+        "end": "2024-12-26T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 86/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-09-29T09:50:00",
+        "end": "2024-09-29T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 9/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "Mat2 (w)",
+        "start": "2024-12-18T08:00:00",
+        "end": "2024-12-18T09:35:00",
+        "description": "Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 10/17\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#6B47B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-28T16:00:00",
+        "end": "2024-12-28T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 100/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "Mat2 (w)",
+        "start": "2024-12-16T09:50:00",
+        "end": "2024-12-16T11:25:00",
+        "description": "Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 9/17\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#6B47B2"
+    },
+    {
+        "title": "Owi (w)",
+        "start": "2024-10-10T11:40:00",
+        "end": "2024-10-10T13:15:00",
+        "description": "Ochrona własności intelektualnych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#8E47B2"
+    },
+    {
+        "title": "Mat2 (w)",
+        "start": "2025-01-29T08:00:00",
+        "end": "2025-01-29T09:35:00",
+        "description": "Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 17/17\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#6B47B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-29T09:50:00",
+        "end": "2024-12-29T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 104/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-10-18T17:50:00",
+        "end": "2024-10-18T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 24/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-23T13:30:00",
+        "end": "2024-12-23T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 64/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "M1 (w)",
+        "start": "2024-10-14T09:50:00",
+        "end": "2024-10-14T11:25:00",
+        "description": "Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 5/15\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#476BB2"
+    },
+    {
+        "title": "Mat2 (w)",
+        "start": "2025-01-27T08:00:00",
+        "end": "2025-01-27T09:35:00",
+        "description": "Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 16/17\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#6B47B2"
+    },
+    {
+        "title": "PGI (Inne)",
+        "start": "2025-02-04T13:30:00",
+        "end": "2025-02-04T15:05:00",
+        "description": "Podstawy grafiki inżynierskiej - (Zp. Ćw) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "Mat2 (w)",
+        "start": "2024-12-09T09:50:00",
+        "end": "2024-12-09T11:25:00",
+        "description": "Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 6/17\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#6B47B2"
+    },
+    {
+        "title": "Owi (w)",
+        "start": "2024-11-07T11:40:00",
+        "end": "2024-11-07T13:15:00",
+        "description": "Ochrona własności intelektualnych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#8E47B2"
+    },
+    {
+        "title": "Ez (w)",
+        "start": "2024-11-12T11:40:00",
+        "end": "2024-11-12T13:15:00",
+        "description": "Etyka zawodowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#8EB247"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2024-11-14T16:00:00",
+        "end": "2024-11-14T17:35:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B28E47"
+    },
+    {
+        "title": "Wdi. (w)",
+        "start": "2024-11-04T11:40:00",
+        "end": "2024-11-04T13:15:00",
+        "description": "Wprowadzenie do informatyki. - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B26B"
+    },
+    {
+        "title": "PZiP (ć)",
+        "start": "2025-01-07T08:00:00",
+        "end": "2025-01-07T09:35:00",
+        "description": "Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B28E"
+    },
+    {
+        "title": "Wzp (w)",
+        "start": "2024-10-29T13:30:00",
+        "end": "2024-10-29T15:05:00",
+        "description": "Wybrane zagadnienia prawa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#478EB2"
+    },
+    {
+        "title": "Wdi. (L)",
+        "start": "2024-12-03T09:50:00",
+        "end": "2024-12-03T11:25:00",
+        "description": "Wprowadzenie do informatyki. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/11\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B26B"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-30T17:50:00",
+        "end": "2024-12-30T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 115/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "Mat2 (ć)",
+        "start": "2025-01-08T11:40:00",
+        "end": "2025-01-08T13:15:00",
+        "description": "Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/17\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#6B47B2"
+    },
+    {
+        "title": "WF (ć)",
+        "start": "2024-12-11T09:50:00",
+        "end": "2024-12-11T11:25:00",
+        "description": "Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B247B2"
+    },
+    {
+        "title": "M1 (w)",
+        "start": "2024-10-04T16:00:00",
+        "end": "2024-10-04T17:35:00",
+        "description": "Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 2/15\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#476BB2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-09-29T17:50:00",
+        "end": "2024-09-29T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 13/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "Mat2 (ć)",
+        "start": "2024-12-18T16:00:00",
+        "end": "2024-12-18T17:35:00",
+        "description": "Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/17\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#6B47B2"
+    },
+    {
+        "title": "M1 (ć)",
+        "start": "2024-11-25T13:30:00",
+        "end": "2024-11-25T15:05:00",
+        "description": "Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/19\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#476BB2"
+    },
+    {
+        "title": "PZiP (ć)",
+        "start": "2025-01-14T09:50:00",
+        "end": "2025-01-14T11:25:00",
+        "description": "Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B28E"
+    },
+    {
+        "title": "M1 (ć)",
+        "start": "2024-11-12T09:50:00",
+        "end": "2024-11-12T11:25:00",
+        "description": "Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/19\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#476BB2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-27T09:50:00",
+        "end": "2024-12-27T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 90/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-04T17:50:00",
+        "end": "2025-01-04T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 150/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-11T08:00:00",
+        "end": "2024-11-11T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 47/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2025-01-23T19:40:00",
+        "end": "2025-01-23T21:15:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-09-30T17:50:00",
+        "end": "2024-09-30T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 20/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-11T17:50:00",
+        "end": "2024-11-11T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 52/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-29T11:40:00",
+        "end": "2024-11-29T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 56/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-31T19:40:00",
+        "end": "2024-12-31T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 123/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-01T08:00:00",
+        "end": "2025-01-01T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 124/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-24T08:00:00",
+        "end": "2024-12-24T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 68/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-09-29T13:30:00",
+        "end": "2024-09-29T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 11/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-06T13:30:00",
+        "end": "2025-01-06T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 162/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-05T16:00:00",
+        "end": "2025-01-05T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 156/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "M1 (w)",
+        "start": "2024-10-09T08:00:00",
+        "end": "2024-10-09T09:35:00",
+        "description": "Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 4/15\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#476BB2"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2024-12-19T19:40:00",
+        "end": "2024-12-19T21:15:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "Wdi. (Inne)",
+        "start": "2025-02-03T13:30:00",
+        "end": "2025-02-03T15:05:00",
+        "description": "Wprowadzenie do informatyki. - (zaliczenie poprawkowe lab.) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B26B"
+    },
+    {
+        "title": "PZiP (w)",
+        "start": "2024-11-19T17:50:00",
+        "end": "2024-11-19T19:25:00",
+        "description": "Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B28E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-02T13:30:00",
+        "end": "2024-11-02T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 36/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "PGI (ć)",
+        "start": "2025-01-07T09:50:00",
+        "end": "2025-01-07T11:25:00",
+        "description": "Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/9\nProwadzący: -",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-05T11:40:00",
+        "end": "2025-01-05T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 154/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "Ez (ć)",
+        "start": "2024-12-03T11:40:00",
+        "end": "2024-12-03T13:15:00",
+        "description": "Etyka zawodowa - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/2\nProwadzący: -",
+        "allDay": false,
+        "color": "#8EB247"
+    },
+    {
+        "title": "WDM (ć)",
+        "start": "2024-12-16T13:30:00",
+        "end": "2024-12-16T15:05:00",
+        "description": "Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476B"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2024-10-10T19:40:00",
+        "end": "2024-10-10T21:15:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-26T17:50:00",
+        "end": "2024-12-26T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 87/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "M1 (ć)",
+        "start": "2024-11-19T09:50:00",
+        "end": "2024-11-19T11:25:00",
+        "description": "Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/19\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#476BB2"
+    },
+    {
+        "title": "Wzp (w)",
+        "start": "2024-11-19T13:30:00",
+        "end": "2024-11-19T15:05:00",
+        "description": "Wybrane zagadnienia prawa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#478EB2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-05T19:40:00",
+        "end": "2025-01-05T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 158/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "Mat2 (w)",
+        "start": "2025-01-08T08:00:00",
+        "end": "2025-01-08T09:35:00",
+        "description": "Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 11/17\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#6B47B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-29T09:50:00",
+        "end": "2024-11-29T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 55/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "Wzp (w)",
+        "start": "2024-10-22T13:30:00",
+        "end": "2024-10-22T15:05:00",
+        "description": "Wybrane zagadnienia prawa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#478EB2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-25T17:50:00",
+        "end": "2024-12-25T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 80/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "WDM (ć)",
+        "start": "2024-11-28T11:40:00",
+        "end": "2024-11-28T13:15:00",
+        "description": "Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476B"
+    },
+    {
+        "title": "M1 (ć)",
+        "start": "2024-10-09T11:40:00",
+        "end": "2024-10-09T13:15:00",
+        "description": "Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/19\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#476BB2"
+    },
+    {
+        "title": "Mat2 (w)",
+        "start": "2025-01-15T08:00:00",
+        "end": "2025-01-15T09:35:00",
+        "description": "Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 13/17\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#6B47B2"
+    },
+    {
+        "title": "PZiP (ć)",
+        "start": "2024-12-17T13:30:00",
+        "end": "2024-12-17T15:05:00",
+        "description": "Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B28E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-10-18T13:30:00",
+        "end": "2024-10-18T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 22/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-28T17:50:00",
+        "end": "2024-12-28T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 101/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-26T11:40:00",
+        "end": "2024-12-26T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 84/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "M1 (w)",
+        "start": "2024-10-21T09:50:00",
+        "end": "2024-10-21T11:25:00",
+        "description": "Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 7/15\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#476BB2"
+    },
+    {
+        "title": "M1 (ć)",
+        "start": "2024-12-04T11:40:00",
+        "end": "2024-12-04T13:15:00",
+        "description": "Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 16/19\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#476BB2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-31T17:50:00",
+        "end": "2024-12-31T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 122/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-24T13:30:00",
+        "end": "2024-12-24T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 71/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2024-11-14T19:40:00",
+        "end": "2024-11-14T21:15:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-09-28T16:00:00",
+        "end": "2024-09-28T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 5/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-10-18T16:00:00",
+        "end": "2024-10-18T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 23/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "PZiP (w)",
+        "start": "2024-12-03T16:00:00",
+        "end": "2024-12-03T17:35:00",
+        "description": "Podstawy zarządzania i przedsiębiorczości - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 8/8\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B28E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-05T08:00:00",
+        "end": "2025-01-05T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 152/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "In.WIM (Inne)",
+        "start": "2024-10-08T08:00:00",
+        "end": "2024-10-08T09:35:00",
+        "description": "Inauguracja r.ak. WIM\nRodzaj zajęć:  - \nNr zajęć: 1/4\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-02T19:40:00",
+        "end": "2024-11-02T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 39/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-03T09:50:00",
+        "end": "2025-01-03T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 139/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-27T17:50:00",
+        "end": "2024-12-27T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 94/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "Mat2 (ć)",
+        "start": "2025-01-21T11:40:00",
+        "end": "2025-01-21T13:15:00",
+        "description": "Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/17\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#6B47B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-09-28T11:40:00",
+        "end": "2024-09-28T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 3/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-26T13:30:00",
+        "end": "2024-12-26T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 85/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "Wdi. (w)",
+        "start": "2024-10-28T11:40:00",
+        "end": "2024-10-28T13:15:00",
+        "description": "Wprowadzenie do informatyki. - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B26B"
+    },
+    {
+        "title": "M1 (Inne)",
+        "start": "2025-02-17T09:50:00",
+        "end": "2025-02-17T11:25:00",
+        "description": "Matematyka 1\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#476BB2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-10-18T19:40:00",
+        "end": "2024-10-18T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 25/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "M1 (ć)",
+        "start": "2024-12-17T08:00:00",
+        "end": "2024-12-17T09:35:00",
+        "description": "Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 18/19\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#476BB2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-23T08:00:00",
+        "end": "2024-12-23T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 61/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2024-11-07T16:00:00",
+        "end": "2024-11-07T17:35:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B28E47"
+    },
+    {
+        "title": "Wdi. (L)",
+        "start": "2024-11-14T13:30:00",
+        "end": "2024-11-14T15:05:00",
+        "description": "Wprowadzenie do informatyki. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/11\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B26B"
+    },
+    {
+        "title": "Owi (w)",
+        "start": "2024-10-31T11:40:00",
+        "end": "2024-10-31T13:15:00",
+        "description": "Ochrona własności intelektualnych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#8E47B2"
+    },
+    {
+        "title": "M1 (w)",
+        "start": "2024-10-30T08:00:00",
+        "end": "2024-10-30T09:35:00",
+        "description": "Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 10/15\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#476BB2"
+    },
+    {
+        "title": "Mat2 (ć)",
+        "start": "2024-12-17T09:50:00",
+        "end": "2024-12-17T11:25:00",
+        "description": "Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/17\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#6B47B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-06T11:40:00",
+        "end": "2025-01-06T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 161/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "WDM (w)",
+        "start": "2024-11-04T08:00:00",
+        "end": "2024-11-04T09:35:00",
+        "description": "Wprowadzenie do metrologii - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476B"
+    },
+    {
+        "title": "Mat2 (Inne)",
+        "start": "2025-02-19T11:40:00",
+        "end": "2025-02-19T13:15:00",
+        "description": "Matematyka 2\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#6B47B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-31T11:40:00",
+        "end": "2024-12-31T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 119/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "M1 (ć)",
+        "start": "2024-10-22T09:50:00",
+        "end": "2024-10-22T11:25:00",
+        "description": "Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/19\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#476BB2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-05T09:50:00",
+        "end": "2025-01-05T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 153/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2024-11-28T16:00:00",
+        "end": "2024-11-28T17:35:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B28E47"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-29T16:00:00",
+        "end": "2024-11-29T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 58/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2024-10-17T16:00:00",
+        "end": "2024-10-17T17:35:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B28E47"
+    },
+    {
+        "title": "WdS (w)",
+        "start": "2024-11-15T08:00:00",
+        "end": "2024-11-15T09:35:00",
+        "description": "Wprowadzenie do studiowania\nRodzaj zajęć: Wykład\nNr zajęć: 1/3\nProwadzący: dr Ewa Łakoma",
+        "allDay": false,
+        "color": "#B26B47"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-01T11:40:00",
+        "end": "2024-11-01T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 28/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-02T17:50:00",
+        "end": "2025-01-02T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 136/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "Ez (w)",
+        "start": "2024-11-19T11:40:00",
+        "end": "2024-11-19T13:15:00",
+        "description": "Etyka zawodowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#8EB247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-06T17:50:00",
+        "end": "2025-01-06T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 164/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2025-01-30T16:00:00",
+        "end": "2025-01-30T17:35:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B28E47"
+    },
+    {
+        "title": "Wzp (w)",
+        "start": "2024-11-26T13:30:00",
+        "end": "2024-11-26T15:05:00",
+        "description": "Wybrane zagadnienia prawa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#478EB2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-02T17:50:00",
+        "end": "2024-11-02T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 38/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-04T11:40:00",
+        "end": "2025-01-04T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 147/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-28T08:00:00",
+        "end": "2024-12-28T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 96/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "Mat2 (ć)",
+        "start": "2024-12-18T13:30:00",
+        "end": "2024-12-18T15:05:00",
+        "description": "Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/17\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#6B47B2"
+    },
+    {
+        "title": "Wdi. (L)",
+        "start": "2024-12-10T09:50:00",
+        "end": "2024-12-10T11:25:00",
+        "description": "Wprowadzenie do informatyki. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/11\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B26B"
+    },
+    {
+        "title": "Ez (w)",
+        "start": "2024-11-26T11:40:00",
+        "end": "2024-11-26T13:15:00",
+        "description": "Etyka zawodowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#8EB247"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2025-01-16T19:40:00",
+        "end": "2025-01-16T21:15:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-01T19:40:00",
+        "end": "2024-11-01T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 32/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-01T08:00:00",
+        "end": "2024-11-01T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 26/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-02T19:40:00",
+        "end": "2025-01-02T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 137/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-01T13:30:00",
+        "end": "2025-01-01T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 127/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-02T08:00:00",
+        "end": "2024-11-02T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 33/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "M1 (ć)",
+        "start": "2025-01-13T13:30:00",
+        "end": "2025-01-13T15:05:00",
+        "description": "Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 19/19\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#476BB2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-09-28T19:40:00",
+        "end": "2024-09-28T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 7/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "Wdi. (L)",
+        "start": "2024-10-31T13:30:00",
+        "end": "2024-10-31T15:05:00",
+        "description": "Wprowadzenie do informatyki. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/11\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B26B"
+    },
+    {
+        "title": "Mat2 (w)",
+        "start": "2024-12-11T08:00:00",
+        "end": "2024-12-11T09:35:00",
+        "description": "Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 7/17\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#6B47B2"
+    },
+    {
+        "title": "M1 (w)",
+        "start": "2024-10-28T09:50:00",
+        "end": "2024-10-28T11:25:00",
+        "description": "Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 9/15\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#476BB2"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2025-01-09T16:00:00",
+        "end": "2025-01-09T17:35:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B28E47"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2025-01-30T19:40:00",
+        "end": "2025-01-30T21:15:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "Ez (w)",
+        "start": "2024-10-29T11:40:00",
+        "end": "2024-10-29T13:15:00",
+        "description": "Etyka zawodowa - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#8EB247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-24T19:40:00",
+        "end": "2024-12-24T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 74/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "WDM (Inne)",
+        "start": "2025-02-03T08:00:00",
+        "end": "2025-02-03T09:35:00",
+        "description": "Wprowadzenie do metrologii - (Zp. Ćw) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476B"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-27T13:30:00",
+        "end": "2024-12-27T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 92/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": ".BHP. (w)",
+        "start": "2024-10-09T19:40:00",
+        "end": "2024-10-09T21:15:00",
+        "description": ".Bezpieczeństwo i higiena pracy.\nRodzaj zajęć: Wykład\nNr zajęć: 2/2\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2B247"
+    },
+    {
+        "title": "Wdi. (L)",
+        "start": "2025-01-14T11:40:00",
+        "end": "2025-01-14T13:15:00",
+        "description": "Wprowadzenie do informatyki. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 11/11\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B26B"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-11T16:00:00",
+        "end": "2024-11-11T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 51/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-29T16:00:00",
+        "end": "2024-12-29T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 107/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "Mat2 (ć)",
+        "start": "2025-01-20T09:50:00",
+        "end": "2025-01-20T11:25:00",
+        "description": "Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 12/17\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#6B47B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-06T08:00:00",
+        "end": "2025-01-06T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 159/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-31T13:30:00",
+        "end": "2024-12-31T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 120/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "WDM (w)",
+        "start": "2024-10-28T08:00:00",
+        "end": "2024-10-28T09:35:00",
+        "description": "Wprowadzenie do metrologii - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476B"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2024-11-21T16:00:00",
+        "end": "2024-11-21T17:35:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B28E47"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-06T16:00:00",
+        "end": "2025-01-06T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 163/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-09-30T11:40:00",
+        "end": "2024-09-30T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 17/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "Sz. - RS WIM (Inne)",
+        "start": "2024-11-12T17:50:00",
+        "end": "2024-11-12T19:25:00",
+        "description": "Szkolenie - Rada Samorządu WIM\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#6BB247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-31T08:00:00",
+        "end": "2024-12-31T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 117/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "M1 (w)",
+        "start": "2024-10-16T08:00:00",
+        "end": "2024-10-16T09:35:00",
+        "description": "Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 6/15\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#476BB2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-09-29T11:40:00",
+        "end": "2024-09-29T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 10/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-09-30T16:00:00",
+        "end": "2024-09-30T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 19/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "Wdi. (Inne)",
+        "start": "2025-02-10T13:30:00",
+        "end": "2025-02-10T15:05:00",
+        "description": "Wprowadzenie do informatyki. - (Zaliczenie poprawkowe.) -\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B26B"
+    },
+    {
+        "title": "M1 (ć)",
+        "start": "2024-10-23T11:40:00",
+        "end": "2024-10-23T13:15:00",
+        "description": "Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/19\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#476BB2"
+    },
+    {
+        "title": "PGI (ć)",
+        "start": "2025-01-27T11:40:00",
+        "end": "2025-01-27T13:15:00",
+        "description": "Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 9/9\nProwadzący: -",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "PZiP (ć)",
+        "start": "2024-12-03T13:30:00",
+        "end": "2024-12-03T15:05:00",
+        "description": "Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B28E"
+    },
+    {
+        "title": "Mat2 (ć)",
+        "start": "2024-11-27T13:30:00",
+        "end": "2024-11-27T15:05:00",
+        "description": "Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/17\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#6B47B2"
+    },
+    {
+        "title": "M1 (ć)",
+        "start": "2024-11-06T13:30:00",
+        "end": "2024-11-06T15:05:00",
+        "description": "Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/19\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#476BB2"
+    },
+    {
+        "title": "WDM (Inne)",
+        "start": "2025-02-10T08:00:00",
+        "end": "2025-02-10T09:35:00",
+        "description": "Wprowadzenie do metrologii - (Zaliczenie poprawkowe.) -\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476B"
+    },
+    {
+        "title": "Mat2 (Inne)",
+        "start": "2025-02-19T09:50:00",
+        "end": "2025-02-19T11:25:00",
+        "description": "Matematyka 2\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#6B47B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-02T09:50:00",
+        "end": "2024-11-02T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 34/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "M1 (ć)",
+        "start": "2024-11-20T13:30:00",
+        "end": "2024-11-20T15:05:00",
+        "description": "Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 11/19\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#476BB2"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2024-11-21T19:40:00",
+        "end": "2024-11-21T21:15:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "Wzp (Inne)",
+        "start": "2025-02-11T13:30:00",
+        "end": "2025-02-11T15:05:00",
+        "description": "Wybrane zagadnienia prawa - (Zaliczenie poprawkowe.) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#478EB2"
+    },
+    {
+        "title": "WDM (w)",
+        "start": "2024-10-21T08:00:00",
+        "end": "2024-10-21T09:35:00",
+        "description": "Wprowadzenie do metrologii - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476B"
+    },
+    {
+        "title": "Wdi. (w)",
+        "start": "2024-11-18T11:40:00",
+        "end": "2024-11-18T13:15:00",
+        "description": "Wprowadzenie do informatyki. - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B26B"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-03T19:40:00",
+        "end": "2025-01-03T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 144/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-09-30T08:00:00",
+        "end": "2024-09-30T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 15/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-05T17:50:00",
+        "end": "2025-01-05T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 157/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "PGI (ć)",
+        "start": "2025-01-13T16:00:00",
+        "end": "2025-01-13T17:35:00",
+        "description": "Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/9\nProwadzący: -",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "PGI (ć)",
+        "start": "2025-01-13T17:50:00",
+        "end": "2025-01-13T19:25:00",
+        "description": "Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 8/9\nProwadzący: -",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-03T11:40:00",
+        "end": "2025-01-03T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 140/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-29T13:30:00",
+        "end": "2024-11-29T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 57/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "Mat2 (ć)",
+        "start": "2025-01-07T13:30:00",
+        "end": "2025-01-07T15:05:00",
+        "description": "Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/17\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#6B47B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-29T17:50:00",
+        "end": "2024-11-29T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 59/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "WF (ć)",
+        "start": "2024-11-06T09:50:00",
+        "end": "2024-11-06T11:25:00",
+        "description": "Wychowanie fizyczne - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B247B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-29T11:40:00",
+        "end": "2024-12-29T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 105/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "M1 (ć)",
+        "start": "2024-10-30T13:30:00",
+        "end": "2024-10-30T15:05:00",
+        "description": "Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 6/19\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#476BB2"
+    },
+    {
+        "title": "Mat2 (ć)",
+        "start": "2025-01-27T13:30:00",
+        "end": "2025-01-27T15:05:00",
+        "description": "Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 15/17\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#6B47B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-01T19:40:00",
+        "end": "2025-01-01T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 130/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-25T09:50:00",
+        "end": "2024-12-25T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 76/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-01T16:00:00",
+        "end": "2025-01-01T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 128/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "M1 (ć)",
+        "start": "2024-12-02T09:50:00",
+        "end": "2024-12-02T11:25:00",
+        "description": "Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 14/19\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#476BB2"
+    },
+    {
+        "title": "Mat2 (w)",
+        "start": "2024-12-02T08:00:00",
+        "end": "2024-12-02T09:35:00",
+        "description": "Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 3/17\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#6B47B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-23T11:40:00",
+        "end": "2024-12-23T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 63/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "PZiP (ć)",
+        "start": "2024-12-10T13:30:00",
+        "end": "2024-12-10T15:05:00",
+        "description": "Podstawy zarządzania i przedsiębiorczości - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/7\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B28E"
+    },
+    {
+        "title": "M1 (w)",
+        "start": "2024-10-04T13:30:00",
+        "end": "2024-10-04T15:05:00",
+        "description": "Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 1/15\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#476BB2"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2024-10-31T19:40:00",
+        "end": "2024-10-31T21:15:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-30T11:40:00",
+        "end": "2024-12-30T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 112/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "Wdi. (L)",
+        "start": "2024-12-17T11:40:00",
+        "end": "2024-12-17T13:15:00",
+        "description": "Wprowadzenie do informatyki. - (Laboratorium) -\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/11\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B26B"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-25T16:00:00",
+        "end": "2024-12-25T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 79/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-02T11:40:00",
+        "end": "2025-01-02T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 133/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "PGI (w)",
+        "start": "2024-10-14T13:30:00",
+        "end": "2024-10-14T15:05:00",
+        "description": "Podstawy grafiki inżynierskiej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "In.WIM (Inne)",
+        "start": "2024-10-08T09:50:00",
+        "end": "2024-10-08T11:25:00",
+        "description": "Inauguracja r.ak. WIM\nRodzaj zajęć:  - \nNr zajęć: 2/4\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-29T13:30:00",
+        "end": "2024-12-29T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 106/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-30T09:50:00",
+        "end": "2024-12-30T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 111/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "Mat2 (ć)",
+        "start": "2024-11-26T09:50:00",
+        "end": "2024-11-26T11:25:00",
+        "description": "Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/17\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#6B47B2"
+    },
+    {
+        "title": "PGI (w)",
+        "start": "2024-10-21T13:30:00",
+        "end": "2024-10-21T15:05:00",
+        "description": "Podstawy grafiki inżynierskiej - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2024-11-07T19:40:00",
+        "end": "2024-11-07T21:15:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "PZiP (Inne)",
+        "start": "2025-02-11T16:00:00",
+        "end": "2025-02-11T17:35:00",
+        "description": "Podstawy zarządzania i przedsiębiorczości - (Zaliczenie poprawkowe.) -\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B28E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-09-28T08:00:00",
+        "end": "2024-09-28T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "WDM (ć)",
+        "start": "2024-12-09T13:30:00",
+        "end": "2024-12-09T15:05:00",
+        "description": "Wprowadzenie do metrologii - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 5/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476B"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-27T08:00:00",
+        "end": "2024-12-27T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 89/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "WDM (w)",
+        "start": "2024-10-14T08:00:00",
+        "end": "2024-10-14T09:35:00",
+        "description": "Wprowadzenie do metrologii - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476B"
+    },
+    {
+        "title": "Mat2 (ć)",
+        "start": "2025-01-29T11:40:00",
+        "end": "2025-01-29T13:15:00",
+        "description": "Matematyka 2\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 17/17\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#6B47B2"
+    },
+    {
+        "title": "M1 (w)",
+        "start": "2024-11-25T09:50:00",
+        "end": "2024-11-25T11:25:00",
+        "description": "Matematyka 1\nRodzaj zajęć: Wykład\nNr zajęć: 15/15\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#476BB2"
+    },
+    {
+        "title": "Owi (w)",
+        "start": "2024-11-21T11:40:00",
+        "end": "2024-11-21T13:15:00",
+        "description": "Ochrona własności intelektualnych - (Wykład) -\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#8E47B2"
+    },
+    {
+        "title": "Mat2 (E)",
+        "start": "2025-02-05T11:40:00",
+        "end": "2025-02-05T13:15:00",
+        "description": "Matematyka 2\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#6B47B2"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2024-10-24T16:00:00",
+        "end": "2024-10-24T17:35:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B28E47"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-29T08:00:00",
+        "end": "2024-12-29T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 103/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-09-29T19:40:00",
+        "end": "2024-09-29T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 14/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-25T19:40:00",
+        "end": "2024-12-25T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 81/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-25T11:40:00",
+        "end": "2024-12-25T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 77/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-03T17:50:00",
+        "end": "2024-11-03T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 45/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-03T16:00:00",
+        "end": "2025-01-03T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 142/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-09-29T08:00:00",
+        "end": "2024-09-29T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 8/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "In.WIM (Inne)",
+        "start": "2024-10-08T11:40:00",
+        "end": "2024-10-08T13:15:00",
+        "description": "Inauguracja r.ak. WIM\nRodzaj zajęć:  - \nNr zajęć: 3/4\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-04T16:00:00",
+        "end": "2025-01-04T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 149/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "M1 (ć)",
+        "start": "2024-11-05T09:50:00",
+        "end": "2024-11-05T11:25:00",
+        "description": "Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 7/19\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#476BB2"
+    },
+    {
+        "title": "M1 (ć)",
+        "start": "2024-11-27T11:40:00",
+        "end": "2024-11-27T13:15:00",
+        "description": "Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 13/19\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#476BB2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-24T11:40:00",
+        "end": "2024-12-24T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 70/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-11T19:40:00",
+        "end": "2024-11-11T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 53/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-09-30T09:50:00",
+        "end": "2024-09-30T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 16/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "M1 (ć)",
+        "start": "2024-10-16T11:40:00",
+        "end": "2024-10-16T13:15:00",
+        "description": "Matematyka 1\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/19\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#476BB2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-03T09:50:00",
+        "end": "2024-11-03T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 41/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-01T17:50:00",
+        "end": "2024-11-01T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 31/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "Ja (ć)",
+        "start": "2024-12-12T19:40:00",
+        "end": "2024-12-12T21:15:00",
+        "description": "Język angielski\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 10/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-31T09:50:00",
+        "end": "2024-12-31T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 118/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "PGI (ć)",
+        "start": "2024-12-02T11:40:00",
+        "end": "2024-12-02T13:15:00",
+        "description": "Podstawy grafiki inżynierskiej - (Ćwiczenia) -\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/9\nProwadzący: -",
+        "allDay": false,
+        "color": "#4747B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-03T13:30:00",
+        "end": "2024-11-03T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 43/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "JoM (ć)",
+        "start": "2024-10-10T16:00:00",
+        "end": "2024-10-10T17:35:00",
+        "description": "Język obcy (II) międzywydziałowy\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/15\nProwadzący: -",
+        "allDay": false,
+        "color": "#B28E47"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2025-01-02T08:00:00",
+        "end": "2025-01-02T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 131/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-02T16:00:00",
+        "end": "2024-11-02T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 37/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    },
+    {
+        "title": "In.WIM (Inne)",
+        "start": "2024-10-08T13:30:00",
+        "end": "2024-10-08T15:05:00",
+        "description": "Inauguracja r.ak. WIM\nRodzaj zajęć:  - \nNr zajęć: 4/4\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B2B2"
+    },
+    {
+        "title": "Mat2 (w)",
+        "start": "2024-12-16T08:00:00",
+        "end": "2024-12-16T09:35:00",
+        "description": "Matematyka 2\nRodzaj zajęć: Wykład\nNr zajęć: 8/17\nProwadzący: dr Jerzy Ploch",
+        "allDay": false,
+        "color": "#6B47B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-03T19:40:00",
+        "end": "2024-11-03T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 46/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2478E"
+    }
+]

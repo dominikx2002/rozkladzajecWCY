@@ -1,0 +1,506 @@
+[
+    {
+        "title": "zsw (L)",
+        "start": "2024-12-19T08:00:00",
+        "end": "2024-12-19T09:35:00",
+        "description": "Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: mgr inż. Łukasz Mielniczuk",
+        "allDay": false,
+        "color": "#B247A3"
+    },
+    {
+        "title": "zsl (L)",
+        "start": "2024-11-20T09:50:00",
+        "end": "2024-11-20T11:25:00",
+        "description": "Zarządzanie środowiskiem Linux\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: dr Sławomir Machowski",
+        "allDay": false,
+        "color": "#47B284"
+    },
+    {
+        "title": "zsl (L)",
+        "start": "2024-11-20T11:40:00",
+        "end": "2024-11-20T13:15:00",
+        "description": "Zarządzanie środowiskiem Linux\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: dr Sławomir Machowski",
+        "allDay": false,
+        "color": "#47B284"
+    },
+    {
+        "title": "zsl (w)",
+        "start": "2024-11-18T09:50:00",
+        "end": "2024-11-18T11:25:00",
+        "description": "Zarządzanie środowiskiem Linux\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr Sławomir Machowski",
+        "allDay": false,
+        "color": "#47B284"
+    },
+    {
+        "title": "Lan (w)",
+        "start": "2024-12-16T08:00:00",
+        "end": "2024-12-16T09:35:00",
+        "description": "Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Tomasz Malinowski",
+        "allDay": false,
+        "color": "#4784B2"
+    },
+    {
+        "title": "Sws (Inne)",
+        "start": "2024-11-18T08:00:00",
+        "end": "2024-11-18T09:35:00",
+        "description": "Spotkanie organizacyjne\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#66B247"
+    },
+    {
+        "title": "Rou (w)",
+        "start": "2024-11-22T08:00:00",
+        "end": "2024-11-22T09:35:00",
+        "description": "Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: mgr inż. Łukasz Skibniewski",
+        "allDay": false,
+        "color": "#B2A347"
+    },
+    {
+        "title": "zsw (L)",
+        "start": "2024-11-21T11:40:00",
+        "end": "2024-11-21T13:15:00",
+        "description": "Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: mgr inż. Łukasz Mielniczuk",
+        "allDay": false,
+        "color": "#B247A3"
+    },
+    {
+        "title": "Lan (w)",
+        "start": "2024-12-11T08:00:00",
+        "end": "2024-12-11T09:35:00",
+        "description": "Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Tomasz Malinowski",
+        "allDay": false,
+        "color": "#4784B2"
+    },
+    {
+        "title": "Rou (L)",
+        "start": "2024-12-02T11:40:00",
+        "end": "2024-12-02T13:15:00",
+        "description": "Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący:  Sebastian Łeska",
+        "allDay": false,
+        "color": "#B2A347"
+    },
+    {
+        "title": "Lan (L)",
+        "start": "2024-12-13T09:50:00",
+        "end": "2024-12-13T11:25:00",
+        "description": "Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: mgr inż. Dagmara Mazur",
+        "allDay": false,
+        "color": "#4784B2"
+    },
+    {
+        "title": "Lan (L)",
+        "start": "2024-12-10T08:00:00",
+        "end": "2024-12-10T09:35:00",
+        "description": "Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: mgr inż. Dagmara Mazur",
+        "allDay": false,
+        "color": "#4784B2"
+    },
+    {
+        "title": "Rou (L)",
+        "start": "2024-11-25T13:30:00",
+        "end": "2024-11-25T15:05:00",
+        "description": "Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący:  Sebastian Łeska",
+        "allDay": false,
+        "color": "#B2A347"
+    },
+    {
+        "title": "zsw (w)",
+        "start": "2024-11-21T08:00:00",
+        "end": "2024-11-21T09:35:00",
+        "description": "Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: mgr inż. Łukasz Mielniczuk",
+        "allDay": false,
+        "color": "#B247A3"
+    },
+    {
+        "title": "zsl (w)",
+        "start": "2024-12-16T09:50:00",
+        "end": "2024-12-16T11:25:00",
+        "description": "Zarządzanie środowiskiem Linux\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr Sławomir Machowski",
+        "allDay": false,
+        "color": "#47B284"
+    },
+    {
+        "title": "zsl (w)",
+        "start": "2024-12-02T09:50:00",
+        "end": "2024-12-02T11:25:00",
+        "description": "Zarządzanie środowiskiem Linux\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr Sławomir Machowski",
+        "allDay": false,
+        "color": "#47B284"
+    },
+    {
+        "title": "Lan (L)",
+        "start": "2024-12-17T09:50:00",
+        "end": "2024-12-17T11:25:00",
+        "description": "Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr inż. Dagmara Mazur",
+        "allDay": false,
+        "color": "#4784B2"
+    },
+    {
+        "title": "Lan (w)",
+        "start": "2024-11-22T09:50:00",
+        "end": "2024-11-22T11:25:00",
+        "description": "Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Tomasz Malinowski",
+        "allDay": false,
+        "color": "#4784B2"
+    },
+    {
+        "title": "Lan (L)",
+        "start": "2024-12-03T09:50:00",
+        "end": "2024-12-03T11:25:00",
+        "description": "Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: mgr inż. Dagmara Mazur",
+        "allDay": false,
+        "color": "#4784B2"
+    },
+    {
+        "title": "Espr (E)",
+        "start": "2024-12-20T09:50:00",
+        "end": "2024-12-20T11:25:00",
+        "description": "Egzamin sprawdzający\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Leszek Grad",
+        "allDay": false,
+        "color": "#6547B2"
+    },
+    {
+        "title": "Rou (w)",
+        "start": "2024-12-12T09:50:00",
+        "end": "2024-12-12T11:25:00",
+        "description": "Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: mgr inż. Łukasz Skibniewski",
+        "allDay": false,
+        "color": "#B2A347"
+    },
+    {
+        "title": "ZŻWAT (Inne)",
+        "start": "2024-11-20T08:00:00",
+        "end": "2024-11-20T09:35:00",
+        "description": "Zbiórka żołnierzy WAT\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "zsw (L)",
+        "start": "2024-12-13T11:40:00",
+        "end": "2024-12-13T13:15:00",
+        "description": "Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: mgr inż. Łukasz Mielniczuk",
+        "allDay": false,
+        "color": "#B247A3"
+    },
+    {
+        "title": "Rou (L)",
+        "start": "2024-12-16T11:40:00",
+        "end": "2024-12-16T13:15:00",
+        "description": "Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący:  Sebastian Łeska",
+        "allDay": false,
+        "color": "#B2A347"
+    },
+    {
+        "title": "zsw (L)",
+        "start": "2024-12-05T11:40:00",
+        "end": "2024-12-05T13:15:00",
+        "description": "Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: mgr inż. Łukasz Mielniczuk",
+        "allDay": false,
+        "color": "#B247A3"
+    },
+    {
+        "title": "zsl (L)",
+        "start": "2024-12-04T11:40:00",
+        "end": "2024-12-04T13:15:00",
+        "description": "Zarządzanie środowiskiem Linux\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: dr Sławomir Machowski",
+        "allDay": false,
+        "color": "#47B284"
+    },
+    {
+        "title": "zsl (L)",
+        "start": "2024-11-27T11:40:00",
+        "end": "2024-11-27T13:15:00",
+        "description": "Zarządzanie środowiskiem Linux\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: dr Sławomir Machowski",
+        "allDay": false,
+        "color": "#47B284"
+    },
+    {
+        "title": "zsw (L)",
+        "start": "2024-12-05T09:50:00",
+        "end": "2024-12-05T11:25:00",
+        "description": "Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: mgr inż. Łukasz Mielniczuk",
+        "allDay": false,
+        "color": "#B247A3"
+    },
+    {
+        "title": "Rou (L)",
+        "start": "2024-12-19T13:30:00",
+        "end": "2024-12-19T15:05:00",
+        "description": "Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący:  Sebastian Łeska",
+        "allDay": false,
+        "color": "#B2A347"
+    },
+    {
+        "title": "zsw (L)",
+        "start": "2024-11-21T09:50:00",
+        "end": "2024-11-21T11:25:00",
+        "description": "Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: mgr inż. Łukasz Mielniczuk",
+        "allDay": false,
+        "color": "#B247A3"
+    },
+    {
+        "title": "Lan (L)",
+        "start": "2024-12-17T08:00:00",
+        "end": "2024-12-17T09:35:00",
+        "description": "Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: mgr inż. Dagmara Mazur",
+        "allDay": false,
+        "color": "#4784B2"
+    },
+    {
+        "title": "zsl (L)",
+        "start": "2024-12-11T09:50:00",
+        "end": "2024-12-11T11:25:00",
+        "description": "Zarządzanie środowiskiem Linux\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: dr Sławomir Machowski",
+        "allDay": false,
+        "color": "#47B284"
+    },
+    {
+        "title": "Rou (L)",
+        "start": "2024-11-25T11:40:00",
+        "end": "2024-11-25T13:15:00",
+        "description": "Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący:  Sebastian Łeska",
+        "allDay": false,
+        "color": "#B2A347"
+    },
+    {
+        "title": "zsl (L)",
+        "start": "2024-12-18T11:40:00",
+        "end": "2024-12-18T13:15:00",
+        "description": "Zarządzanie środowiskiem Linux\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: dr Sławomir Machowski",
+        "allDay": false,
+        "color": "#47B284"
+    },
+    {
+        "title": "Rou (L)",
+        "start": "2024-12-02T13:30:00",
+        "end": "2024-12-02T15:05:00",
+        "description": "Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący:  Sebastian Łeska",
+        "allDay": false,
+        "color": "#B2A347"
+    },
+    {
+        "title": "Rou (w)",
+        "start": "2024-11-26T13:30:00",
+        "end": "2024-11-26T15:05:00",
+        "description": "Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: mgr inż. Łukasz Skibniewski",
+        "allDay": false,
+        "color": "#B2A347"
+    },
+    {
+        "title": "Lan (w)",
+        "start": "2024-11-25T08:00:00",
+        "end": "2024-11-25T09:35:00",
+        "description": "Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Tomasz Malinowski",
+        "allDay": false,
+        "color": "#4784B2"
+    },
+    {
+        "title": "zsw (w)",
+        "start": "2024-11-19T09:50:00",
+        "end": "2024-11-19T11:25:00",
+        "description": "Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: mgr inż. Łukasz Mielniczuk",
+        "allDay": false,
+        "color": "#B247A3"
+    },
+    {
+        "title": "zsl (L)",
+        "start": "2024-12-11T11:40:00",
+        "end": "2024-12-11T13:15:00",
+        "description": "Zarządzanie środowiskiem Linux\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: dr Sławomir Machowski",
+        "allDay": false,
+        "color": "#47B284"
+    },
+    {
+        "title": "Lan (L)",
+        "start": "2024-12-10T09:50:00",
+        "end": "2024-12-10T11:25:00",
+        "description": "Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: mgr inż. Dagmara Mazur",
+        "allDay": false,
+        "color": "#4784B2"
+    },
+    {
+        "title": "zsl (w)",
+        "start": "2024-12-09T09:50:00",
+        "end": "2024-12-09T11:25:00",
+        "description": "Zarządzanie środowiskiem Linux\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr Sławomir Machowski",
+        "allDay": false,
+        "color": "#47B284"
+    },
+    {
+        "title": "zsw (L)",
+        "start": "2024-12-06T11:40:00",
+        "end": "2024-12-06T13:15:00",
+        "description": "Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: mgr inż. Łukasz Mielniczuk",
+        "allDay": false,
+        "color": "#B247A3"
+    },
+    {
+        "title": "zsw (L)",
+        "start": "2024-12-13T13:30:00",
+        "end": "2024-12-13T15:05:00",
+        "description": "Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: mgr inż. Łukasz Mielniczuk",
+        "allDay": false,
+        "color": "#B247A3"
+    },
+    {
+        "title": "zsw (L)",
+        "start": "2024-12-19T09:50:00",
+        "end": "2024-12-19T11:25:00",
+        "description": "Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: mgr inż. Łukasz Mielniczuk",
+        "allDay": false,
+        "color": "#B247A3"
+    },
+    {
+        "title": "Lan (L)",
+        "start": "2024-12-03T08:00:00",
+        "end": "2024-12-03T09:35:00",
+        "description": "Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: mgr inż. Dagmara Mazur",
+        "allDay": false,
+        "color": "#4784B2"
+    },
+    {
+        "title": "Lan (w)",
+        "start": "2024-12-09T08:00:00",
+        "end": "2024-12-09T09:35:00",
+        "description": "Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Tomasz Malinowski",
+        "allDay": false,
+        "color": "#4784B2"
+    },
+    {
+        "title": "zsl (w)",
+        "start": "2024-11-25T09:50:00",
+        "end": "2024-11-25T11:25:00",
+        "description": "Zarządzanie środowiskiem Linux\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr Sławomir Machowski",
+        "allDay": false,
+        "color": "#47B284"
+    },
+    {
+        "title": "zsl (L)",
+        "start": "2024-11-27T09:50:00",
+        "end": "2024-11-27T11:25:00",
+        "description": "Zarządzanie środowiskiem Linux\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: dr Sławomir Machowski",
+        "allDay": false,
+        "color": "#47B284"
+    },
+    {
+        "title": "Lan (w)",
+        "start": "2024-11-27T08:00:00",
+        "end": "2024-11-27T09:35:00",
+        "description": "Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Tomasz Malinowski",
+        "allDay": false,
+        "color": "#4784B2"
+    },
+    {
+        "title": "Rou (w)",
+        "start": "2024-11-26T11:40:00",
+        "end": "2024-11-26T13:15:00",
+        "description": "Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: mgr inż. Łukasz Skibniewski",
+        "allDay": false,
+        "color": "#B2A347"
+    },
+    {
+        "title": "Rou (L)",
+        "start": "2024-12-16T13:30:00",
+        "end": "2024-12-16T15:05:00",
+        "description": "Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący:  Sebastian Łeska",
+        "allDay": false,
+        "color": "#B2A347"
+    },
+    {
+        "title": "zsl (L)",
+        "start": "2024-12-04T09:50:00",
+        "end": "2024-12-04T11:25:00",
+        "description": "Zarządzanie środowiskiem Linux\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: dr Sławomir Machowski",
+        "allDay": false,
+        "color": "#47B284"
+    },
+    {
+        "title": "zsw (w)",
+        "start": "2024-12-05T08:00:00",
+        "end": "2024-12-05T09:35:00",
+        "description": "Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: mgr inż. Łukasz Mielniczuk",
+        "allDay": false,
+        "color": "#B247A3"
+    },
+    {
+        "title": "Lan (w)",
+        "start": "2024-12-02T08:00:00",
+        "end": "2024-12-02T09:35:00",
+        "description": "Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Tomasz Malinowski",
+        "allDay": false,
+        "color": "#4784B2"
+    },
+    {
+        "title": "Rou (L)",
+        "start": "2024-12-19T11:40:00",
+        "end": "2024-12-19T13:15:00",
+        "description": "Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący:  Sebastian Łeska",
+        "allDay": false,
+        "color": "#B2A347"
+    },
+    {
+        "title": "zsw (L)",
+        "start": "2024-12-06T13:30:00",
+        "end": "2024-12-06T15:05:00",
+        "description": "Zarządzanie środowiskiem Windows\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: mgr inż. Łukasz Mielniczuk",
+        "allDay": false,
+        "color": "#B247A3"
+    },
+    {
+        "title": "Lan (L)",
+        "start": "2024-12-13T08:00:00",
+        "end": "2024-12-13T09:35:00",
+        "description": "Administrowanie i konfiguracja sieci LAN\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: mgr inż. Dagmara Mazur",
+        "allDay": false,
+        "color": "#4784B2"
+    },
+    {
+        "title": "zsl (L)",
+        "start": "2024-12-18T09:50:00",
+        "end": "2024-12-18T11:25:00",
+        "description": "Zarządzanie środowiskiem Linux\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: dr Sławomir Machowski",
+        "allDay": false,
+        "color": "#47B284"
+    },
+    {
+        "title": "zsw (w)",
+        "start": "2024-11-26T09:50:00",
+        "end": "2024-11-26T11:25:00",
+        "description": "Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: mgr inż. Łukasz Mielniczuk",
+        "allDay": false,
+        "color": "#B247A3"
+    },
+    {
+        "title": "Rou (L)",
+        "start": "2024-12-09T13:30:00",
+        "end": "2024-12-09T15:05:00",
+        "description": "Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący:  Sebastian Łeska",
+        "allDay": false,
+        "color": "#B2A347"
+    },
+    {
+        "title": "Rou (L)",
+        "start": "2024-12-09T11:40:00",
+        "end": "2024-12-09T13:15:00",
+        "description": "Routing w sieciach komputerowych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący:  Sebastian Łeska",
+        "allDay": false,
+        "color": "#B2A347"
+    },
+    {
+        "title": "zsw (w)",
+        "start": "2024-12-12T11:40:00",
+        "end": "2024-12-12T13:15:00",
+        "description": "Zarządzanie środowiskiem Windows\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: mgr inż. Łukasz Mielniczuk",
+        "allDay": false,
+        "color": "#B247A3"
+    },
+    {
+        "title": "Rou (w)",
+        "start": "2024-12-12T08:00:00",
+        "end": "2024-12-12T09:35:00",
+        "description": "Routing w sieciach komputerowych\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: mgr inż. Łukasz Skibniewski",
+        "allDay": false,
+        "color": "#B2A347"
+    }
+]

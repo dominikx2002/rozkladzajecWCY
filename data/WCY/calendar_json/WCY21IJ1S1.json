@@ -1,0 +1,2210 @@
+[
+    {
+        "title": "Sn (w)",
+        "start": "2024-06-11T08:00:00",
+        "end": "2024-06-11T09:35:00",
+        "description": "Sieci neuronowe\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#6047B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-06T09:50:00",
+        "end": "2024-12-06T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 33/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "kck (L)",
+        "start": "2024-06-10T08:00:00",
+        "end": "2024-06-10T09:35:00",
+        "description": "Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: mgr Jerzy Dorobisz",
+        "allDay": false,
+        "color": "#47B254"
+    },
+    {
+        "title": "PZ (P)",
+        "start": "2024-04-16T09:50:00",
+        "end": "2024-04-16T11:25:00",
+        "description": "Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 9/22\nProwadzący: mgr inż. Paweł Pieczonka",
+        "allDay": false,
+        "color": "#B26D47"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-06T16:00:00",
+        "end": "2024-12-06T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 36/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-03T17:50:00",
+        "end": "2024-12-03T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 17/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "Bsi (w)",
+        "start": "2024-10-09T11:40:00",
+        "end": "2024-10-09T13:15:00",
+        "description": "Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#AC47B2"
+    },
+    {
+        "title": "PZ (P)",
+        "start": "2024-05-09T09:50:00",
+        "end": "2024-05-09T11:25:00",
+        "description": "Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 12/22\nProwadzący: mgr inż. Paweł Pieczonka",
+        "allDay": false,
+        "color": "#B26D47"
+    },
+    {
+        "title": "Bsi (L)",
+        "start": "2024-10-24T13:30:00",
+        "end": "2024-10-24T15:05:00",
+        "description": "Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/9\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#AC47B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-04-17T11:40:00",
+        "end": "2024-04-17T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "Muma (w)",
+        "start": "2024-03-27T09:50:00",
+        "end": "2024-03-27T11:25:00",
+        "description": "Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr Jarosław Olejniczak",
+        "allDay": false,
+        "color": "#B29347"
+    },
+    {
+        "title": "kck (w)",
+        "start": "2024-06-04T09:50:00",
+        "end": "2024-06-04T11:25:00",
+        "description": "Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Tomasz Pałys",
+        "allDay": false,
+        "color": "#47B254"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-04T19:40:00",
+        "end": "2024-12-04T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 25/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "Bsi (w)",
+        "start": "2024-11-13T11:40:00",
+        "end": "2024-11-13T13:15:00",
+        "description": "Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#AC47B2"
+    },
+    {
+        "title": "kck (L)",
+        "start": "2024-06-07T13:30:00",
+        "end": "2024-06-07T15:05:00",
+        "description": "Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: mgr Jerzy Dorobisz",
+        "allDay": false,
+        "color": "#47B254"
+    },
+    {
+        "title": "PWSI (P)",
+        "start": "2024-05-08T08:00:00",
+        "end": "2024-05-08T09:35:00",
+        "description": "Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 10/15\nProwadzący: mgr inż. Tomasz Gumowski",
+        "allDay": false,
+        "color": "#4779B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-04-18T11:40:00",
+        "end": "2024-04-18T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "PWSI (P)",
+        "start": "2024-04-15T08:00:00",
+        "end": "2024-04-15T09:35:00",
+        "description": "Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 8/15\nProwadzący: mgr inż. Tomasz Gumowski",
+        "allDay": false,
+        "color": "#4779B2"
+    },
+    {
+        "title": "PWSI (w)",
+        "start": "2024-03-06T08:00:00",
+        "end": "2024-03-06T09:35:00",
+        "description": "Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Tomasz Gzik",
+        "allDay": false,
+        "color": "#4779B2"
+    },
+    {
+        "title": "Pjn (L)",
+        "start": "2024-11-28T11:40:00",
+        "end": "2024-11-28T13:15:00",
+        "description": "Przetwarzanie języka naturalnego\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "S.OP (Inne)",
+        "start": "2024-04-04T09:50:00",
+        "end": "2024-04-04T11:25:00",
+        "description": "Spotkanie z opiekunami praktyk\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Piotr Górny",
+        "allDay": false,
+        "color": "#ACB247"
+    },
+    {
+        "title": "Sn (L)",
+        "start": "2024-04-18T09:50:00",
+        "end": "2024-04-18T11:25:00",
+        "description": "Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/9\nProwadzący: -",
+        "allDay": false,
+        "color": "#6047B2"
+    },
+    {
+        "title": "Orr (w)",
+        "start": "2024-11-28T09:50:00",
+        "end": "2024-11-28T11:25:00",
+        "description": "Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 10/6\nProwadzący: dr hab. inż. Zbigniew Tarapata",
+        "allDay": false,
+        "color": "#4753B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-06T11:40:00",
+        "end": "2024-12-06T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 34/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "Orr (L)",
+        "start": "2024-10-23T08:00:00",
+        "end": "2024-10-23T09:35:00",
+        "description": "Obliczenia równoległe i rozproszone\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący:  Michał Zimoń",
+        "allDay": false,
+        "color": "#4753B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-03T13:30:00",
+        "end": "2024-12-03T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 15/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "Srrw (w)",
+        "start": "2024-10-15T09:50:00",
+        "end": "2024-10-15T11:25:00",
+        "description": "Systemy rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Wykład\nNr zajęć: 4/4\nProwadzący: -",
+        "allDay": false,
+        "color": "#60B247"
+    },
+    {
+        "title": "kck (L)",
+        "start": "2024-05-17T09:50:00",
+        "end": "2024-05-17T11:25:00",
+        "description": "Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: mgr Jerzy Dorobisz",
+        "allDay": false,
+        "color": "#47B254"
+    },
+    {
+        "title": "Bsi (L)",
+        "start": "2024-11-06T13:30:00",
+        "end": "2024-11-06T15:05:00",
+        "description": "Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/9\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#AC47B2"
+    },
+    {
+        "title": "Pjn (w)",
+        "start": "2024-10-24T11:40:00",
+        "end": "2024-10-24T13:15:00",
+        "description": "Przetwarzanie języka naturalnego\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "PZ (P)",
+        "start": "2024-03-12T11:40:00",
+        "end": "2024-03-12T13:15:00",
+        "description": "Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 2/22\nProwadzący: mgr inż. Paweł Pieczonka",
+        "allDay": false,
+        "color": "#B26D47"
+    },
+    {
+        "title": "PZ (P)",
+        "start": "2024-04-16T11:40:00",
+        "end": "2024-04-16T13:15:00",
+        "description": "Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 10/22\nProwadzący: mgr inż. Paweł Pieczonka",
+        "allDay": false,
+        "color": "#B26D47"
+    },
+    {
+        "title": "Jtp (L)",
+        "start": "2024-05-15T09:50:00",
+        "end": "2024-05-15T11:25:00",
+        "description": "Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/10\nProwadzący: mgr inż. Michał Sobolewski",
+        "allDay": false,
+        "color": "#8647B2"
+    },
+    {
+        "title": "Awd (L)",
+        "start": "2024-05-10T11:40:00",
+        "end": "2024-05-10T13:15:00",
+        "description": "Analiza i wizualizacja danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: dr Jarosław Olejniczak",
+        "allDay": false,
+        "color": "#479FB2"
+    },
+    {
+        "title": "Bsi (w)",
+        "start": "2024-10-02T11:40:00",
+        "end": "2024-10-02T13:15:00",
+        "description": "Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#AC47B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-03T11:40:00",
+        "end": "2024-12-03T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 14/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "Bsi (L)",
+        "start": "2024-10-09T13:30:00",
+        "end": "2024-10-09T15:05:00",
+        "description": "Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/9\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#AC47B2"
+    },
+    {
+        "title": "Sws (Inne)",
+        "start": "2024-03-05T13:30:00",
+        "end": "2024-03-05T15:05:00",
+        "description": "Spotkanie organizacyjne - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 1/4\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B29F"
+    },
+    {
+        "title": "Orr (w)",
+        "start": "2024-10-14T16:00:00",
+        "end": "2024-10-14T17:35:00",
+        "description": "Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący:  Michał Zimoń",
+        "allDay": false,
+        "color": "#4753B2"
+    },
+    {
+        "title": "Pjn (w)",
+        "start": "2024-10-03T08:00:00",
+        "end": "2024-10-03T09:35:00",
+        "description": "Przetwarzanie języka naturalnego\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Orr (E)",
+        "start": "2024-12-18T08:00:00",
+        "end": "2024-12-18T09:35:00",
+        "description": "Obliczenia równoległe i rozproszone\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Michał Zimoń",
+        "allDay": false,
+        "color": "#4753B2"
+    },
+    {
+        "title": "Orr (ć)",
+        "start": "2024-11-21T13:30:00",
+        "end": "2024-11-21T15:05:00",
+        "description": "Obliczenia równoległe i rozproszone\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 4/4\nProwadzący: mgr inż. Piotr Stąpor",
+        "allDay": false,
+        "color": "#4753B2"
+    },
+    {
+        "title": "Orr (L)",
+        "start": "2024-11-06T08:00:00",
+        "end": "2024-11-06T09:35:00",
+        "description": "Obliczenia równoległe i rozproszone\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący:  Michał Zimoń",
+        "allDay": false,
+        "color": "#4753B2"
+    },
+    {
+        "title": "PZ (P)",
+        "start": "2024-06-06T11:40:00",
+        "end": "2024-06-06T13:15:00",
+        "description": "Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 19/22\nProwadzący: mgr inż. Paweł Pieczonka",
+        "allDay": false,
+        "color": "#B26D47"
+    },
+    {
+        "title": "Srrw (L)",
+        "start": "2024-11-12T08:00:00",
+        "end": "2024-11-12T09:35:00",
+        "description": "Systemy rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/9\nProwadzący: -",
+        "allDay": false,
+        "color": "#60B247"
+    },
+    {
+        "title": "PZ (P)",
+        "start": "2024-05-20T11:40:00",
+        "end": "2024-05-20T13:15:00",
+        "description": "Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 16/22\nProwadzący: mgr inż. Paweł Pieczonka",
+        "allDay": false,
+        "color": "#B26D47"
+    },
+    {
+        "title": "Pjn (L)",
+        "start": "2024-11-14T09:50:00",
+        "end": "2024-11-14T11:25:00",
+        "description": "Przetwarzanie języka naturalnego\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/9\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Sws (Inne)",
+        "start": "2024-04-09T13:30:00",
+        "end": "2024-04-09T15:05:00",
+        "description": "Spotkanie organizacyjne - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 2/4\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B29F"
+    },
+    {
+        "title": "PZ (P)",
+        "start": "2024-04-09T11:40:00",
+        "end": "2024-04-09T13:15:00",
+        "description": "Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 7/22\nProwadzący: mgr inż. Paweł Pieczonka",
+        "allDay": false,
+        "color": "#B26D47"
+    },
+    {
+        "title": "PWSI (P)",
+        "start": "2024-05-27T11:40:00",
+        "end": "2024-05-27T13:15:00",
+        "description": "Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 12/15\nProwadzący: mgr inż. Tomasz Gumowski",
+        "allDay": false,
+        "color": "#4779B2"
+    },
+    {
+        "title": "Srrw (w)",
+        "start": "2024-10-15T13:30:00",
+        "end": "2024-10-15T15:05:00",
+        "description": "Systemy rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Wykład\nNr zajęć: 6/4\nProwadzący: -",
+        "allDay": false,
+        "color": "#60B247"
+    },
+    {
+        "title": "PWSI (P)",
+        "start": "2024-04-10T11:40:00",
+        "end": "2024-04-10T13:15:00",
+        "description": "Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 6/15\nProwadzący: mgr inż. Tomasz Gumowski",
+        "allDay": false,
+        "color": "#4779B2"
+    },
+    {
+        "title": "Pjn (L)",
+        "start": "2024-11-07T08:00:00",
+        "end": "2024-11-07T09:35:00",
+        "description": "Przetwarzanie języka naturalnego\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/9\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "kck (w)",
+        "start": "2024-04-30T09:50:00",
+        "end": "2024-04-30T11:25:00",
+        "description": "Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Tomasz Pałys",
+        "allDay": false,
+        "color": "#47B254"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-02T11:40:00",
+        "end": "2024-12-02T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 7/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-04T09:50:00",
+        "end": "2024-12-04T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 20/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "Sn (L)",
+        "start": "2024-05-24T09:50:00",
+        "end": "2024-05-24T11:25:00",
+        "description": "Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący: -",
+        "allDay": false,
+        "color": "#6047B2"
+    },
+    {
+        "title": "PWSI (L)",
+        "start": "2024-04-22T08:00:00",
+        "end": "2024-04-22T09:35:00",
+        "description": "Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: mgr inż. Tomasz Gumowski",
+        "allDay": false,
+        "color": "#4779B2"
+    },
+    {
+        "title": "Orr (w)",
+        "start": "2024-10-25T11:40:00",
+        "end": "2024-10-25T13:15:00",
+        "description": "Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: dr hab. inż. Zbigniew Tarapata",
+        "allDay": false,
+        "color": "#4753B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-04T11:40:00",
+        "end": "2024-12-04T13:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 21/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "AM (w)",
+        "start": "2024-02-29T11:40:00",
+        "end": "2024-02-29T13:15:00",
+        "description": "Aplikacje mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: mgr inż. Michał Sobolewski",
+        "allDay": false,
+        "color": "#86B247"
+    },
+    {
+        "title": "kck (L)",
+        "start": "2024-06-10T09:50:00",
+        "end": "2024-06-10T11:25:00",
+        "description": "Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr Jerzy Dorobisz",
+        "allDay": false,
+        "color": "#47B254"
+    },
+    {
+        "title": "Bsi (L)",
+        "start": "2024-11-28T13:30:00",
+        "end": "2024-11-28T15:05:00",
+        "description": "Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/9\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#AC47B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-06T19:40:00",
+        "end": "2024-12-06T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 38/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "AM (w)",
+        "start": "2024-03-11T09:50:00",
+        "end": "2024-03-11T11:25:00",
+        "description": "Aplikacje mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: mgr inż. Michał Sobolewski",
+        "allDay": false,
+        "color": "#86B247"
+    },
+    {
+        "title": "PWSI (P)",
+        "start": "2024-03-08T13:30:00",
+        "end": "2024-03-08T15:05:00",
+        "description": "Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 1/15\nProwadzący: mgr inż. Tomasz Gumowski",
+        "allDay": false,
+        "color": "#4779B2"
+    },
+    {
+        "title": "Awd (w)",
+        "start": "2024-06-13T13:30:00",
+        "end": "2024-06-13T15:05:00",
+        "description": "Analiza i wizualizacja danych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr Jarosław Olejniczak",
+        "allDay": false,
+        "color": "#479FB2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-10-29T13:30:00",
+        "end": "2024-10-29T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 3/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "kck (L)",
+        "start": "2024-05-22T08:00:00",
+        "end": "2024-05-22T09:35:00",
+        "description": "Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: mgr Jerzy Dorobisz",
+        "allDay": false,
+        "color": "#47B254"
+    },
+    {
+        "title": "PZ (P)",
+        "start": "2024-05-20T08:00:00",
+        "end": "2024-05-20T09:35:00",
+        "description": "Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 14/22\nProwadzący: mgr inż. Paweł Pieczonka",
+        "allDay": false,
+        "color": "#B26D47"
+    },
+    {
+        "title": "AM (L)",
+        "start": "2024-05-15T19:40:00",
+        "end": "2024-05-15T21:15:00",
+        "description": "Aplikacje mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: mgr inż. Tomasz Derski",
+        "allDay": false,
+        "color": "#86B247"
+    },
+    {
+        "title": "Jtp (L)",
+        "start": "2024-06-19T09:50:00",
+        "end": "2024-06-19T11:25:00",
+        "description": "Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 10/10\nProwadzący: mgr inż. Michał Sobolewski",
+        "allDay": false,
+        "color": "#8647B2"
+    },
+    {
+        "title": "PWSI (E)",
+        "start": "2024-06-27T08:00:00",
+        "end": "2024-06-27T09:35:00",
+        "description": "Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Tomasz Gzik",
+        "allDay": false,
+        "color": "#4779B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-04T13:30:00",
+        "end": "2024-12-04T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 22/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "Orr (w)",
+        "start": "2024-10-21T13:30:00",
+        "end": "2024-10-21T15:05:00",
+        "description": "Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący:  Michał Zimoń",
+        "allDay": false,
+        "color": "#4753B2"
+    },
+    {
+        "title": "Srrw (w)",
+        "start": "2024-10-11T11:40:00",
+        "end": "2024-10-11T13:15:00",
+        "description": "Systemy rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Wykład\nNr zajęć: 1/4\nProwadzący: dr inż. Jarosław Koszela",
+        "allDay": false,
+        "color": "#60B247"
+    },
+    {
+        "title": "PWSI (w)",
+        "start": "2024-04-24T16:00:00",
+        "end": "2024-04-24T17:35:00",
+        "description": "Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Tomasz Gzik",
+        "allDay": false,
+        "color": "#4779B2"
+    },
+    {
+        "title": "Pjn (Inne)",
+        "start": "2024-12-05T11:40:00",
+        "end": "2024-12-05T13:15:00",
+        "description": "Przetwarzanie języka naturalnego\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Muma (L)",
+        "start": "2024-04-11T11:40:00",
+        "end": "2024-04-11T13:15:00",
+        "description": "Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: dr Jarosław Olejniczak",
+        "allDay": false,
+        "color": "#B29347"
+    },
+    {
+        "title": "Sws (Inne)",
+        "start": "2024-05-07T13:30:00",
+        "end": "2024-05-07T15:05:00",
+        "description": "Spotkanie organizacyjne - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 3/4\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B29F"
+    },
+    {
+        "title": "Sp (Inne)",
+        "start": "2024-04-23T08:00:00",
+        "end": "2024-04-23T09:35:00",
+        "description": "Seminarium przeddyplomowe\nRodzaj zajęć:  - \nNr zajęć: 2/10\nProwadzący: dr inż. Wiesław Barcikowski",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "kck (w)",
+        "start": "2024-06-11T09:50:00",
+        "end": "2024-06-11T11:25:00",
+        "description": "Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr inż. Tomasz Pałys",
+        "allDay": false,
+        "color": "#47B254"
+    },
+    {
+        "title": "kck (L)",
+        "start": "2024-05-22T09:50:00",
+        "end": "2024-05-22T11:25:00",
+        "description": "Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: mgr Jerzy Dorobisz",
+        "allDay": false,
+        "color": "#47B254"
+    },
+    {
+        "title": "Bsi (L)",
+        "start": "2024-11-28T16:00:00",
+        "end": "2024-11-28T17:35:00",
+        "description": "Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#AC47B2"
+    },
+    {
+        "title": "PWSI (w)",
+        "start": "2024-04-10T08:00:00",
+        "end": "2024-04-10T09:35:00",
+        "description": "Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr inż. Tomasz Gzik",
+        "allDay": false,
+        "color": "#4779B2"
+    },
+    {
+        "title": "Muma (L)",
+        "start": "2024-03-28T08:00:00",
+        "end": "2024-03-28T09:35:00",
+        "description": "Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: dr Jarosław Olejniczak",
+        "allDay": false,
+        "color": "#B29347"
+    },
+    {
+        "title": "AM (L)",
+        "start": "2024-06-12T17:50:00",
+        "end": "2024-06-12T19:25:00",
+        "description": "Aplikacje mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: mgr inż. Tomasz Derski",
+        "allDay": false,
+        "color": "#86B247"
+    },
+    {
+        "title": "Awd (w)",
+        "start": "2024-03-21T08:00:00",
+        "end": "2024-03-21T09:35:00",
+        "description": "Analiza i wizualizacja danych\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr Jarosław Olejniczak",
+        "allDay": false,
+        "color": "#479FB2"
+    },
+    {
+        "title": "PWSI (P)",
+        "start": "2024-03-25T09:50:00",
+        "end": "2024-03-25T11:25:00",
+        "description": "Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 5/15\nProwadzący: mgr inż. Tomasz Gumowski",
+        "allDay": false,
+        "color": "#4779B2"
+    },
+    {
+        "title": "Orr (w)",
+        "start": "2024-10-28T16:00:00",
+        "end": "2024-10-28T17:35:00",
+        "description": "Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 8/6\nProwadzący:  Michał Zimoń",
+        "allDay": false,
+        "color": "#4753B2"
+    },
+    {
+        "title": "PWSI (L)",
+        "start": "2024-04-08T09:50:00",
+        "end": "2024-04-08T11:25:00",
+        "description": "Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: mgr inż. Tomasz Gumowski",
+        "allDay": false,
+        "color": "#4779B2"
+    },
+    {
+        "title": "Muma (w)",
+        "start": "2024-06-20T11:40:00",
+        "end": "2024-06-20T13:15:00",
+        "description": "Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr Jarosław Olejniczak",
+        "allDay": false,
+        "color": "#B29347"
+    },
+    {
+        "title": "Pjn (w)",
+        "start": "2024-10-10T09:50:00",
+        "end": "2024-10-10T11:25:00",
+        "description": "Przetwarzanie języka naturalnego\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Pjn (L)",
+        "start": "2024-10-31T16:00:00",
+        "end": "2024-10-31T17:35:00",
+        "description": "Przetwarzanie języka naturalnego\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/9\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Sn (L)",
+        "start": "2024-05-16T08:00:00",
+        "end": "2024-05-16T09:35:00",
+        "description": "Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/9\nProwadzący: -",
+        "allDay": false,
+        "color": "#6047B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-02T09:50:00",
+        "end": "2024-12-02T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 6/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "Srrw (L)",
+        "start": "2024-11-19T11:40:00",
+        "end": "2024-11-19T13:15:00",
+        "description": "Systemy rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/9\nProwadzący: -",
+        "allDay": false,
+        "color": "#60B247"
+    },
+    {
+        "title": "PWSI (P)",
+        "start": "2024-06-12T13:30:00",
+        "end": "2024-06-12T15:05:00",
+        "description": "Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 15/15\nProwadzący: mgr inż. Tomasz Gumowski",
+        "allDay": false,
+        "color": "#4779B2"
+    },
+    {
+        "title": "Sp (Inne)",
+        "start": "2024-06-03T09:50:00",
+        "end": "2024-06-03T11:25:00",
+        "description": "Seminarium przeddyplomowe\nRodzaj zajęć:  - \nNr zajęć: 7/10\nProwadzący: dr inż. Wiesław Barcikowski",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "PZ (P)",
+        "start": "2024-04-16T08:00:00",
+        "end": "2024-04-16T09:35:00",
+        "description": "Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 8/22\nProwadzący: mgr inż. Paweł Pieczonka",
+        "allDay": false,
+        "color": "#B26D47"
+    },
+    {
+        "title": "PWSI (P)",
+        "start": "2024-03-11T13:30:00",
+        "end": "2024-03-11T15:05:00",
+        "description": "Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 3/15\nProwadzący: mgr inż. Tomasz Gumowski",
+        "allDay": false,
+        "color": "#4779B2"
+    },
+    {
+        "title": "PZ (P)",
+        "start": "2024-06-17T09:50:00",
+        "end": "2024-06-17T11:25:00",
+        "description": "Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 21/22\nProwadzący: mgr inż. Paweł Pieczonka",
+        "allDay": false,
+        "color": "#B26D47"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-03T16:00:00",
+        "end": "2024-12-03T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 16/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "Bsi (L)",
+        "start": "2024-10-02T16:00:00",
+        "end": "2024-10-02T17:35:00",
+        "description": "Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/9\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#AC47B2"
+    },
+    {
+        "title": "Orr (ć)",
+        "start": "2024-10-31T11:40:00",
+        "end": "2024-10-31T13:15:00",
+        "description": "Obliczenia równoległe i rozproszone\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 2/4\nProwadzący: mgr inż. Piotr Stąpor",
+        "allDay": false,
+        "color": "#4753B2"
+    },
+    {
+        "title": "Awd (L)",
+        "start": "2024-04-17T09:50:00",
+        "end": "2024-04-17T11:25:00",
+        "description": "Analiza i wizualizacja danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: dr Jarosław Olejniczak",
+        "allDay": false,
+        "color": "#479FB2"
+    },
+    {
+        "title": "Awd (L)",
+        "start": "2024-05-22T16:00:00",
+        "end": "2024-05-22T17:35:00",
+        "description": "Analiza i wizualizacja danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: dr Jarosław Olejniczak",
+        "allDay": false,
+        "color": "#479FB2"
+    },
+    {
+        "title": "Sp (Inne)",
+        "start": "2024-04-23T11:40:00",
+        "end": "2024-04-23T13:15:00",
+        "description": "Seminarium przeddyplomowe\nRodzaj zajęć:  - \nNr zajęć: 4/10\nProwadzący: dr inż. Wiesław Barcikowski",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-05T13:30:00",
+        "end": "2024-12-05T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 28/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "Bsi (L)",
+        "start": "2024-10-09T16:00:00",
+        "end": "2024-10-09T17:35:00",
+        "description": "Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/9\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#AC47B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-05T16:00:00",
+        "end": "2024-12-05T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 29/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-04T08:00:00",
+        "end": "2024-12-04T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 19/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "kck (L)",
+        "start": "2024-06-07T11:40:00",
+        "end": "2024-06-07T13:15:00",
+        "description": "Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: mgr Jerzy Dorobisz",
+        "allDay": false,
+        "color": "#47B254"
+    },
+    {
+        "title": "Sn (w)",
+        "start": "2024-03-26T17:50:00",
+        "end": "2024-03-26T19:25:00",
+        "description": "Sieci neuronowe\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#6047B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-03T08:00:00",
+        "end": "2024-12-03T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 12/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "Sn (w)",
+        "start": "2024-03-26T16:00:00",
+        "end": "2024-03-26T17:35:00",
+        "description": "Sieci neuronowe\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#6047B2"
+    },
+    {
+        "title": "Jtp (w)",
+        "start": "2024-02-28T13:30:00",
+        "end": "2024-02-28T15:05:00",
+        "description": "Języki i techniki programowania\nRodzaj zajęć: Wykład\nNr zajęć: 2/5\nProwadzący: dr hab. Piotr Kosiuczenko",
+        "allDay": false,
+        "color": "#8647B2"
+    },
+    {
+        "title": "Orr (Inne)",
+        "start": "2025-01-08T09:50:00",
+        "end": "2025-01-08T11:25:00",
+        "description": "Obliczenia równoległe i rozproszone\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący:  Michał Zimoń",
+        "allDay": false,
+        "color": "#4753B2"
+    },
+    {
+        "title": "Jtp (L)",
+        "start": "2024-05-29T09:50:00",
+        "end": "2024-05-29T11:25:00",
+        "description": "Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/10\nProwadzący: mgr inż. Michał Sobolewski",
+        "allDay": false,
+        "color": "#8647B2"
+    },
+    {
+        "title": "Sn (w)",
+        "start": "2024-03-27T16:00:00",
+        "end": "2024-03-27T17:35:00",
+        "description": "Sieci neuronowe\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#6047B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-06T17:50:00",
+        "end": "2024-12-06T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 37/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "Jtp (L)",
+        "start": "2024-05-15T11:40:00",
+        "end": "2024-05-15T13:15:00",
+        "description": "Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/10\nProwadzący: mgr inż. Michał Sobolewski",
+        "allDay": false,
+        "color": "#8647B2"
+    },
+    {
+        "title": "PZ (P)",
+        "start": "2024-05-09T08:00:00",
+        "end": "2024-05-09T09:35:00",
+        "description": "Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 11/22\nProwadzący: mgr inż. Paweł Pieczonka",
+        "allDay": false,
+        "color": "#B26D47"
+    },
+    {
+        "title": "Muma (L)",
+        "start": "2024-04-19T09:50:00",
+        "end": "2024-04-19T11:25:00",
+        "description": "Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: dr Jarosław Olejniczak",
+        "allDay": false,
+        "color": "#B29347"
+    },
+    {
+        "title": "Sn (w)",
+        "start": "2024-03-27T17:50:00",
+        "end": "2024-03-27T19:25:00",
+        "description": "Sieci neuronowe\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#6047B2"
+    },
+    {
+        "title": "Muma (w)",
+        "start": "2024-03-13T09:50:00",
+        "end": "2024-03-13T11:25:00",
+        "description": "Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr Jarosław Olejniczak",
+        "allDay": false,
+        "color": "#B29347"
+    },
+    {
+        "title": "Orr (w)",
+        "start": "2024-10-22T13:30:00",
+        "end": "2024-10-22T15:05:00",
+        "description": "Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący:  Michał Zimoń",
+        "allDay": false,
+        "color": "#4753B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-06T13:30:00",
+        "end": "2024-12-06T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 35/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "AM (w)",
+        "start": "2024-03-11T08:00:00",
+        "end": "2024-03-11T09:35:00",
+        "description": "Aplikacje mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: mgr inż. Michał Sobolewski",
+        "allDay": false,
+        "color": "#86B247"
+    },
+    {
+        "title": "PWSI (w)",
+        "start": "2024-02-28T08:00:00",
+        "end": "2024-02-28T09:35:00",
+        "description": "Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr inż. Tomasz Gzik",
+        "allDay": false,
+        "color": "#4779B2"
+    },
+    {
+        "title": "Sn (L)",
+        "start": "2024-05-24T08:00:00",
+        "end": "2024-05-24T09:35:00",
+        "description": "Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/9\nProwadzący: -",
+        "allDay": false,
+        "color": "#6047B2"
+    },
+    {
+        "title": "Sn (L)",
+        "start": "2024-04-25T08:00:00",
+        "end": "2024-04-25T09:35:00",
+        "description": "Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/9\nProwadzący: -",
+        "allDay": false,
+        "color": "#6047B2"
+    },
+    {
+        "title": "PWSI (L)",
+        "start": "2024-04-08T08:00:00",
+        "end": "2024-04-08T09:35:00",
+        "description": "Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: mgr inż. Tomasz Gumowski",
+        "allDay": false,
+        "color": "#4779B2"
+    },
+    {
+        "title": "Pjn (L)",
+        "start": "2024-11-14T08:00:00",
+        "end": "2024-11-14T09:35:00",
+        "description": "Przetwarzanie języka naturalnego\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/9\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Bsi (w)",
+        "start": "2024-10-02T13:30:00",
+        "end": "2024-10-02T15:05:00",
+        "description": "Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#AC47B2"
+    },
+    {
+        "title": "PWSI (Inne)",
+        "start": "2024-07-03T08:00:00",
+        "end": "2024-07-03T09:35:00",
+        "description": "Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: dr inż. Tomasz Gzik",
+        "allDay": false,
+        "color": "#4779B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-02T13:30:00",
+        "end": "2024-12-02T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 8/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "Orr (ć)",
+        "start": "2024-11-14T11:40:00",
+        "end": "2024-11-14T13:15:00",
+        "description": "Obliczenia równoległe i rozproszone\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 3/4\nProwadzący: mgr inż. Piotr Stąpor",
+        "allDay": false,
+        "color": "#4753B2"
+    },
+    {
+        "title": "kck (L)",
+        "start": "2024-05-17T08:00:00",
+        "end": "2024-05-17T09:35:00",
+        "description": "Komunikacja człowiek komputer\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: mgr Jerzy Dorobisz",
+        "allDay": false,
+        "color": "#47B254"
+    },
+    {
+        "title": "Jtp (Inne)",
+        "start": "2024-09-18T08:00:00",
+        "end": "2024-09-18T09:35:00",
+        "description": "Języki i techniki programowania\nRodzaj zajęć:  - \nNr zajęć: 3/1\nProwadzący: dr hab. Piotr Kosiuczenko",
+        "allDay": false,
+        "color": "#8647B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-03T19:40:00",
+        "end": "2024-12-03T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 18/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "Srrw (L)",
+        "start": "2024-11-19T09:50:00",
+        "end": "2024-11-19T11:25:00",
+        "description": "Systemy rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/9\nProwadzący: -",
+        "allDay": false,
+        "color": "#60B247"
+    },
+    {
+        "title": "Awd (L)",
+        "start": "2024-05-16T13:30:00",
+        "end": "2024-05-16T15:05:00",
+        "description": "Analiza i wizualizacja danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: dr Jarosław Olejniczak",
+        "allDay": false,
+        "color": "#479FB2"
+    },
+    {
+        "title": "PWSI (P)",
+        "start": "2024-03-11T11:40:00",
+        "end": "2024-03-11T13:15:00",
+        "description": "Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 2/15\nProwadzący: mgr inż. Tomasz Gumowski",
+        "allDay": false,
+        "color": "#4779B2"
+    },
+    {
+        "title": "Orr (ć)",
+        "start": "2024-10-17T13:30:00",
+        "end": "2024-10-17T15:05:00",
+        "description": "Obliczenia równoległe i rozproszone\nRodzaj zajęć: Ćwiczenia\nNr zajęć: 1/4\nProwadzący: mgr inż. Piotr Stąpor",
+        "allDay": false,
+        "color": "#4753B2"
+    },
+    {
+        "title": "Sp (Inne)",
+        "start": "2024-06-03T13:30:00",
+        "end": "2024-06-03T15:05:00",
+        "description": "Seminarium przeddyplomowe\nRodzaj zajęć:  - \nNr zajęć: 9/10\nProwadzący: dr inż. Wiesław Barcikowski",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Awd (L)",
+        "start": "2024-04-24T11:40:00",
+        "end": "2024-04-24T13:15:00",
+        "description": "Analiza i wizualizacja danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: dr Jarosław Olejniczak",
+        "allDay": false,
+        "color": "#479FB2"
+    },
+    {
+        "title": "Jtp (L)",
+        "start": "2024-05-29T08:00:00",
+        "end": "2024-05-29T09:35:00",
+        "description": "Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/10\nProwadzący: mgr inż. Michał Sobolewski",
+        "allDay": false,
+        "color": "#8647B2"
+    },
+    {
+        "title": "Awd (w)",
+        "start": "2024-03-21T09:50:00",
+        "end": "2024-03-21T11:25:00",
+        "description": "Analiza i wizualizacja danych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr Jarosław Olejniczak",
+        "allDay": false,
+        "color": "#479FB2"
+    },
+    {
+        "title": "Pjn (L)",
+        "start": "2024-10-31T13:30:00",
+        "end": "2024-10-31T15:05:00",
+        "description": "Przetwarzanie języka naturalnego\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/9\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Awd (w)",
+        "start": "2024-06-13T11:40:00",
+        "end": "2024-06-13T13:15:00",
+        "description": "Analiza i wizualizacja danych\nRodzaj zajęć: Wykład\nNr zajęć: 6/7\nProwadzący: dr Jarosław Olejniczak",
+        "allDay": false,
+        "color": "#479FB2"
+    },
+    {
+        "title": "Muma (w)",
+        "start": "2024-02-28T09:50:00",
+        "end": "2024-02-28T11:25:00",
+        "description": "Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr Jarosław Olejniczak",
+        "allDay": false,
+        "color": "#B29347"
+    },
+    {
+        "title": "Orr (L)",
+        "start": "2024-10-23T09:50:00",
+        "end": "2024-10-23T11:25:00",
+        "description": "Obliczenia równoległe i rozproszone\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący:  Michał Zimoń",
+        "allDay": false,
+        "color": "#4753B2"
+    },
+    {
+        "title": "Srrw (L)",
+        "start": "2024-11-19T08:00:00",
+        "end": "2024-11-19T09:35:00",
+        "description": "Systemy rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/9\nProwadzący: -",
+        "allDay": false,
+        "color": "#60B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-04T17:50:00",
+        "end": "2024-12-04T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 24/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "Srrw (L)",
+        "start": "2024-10-29T08:00:00",
+        "end": "2024-10-29T09:35:00",
+        "description": "Systemy rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/9\nProwadzący: -",
+        "allDay": false,
+        "color": "#60B247"
+    },
+    {
+        "title": "Orr (L)",
+        "start": "2024-10-30T09:50:00",
+        "end": "2024-10-30T11:25:00",
+        "description": "Obliczenia równoległe i rozproszone\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący:  Michał Zimoń",
+        "allDay": false,
+        "color": "#4753B2"
+    },
+    {
+        "title": "Pjn (L)",
+        "start": "2024-11-21T08:00:00",
+        "end": "2024-11-21T09:35:00",
+        "description": "Przetwarzanie języka naturalnego\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/9\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Muma (L)",
+        "start": "2024-04-19T08:00:00",
+        "end": "2024-04-19T09:35:00",
+        "description": "Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący: dr Jarosław Olejniczak",
+        "allDay": false,
+        "color": "#B29347"
+    },
+    {
+        "title": "Sp (Inne)",
+        "start": "2024-06-03T16:00:00",
+        "end": "2024-06-03T17:35:00",
+        "description": "Seminarium przeddyplomowe\nRodzaj zajęć:  - \nNr zajęć: 10/10\nProwadzący: dr inż. Wiesław Barcikowski",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-02T16:00:00",
+        "end": "2024-12-02T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 9/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "Bsi (L)",
+        "start": "2024-10-24T16:00:00",
+        "end": "2024-10-24T17:35:00",
+        "description": "Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/9\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#AC47B2"
+    },
+    {
+        "title": "AM (L)",
+        "start": "2024-04-17T17:50:00",
+        "end": "2024-04-17T19:25:00",
+        "description": "Aplikacje mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: mgr inż. Tomasz Derski",
+        "allDay": false,
+        "color": "#86B247"
+    },
+    {
+        "title": "Muma (L)",
+        "start": "2024-03-28T09:50:00",
+        "end": "2024-03-28T11:25:00",
+        "description": "Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: dr Jarosław Olejniczak",
+        "allDay": false,
+        "color": "#B29347"
+    },
+    {
+        "title": "Pjn (L)",
+        "start": "2024-11-21T09:50:00",
+        "end": "2024-11-21T11:25:00",
+        "description": "Przetwarzanie języka naturalnego\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/9\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Muma (w)",
+        "start": "2024-06-20T13:30:00",
+        "end": "2024-06-20T15:05:00",
+        "description": "Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: dr Jarosław Olejniczak",
+        "allDay": false,
+        "color": "#B29347"
+    },
+    {
+        "title": "PWSI (Inne)",
+        "start": "2024-09-26T08:00:00",
+        "end": "2024-09-26T09:35:00",
+        "description": "Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć:  - \nNr zajęć: 3/2\nProwadzący: dr inż. Tomasz Gzik",
+        "allDay": false,
+        "color": "#4779B2"
+    },
+    {
+        "title": "PZ (P)",
+        "start": "2024-03-21T16:00:00",
+        "end": "2024-03-21T17:35:00",
+        "description": "Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 5/22\nProwadzący: mgr inż. Paweł Pieczonka",
+        "allDay": false,
+        "color": "#B26D47"
+    },
+    {
+        "title": "Sp (Inne)",
+        "start": "2024-06-03T08:00:00",
+        "end": "2024-06-03T09:35:00",
+        "description": "Seminarium przeddyplomowe\nRodzaj zajęć:  - \nNr zajęć: 6/10\nProwadzący: dr inż. Wiesław Barcikowski",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-04T16:00:00",
+        "end": "2024-12-04T17:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 23/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "Jtp (w)",
+        "start": "2024-03-12T13:30:00",
+        "end": "2024-03-12T15:05:00",
+        "description": "Języki i techniki programowania\nRodzaj zajęć: Wykład\nNr zajęć: 3/5\nProwadzący: dr hab. Piotr Kosiuczenko",
+        "allDay": false,
+        "color": "#8647B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-02T17:50:00",
+        "end": "2024-12-02T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 10/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "Jtp (Inne)",
+        "start": "2024-06-26T13:30:00",
+        "end": "2024-06-26T15:05:00",
+        "description": "Języki i techniki programowania\nRodzaj zajęć:  - \nNr zajęć: 2/1\nProwadzący: dr hab. Piotr Kosiuczenko",
+        "allDay": false,
+        "color": "#8647B2"
+    },
+    {
+        "title": "Orr (L)",
+        "start": "2024-11-06T09:50:00",
+        "end": "2024-11-06T11:25:00",
+        "description": "Obliczenia równoległe i rozproszone\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący:  Michał Zimoń",
+        "allDay": false,
+        "color": "#4753B2"
+    },
+    {
+        "title": "PWSI (P)",
+        "start": "2024-06-12T11:40:00",
+        "end": "2024-06-12T13:15:00",
+        "description": "Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 14/15\nProwadzący: mgr inż. Tomasz Gumowski",
+        "allDay": false,
+        "color": "#4779B2"
+    },
+    {
+        "title": "Pjn (w)",
+        "start": "2024-10-17T11:40:00",
+        "end": "2024-10-17T13:15:00",
+        "description": "Przetwarzanie języka naturalnego\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "kck (w)",
+        "start": "2024-05-07T09:50:00",
+        "end": "2024-05-07T11:25:00",
+        "description": "Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Tomasz Pałys",
+        "allDay": false,
+        "color": "#47B254"
+    },
+    {
+        "title": "PZ (P)",
+        "start": "2024-06-06T09:50:00",
+        "end": "2024-06-06T11:25:00",
+        "description": "Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 18/22\nProwadzący: mgr inż. Paweł Pieczonka",
+        "allDay": false,
+        "color": "#B26D47"
+    },
+    {
+        "title": "PZ (P)",
+        "start": "2024-06-06T08:00:00",
+        "end": "2024-06-06T09:35:00",
+        "description": "Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 17/22\nProwadzący: mgr inż. Paweł Pieczonka",
+        "allDay": false,
+        "color": "#B26D47"
+    },
+    {
+        "title": "Bsi (w)",
+        "start": "2024-10-16T11:40:00",
+        "end": "2024-10-16T13:15:00",
+        "description": "Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 4/6\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#AC47B2"
+    },
+    {
+        "title": "Sn (L)",
+        "start": "2024-05-16T11:40:00",
+        "end": "2024-05-16T13:15:00",
+        "description": "Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/9\nProwadzący: -",
+        "allDay": false,
+        "color": "#6047B2"
+    },
+    {
+        "title": "Srrw (w)",
+        "start": "2024-10-11T13:30:00",
+        "end": "2024-10-11T15:05:00",
+        "description": "Systemy rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Wykład\nNr zajęć: 2/4\nProwadzący: dr inż. Jarosław Koszela",
+        "allDay": false,
+        "color": "#60B247"
+    },
+    {
+        "title": "Jtp (L)",
+        "start": "2024-05-29T11:40:00",
+        "end": "2024-05-29T13:15:00",
+        "description": "Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/10\nProwadzący: mgr inż. Michał Sobolewski",
+        "allDay": false,
+        "color": "#8647B2"
+    },
+    {
+        "title": "Orr (w)",
+        "start": "2024-11-28T08:00:00",
+        "end": "2024-11-28T09:35:00",
+        "description": "Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 9/6\nProwadzący: dr hab. inż. Zbigniew Tarapata",
+        "allDay": false,
+        "color": "#4753B2"
+    },
+    {
+        "title": "Bsi (L)",
+        "start": "2024-11-06T11:40:00",
+        "end": "2024-11-06T13:15:00",
+        "description": "Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/9\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#AC47B2"
+    },
+    {
+        "title": "AM (w)",
+        "start": "2024-03-04T08:00:00",
+        "end": "2024-03-04T09:35:00",
+        "description": "Aplikacje mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: mgr inż. Michał Sobolewski",
+        "allDay": false,
+        "color": "#86B247"
+    },
+    {
+        "title": "Orr (w)",
+        "start": "2024-10-14T13:30:00",
+        "end": "2024-10-14T15:05:00",
+        "description": "Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 2/6\nProwadzący:  Michał Zimoń",
+        "allDay": false,
+        "color": "#4753B2"
+    },
+    {
+        "title": "Srrw (L)",
+        "start": "2024-11-12T09:50:00",
+        "end": "2024-11-12T11:25:00",
+        "description": "Systemy rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/9\nProwadzący: -",
+        "allDay": false,
+        "color": "#60B247"
+    },
+    {
+        "title": "PWSI (Inne)",
+        "start": "2024-09-19T08:00:00",
+        "end": "2024-09-19T09:35:00",
+        "description": "Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: dr inż. Tomasz Gzik",
+        "allDay": false,
+        "color": "#4779B2"
+    },
+    {
+        "title": "Pjn (w)",
+        "start": "2024-11-21T11:40:00",
+        "end": "2024-11-21T13:15:00",
+        "description": "Przetwarzanie języka naturalnego\nRodzaj zajęć: Wykład\nNr zajęć: 6/6\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "PZ (P)",
+        "start": "2024-04-09T09:50:00",
+        "end": "2024-04-09T11:25:00",
+        "description": "Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 6/22\nProwadzący: mgr inż. Paweł Pieczonka",
+        "allDay": false,
+        "color": "#B26D47"
+    },
+    {
+        "title": "PZ (P)",
+        "start": "2024-03-21T13:30:00",
+        "end": "2024-03-21T15:05:00",
+        "description": "Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 4/22\nProwadzący: mgr inż. Paweł Pieczonka",
+        "allDay": false,
+        "color": "#B26D47"
+    },
+    {
+        "title": "Awd (L)",
+        "start": "2024-06-12T16:00:00",
+        "end": "2024-06-12T17:35:00",
+        "description": "Analiza i wizualizacja danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: dr Jarosław Olejniczak",
+        "allDay": false,
+        "color": "#479FB2"
+    },
+    {
+        "title": "Bsi (w)",
+        "start": "2024-10-30T11:40:00",
+        "end": "2024-10-30T13:15:00",
+        "description": "Bezpieczeństwo systemów informacyjnych\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: dr inż. Jerzy Stanik",
+        "allDay": false,
+        "color": "#AC47B2"
+    },
+    {
+        "title": "PZ (P)",
+        "start": "2024-05-20T09:50:00",
+        "end": "2024-05-20T11:25:00",
+        "description": "Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 15/22\nProwadzący: mgr inż. Paweł Pieczonka",
+        "allDay": false,
+        "color": "#B26D47"
+    },
+    {
+        "title": "Orr (L)",
+        "start": "2024-10-30T08:00:00",
+        "end": "2024-10-30T09:35:00",
+        "description": "Obliczenia równoległe i rozproszone\nRodzaj zajęć: Laboratorium\nNr zajęć: 5/8\nProwadzący:  Michał Zimoń",
+        "allDay": false,
+        "color": "#4753B2"
+    },
+    {
+        "title": "Sp (Inne)",
+        "start": "2024-04-23T13:30:00",
+        "end": "2024-04-23T15:05:00",
+        "description": "Seminarium przeddyplomowe\nRodzaj zajęć:  - \nNr zajęć: 5/10\nProwadzący: dr inż. Wiesław Barcikowski",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Pjn (w)",
+        "start": "2024-11-07T11:40:00",
+        "end": "2024-11-07T13:15:00",
+        "description": "Przetwarzanie języka naturalnego\nRodzaj zajęć: Wykład\nNr zajęć: 5/6\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "Jtp (w)",
+        "start": "2024-04-03T13:30:00",
+        "end": "2024-04-03T15:05:00",
+        "description": "Języki i techniki programowania\nRodzaj zajęć: Wykład\nNr zajęć: 5/5\nProwadzący: dr hab. Piotr Kosiuczenko",
+        "allDay": false,
+        "color": "#8647B2"
+    },
+    {
+        "title": "Sp (Inne)",
+        "start": "2024-03-11T16:00:00",
+        "end": "2024-03-11T17:35:00",
+        "description": "Seminarium przeddyplomowe\nRodzaj zajęć:  - \nNr zajęć: 1/10\nProwadzący: dr inż. Wiesław Barcikowski",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Jtp (L)",
+        "start": "2024-06-19T08:00:00",
+        "end": "2024-06-19T09:35:00",
+        "description": "Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 9/10\nProwadzący: mgr inż. Michał Sobolewski",
+        "allDay": false,
+        "color": "#8647B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-05T08:00:00",
+        "end": "2024-12-05T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 26/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "Muma (w)",
+        "start": "2024-03-20T09:50:00",
+        "end": "2024-03-20T11:25:00",
+        "description": "Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr Jarosław Olejniczak",
+        "allDay": false,
+        "color": "#B29347"
+    },
+    {
+        "title": "Orr (L)",
+        "start": "2024-10-22T09:50:00",
+        "end": "2024-10-22T11:25:00",
+        "description": "Obliczenia równoległe i rozproszone\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący:  Michał Zimoń",
+        "allDay": false,
+        "color": "#4753B2"
+    },
+    {
+        "title": "AM (L)",
+        "start": "2024-05-15T17:50:00",
+        "end": "2024-05-15T19:25:00",
+        "description": "Aplikacje mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/8\nProwadzący: mgr inż. Tomasz Derski",
+        "allDay": false,
+        "color": "#86B247"
+    },
+    {
+        "title": "PZ (P)",
+        "start": "2024-05-09T11:40:00",
+        "end": "2024-05-09T13:15:00",
+        "description": "Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 13/22\nProwadzący: mgr inż. Paweł Pieczonka",
+        "allDay": false,
+        "color": "#B26D47"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-02T19:40:00",
+        "end": "2024-12-02T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 11/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "Orr (L)",
+        "start": "2024-10-22T11:40:00",
+        "end": "2024-10-22T13:15:00",
+        "description": "Obliczenia równoległe i rozproszone\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący:  Michał Zimoń",
+        "allDay": false,
+        "color": "#4753B2"
+    },
+    {
+        "title": "PZ (P)",
+        "start": "2024-03-21T11:40:00",
+        "end": "2024-03-21T13:15:00",
+        "description": "Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 3/22\nProwadzący: mgr inż. Paweł Pieczonka",
+        "allDay": false,
+        "color": "#B26D47"
+    },
+    {
+        "title": "Srrw (w)",
+        "start": "2024-10-15T08:00:00",
+        "end": "2024-10-15T09:35:00",
+        "description": "Systemy rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Wykład\nNr zajęć: 3/4\nProwadzący: -",
+        "allDay": false,
+        "color": "#60B247"
+    },
+    {
+        "title": "PWSI (w)",
+        "start": "2024-03-27T08:00:00",
+        "end": "2024-03-27T09:35:00",
+        "description": "Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Tomasz Gzik",
+        "allDay": false,
+        "color": "#4779B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-06T08:00:00",
+        "end": "2024-12-06T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 32/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "PWSI (P)",
+        "start": "2024-04-15T09:50:00",
+        "end": "2024-04-15T11:25:00",
+        "description": "Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 9/15\nProwadzący: mgr inż. Tomasz Gumowski",
+        "allDay": false,
+        "color": "#4779B2"
+    },
+    {
+        "title": "Srrw (L)",
+        "start": "2024-10-29T09:50:00",
+        "end": "2024-10-29T11:25:00",
+        "description": "Systemy rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/9\nProwadzący: -",
+        "allDay": false,
+        "color": "#60B247"
+    },
+    {
+        "title": "PWSI (L)",
+        "start": "2024-03-19T13:30:00",
+        "end": "2024-03-19T15:05:00",
+        "description": "Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: mgr inż. Tomasz Gumowski",
+        "allDay": false,
+        "color": "#4779B2"
+    },
+    {
+        "title": "Sp (Inne)",
+        "start": "2024-04-23T09:50:00",
+        "end": "2024-04-23T11:25:00",
+        "description": "Seminarium przeddyplomowe\nRodzaj zajęć:  - \nNr zajęć: 3/10\nProwadzący: dr inż. Wiesław Barcikowski",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "Orr (w)",
+        "start": "2024-10-14T08:00:00",
+        "end": "2024-10-14T09:35:00",
+        "description": "Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 1/6\nProwadzący: dr hab. inż. Zbigniew Tarapata",
+        "allDay": false,
+        "color": "#4753B2"
+    },
+    {
+        "title": "PZ (P)",
+        "start": "2024-03-12T09:50:00",
+        "end": "2024-03-12T11:25:00",
+        "description": "Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 1/22\nProwadzący: mgr inż. Paweł Pieczonka",
+        "allDay": false,
+        "color": "#B26D47"
+    },
+    {
+        "title": "Jtp (Inne)",
+        "start": "2024-06-26T11:40:00",
+        "end": "2024-06-26T13:15:00",
+        "description": "Języki i techniki programowania\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#8647B2"
+    },
+    {
+        "title": "Jtp (L)",
+        "start": "2024-06-12T08:00:00",
+        "end": "2024-06-12T09:35:00",
+        "description": "Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/10\nProwadzący: mgr inż. Michał Sobolewski",
+        "allDay": false,
+        "color": "#8647B2"
+    },
+    {
+        "title": "PWSI (P)",
+        "start": "2024-03-25T08:00:00",
+        "end": "2024-03-25T09:35:00",
+        "description": "Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 4/15\nProwadzący: mgr inż. Tomasz Gumowski",
+        "allDay": false,
+        "color": "#4779B2"
+    },
+    {
+        "title": "Muma (L)",
+        "start": "2024-04-11T13:30:00",
+        "end": "2024-04-11T15:05:00",
+        "description": "Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/8\nProwadzący: dr Jarosław Olejniczak",
+        "allDay": false,
+        "color": "#B29347"
+    },
+    {
+        "title": "AM (L)",
+        "start": "2024-06-12T19:40:00",
+        "end": "2024-06-12T21:15:00",
+        "description": "Aplikacje mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: mgr inż. Tomasz Derski",
+        "allDay": false,
+        "color": "#86B247"
+    },
+    {
+        "title": "kck (w)",
+        "start": "2024-05-21T09:50:00",
+        "end": "2024-05-21T11:25:00",
+        "description": "Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr inż. Tomasz Pałys",
+        "allDay": false,
+        "color": "#47B254"
+    },
+    {
+        "title": "PZ (Inne)",
+        "start": "2024-09-16T16:00:00",
+        "end": "2024-09-16T17:35:00",
+        "description": "Projekt zespołowy\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: mgr inż. Paweł Pieczonka",
+        "allDay": false,
+        "color": "#B26D47"
+    },
+    {
+        "title": "Sn (w)",
+        "start": "2024-03-26T19:40:00",
+        "end": "2024-03-26T21:15:00",
+        "description": "Sieci neuronowe\nRodzaj zajęć: Wykład\nNr zajęć: 3/6\nProwadzący: -",
+        "allDay": false,
+        "color": "#6047B2"
+    },
+    {
+        "title": "PWSI (w)",
+        "start": "2024-03-13T08:00:00",
+        "end": "2024-03-13T09:35:00",
+        "description": "Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 3/7\nProwadzący: dr inż. Tomasz Gzik",
+        "allDay": false,
+        "color": "#4779B2"
+    },
+    {
+        "title": "PZ (P)",
+        "start": "2024-06-17T11:40:00",
+        "end": "2024-06-17T13:15:00",
+        "description": "Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 22/22\nProwadzący: mgr inż. Paweł Pieczonka",
+        "allDay": false,
+        "color": "#B26D47"
+    },
+    {
+        "title": "Muma (L)",
+        "start": "2024-05-10T08:00:00",
+        "end": "2024-05-10T09:35:00",
+        "description": "Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: dr Jarosław Olejniczak",
+        "allDay": false,
+        "color": "#B29347"
+    },
+    {
+        "title": "Jtp (L)",
+        "start": "2024-06-12T09:50:00",
+        "end": "2024-06-12T11:25:00",
+        "description": "Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/10\nProwadzący: mgr inż. Michał Sobolewski",
+        "allDay": false,
+        "color": "#8647B2"
+    },
+    {
+        "title": "AM (Inne)",
+        "start": "2024-07-05T19:40:00",
+        "end": "2024-07-05T21:15:00",
+        "description": "Aplikacje mobilne\nRodzaj zajęć:  - \nNr zajęć: 2/2\nProwadzący: mgr inż. Tomasz Derski",
+        "allDay": false,
+        "color": "#86B247"
+    },
+    {
+        "title": "PWSI (L)",
+        "start": "2024-05-13T13:30:00",
+        "end": "2024-05-13T15:05:00",
+        "description": "Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr inż. Tomasz Gumowski",
+        "allDay": false,
+        "color": "#4779B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-03T09:50:00",
+        "end": "2024-12-03T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 13/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "Sn (L)",
+        "start": "2024-05-16T09:50:00",
+        "end": "2024-05-16T11:25:00",
+        "description": "Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/9\nProwadzący: -",
+        "allDay": false,
+        "color": "#6047B2"
+    },
+    {
+        "title": "AM (w)",
+        "start": "2024-02-29T09:50:00",
+        "end": "2024-02-29T11:25:00",
+        "description": "Aplikacje mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: mgr inż. Michał Sobolewski",
+        "allDay": false,
+        "color": "#86B247"
+    },
+    {
+        "title": "PWSI (w)",
+        "start": "2024-04-04T08:00:00",
+        "end": "2024-04-04T09:35:00",
+        "description": "Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Tomasz Gzik",
+        "allDay": false,
+        "color": "#4779B2"
+    },
+    {
+        "title": "Muma (L)",
+        "start": "2024-05-10T09:50:00",
+        "end": "2024-05-10T11:25:00",
+        "description": "Metody uczenia maszynowego\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: dr Jarosław Olejniczak",
+        "allDay": false,
+        "color": "#B29347"
+    },
+    {
+        "title": "Jtp (L)",
+        "start": "2024-05-15T08:00:00",
+        "end": "2024-05-15T09:35:00",
+        "description": "Języki i techniki programowania\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/10\nProwadzący: mgr inż. Michał Sobolewski",
+        "allDay": false,
+        "color": "#8647B2"
+    },
+    {
+        "title": "Awd (w)",
+        "start": "2024-03-07T09:50:00",
+        "end": "2024-03-07T11:25:00",
+        "description": "Analiza i wizualizacja danych\nRodzaj zajęć: Wykład\nNr zajęć: 1/7\nProwadzący: dr Jarosław Olejniczak",
+        "allDay": false,
+        "color": "#479FB2"
+    },
+    {
+        "title": "Srrw (L)",
+        "start": "2024-10-29T11:40:00",
+        "end": "2024-10-29T13:15:00",
+        "description": "Systemy rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 3/9\nProwadzący: -",
+        "allDay": false,
+        "color": "#60B247"
+    },
+    {
+        "title": "kck (w)",
+        "start": "2024-04-30T13:30:00",
+        "end": "2024-04-30T15:05:00",
+        "description": "Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr inż. Tomasz Pałys",
+        "allDay": false,
+        "color": "#47B254"
+    },
+    {
+        "title": "Pjn (L)",
+        "start": "2024-11-07T09:50:00",
+        "end": "2024-11-07T11:25:00",
+        "description": "Przetwarzanie języka naturalnego\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/9\nProwadzący: dr inż. Marcin Mazurek",
+        "allDay": false,
+        "color": "#B24747"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-05T09:50:00",
+        "end": "2024-12-05T11:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 27/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "AM (L)",
+        "start": "2024-04-17T19:40:00",
+        "end": "2024-04-17T21:15:00",
+        "description": "Aplikacje mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: mgr inż. Tomasz Derski",
+        "allDay": false,
+        "color": "#86B247"
+    },
+    {
+        "title": "Jtp (w)",
+        "start": "2024-03-13T13:30:00",
+        "end": "2024-03-13T15:05:00",
+        "description": "Języki i techniki programowania\nRodzaj zajęć: Wykład\nNr zajęć: 4/5\nProwadzący: dr hab. Piotr Kosiuczenko",
+        "allDay": false,
+        "color": "#8647B2"
+    },
+    {
+        "title": "Srrw (L)",
+        "start": "2024-11-12T11:40:00",
+        "end": "2024-11-12T13:15:00",
+        "description": "Systemy rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/9\nProwadzący: -",
+        "allDay": false,
+        "color": "#60B247"
+    },
+    {
+        "title": "PWSI (L)",
+        "start": "2024-04-22T09:50:00",
+        "end": "2024-04-22T11:25:00",
+        "description": "Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 6/8\nProwadzący: mgr inż. Tomasz Gumowski",
+        "allDay": false,
+        "color": "#4779B2"
+    },
+    {
+        "title": "Orr (w)",
+        "start": "2024-10-28T13:30:00",
+        "end": "2024-10-28T15:05:00",
+        "description": "Obliczenia równoległe i rozproszone\nRodzaj zajęć: Wykład\nNr zajęć: 7/6\nProwadzący:  Michał Zimoń",
+        "allDay": false,
+        "color": "#4753B2"
+    },
+    {
+        "title": "PWSI (P)",
+        "start": "2024-05-08T09:50:00",
+        "end": "2024-05-08T11:25:00",
+        "description": "Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 11/15\nProwadzący: mgr inż. Tomasz Gumowski",
+        "allDay": false,
+        "color": "#4779B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-02T08:00:00",
+        "end": "2024-12-02T09:35:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 5/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "kck (w)",
+        "start": "2024-05-28T09:50:00",
+        "end": "2024-05-28T11:25:00",
+        "description": "Komunikacja człowiek komputer\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr inż. Tomasz Pałys",
+        "allDay": false,
+        "color": "#47B254"
+    },
+    {
+        "title": "Sn (L)",
+        "start": "2024-04-18T08:00:00",
+        "end": "2024-04-18T09:35:00",
+        "description": "Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/9\nProwadzący: -",
+        "allDay": false,
+        "color": "#6047B2"
+    },
+    {
+        "title": "Sp (Inne)",
+        "start": "2024-06-03T11:40:00",
+        "end": "2024-06-03T13:15:00",
+        "description": "Seminarium przeddyplomowe\nRodzaj zajęć:  - \nNr zajęć: 8/10\nProwadzący: dr inż. Wiesław Barcikowski",
+        "allDay": false,
+        "color": "#B24793"
+    },
+    {
+        "title": "AM (w)",
+        "start": "2024-03-04T09:50:00",
+        "end": "2024-03-04T11:25:00",
+        "description": "Aplikacje mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: mgr inż. Michał Sobolewski",
+        "allDay": false,
+        "color": "#86B247"
+    },
+    {
+        "title": "Wpp (Inne)",
+        "start": "2024-09-25T16:00:00",
+        "end": "2024-09-25T17:35:00",
+        "description": "Wszystkie przedmioty prowadzącego\nRodzaj zajęć:  - \nNr zajęć: 1/1\nProwadzący: dr hab. Piotr Kosiuczenko",
+        "allDay": false,
+        "color": "#47B279"
+    },
+    {
+        "title": "Jtp (w)",
+        "start": "2024-02-28T11:40:00",
+        "end": "2024-02-28T13:15:00",
+        "description": "Języki i techniki programowania\nRodzaj zajęć: Wykład\nNr zajęć: 1/5\nProwadzący: dr hab. Piotr Kosiuczenko",
+        "allDay": false,
+        "color": "#8647B2"
+    },
+    {
+        "title": "Sws (Inne)",
+        "start": "2024-06-04T13:30:00",
+        "end": "2024-06-04T15:05:00",
+        "description": "Spotkanie organizacyjne - (Seminarium) -\nRodzaj zajęć:  - \nNr zajęć: 4/4\nProwadzący: -",
+        "allDay": false,
+        "color": "#47B29F"
+    },
+    {
+        "title": "Sn (L)",
+        "start": "2024-04-25T09:50:00",
+        "end": "2024-04-25T11:25:00",
+        "description": "Sieci neuronowe\nRodzaj zajęć: Laboratorium\nNr zajęć: 4/9\nProwadzący: -",
+        "allDay": false,
+        "color": "#6047B2"
+    },
+    {
+        "title": "Awd (L)",
+        "start": "2024-04-10T09:50:00",
+        "end": "2024-04-10T11:25:00",
+        "description": "Analiza i wizualizacja danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 1/8\nProwadzący: dr Jarosław Olejniczak",
+        "allDay": false,
+        "color": "#479FB2"
+    },
+    {
+        "title": "Muma (w)",
+        "start": "2024-03-06T09:50:00",
+        "end": "2024-03-06T11:25:00",
+        "description": "Metody uczenia maszynowego\nRodzaj zajęć: Wykład\nNr zajęć: 2/7\nProwadzący: dr Jarosław Olejniczak",
+        "allDay": false,
+        "color": "#B29347"
+    },
+    {
+        "title": "AM (Inne)",
+        "start": "2024-06-28T19:40:00",
+        "end": "2024-06-28T21:15:00",
+        "description": "Aplikacje mobilne\nRodzaj zajęć:  - \nNr zajęć: 1/2\nProwadzący: mgr inż. Tomasz Derski",
+        "allDay": false,
+        "color": "#86B247"
+    },
+    {
+        "title": "PWSI (P)",
+        "start": "2024-04-10T13:30:00",
+        "end": "2024-04-10T15:05:00",
+        "description": "Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 7/15\nProwadzący: mgr inż. Tomasz Gumowski",
+        "allDay": false,
+        "color": "#4779B2"
+    },
+    {
+        "title": "PWSI (L)",
+        "start": "2024-03-19T16:00:00",
+        "end": "2024-03-19T17:35:00",
+        "description": "Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 2/8\nProwadzący: mgr inż. Tomasz Gumowski",
+        "allDay": false,
+        "color": "#4779B2"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-05T17:50:00",
+        "end": "2024-12-05T19:25:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 30/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-11-12T13:30:00",
+        "end": "2024-11-12T15:05:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 4/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "AM (L)",
+        "start": "2024-06-21T11:40:00",
+        "end": "2024-06-21T13:15:00",
+        "description": "Aplikacje mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 8/8\nProwadzący: mgr inż. Tomasz Derski",
+        "allDay": false,
+        "color": "#86B247"
+    },
+    {
+        "title": "Awd (L)",
+        "start": "2024-06-05T13:30:00",
+        "end": "2024-06-05T15:05:00",
+        "description": "Analiza i wizualizacja danych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: dr Jarosław Olejniczak",
+        "allDay": false,
+        "color": "#479FB2"
+    },
+    {
+        "title": "PWSI (L)",
+        "start": "2024-05-13T11:40:00",
+        "end": "2024-05-13T13:15:00",
+        "description": "Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: mgr inż. Tomasz Gumowski",
+        "allDay": false,
+        "color": "#4779B2"
+    },
+    {
+        "title": "AM (L)",
+        "start": "2024-06-21T08:00:00",
+        "end": "2024-06-21T09:35:00",
+        "description": "Aplikacje mobilne\nRodzaj zajęć: Laboratorium\nNr zajęć: 7/8\nProwadzący: mgr inż. Tomasz Derski",
+        "allDay": false,
+        "color": "#86B247"
+    },
+    {
+        "title": "- (Inne)",
+        "start": "2024-12-05T19:40:00",
+        "end": "2024-12-05T21:15:00",
+        "description": "-\nRodzaj zajęć:  - \nNr zajęć: 31/1\nProwadzący: -",
+        "allDay": false,
+        "color": "#B2476D"
+    },
+    {
+        "title": "PZ (P)",
+        "start": "2024-06-17T08:00:00",
+        "end": "2024-06-17T09:35:00",
+        "description": "Projekt zespołowy\nRodzaj zajęć: Projekt\nNr zajęć: 20/22\nProwadzący: mgr inż. Paweł Pieczonka",
+        "allDay": false,
+        "color": "#B26D47"
+    },
+    {
+        "title": "Srrw (w)",
+        "start": "2024-10-15T11:40:00",
+        "end": "2024-10-15T13:15:00",
+        "description": "Systemy rzeczywistości rozszerzonej i wirtualnej\nRodzaj zajęć: Wykład\nNr zajęć: 5/4\nProwadzący: -",
+        "allDay": false,
+        "color": "#60B247"
+    },
+    {
+        "title": "Awd (w)",
+        "start": "2024-04-11T08:00:00",
+        "end": "2024-04-11T09:35:00",
+        "description": "Analiza i wizualizacja danych\nRodzaj zajęć: Wykład\nNr zajęć: 4/7\nProwadzący: dr Jarosław Olejniczak",
+        "allDay": false,
+        "color": "#479FB2"
+    },
+    {
+        "title": "AM (w)",
+        "start": "2024-03-12T08:00:00",
+        "end": "2024-03-12T09:35:00",
+        "description": "Aplikacje mobilne\nRodzaj zajęć: Wykład\nNr zajęć: 7/7\nProwadzący: mgr inż. Michał Sobolewski",
+        "allDay": false,
+        "color": "#86B247"
+    },
+    {
+        "title": "Awd (w)",
+        "start": "2024-04-11T09:50:00",
+        "end": "2024-04-11T11:25:00",
+        "description": "Analiza i wizualizacja danych\nRodzaj zajęć: Wykład\nNr zajęć: 5/7\nProwadzący: dr Jarosław Olejniczak",
+        "allDay": false,
+        "color": "#479FB2"
+    },
+    {
+        "title": "PWSI (P)",
+        "start": "2024-05-27T13:30:00",
+        "end": "2024-05-27T15:05:00",
+        "description": "Projektowanie i wdrażanie systemów informatycznych\nRodzaj zajęć: Projekt\nNr zajęć: 13/15\nProwadzący: mgr inż. Tomasz Gumowski",
+        "allDay": false,
+        "color": "#4779B2"
+    }
+]
