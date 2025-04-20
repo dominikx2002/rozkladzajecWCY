@@ -30,14 +30,14 @@ section.calendars h1 {
 section.calendars .footer {
     display: flex;
     justify-content: center;
-    gap: 16.9vw;
+    gap: 20vw;
     margin-top: 0;
     text-transform: uppercase;
 }
 
 section.calendars .footer span {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: calc(97vw / var(--letters));
+    font-size: calc(60vw / var(--letters));
     color: white;
     font-weight: 600;
     text-align: center;
