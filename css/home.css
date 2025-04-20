@@ -55,6 +55,7 @@ h3 p {
 }
 
 .watcalendar-animation span {
+    will-change: transform, opacity;
     display: inline-block;
     opacity: 0;
     transform: translateY(60px);
@@ -63,24 +64,28 @@ h3 p {
 }
 
 .watcalendar-animation.visible span[data-group="1"] {
+    will-change: transform, opacity;
     transition-delay: 0s;
     opacity: 1;
     transform: translateY(0);
 }
 
 .watcalendar-animation.visible span[data-group="2"] {
+    will-change: transform, opacity;
     transition-delay: 0.35s;
     opacity: 1;
     transform: translateY(0);
 }
 
 .watcalendar-animation.visible span[data-group="3"] {
+    will-change: transform, opacity;
     transition-delay: 0.5s;
     opacity: 1;
     transform: translateY(0);
 }
 
 .watcalendar-animation span.space {
+    will-change: transform, opacity;
     display: inline-block;
     width: 0.6em;
     opacity: 1 !important;
@@ -89,16 +94,19 @@ h3 p {
 }
 
 .wave-text span {
+    will-change: transform, opacity;
     display: inline-block;
     transition: transform 0.4s cubic-bezier(0.25, 1, 0.5, 1);
     will-change: transform;
 }
 
 .wave-text span:hover {
+    will-change: transform, opacity;
     transform: translateY(-12px) translateX(var(--randomX)) rotate(var(--randomR));
 }
 
 .wave-text span.space {
+    will-change: transform, opacity;
     display: inline;
     transform: none !important;
     transition: none !important;
@@ -119,6 +127,7 @@ h3 p {
 }
 
 .wave-text span {
+    will-change: transform, opacity;
     opacity: 0;
     filter: blur(8px);
     transform: translateY(40px);
@@ -127,12 +136,14 @@ h3 p {
 }
 
 .wave-text span.visible {
+    will-change: transform, opacity;
     opacity: 1;
     filter: blur(0);
     transform: translateY(0);
 }
 
 .fade p {
+    will-change: transform, opacity;
     opacity: 0;
     transform: translateY(40px);
     transition: opacity 1s ease, transform 1s ease;
@@ -141,6 +152,7 @@ h3 p {
 }
 
 .fade.visible p {
+    will-change: transform, opacity;
     opacity: 1;
     transform: translateY(0);
 }
@@ -149,38 +161,28 @@ h3 p {
     position: relative;
 }
 
-.wave1 {
-    position: absolute;
-    bottom: 0;
-    width: 110vw;
-    left: -50px;
-    height: auto;
-    z-index: -1;
-    filter: blur(30px);
-    mask-image: linear-gradient(to bottom, transparent 0%, black 70%, black 100%);
-    -webkit-mask-image: linear-gradient(to bottom, transparent 0%, black 70%, black 100%);
-    pointer-events: none;
-}
-
 .wave2 {
+    will-change: transform, opacity;
     position: absolute;
     margin: 0;
     padding: 0;
-    bottom: 0;
+    bottom: -70px;
     left: -20px;
     width: 110vw;
-    height: 350px;
-    z-index: -2;
+    height: 400px;
+    z-index: -3;
     overflow: hidden;
-    filter: blur(10px);
+    filter: blur(15px);
     pointer-events: none;
 }
 
 .parallax > use {
+    will-change: transform, opacity;
     animation: move-forever 10s cubic-bezier(0.55, 0.5, 0.45, 0.5)infinite;
 }
 
 .parallax1>use:nth-child(1) {
+    will-change: transform, opacity;
     animation-delay: -10s;
     animation-duration: 10s;
 }
