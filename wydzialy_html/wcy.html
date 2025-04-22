@@ -6,26 +6,31 @@
     <meta charset="utf-8">
     <title>WAT - plany zajęć</title>
 
-    <style>
-        html, body {
-            height: 100%;
-            margin: 0;
-            padding: 0;
-            background-image: url('/rozkladzajecWCY/data/background.jpg');
-            background-size: cover;
-            background-repeat: no-repeat;
-            background-position: center;
-        }
-    </style>
-
     <!-- calendar CSS -->
     <link rel="stylesheet" href="/rozkladzajecWCY/css/calendar_WCY.css">
 
     <!-- FullCalendar JS -->
     <script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.15/index.global.min.js"></script>
+
+    <!-- loader -->
+    <script src="/rozkladzajecWCY/js/loader.js"></script>
+
+    <!-- raindrop -->
+    <script src="/rozkladzajecWCY/js/rain.js"></script>
 </head>
 
 <body>
+    <!-- zaladowanie strony -->
+    <div class="loader">
+        <div class="reveal-strip" style="--delay: 0.6s"></div>
+        <div class="reveal-strip" style="--delay: 0.3s"></div>
+        <div class="reveal-strip" style="--delay: 0s"></div>
+        <div class="reveal-strip" style="--delay: 0.3s"></div>
+        <div class="reveal-strip" style="--delay: 0.6s"></div>
+    </div>
+
+    <!-- animacja backgroundu - rain drop -->
+    <div class="rain-container" id="rain"></div>
 
     <h1>Kalendarz</h1>
 

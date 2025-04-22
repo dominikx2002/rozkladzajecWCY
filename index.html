@@ -54,6 +54,9 @@
     <!-- topbar -->
     <script src="/rozkladzajecWCY/js/topbar.js"></script>
 
+    <!-- page-transition1 -->
+    <script src="/rozkladzajecWCY/js/page-transition1.js"></script>
+
 </head>
 
 <body>
@@ -63,9 +66,9 @@
             <img src="/rozkladzajecWCY/data/topbar/godlo_wat.png" alt="logo-WAT">
             <span id="decrypt" class="decrypt-text" data-original="WAT" data-target="Wojskowa Akademia Techniczna">WAT</span>
         </div>
-        <a href="#home">HOME</a>
-        <a href="#how-it-works">HOW IT WORKS</a>
-        <a href="#calendars">CALENDARS</a>
+        <a href="#home" data-offset="-50">HOME</a>
+        <a href="#how-it-works1" data-offset="150">HOW IT WORKS</a>
+        <a href="#calendars" data-offset="160">CALENDARS</a>
         <a href="#contact">CONTACT</a>
     </nav>
 
@@ -87,7 +90,7 @@
     <div data-scroll-container>
 
         <!-- HOME -->
-        <section class="home">
+        <section class="home" id="home">
             <article>
                 <h1 class="watcalendar-animation" style="--letters: 8.5;">WAT CALENDAR</h1>
                 <h2 class="wave-text">Class schedules scraper<br>& converter that allow <span class="Sync">Sync</span><br>with your <span class="phone">phone</span>'s calendar</h2>
@@ -112,7 +115,7 @@
         <!-- HOW IT WORKS -->
         <section class="how-it-works1" id="how-it-works1">
             <img class="top_wave" src="/rozkladzajecWCY/data/waves/top_wave.png"/>
-            <h1 style="--letters: 5.7;">How it Works</h1>
+            <h1 style="--letters: 6.6;">How it Works</h1>
             <div class="footer" style="--letters: 70;">
                 <span>AT HAND</span>
                 <span>IPHONE</span>
@@ -127,11 +130,11 @@
         </section>
         
         <!-- CALENDARS -->
-        <section class="calendars">
+        <section class="calendars" id="calendars" >
             <img class="bottom_wave" src="/rozkladzajecWCY/data/waves/bottom_wave.png"/>         
             <div class="anchor">
                 <div class="calendars-header">
-                    <h1 style="--letters: 4.5;">Calendars</h1>
+                    <h1 style="--letters: 5;">Calendars</h1>
                     <div class="footer" style="--letters: 70;">
                         <span>SELECT</span>
                         <span>YOUR</span>
@@ -142,7 +145,7 @@
                 </div>
             </div>
             <div class="faculties">
-                <a href="/rozkladzajecWCY/wydzialy_html/wlo.html" class="verse">
+                <a href="/rozkladzajecWCY/wydzialy_html/wlo.html#calendars" class="verse">
                     <div class="number">(01)</div>
                     <div class="faculty_short">WLO</div>
                     <div class="faculty">Wydział bezpieczeństwa, Logistyki i Zarządzania</div>
@@ -150,7 +153,7 @@
                         <img src="/rozkladzajecWCY/data/calendars/faculties/logo/wlo_logo.png" alt="WLO">
                     </div>
                 </a>
-                <a href="/rozkladzajecWCY/wydzialy_html/wcy.html" class="verse">
+                <a href="/rozkladzajecWCY/wydzialy_html/wcy.html#calendars" class="verse">
                     <div class="number">(02)</div>
                     <div class="faculty_short">WCY</div>
                     <div class="faculty">Wydział Cybernetyki</div>
@@ -158,7 +161,7 @@
                         <img src="/rozkladzajecWCY/data/calendars/faculties/logo/wcy_logo.png" alt="WCY">
                     </div>
                 </a>
-                <a href="/rozkladzajecWCY/wydzialy_html/wel.html" class="verse">
+                <a href="/rozkladzajecWCY/wydzialy_html/wel.html#calendars" class="verse">
                     <div class="number">(03)</div>
                     <div class="faculty_short">WEL</div>
                     <div class="faculty">Wydział Elektroniki</div>
@@ -166,7 +169,7 @@
                         <img src="/rozkladzajecWCY/data/calendars/faculties/logo/wel_logo.png" alt="WEL">
                     </div>
                 </a>
-                <a href="/rozkladzajecWCY/wydzialy_html/wig.html" class="verse">
+                <a href="/rozkladzajecWCY/wydzialy_html/wig.html#calendars" class="verse">
                     <div class="number">(04)</div>
                     <div class="faculty_short">WIG</div>
                     <div class="faculty">Wydział Inżynierii Lądowej i Geodezji</div>
@@ -174,7 +177,7 @@
                         <img src="/rozkladzajecWCY/data/calendars/faculties/logo/wig_logo.png" alt="WIG">
                     </div>
                 </a>
-                <a href="/rozkladzajecWCY/wydzialy_html/wim.html" class="verse">
+                <a href="/rozkladzajecWCY/wydzialy_html/wim.html#calendars" class="verse">
                     <div class="number">(05)</div>
                     <div class="faculty_short">WIM</div>
                     <div class="faculty">Wydział Inżynierii Mechanicznej</div>
@@ -182,7 +185,7 @@
                         <img src="/rozkladzajecWCY/data/calendars/faculties/logo/wim_logo.png" alt="WIM">
                     </div>
                 </a>
-                <a href="/rozkladzajecWCY/wydzialy_html/wml.html" class="verse">
+                <a href="/rozkladzajecWCY/wydzialy_html/wml.html#calendars" class="verse">
                     <div class="number">(06)</div>
                     <div class="faculty_short">WML</div>
                     <div class="faculty">Wydział Mechatroniki, Uzbrojenia i Lotnictwa</div>
@@ -190,7 +193,7 @@
                         <img src="/rozkladzajecWCY/data/calendars/faculties/logo/wml_logo.png" alt="WML">
                     </div>
                 </a>
-                <a href="/rozkladzajecWCY/wydzialy_html/wtc.html" class="verse">
+                <a href="/rozkladzajecWCY/wydzialy_html/wtc.html#calendars" class="verse">
                     <div class="number">(07)</div>
                     <div class="faculty_short">WTC</div>
                     <div class="faculty">Wydział Nowych Technologii i Chemii</div>
@@ -198,7 +201,7 @@
                         <img src="/rozkladzajecWCY/data/calendars/faculties/logo/wtc_logo.png" alt="WTC">
                     </div>
                 </a>
-                <a href="/rozkladzajecWCY/wydzialy_html/ioe.html" class="verse">
+                <a href="/rozkladzajecWCY/wydzialy_html/ioe.html#calendars" class="verse">
                     <div class="number">(08)</div>
                     <div class="faculty_short">IOE</div>
                     <div class="faculty">Instytut Optoelektroniki</div>
@@ -210,7 +213,7 @@
         </section>
 
         <!-- CONTACT -->
-        <section class="contact">
+        <section class="contact" id="contact">
             <h1 style="--letters: 3.7;">Contact</h1>
             <div class="footer">
                 <span>E-MAIL</span>

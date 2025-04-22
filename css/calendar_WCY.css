@@ -1,3 +1,86 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-color: black;
+}
+
+.loader {
+    position: fixed;
+    inset: 0;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    height: 100vh;
+    z-index: 9999;
+    pointer-events: none;
+}
+
+.loader.hidden {
+    opacity: 0;
+    transition: opacity 0.5s ease;
+}
+
+.reveal-strip {
+    height: 100vh;
+    background-color: white;
+    transform: translateY(0%);
+    animation: slideUp 2s cubic-bezier(0.8, 0, 0.35, 1) forwards;
+    animation-delay: var(--delay);
+}
+
+@keyframes slideUp {
+    to {
+        transform: translateY(-100%);
+    }
+}
+
+.page-content.hidden {
+    visibility: hidden;
+}
+
+.page-content.show {
+    visibility: visible;
+}
+
+.rain-container {
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    z-index: 0;
+}
+
+.rain-strip {
+    position: absolute;
+    top: 0;
+    width: 1.5px;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.15);
+    overflow: hidden;
+    z-index: 0;
+}
+
+.rain-strip .highlight {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 800px; 
+    background: linear-gradient(to bottom, rgba(255,255,255,0), rgba(255,255,255,0.1), rgba(255,255,255,0.2), rgba(255,255,255,0.4), rgba(255,255,255,0.4), rgba(255,255,255,0.2), rgba(255,255,255,0.1), rgba(255,255,255,0.05), rgba(255,255,255,0) );
+    animation: glowDrop 6s linear infinite;
+    filter: blur(1px);
+    opacity: 1;
+    box-shadow: 0 0 12px rgba(255,255,255,0.2);
+}
+
+@keyframes glowDrop {
+    0% {
+        transform: translateY(-800px);
+    }
+
+    100% {
+        transform: translateY(400vh); 
+    }
+}
+
 #calendar {
     max-width: 1100px;
     margin: 40px auto;
@@ -13,7 +96,7 @@
     font-family: Arial, Helvetica, sans-serif;
     margin-bottom: 20px; 
     text-transform: uppercase;
-    background-color: white;
+    background-color: black;
     padding: 15px 0;
 }
 
@@ -46,7 +129,7 @@ select, button {
 }
 
 .fc {
-    background: rgba(43, 43, 43, 0.85);
+    background: transparent, blur(20px);;
     border-radius: 12px;
     padding: 10px;
     backdrop-filter: blur(10px);
